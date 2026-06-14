@@ -1,31 +1,1463 @@
-# Transcript — B2B Content Growth: The Real Strategy for Today
+# Transcript — 0jDEfShf3mc
 Video ID: 0jDEfShf3mc
 URL: https://youtube.com/watch?v=0jDEfShf3mc
-Channel: TheReederCo
-Published: 2025-10-21
-Collected: PENDING
-Expert: Devin Reed
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~10304
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+Hi, I'm Lao. >> Hey, I'm Stefan. And you're listening to Attributed, a podcast library by Dream Data. >> The purpose of it is to store and share all the knowledge that we have gathered across Dream Data employees through our LinkedIn lives, podcasts, and webinars. >> The typical topics you'll find here can be stuff like marketing, >> sales, >> B2B ads, >> operations, social selling, maybe. Good morning and good afternoon to everybody joining us live or listening on the podcast. Thank you so much for joining us. And today I'm very very excited to be joined by Devon Reed on this LinkedIn live. I've seen Devon so many places on LinkedIn and on pictures and lives, but have never actually spoken, which is the crazy thing. And I think you might have a similar thing with Deon because seems like everybody knows his content, the way he works, the way the reader is getting up to it. I'm so excited. Devin, welcome to the call today. >> Hey Laura, thanks for having me. So for today's call, if there are people who do not know how your path got to B2B content, can you give us a quick intro? >> Yeah, absolutely. So I'll start uh I'll start just the career journey. If we if we want to go, you know, prior life, we can do that later. Um yeah, so I started my career in sales. So I was a SAS sales rep for about six years. Uh I was at small companies of 12 people um all the way to companies about to go public like Eventbrite and ended up at Gong in 2017 as the second sales rep on their 40 employees globally. Um, I was on the sales team for about two years there until we were about 20 million ARR and then I jumped over to marketing where I became the head of content and I was there for 3 years from about 20 to 220 million ARR uh in charge of all things content in terms of uh blog thought leadership social webinars and a whole bunch of stuff in between. Then I jumped over to Clary which is a forecasting tool. Became the um head of content and customer marketing there. And then a year and a half ago now I moved my family from the Bay Area to San Diego, California. Turned in my Clary laptop and uh went full-time with the reader where I basically helped B2B SAS companies do what I helped Gong and Clary with which is build a content system uh that helps grow their pipeline brand and following. >> Fantastic. And I love the career journey from sales and not just into marketing but content marketing. You don't hear that a lot. What being in Kong and Clary taught you about proper B2B content marketing? >> I would say I mean I definitely learned a lot there. I think coming from sales was what actually helped me the most because it was there's just such a high level of accountability and it's a little bit more binary that I like which is like you like you either close the deal or you don't. You either hit quota or you don't or you your team hits the goal or you don't. Whereas in marketing and this is no shot at marketers if anyone's getting offended at 9:00 a.m. Pacific, but like there's a lot of ways where we can say like oh we're not driving revenue but we're doing other things or oh we're not helping grow the business, we're doing other things. And in my opinion, you're either growing the business or you're costing the business. Now, I know there's like how do you measure design? I'm not talking about like the measuring the impact of, but for me in a content standpoint, it was like look, how do we do sales at scale? How do we publish something digitally either in an event format or a blog or anything that creates demand, gets people to come to us? That was kind of my big thing. I'm tired of chasing people. That was my thing in sales. Like, you're always chasing people, trying to get them to do stuff. marketing. I was like, how can we use, you know, content and persuasive marketing tactics to get people to be attracted to us and to come to us and say, "Hey, we know you, we like you, and we want to do business with you." >> Interesting. So, kind of creating a FOMO effect for people to actually want to book a demo and to start talking with Gong or Clary, right? >> Yeah. It's doable. >> Insane. So, when you started reader now, what and why did you start? >> Yeah. So, the reader is a pun on my name if folks haven't gotten that. Um, I'm a dad of two, so the dad puns are heavy. >> That's good. >> Um, it actually started about seven or eight years ago when I was at Eventbrite. I was a sales rep. Um, had been there for about a year and a half, had a lot of success, but wanted to get out of sales. >> And so, there was nothing in sales enablement. uh sales leadership wasn't the path yet and so I had moved uh tried to move into marketing. One of the content marketing managers had quit. Long story short, I didn't end up getting the job. I went all the way to the final interview and instead of going with the internal sales rep, surprise surprise, they went with an external marketer with 10 years of experience. And it really, you know, really bummed me out. But I had to have an honest conversation with myself and think, hey, if if my current company isn't going to take that risk with me, an external one is Definitely not right. Like Laura, if you you know, if a marketing leader who's never heard of Devon Reed sees sales rep for six years and they want to be a content marketer, they're going to go they're going to go in the trash like that an interview. So to get that experience, I started the reader, which was really my way of just getting marketing experience. So my thought was, hey, I'm going to sell, you know, software Monday through Friday days and a lot of nights as we know it is. And then nights and weekends, I did a lot of writing uh for freelance. So blogs for people, sales cadences, anything I could get my hands on. Um, just to build up that experience. And so this was during the two years I was at Gong as a sales rep. And so when the opportunity came to join the marketing team, you know, when I went to Udy, the the then CMO, I had good sales record at Gong. I had done some sal some marketing projects at Gong. Had, you know, done some some some freelancing internally, if you will. And I had this external thing I was working on to show Udy like, hey, I'm really about this. Like, I'm really committed. And I'm really glad I did because one of the things that Udy had said during that um very abnormal interview process, which is him getting coffee with me and walking around San Francisco until he was uh either fully fully in or fully out on Deon Reed, is he said, "Hey, I want to make sure that you're joining marketing, not escaping sales." And I thought that was a really smart way to think about it and I have kind of taken that as a leader in myself of just understanding decision and how people are thinking like are you trying to leave something or or commit to something new and that's not always the same motivator and so yeah so that's how I started it and it was just a side thing until it became uh you know was just freelance writing. I kind of didn't do much of it while I was learning marketing had gone because I was so busy and didn't have much time or energy to dedicate to it. But as I kind of got my uh footing underneath me, it had just kind of turned into very light advising. Uh then I launched a newsletter. Then I was selling newsletter ads. So it kind of just kind of very slowly became from a side almost like an afterthought to a side hustle to like, oh wow, this is actually a full business >> if I dedicate 40 hours a week to it. >> Nice. It's a thoughtprovoking thing to think, are you running from something or you are choosing to go to marketing? That's I like that. I'll have to work on that myself as well. >> But when you're talking about content right now, is it in most of the organizations an overvalued or undervalued function? >> That's a really good question. I would say I have a skewed like if you look at me as market research like who do I talk to? I have a skewed view because people are coming to talk to me because they probably believe in content, right? So I'm I'm mindful of that. So I would say generally though I still think it's undervalued >> but I think it's undervalued because it's still misunderstood just as marketing is misunderstood. So if you think in the SAS world, right, like how many founders are technical? >> Most, right? And so you can't knock them for being like, wait, you don't understand sales and marketing and you don't love it and fully get the value of brand marketing long-term investments. Like you can't be surprised by that, right? But so it simply it simply is. And so a lot of times technical founders or technical, you know, maybe technical leaning even seuite teams might not understand, hey, why do we have to do this long play? can't we just hire a bunch of SDRs or do a bunch of Google ads like can't that work? Um, which it does work until it doesn't and then you have to have a backup plan, right? So, I would say it's still undervalued, very misunderstood. And even a lot of times the companies that believe in content and marketing are still just figuring out how to do it well and how to do it differently from their competitors so that they're actually getting the return on their investment that they're hoping for. >> Yeah. Do you think that type of undervalue and willingness to go more to the like outbound links and let's just get people to love our product instead of getting them to feel the FOMO not having it is that due to the lack of measurement of content? >> Oh god. Yes. Huge. Huge. If there there's no I mean I mean I know this is like a this is going to sound like a big plug but like until your company until you know Jundo like it's hard to see linearly. I I used to have to tell people you have to take a small leap of faith. >> Like when you're making this investment in LinkedIn, for example, it's a great one because yes, if you're on the paid side of LinkedIn, you can see, hey, I put $100,000 in on this date. We went to these ads at these people and then I got, you know, this amount of pipeline or not, right? At the end, there's a linear thing. So, it feels like a safe bet because I can see it. >> Yeah. >> And I can understand. Now, the challenge is when you go like to organic, like, hey, we're going to have our CEO post on LinkedIn, you know, minus boosts and LinkedIn ads and all this stuff, like just posting. Then you get the question like, well, how do we know that Laura, our buyer, saw this post and bought later, right? There's this big, you know, black box or uh what was it? Uh, Dark Social happening. >> Yeah. And so it created this divide of companies who are not only able to do this but are willing to take that risk and say hey I know that this is the right play because I as a consumer also get information from podcasts from LinkedIn from word of mouth and content is all three of those things or sparks word of mouth. So I think yeah the long answer to a short question is the inability to see linearly what is the impact of content has been probably the biggest barrier to investing in it even more than not understanding it because even if you don't understand how something works seeing numbers on a screen will help you at least go oh well the money I see dollar signs so that's fine if I don't understand how it works >> but if you are not able to connect it to the actual dollar because it it can be very very difficult what kind of other business results do your clients usually look after when kicking off the content and measuring bring it further. >> So, I actually love what AI search has done to our brains lately because now everyone's saying, "Well, our traffic's down, so we need visibility, visibility, visibility, right? That's what everyone's talking about. Like, how do we show up there?" Which is really the same thing for content. Like, you need to be seen. Everyone says they have an awareness problem, right? A lot of people have, you know, a lot of companies have an awareness problem. Even if you're a big company, you might have an awareness problem in a certain vertical or or or uh geographic location. And so, yeah, I think it's it's great to start to say, okay, yeah, we want revenue. We want pipeline sourced and influenced, but those are lagging indicators. >> Our early indicators, I say, are views. If you're on LinkedIn, it's views. Are people seeing the content on your website? Like, what web traffic has a place. I know it kind of has been, you know, pinged around of like, is it is it really worth uh monitoring it? How much? But another big one is very few B2B SAS companies have an audience growth metric. And so I always say, yeah, like your LinkedIn company page is important. I think getting your CEO or your thought leaders active and tracking how many followers they have, that's a great measurement. How many views to my initial point are you getting? Like that's literally visibility, like showing up on the feed where people log in every single day that are in your buyer group. Um, so I like to tell folks views, followers, and then again web traffic with some I'm kind of doing the handshake thing for listeners where I'm like with some caveat there. >> Got it. Is there a specific trap that companies fall into when trying to measure it? Like that usually don't look at that too much. I think the biggest trap that I see or or maybe just a again a misconception is like people will say, "Hey, we're investing $10,000 a month into SEO and we're getting a lot of traffic, but we're not getting pipeline. We're not getting meetings out of it." And a lot of times it's because the page has been built for views, whether it's an AI overviews or actually being clicked and seen on your website, but they're not actually optimized to either one convert, I'll just say convert them. It's actually not optimized to convert. Now, when I say convert, people think demo, right? And I I've done a lot of content audits in the last 18 months. It's a big part of my offer. And I will say the number one mistake that I see from a conversion standpoint is the only CTA is a demo. Talk to us. Talk to us. Talk to us. It's like, okay, well, this is a listical about the 10 best attribution tools, you know? So, like maybe I'm ready for a demo, but maybe I'm not. >> Yeah. So, if I'm not ready, how come there's not an option to convert them to a follower or convert them to an email subscriber or convert them to a podcast listener? So, there's so many ways you can convert, but we've gotten so obsessed with pipeline that we just jam the low the highest intent, lowest funnel option into all of our content, get a lot of views from a lot of people, and then be like, I don't know. Why aren't they why don't they want to talk to us in sales? It's like, yeah, they're not nearly ready. They probably just figured out you exist 30 seconds ago. You gave him the information and now you're like, you know, jumping the gun on a demo request. >> Give me 30 minutes of your time. Now, >> yeah, you gave me 30 seconds. How about 30 minutes and $30,000? You know, >> exactly on the first call. Let's get a little bit practical. So, when you start working with your clients, how do you advise about the content that drives growth? So, we want the revenue, we want the demo booking. So, what type of content do you build into an offering or suggest companies to start with and finish with in order to be successful? >> Okay, I'm a tangent guy as you probably already noticed. So, I'm going to go on a tangent and then I might miss the actual question you're asking. So, forgive me, but it will frame it. It will frame the answer. So when I was at Gong, I kind of had this philosophy which I won't curse but there's a curse word in it which is like I understood having come from sales that no one gives a shoot about your product. >> Yep. >> Not yet. Right. Like how many times have you cold called someone they're like you know what Deon thank you so much. I was I was just thinking how I need a call recording software and here you are. No emails even you have to persuade the heck out of them right like it's so rare. And so when I was in marketing, same concept like no one cares about our product, so I'm not going to talk about it. And so for a full year at Gong, we didn't talk about any of our product. We have a product marketing team. I was in the content marketing and demand team to be clear, but I didn't talk about product for a whole year. I wanted to build I wanted to to earn attention and to build trust with this audience and then introduce how they can buy from us later. Um, I think about a year ago the B2B marketing institute came out with the 955 rule, which essentially captures what I just said, which is of your entire addressable market, of all the people you could sell to, only about 5% are quote in market right now or have intent to research or intent to compare or intent to buy. 95% are not in market. They did not wake up hoping to get a cold call from Devon Reed, right? And they are not looking to buy, but they do have intent to learn, right? to learn how to do their job better. And so when I'm creating content, I'm I I explain this to folks and say, "Hey, you're probably overinvesting in the 5%." >> Ads uh you should have a G, you know, G2 crowd page where you don't you have, you know, so people can research you. Um you should have high intent SEO pages, right? You should capture the existing demand that's there. But that's the same thing kind of like STR like how, you know, how much of that can you really manage, right? How much can you really get? So, you need to focus on the 95. And so, that's why I've built the 955 content system, which is what I built at Gong and Clary, which is playing the long game because ultimately what we want to do is to get people to know us, like us, follow us, trust us. So, when they do enter the market, whether it be tomorrow or 18 months from now, they think of us >> and they think of us and they call us first. So now what you've done is you've made the consideration list, but you've also leading the consideration list. So they come talk to you and then they compare all your competitors. You know, if they go talk to take other calls, they're now comparing all of them to you. You're in the driver's seat. >> That's very scary because you leave them alone and you don't book the meeting on the first visit on your website and then you're going to have to like lean back and wait for them to come back and feel that you're leading. How do you feel about that? your customers must be terrified. >> Sales people go, "Why would I wait? They're here now. Let me pounce." And I'm like, "Yeah, but you're gonna spend a lot of time pouncing on people that uh well, no one really wants to be pounced on." Guess the analogy breaks down, but you know, they're not ready yet. >> So, the thing is like, hey, how do we bring them into our orbit? How do we say, "Okay, great. You landed on a page, you came to an event. How do we keep this relationship going?" And that's why a lot of the best content marketing is programmatic or series-based, right? a podcast every week, a newsletter every week, LinkedIn post three times a week, whatever it is. So, you're getting opportunities to kind of bring them closer and keep them in your orbit. And then, of course, you still will share your product story, you'll still share company milestones. You'll show that your company uh is credible and share customer proof, but you're kind of putting it out there and then allowing them to come back to you, right? So, it's kind of a pull method versus a push method. And it does take it does take patience. What type of signals would you start looking for that they're now they're ready enough? >> Yeah. And so, and this is something we did at at Gong really well, which was like, hey, we're pumping out a lot of content. We're getting nothing like the signal uh technology that exists today that we we didn't have it nor was it around, but we looked for, and I still think it holds true, is kind of thinking of it as like how how much activity in a time period. So, has Laura engaged with one piece of content once a year for 3 years? We need to get her closer, right? She's probably not ready. She's familiar and you could take your shot, but probably not. Or did Laura come to uh a live event, subscribe to the newsletter, and come to three product pages in a week? >> Now, I'd say she might be worth, you know, taking out. Now, of course, it depends on what those product pages are. What was the context of that event, right? Was it very thought leadership focused? Was it product focused? But my point too is you could say you could reach out to Lauren and say, "Hey, we have um without being creepy, you you you can recognize where she's at and how familiar she is and then say,"Hey, we have a bi-weekly product webinar where leaders like you solve one, two, three, it's 20 minutes. Would you like to take a look?" >> That sounds like a very close collaboration with sales as well. How much do you see content marketers collaborating with sales as well? Both for signals, but for outreach messaging, too. >> Not enough, unfortunately. I I call it content island. Uh it's not a tropical place you want to be. It's not Hawaii. It's this lonely deserted island uh often off the coast of marketing where content kind of is just put into a content factory, right? They're expected just to be reactive. If we need a case study, go make it. if we need a new deck or a new slide or a new this and they're very reactive and so they're not really collaborating with sales so much as unfortunately become kind of as I called it task rabbits if you're familiar with this uh service in the states so it's like I want to turn teams around and say we're not a task rabbit we're actually um you know we have our own strategy and yes there's push and pull internally between sales right there there has to be I don't like the word serving or servitude because that doesn't make us equal partners but we should be supporting ing sales with maybe 20% of our bandwidth, right? Hey, we have to carve out 20%. When sales needs something, we jump on it because we are here to make sales happen. >> Yep. >> But you also have to have a strategy that you can set and defend to explain, hey, you know, we're on your fifth ask this month. I'm actually going to say no this time because here's our plan, here's our strategy, and here's the direction we're going as a marketing team. Right. >> Yeah. Got it. And if we get into more back to the marketing realm, >> there used to be a thought that we have to pump as much content as possible. SEO and everybody has to find us. The more we write, the better it is. >> Seems like it's shifting a bit going from kind of publishing more to publishing what matters. What is your take on that? >> I agree that that's happening. Uh the the pendulum is swinging back uh in the right direction, I think. I think the reason why is it took a lot of dollars and a lot of time of saying, "Hey, we've been doing more for a while and that's not working." And so what the the thought was like, "Hey, we're creating, you know, some content, we're getting some results. Let's create more content, we'll get more results." Well, now we're seeing that that's not the case, right? More does not, you know, more output doesn't always equal more outcomes. >> Yeah. And so the other thing on top of it is that budgets have been decreased and marketing teams have been downsized. So now more becomes even less attainable. It's even harder to do. So we have to think, okay, if we wanted to actually market as smart as possible and instead of saying we'll publish 100 things this quarter, we're going to publish 10. >> Probably more, but you get the idea. What would those 10 bets be? what's the 10 smartest, most impactful things we could do for the short term and the long term of the company and the pipeline goals we have. So, I think it's forcing that conversation and uh and a bit of um coming to Jesus, for lack of a better phrase, forgive the uh religious undertone or overtone there, but um yeah, I think people are just kind of having to face reality that more is not working. >> Yeah. >> And so, we have to find a different better way. And of course, AI has made this only more tempting. So, there's still companies leaning in heavy into AI can just do a bunch more. And there's people realizing, hey, if we really want to be different, we have to come up with our own point of view and we can't just trust Chatbt to put out a whole bunch of marketing collateral and expect that to to drive the results we need. >> When you were working at Gong and Clary, were you always focused on the business results or was there a specific time where it shifted actually and come with some examples what has happened? Yeah. So I think one of the strengths of coming from sales to marketing was having sold a lot is you know the best deals are at the sea suite right. So you can get away now if you have a small ACV you can get away with a senior manager director right buying5 to $10,000 of software but if you're selling $50,000 $100,000 or more to a VP of marketing you have to get to that seuite because the the CMO is not going to cut a check for 100 grand without knowing why. So, what I had learned in sales was you need to get to the CEO slide. The CEO slide, we've all seen it. It's the thing at the beginning of the year, maybe quarterly, hopefully quarterly as well. The CEO comes on stage or on on Zoom and says, "Hey, here's the three or five company initiatives for the year, right? It's usually like double revenue, good luck." Uh, you know, launch a category, win the category, launch an AMIA, right? Launch a new product, like these really, really big things. And what I learned was this isn't just what the CMO or my executive buyer cares about. It's what the CEO talks about. It's what the board is thinking about. So if you can tap into those level of priorities, you're going to get budget and you're going to get some leeway to go make it happen. >> So what I would do is when I have an idea for a program or something that I want to launch, I would go back to the CEO slide and say, "What can I build? What can I do to help this company attain that goal?" An example would be at Gong. Uh when I first joined the marketing team, I pitched a podcast to Udy. It was quickly shut down. And this was before Joe Rogan was like big. This was like Joe Rogan was like the only like podcaster anyone in America could name probably. It was like why would you do a podcast? But I had seen some of the signs. I said I think we should do a podcast. He says no. I later learned he didn't listen to podcasts. So he was like never going to have it. And so two years later we launched the revenue intelligence category. At the same time, I know we need to win the seauite. We need to we need to go up market and we need to get into the seauite. So I start to think where I look at our current content strategy and I look at where we need to go and I say we need a channel that is dedicated to this audience with this purpose >> and I think a podcast is actually the best way because this was pre- pandemic where people were on trains, planes, automobiles a lot listening to content and I'd even talked to our CRO and said hey when you have a big work problem but you're too embarrassed to ask someone internally what do you do? He said, "I pick up the phone and I call an executive friend of mine or someone I trust." So, I launched an interview or I pitched rather an interviewbased podcast series where once a week we would go talk to other executives on how they are growing their companies using revenue intelligence which is basically data instead of opinions. We called pitched it the revenue intelligence podcast because sometimes you just need to be on the nose. Uh, it was Reveal the Revenue Intelligence podcast and I went to Udy and I pitched that, but I pitched it with the beginning first. Hey, you've been telling me we want to win this category. You've been telling me that we want to get executives. Ryan told me here's the content he listens to. Now is the time to launch a podcast. And that time he just said, "Yeah, go for it." Right away. And so I know I give you a big story. I promise tangents and stories uh to begin their our conversation. But that's how I think of every quarterly planning, every strategy I build is what is the board and the CMO thinking about talking about and that's what we need to latch on to because content does need to grow the business. >> And when you work with your clients, how do they figure out what's going to be on the CEO slide? Where do we want to go with our content so we can reach that sea level with the content that we're writing? So, the first thing is is even uh VPs of marketing CMOs get this then like they may not call it the CEO slide, but like they get it and they're like, "Yeah, they can pull it up quickly." >> Another thing is if I bring it up and someone's like, "I don't even know what that is. I haven't seen it." Like, okay, then we are not at the right level to even make this like we can't move forward without this piece of information. Otherwise, we're on content island. We're just building things that we think would be good and maybe we will get engagement, maybe we'll go viral, maybe we'll get lucky and build a great newsletter, >> but it won't be directly uh connected to the goals and the direction that the company is trying to go to. And I don't like that. So, um I bring it up. One of the examples to get more tactical was a recent company said one of their top three goals was is called Get Loud, which is like they're in a very crowded space. Um it's in CX and AI. So, it's like this booming industry, booming area, but there's a lot of competitors. Everyone sounds the same. So get loud was like how do we win share voice and become the primary brand. And so a big part of getting loud is just showing up. So it's like the first thought is like what are we doing today to be loud? Like how loud are we today? Are we two out of 10? Are we five out of 10? Are we shouting but no one's listening? And so once you kind of get an understanding of oh we're actually at like three or four out of 10. We're not really producing that much content. We're not really doing anything different. We're pretty quiet. Okay great. So how do we get loud? How do we want to show up? where do we think we should show up and what concepts do we think and stories should we bring so that we're not just loud shouting at people but we're loud talking with our audience and so that's when we said okay great everyone in our to your to answer your your your question Laures where do we build well think of where is your audience physically and digitally all day every day I'm going to guess when you woke up either on your phone or on your laptop you probably opened your email you possibly went to LinkedIn and you're definitely sitting at a really >> some sort of a desk, right? So, and if you're in sales or marketing, you probably open to your CRM. Well, I can't build in Salesforce. Salesforce won't let me content market there yet. So, I can't do that. But I can build newsletter that you look forward to and anticipate because I know you're going to be there. And I can build uh content on LinkedIn because I know that you're going to go check that out to get information and news. And then on your desk, you know, if you have some cool if you have some cool, can you see if you have cool >> That's funny. >> Yeah. Yeah. You can get it on people's desk. I'm holding up the uh benchmark reports which is a very smart move. It's thought leadership that's digital and you can send it to people and get it on their desk. Right? So this is you know you can solve an awareness problem. You can solve a lot of problems this way by just thinking look where are they? Let's simplify. >> Yeah. >> Look are they on Tik Tok maybe. Are they on LinkedIn? Definitely. Great. There's your answer. >> Nice. And you mentioned also consistency of some specific channels chosen to. So there are some of the parts that have to be scheduled and executed all the time at the same time, but there are also some of the variation of that creativeness that comes into it. How do you think about that type of structure? >> It's a good question. I actually um never plan more than a quarter ahead at a time in terms of editorial unless you have a big annual report, then obviously that's going to, you know, you're going to have to do that uh planning ahead of time. But I think I think overplanning can not only slow marketers down but cause a lot of overthinking. >> Like you shouldn't be planning more than executing. I don't know what the exact ratio could and should be. It probably changes in Q4 versus other quarters. But my thought is like look, if we're going to win on LinkedIn, for example, we're launching a CEO's profile, right? And we want to get them going. You're not going to get loud or get very very viewed if you will or seen once a week, right? You're you're basically saying four times a month we're going to post and our market is going to see this, resonate with it, love it. Like that's just not enough. Five times a week might be too much. You might be your company and team might not be able to support five pieces of good content. So I like to commit to one a pilot period of look, we are launching this. We have some directional goals, but we are really here to set benchmarks. We've never posted this before. We've never posted from Laura's account before. So give us 90 days to build the strategy, execute on it, monitor everything that happens, things that take off, topics that don't, formats that work, formats that flop. And then at the end of 90 days, we're going to come back together and say, great, what did we learn? How did we really do? And one of the biggest things I look at first is how many posts did we commit to ourselves? >> If we committed to 36 posts and then we posted 12 times, the rest of the pilot almost is a moot point because like we didn't even show up and do the work, right? It's kind of like, oh, I missed quota, but I only showed up to work eight out of 12 weeks. It's like, well, no, you didn't do enough calls. You didn't do enough work to get the outcome. So, it's like the strategy wasn't broken, right? Like, you didn't you didn't do the work. >> Interesting. And now you're talking about the content that goes out both on LinkedIn on the personal level, but also on the company's page. Talk to me more about how do you mix those two? Where does the personality comes in? How much do we reuse of the content that we use on the website and is there supposed to be a difference? >> I view it like this. So one is a pure numerical factor which is LinkedIn has said I think it was LinkedIn if not them I've seen it somewhere an incredible source of personal profiles like are yours or mine get five times more reach based on the algorithm than a company page. So to me, I have like my left, you know, door to the left, you have like a tough road, but a a somewhat paved road. And then you look to the right and you're like, that is five times harder. It's five times worse terrain. It's uphill and it's curvy. I'm going left. Like, why would I take the hardest route there? Right now, I know there's some risks. People will say, "Oh, what if Laura leaves or such such?" Okay, you have to you have to balance the risk in your own mind, right, and take it. But to me, it's an obvious choice. We also know we'd rather see a smiling face in a person than we would a brand in a logo. We obviously trust people more than corporations, small or large. So to me, it's a pretty pretty obvious decision. If you had to pick one, the way that they you said, "Where's the personality come from?" It's in the word personality. So the personality is very easy and self um self-evident on the personal profile. Um, if you have obviously brand guidelines and a brand voice that should and could could and should come through on the company page. I view I try to zoom out and think like how do we really use a company page, right? So if I'm a buyer or I'm not even a buyer yet I'm just a professional and I see Laura you posted on LinkedIn. I'm like I like this. I wonder I wonder what this is. Click Laura's profile. >> Now there's your conversion opportunity. Maybe I click follow because I really liked what you said or I liked what you have on your profile. Now, I might even get interested and go down to what's your role, right? I scroll down like, "Oh, what's this company? I never heard of this company before." I click the company. What are we really on that company page for? Headline and maybe the description like what does this company do? Maybe where they're located and you're lucky to go beyond that, right? Because we're moving quick and we just wanted to get some context to the conversation that we had just seen on LinkedIn in this example. So my opinion is you don't need to necessarily overinvest in the best content in the world on your company page. Make sure that you're telling the company story though. So what's the brand story? What do you believe in? All of your marketing offers, new content should definitely be distributed through that page. And your product story, how are we different? What are we shipping? Why should all be present there so Devon the rando or Devon six months later who's deep in, you know, deep in a sales cycle wants to get more information and how are you showing up? It's super clear and immediate to me what this company is all about and it should be congruent with the website, the LinkedIn page, the collateral I'm seeing, what people are saying in the market, etc. >> Does it also have to reflect on the employees owned accounts? Because you just mentioned exactly what the buyers are doing. They saw a post by somebody working at the company, then clicked the profile, and then the profile says that it's something totally different what the company does. Does a company have to care about those profiles? >> I think you should definitely care, but you should not attempt to control. You have 100 employees, right? You're going to have some that are going to wear the company t-shirt every day of the week. If you give them five, they're wearing it Monday through Friday, right? And they know the company narrative and they're they're all the way plugged in. And then you have some more zany characters who maybe would never wear the t-shirt and they're kind of a little more outspoken, a little different. >> That's people and that's natural in a company and your profiles are going to reflect that. And I say that because and I don't think you're necessarily heading this direction, but a lot of times people say, "Oh, like we have to have this specific description under, you know, where it says Devon Reed head of content has to have this description." Yeah, provide it. But you might not get 100% compliance there. That that beautiful banner, great. Give it out to people, but you cannot force them. And that's the thing too is you don't want to trade authenticity for control, which is like you have to let your employees be who they are and trust them because you hired them in the first place versus say, "Hey, starting January 1st, all 100 companies have to have this banner with this type of profile picture with this description." It's like people are going to feel constrained. You'll get some compliance, but you'll get a lot of resistance as well. >> Yeah. When you start working with companies, what are the key metrics that you're looking into? Let's keep the metrics for later. I'm going on a tangent now. So when you're talking >> when you're speaking with your companies, what is the strategy for brand for SEO and for your content to build brand to start with? Then we're going to get into metrics. So what are the building blocks that you're looking for to build? >> I I am no SEO pro, so I have some experience, but I I haven't like set out the strategy. I have kind of just been sharing this philosophy which is like look if you're if you're doing the volume based approach or if you're overindexing on um you're overusing AI to write a bunch of web pages and they're not very good. If you're doing this approach you're basically investing in bad first impressions at scale. >> Well then >> right so if the page doesn't have useful information it's not written in a very compelling way. Someone might find you via search jump onto your website not like what they see. not get value and now you have a negative brand impression right now. Now the next time I see your logo, I probably avoid it because I know that the trade-off wasn't there. I invested time. I didn't get the value I was looking for. Whatever that may be. So I think too is like sometimes people will say like, "Oh, there's like we have like our content marketing and our editorial team over here and then we have our SEO team over here and they those are two different shops creating content for different for different purposes. One's really good and thoughtful and the other one's for volume." >> Yeah. >> Can you imagine? Imagine like showing up to like some work events and I'm like, "Oh, this is Devon who's thoughtful and cares, but like other parties aren't really that important, but I'll still come, but I'm just gonna kind of be like >> volume. >> Yeah, I'm gonna meet as many people as I can and tell them nothing about me, right?" He'd be like, "Wait, what? That is insanity to have two different like personas in this way." And so, I think it's the same thing with SEO. It's like your brand your your content is your marketing >> and your marketing is a huge chunk of your brand identity. So why is it okay in certain pockets to just outsource it to the cheapest route, the most volume play and go, "Yeah, we'll get a bunch of traffic and then they'll find our good content and then they'll like us." Like this is just nonsensical to me. So what you would do is first of all make sure that your website is optimized because when they find you make sure that that is right% >> and then as you mentioned 95% written for people who are not buying right now and the other 5% for like get them to book the demo right if you were to build a dashboard for a content marketer what should it include what should there be of kind of measures >> well I luckily I've have built built a few. So the first thing and and maybe not necessarily in order but I think kind of chronologically. So if I could have anything and everything my dream dash my first thought would be the early indicators. Now I don't know I don't think content produced would go through this dashboard but if we could I have like a map slide of like our cadence. So I don't know if we're going super dreamy that would be kind of cool but really I want to know the visibility factor first. of like where are we showing up in in AI search and what is our web traffic doing week over week month over month now there's direct there's branded search and all stuff I want to see that the next thing I want to see is of the content we're producing on each channel how are we doing so for email for example are we gaining subscribers or are we losing them is our open rate going up or is it going down are unsubs going up or they going down is is CTRs same thing clickthrough rates so those going up and down on LinkedIn I want to know views engagements. I I just map all of engagements together. So, I just put repost, comments, and reactions all in one total engagement number because the engagement rate can be very misleading. And then and and then views if I didn't say it already, and followers, right? So, I'm kind of like I've got these like chunks of like the LinkedIn channel, the this channel. Uh I also love a good webinar digital series. Um same with podcasting. So, hey, are we getting more views, more downloads, more rich, right? So these key KPIs I can go deeper if you want or listing these out but like I want to know these and I want to know what is our benchmark. So hey when we typically throw this type of webinar we get 500 registrance 30% show rate I want to beat that next quarter. All these metrics that I'm telling you are not on the dashboard just so I can have as many numbers as possible, but it's because it tells me the health and the effectiveness of what we're doing today and gives me a baseline to beat because quarter quarter we should be growing all of these things otherwise they're broken in some way, shape or form. Otherwise, everything would be growing. Not necessarily perfectly up into the right, but some sort of growth. >> How often would you be reviewing those? >> Oh, on my obsessive days and end of quarter probably more than I need to in a more healthy sense. I used to do it every Monday for sure. Um I had it very manually built, but every Monday I had on my team insert numbers because it was manual and I would look at it and I would say usually kind of like Monday, Wednesday, Friday. I think Monday is like you know remind me where we're at. Wednesday is like a checkpoint if anything's changed and then Friday is like okay what are we going to focus on the next week or any kind of updates that I would send end of week. But um for the most part, unless it's like the last day or three of the quarter, there's no point in having your dashboard open 247 and hitting refresh over and over again. Yeah, the slide. >> What size What sizes of companies do you usually work with? >> Right now I'm in the um probably like series A B to like C. So usually around like 70 uh roughly 100 employees to about a thousand employees like roughly in that ballpark. >> Got it. And when you start to work with a smaller team, let's say Sirius E company that wants to punch above their weight with their content, what are the tactics that they could employ? Oh, that's a good question. Tactics to employ to be bigger than you are. I think one of the biggest ones is um also the one people fight me on the most, which is like building in public. Companies will company will cross 100 million AR or 50 million AR R or 20 million AR and not want to share that. So I go, "Okay, so you want you want the whole you want the whole market to think that you're the best and you want them to know you're growing relief quickly and there's two people ahead of you, like two other companies ahead of you in this perception, but you won't share receipts of the scoreboard. You won't share that you're winning. You you want to win in private. Like how does that work? How do you win privately and then the whole world views you as a winner?" Now, I know there's other metrics and such and I'm just using the one that came up this week uh in my world of like AR, but there's a lot of ways where you can show broadcast what you're doing. So, for example, people often will host an executive dinner and never talk about it. Share the planning of it. Share pictures there. Share that you are out in the field in the market talking to the people that matter. Because when you see pictures of someone on stage or you see Laura, you're hosting a event with 10, you know, 10 other leaders in my space, whatever, like your credibility goes up. >> So you want to build credibility and proof that you're out here doing the work and really substantiating a lot of the claims that we make on our website, right? Or the claims that we make on keynotes and all these sorts of things. So I think building in public is a inc people roll their eyes at it because they they've heard this phrase but they don't really do it even though it works on us so well. So I think again it's like sharing milestones. I had another company uh say you know we want to build in the healthcare space. >> So they put on a bunch of content never talked about any of the stuff they were doing just promoted the content. And I was like you just had your CEO do a road show across the country with healthc care leaders. Learned a bunch of cool stuff. Probably had some cool pictures. had a lot of cool event spaces. Didn't post any. >> Not put that out there. It's not just talking about you. You make it about them, right? It's not, you know, I did this, I learned that. You always make these insights in this story something that's entertaining and and educational to the target audience. And so what you're doing is you're providing both value from an edutainment standpoint and showing momentum. >> Yeah. >> You're broadcasting that the company's making moves. We're growing. people are coming to us and that gives out that signal of credibility that I mentioned >> and it also makes it much easier to create because you already have that knowledge in content. So there is not that much to recreate like thought leadership. You are already a leader. >> You're talking with people. I love that because when you're saying building in public, you would feel like it's like a single founder who's talking every time how much money they have made or lost and so on and you're afraid of that because you're if you're showing that you're losing, you're not sure if other companies will want to choose to work with you because you're sharing that in public. But but if you're sharing your successes, your excitement about what's going on, everybody will have the FOMO and they will want at least to have a look at the company that is doing well. >> Yeah, absolutely. I mean too is like Yeah. And I think uh opening the comm people think like opening the oh they're going to see everything. It's not a tell all. It's not a oh man terrible board meeting. Let me share how that went. No, of course not. But we also we also identify with vulnerability and we and we identify with missteps and mistakes. And so it's not that you have to share the mistake that cost you 10 million ARR in a bad board meeting. But you could share the mistake of uh I don't know something silly like I totally forgot to order chairs at our event. So I asked 75 executives to stand for three hours. Don't tell my boss. How terrible. Oh my god. Right. It's just it's fun and it's like and it's it's relatable. Right. So there's ways to show these quote unquote failures, mistakes in a way that's really just part of a greater story because no one no one no one wants to root for the person who never loses and wins every single time. It's why people hate the big sports teams like the Lakers and the uh Celtics and sorry I'm a basketball fan and uh the Patriots back in the you know a couple years back people hated them because they won all the time. >> Uhhuh. >> We we like people we like underdogs. We'd like people like us who, you know, are doing a good job, ambitious, but, you know, not, you know, not immune to making a mistake from time to time. >> Yep. And you relate to people that you probably want to work with as well. Yeah. >> You're doing a good job and doing it the hard work. Really, >> it's it's very relatable because this is also how we grow at Dream Data 2, especially on LinkedIn because all of those like real stories, people want to hear them. So, what happened? Were there no chairs or the food did not come on time? Whatever. It's like, let's talk about that as well or something that we did on the website that didn't work. That's cool because your audience is listening and they want to see that you're actually trying to make a difference. I love that. >> Devin, we're about to wrap up. For people listening today, what is the one thing that they have to remember that we spoke about when leaving this? M well if you want to grow your career, if you want to get more creative freedom and more budget, go find the CEO slide. Make that a habit. And if you if you roll your eyes at me, that's okay. But in sooner than later, you will come back to this piece of advice and you'll maybe I'll try it. Everything is easier when you understand it. It also what it does is it shows your business acumen. So when you're talking at a C level, even if you are a specialist listening to this, when you talk to your CMO in your next maybe monthly reporting, size of your company and you bring this up, you are going to stand out against all of her other one-on- ones because I guarantee almost none of them are asking about this thinking in this way that's going to elevate you in and her mind. The thing I'd say if you're on the execution level and you want to win is don't try to be better than your competition, be different. Find >> something that does not exist that your audience is craving yet passionate about that. Nearly obsess over it, but don't get obsessed over uh and and trust the process that if you do good marketing over time, good things will come. >> There you go. That's the learnings from going for Gong, Clary, and all the rest of the clients that you're working with. Devon, thank you so much for joining us today. It was a pleasure. Thank you for bringing up the benchmarks as well. I love it that it's on the desk. This is our marketing like just keep on looking at that logo once in a while then we're fine. We're fine. You'll see it other places later. That's >> great stuff in there. I really like it. It's really well done. >> Thank you so much for joining us today. >> Of course. Thank you. >> We hope you like listening to us. Subscribe to our podcast and the ones that we have been guests on. >> And if you have any feedback for us, just do let us know. And should there be a guest that you think we should be talking to, then like pitch us. We're looking forward to seeing you.
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:01] Hi, I'm Lao.
+[00:02] >> Hey, I'm Stefan. And you're listening to
+[00:04] Attributed, a podcast library by Dream
+[00:07] Data.
+[00:08] >> The purpose of it is to store and share
+[00:10] all the knowledge that we have gathered
+[00:12] across Dream Data employees through our
+[00:14] LinkedIn lives, podcasts, and webinars.
+[00:17] >> The typical topics you'll find here can
+[00:19] be stuff like marketing,
+[00:21] >> sales,
+[00:22] >> B2B ads,
+[00:23] >> operations, social selling, maybe. Good
+[00:26] morning and good afternoon to everybody
+[00:28] joining us live or listening on the
+[00:30] podcast. Thank you so much for joining
+[00:32] us. And today I'm very very excited to
+[00:35] be joined by Devon Reed on this LinkedIn
+[00:38] live. I've seen Devon so many places on
+[00:42] LinkedIn and on pictures and lives, but
+[00:45] have never actually spoken, which is the
+[00:47] crazy thing. And I think you might have
+[00:49] a similar thing with Deon because seems
+[00:51] like everybody knows his content, the
+[00:53] way he works, the way the reader is
+[00:57] getting up to it. I'm so excited. Devin,
+[00:59] welcome to the call today.
+[01:00] >> Hey Laura, thanks for having me. So for
+[01:03] today's call, if there are people who do
+[01:06] not know how your path got to B2B
+[01:08] content, can you give us a quick intro?
+[01:11] >> Yeah, absolutely. So I'll start uh I'll
+[01:14] start just the career journey. If we if
+[01:16] we want to go, you know, prior life, we
+[01:18] can do that later. Um yeah, so I started
+[01:20] my career in sales. So I was a SAS sales
+[01:24] rep for about six years. Uh I was at
+[01:26] small companies of 12 people um all the
+[01:29] way to companies about to go public like
+[01:31] Eventbrite and ended up at Gong in 2017
+[01:35] as the second sales rep on their 40
+[01:37] employees globally. Um, I was on the
+[01:39] sales team for about two years there
+[01:41] until we were about 20 million ARR and
+[01:43] then I jumped over to marketing where I
+[01:46] became the head of content and I was
+[01:48] there for 3 years from about 20 to 220
+[01:52] million ARR uh in charge of all things
+[01:54] content in terms of uh blog thought
+[01:56] leadership social webinars and a whole
+[01:59] bunch of stuff in between. Then I jumped
+[02:01] over to Clary which is a forecasting
+[02:03] tool. Became the um head of content and
+[02:05] customer marketing there. And then a
+[02:08] year and a half ago now I moved my
+[02:10] family from the Bay Area to San Diego,
+[02:12] California. Turned in my Clary laptop
+[02:15] and uh went full-time with the reader
+[02:17] where I basically helped B2B SAS
+[02:19] companies do what I helped Gong and
+[02:21] Clary with which is build a content
+[02:23] system uh that helps grow their pipeline
+[02:25] brand and following.
+[02:27] >> Fantastic. And I love the career journey
+[02:29] from sales and not just into marketing
+[02:32] but content marketing. You don't hear
+[02:34] that a lot. What being in Kong and Clary
+[02:37] taught you about proper B2B content
+[02:41] marketing?
+[02:42] >> I would say I mean I definitely learned
+[02:44] a lot there. I think coming from sales
+[02:47] was what actually helped me the most
+[02:49] because it was there's just such a high
+[02:51] level of accountability and it's a
+[02:54] little bit more binary that I like which
+[02:56] is like you like you either close the
+[02:57] deal or you don't. You either hit quota
+[02:59] or you don't or you your team hits the
+[03:00] goal or you don't. Whereas in marketing
+[03:02] and this is no shot at marketers if
+[03:04] anyone's getting offended at 9:00 a.m.
+[03:06] Pacific, but like there's a lot of ways
+[03:08] where we can say like oh we're not
+[03:10] driving revenue but we're doing other
+[03:11] things or oh we're not helping grow the
+[03:12] business, we're doing other things. And
+[03:14] in my opinion, you're either growing the
+[03:15] business or you're costing the business.
+[03:18] Now, I know there's like how do you
+[03:19] measure design? I'm not talking about
+[03:21] like the measuring the impact of, but
+[03:22] for me in a content standpoint, it was
+[03:24] like look, how do we do sales at scale?
+[03:26] How do we publish something digitally
+[03:28] either in an event format or a blog or
+[03:30] anything that creates demand, gets
+[03:33] people to come to us? That was kind of
+[03:35] my big thing. I'm tired of chasing
+[03:37] people. That was my thing in sales.
+[03:38] Like, you're always chasing people,
+[03:39] trying to get them to do stuff.
+[03:41] marketing. I was like, how can we use,
+[03:43] you know, content and persuasive
+[03:45] marketing tactics to get people to be
+[03:48] attracted to us and to come to us and
+[03:50] say, "Hey, we know you, we like you, and
+[03:51] we want to do business with you."
+[03:53] >> Interesting. So, kind of creating a FOMO
+[03:55] effect for people to actually want to
+[03:57] book a demo and to start talking with
+[04:00] Gong or Clary, right?
+[04:01] >> Yeah. It's doable.
+[04:03] >> Insane. So, when you started reader now,
+[04:07] what and why did you start?
+[04:10] >> Yeah. So, the reader is a pun on my name
+[04:12] if folks haven't gotten that. Um, I'm a
+[04:15] dad of two, so the dad puns are heavy.
+[04:17] >> That's good.
+[04:18] >> Um, it actually started about seven or
+[04:20] eight years ago when I was at
+[04:21] Eventbrite. I was a sales rep. Um, had
+[04:24] been there for about a year and a half,
+[04:25] had a lot of success, but wanted to get
+[04:28] out of sales.
+[04:29] >> And so, there was nothing in sales
+[04:31] enablement. uh sales leadership wasn't
+[04:33] the path yet and so I had moved uh tried
+[04:36] to move into marketing. One of the
+[04:37] content marketing managers had quit.
+[04:39] Long story short, I didn't end up
+[04:41] getting the job. I went all the way to
+[04:42] the final interview and instead of going
+[04:44] with the internal sales rep, surprise
+[04:46] surprise, they went with an external
+[04:48] marketer with 10 years of experience.
+[04:50] And it really, you know, really bummed
+[04:52] me out. But I had to have an honest
+[04:54] conversation with myself and think, hey,
+[04:55] if if my current company isn't going to
+[04:58] take that risk with me, an external one
+[05:00] is Definitely not right. Like Laura, if
+[05:02] you you know, if a marketing leader
+[05:04] who's never heard of Devon Reed sees
+[05:06] sales rep for six years and they want to
+[05:08] be a content marketer, they're going to
+[05:09] go they're going to go in the trash like
+[05:10] that an interview. So to get that
+[05:12] experience, I started the reader, which
+[05:14] was really my way of just getting
+[05:15] marketing experience. So my thought was,
+[05:17] hey, I'm going to sell, you know,
+[05:19] software Monday through Friday days and
+[05:22] a lot of nights as we know it is. And
+[05:24] then nights and weekends, I did a lot of
+[05:25] writing uh for freelance. So blogs for
+[05:28] people, sales cadences, anything I could
+[05:30] get my hands on. Um, just to build up
+[05:32] that experience. And so this was during
+[05:35] the two years I was at Gong as a sales
+[05:37] rep. And so when the opportunity came to
+[05:39] join the marketing team, you know, when
+[05:41] I went to Udy, the the then CMO, I had
+[05:46] good sales record at Gong. I had done
+[05:48] some sal some marketing projects at
+[05:50] Gong. Had, you know, done some some some
+[05:52] freelancing internally, if you will. And
+[05:54] I had this external thing I was working
+[05:57] on to show Udy like, hey, I'm really
+[05:59] about this. Like, I'm really committed.
+[06:02] And I'm really glad I did because one of
+[06:04] the things that Udy had said during that
+[06:07] um very abnormal interview process,
+[06:09] which is him getting coffee with me and
+[06:10] walking around San Francisco until he
+[06:12] was uh either fully fully in or fully
+[06:14] out on Deon Reed, is he said, "Hey, I
+[06:16] want to make sure that you're joining
+[06:18] marketing, not escaping sales."
+[06:22] And I thought that was a really smart
+[06:24] way to think about it and I have kind of
+[06:26] taken that as a leader in myself of just
+[06:28] understanding decision and how people
+[06:29] are thinking like are you trying to
+[06:30] leave something or or commit to
+[06:32] something new and that's not always the
+[06:33] same motivator and so yeah so that's how
+[06:36] I started it and it was just a side
+[06:38] thing until it became uh you know was
+[06:40] just freelance writing. I kind of didn't
+[06:43] do much of it while I was learning
+[06:45] marketing had gone because I was so busy
+[06:46] and didn't have much time or energy to
+[06:48] dedicate to it. But as I kind of got my
+[06:51] uh footing underneath me, it had just
+[06:53] kind of turned into very light advising.
+[06:55] Uh then I launched a newsletter. Then I
+[06:57] was selling newsletter ads. So it kind
+[06:59] of just kind of very slowly became from
+[07:01] a side almost like an afterthought to a
+[07:03] side hustle to like, oh wow, this is
+[07:05] actually a full business
+[07:06] >> if I dedicate 40 hours a week to it.
+[07:09] >> Nice. It's a thoughtprovoking thing to
+[07:12] think, are you running from something or
+[07:14] you are choosing to go to marketing?
+[07:18] That's I like that. I'll have to work on
+[07:19] that myself as well.
+[07:21] >> But when you're talking about content
+[07:24] right now, is it in most of the
+[07:26] organizations an overvalued or
+[07:30] undervalued function?
+[07:32] >> That's a really good question. I would
+[07:33] say
+[07:35] I have a skewed like if you look at me
+[07:37] as market research like who do I talk
+[07:38] to? I have a skewed view because people
+[07:40] are coming to talk to me because they
+[07:42] probably believe in content, right? So
+[07:44] I'm I'm mindful of that. So I would say
+[07:47] generally though I still think it's
+[07:49] undervalued
+[07:51] >> but I think it's undervalued because
+[07:52] it's still misunderstood just as
+[07:55] marketing is misunderstood. So if you
+[07:56] think in the SAS world, right, like how
+[07:58] many founders are technical?
+[08:00] >> Most, right? And so you can't knock them
+[08:02] for being like, wait, you don't
+[08:03] understand sales and marketing and you
+[08:05] don't love it and fully get the value of
+[08:07] brand marketing long-term investments.
+[08:08] Like you can't be surprised by that,
+[08:10] right? But so it simply it simply is.
+[08:13] And so a lot of times technical founders
+[08:15] or technical, you know, maybe technical
+[08:17] leaning even seuite teams might not
+[08:19] understand, hey, why do we have to do
+[08:21] this long play? can't we just hire a
+[08:24] bunch of SDRs or do a bunch of Google
+[08:26] ads like can't that work? Um, which it
+[08:28] does work until it doesn't and then you
+[08:30] have to have a backup plan, right? So, I
+[08:32] would say it's still undervalued, very
+[08:35] misunderstood. And even a lot of times
+[08:36] the companies that believe in content
+[08:39] and marketing are still just figuring
+[08:41] out how to do it well and how to do it
+[08:43] differently from their competitors so
+[08:45] that they're actually getting the return
+[08:47] on their investment that they're hoping
+[08:49] for.
+[08:49] >> Yeah. Do you think that type of
+[08:52] undervalue and willingness to go more to
+[08:54] the like outbound links and let's just
+[08:56] get people to love our product instead
+[08:58] of getting them to feel the FOMO not
+[09:00] having it is that due to the lack of
+[09:02] measurement of content?
+[09:05] >> Oh god. Yes. Huge. Huge. If there
+[09:08] there's no I mean I mean I know this is
+[09:10] like a this is going to sound like a big
+[09:11] plug but like until your company until
+[09:13] you know Jundo like it's hard to see
+[09:15] linearly. I I used to have to tell
+[09:17] people you have to take a small leap of
+[09:19] faith.
+[09:19] >> Like when you're making this investment
+[09:21] in LinkedIn, for example, it's a great
+[09:22] one because yes, if you're on the paid
+[09:25] side of LinkedIn, you can see, hey, I
+[09:27] put $100,000 in on this date. We went to
+[09:30] these ads at these people and then I
+[09:32] got, you know, this amount of pipeline
+[09:34] or not, right? At the end, there's a
+[09:36] linear thing. So, it feels like a safe
+[09:38] bet because I can see it.
+[09:40] >> Yeah.
+[09:40] >> And I can understand. Now, the challenge
+[09:42] is when you go like to organic, like,
+[09:44] hey, we're going to have our CEO post on
+[09:46] LinkedIn, you know, minus boosts and
+[09:48] LinkedIn ads and all this stuff, like
+[09:50] just posting. Then you get the question
+[09:52] like, well, how do we know that Laura,
+[09:54] our buyer, saw this post and bought
+[09:58] later, right? There's this big, you
+[09:59] know, black box or uh what was it? Uh,
+[10:02] Dark Social happening.
+[10:04] >> Yeah. And so it created this divide of
+[10:07] companies who are not only able to do
+[10:09] this but are willing to take that risk
+[10:11] and say hey I know that this is the
+[10:13] right play because I as a consumer also
+[10:16] get information from podcasts from
+[10:18] LinkedIn from word of mouth and content
+[10:20] is all three of those things or sparks
+[10:22] word of mouth. So I think yeah the long
+[10:25] answer to a short question is the
+[10:27] inability to see linearly what is the
+[10:29] impact of content has been probably the
+[10:31] biggest barrier to investing in it even
+[10:34] more than not understanding it because
+[10:35] even if you don't understand how
+[10:36] something works seeing numbers on a
+[10:37] screen will help you at least go oh well
+[10:39] the money I see dollar signs so that's
+[10:40] fine if I don't understand how it works
+[10:42] >> but if you are not able to connect it to
+[10:44] the actual dollar because it it can be
+[10:46] very very difficult what kind of other
+[10:48] business results do your clients usually
+[10:50] look after when kicking off the content
+[10:52] and measuring bring it further.
+[10:54] >> So, I actually love what AI search has
+[10:57] done to our brains lately because now
+[10:59] everyone's saying, "Well, our traffic's
+[11:01] down, so we need visibility, visibility,
+[11:04] visibility, right? That's what
+[11:05] everyone's talking about. Like, how do
+[11:07] we show up there?" Which is really the
+[11:09] same thing for content. Like, you need
+[11:11] to be seen. Everyone says they have an
+[11:13] awareness problem, right? A lot of
+[11:14] people have, you know, a lot of
+[11:15] companies have an awareness problem.
+[11:16] Even if you're a big company, you might
+[11:18] have an awareness problem in a certain
+[11:19] vertical or or or uh geographic
+[11:22] location. And so, yeah, I think it's
+[11:25] it's great to start to say, okay, yeah,
+[11:28] we want revenue. We want pipeline
+[11:30] sourced and influenced, but those are
+[11:32] lagging indicators.
+[11:34] >> Our early indicators, I say, are views.
+[11:36] If you're on LinkedIn, it's views. Are
+[11:38] people seeing the content on your
+[11:40] website? Like, what web traffic has a
+[11:41] place. I know it kind of has been, you
+[11:43] know, pinged around of like, is it is it
+[11:45] really worth uh monitoring it? How much?
+[11:48] But another big one is very few B2B SAS
+[11:50] companies have an audience growth
+[11:52] metric. And so I always say, yeah, like
+[11:55] your LinkedIn company page is important.
+[11:56] I think getting your CEO or your thought
+[11:59] leaders active and tracking how many
+[12:01] followers they have, that's a great
+[12:02] measurement. How many views to my
+[12:04] initial point are you getting? Like
+[12:06] that's literally visibility, like
+[12:07] showing up on the feed where people log
+[12:09] in every single day that are in your
+[12:11] buyer group. Um, so I like to tell folks
+[12:13] views, followers, and then again web
+[12:16] traffic with some I'm kind of doing the
+[12:19] handshake thing for listeners where I'm
+[12:20] like with some caveat there.
+[12:21] >> Got it. Is there a specific trap that
+[12:24] companies fall into when trying to
+[12:26] measure it? Like that usually don't look
+[12:28] at that too much. I think the biggest
+[12:30] trap that I see or or maybe just a again
+[12:33] a misconception is like people will say,
+[12:35] "Hey, we're investing $10,000 a month
+[12:37] into SEO and we're getting a lot of
+[12:40] traffic, but we're not getting pipeline.
+[12:42] We're not getting meetings out of it."
+[12:44] And a lot of times it's because the page
+[12:47] has been built for views, whether it's
+[12:49] an AI overviews or actually being
+[12:52] clicked and seen on your website, but
+[12:54] they're not actually optimized to either
+[12:55] one convert, I'll just say convert them.
+[12:58] It's actually not optimized to convert.
+[12:59] Now, when I say convert, people think
+[13:00] demo, right? And I I've done a lot of
+[13:02] content audits in the last 18 months.
+[13:04] It's a big part of my offer. And I will
+[13:06] say the number one mistake that I see
+[13:09] from a conversion standpoint is the only
+[13:11] CTA is a demo. Talk to us. Talk to us.
+[13:14] Talk to us. It's like, okay, well, this
+[13:16] is a listical about the 10 best
+[13:17] attribution tools, you know? So, like
+[13:20] maybe I'm ready for a demo, but maybe
+[13:21] I'm not.
+[13:22] >> Yeah. So, if I'm not ready, how come
+[13:24] there's not an option to convert them to
+[13:26] a follower or convert them to an email
+[13:28] subscriber or convert them to a podcast
+[13:31] listener? So, there's so many ways you
+[13:32] can convert, but we've gotten so
+[13:34] obsessed with pipeline that we just jam
+[13:36] the low the highest intent, lowest
+[13:39] funnel option into all of our content,
+[13:41] get a lot of views from a lot of people,
+[13:43] and then be like, I don't know. Why
+[13:44] aren't they why don't they want to talk
+[13:46] to us in sales? It's like, yeah, they're
+[13:47] not nearly ready. They probably just
+[13:49] figured out you exist 30 seconds ago.
+[13:52] You gave him the information and now
+[13:53] you're like, you know, jumping the gun
+[13:55] on a demo request.
+[13:56] >> Give me 30 minutes of your time. Now,
+[13:58] >> yeah, you gave me 30 seconds. How about
+[13:59] 30 minutes and $30,000? You know,
+[14:02] >> exactly on the first call. Let's get a
+[14:04] little bit practical. So, when you start
+[14:08] working with your clients, how do you
+[14:11] advise about the content that drives
+[14:13] growth? So, we want the revenue, we want
+[14:15] the demo booking. So, what type of
+[14:17] content do you build into an offering or
+[14:20] suggest companies to start with and
+[14:22] finish with in order to be successful?
+[14:24] >> Okay, I'm a tangent guy as you probably
+[14:27] already noticed. So, I'm going to go on
+[14:28] a tangent and then I might miss the
+[14:30] actual question you're asking. So,
+[14:32] forgive me, but it will frame it. It
+[14:33] will frame the answer. So when I was at
+[14:36] Gong, I kind of had this philosophy
+[14:37] which I won't curse but there's a curse
+[14:39] word in it which is like I understood
+[14:42] having come from sales that no one gives
+[14:44] a shoot about your product.
+[14:46] >> Yep.
+[14:47] >> Not yet. Right. Like how many times have
+[14:49] you cold called someone they're like you
+[14:50] know what Deon thank you so much. I was
+[14:52] I was just thinking how I need a call
+[14:54] recording software and here you are. No
+[14:56] emails even you have to persuade the
+[14:58] heck out of them right like it's so
+[14:59] rare. And so when I was in marketing,
+[15:02] same concept like no one cares about our
+[15:03] product, so I'm not going to talk about
+[15:04] it. And so for a full year at Gong, we
+[15:07] didn't talk about any of our product. We
+[15:09] have a product marketing team. I was in
+[15:11] the content marketing and demand team to
+[15:12] be clear, but I didn't talk about
+[15:14] product for a whole year. I wanted to
+[15:15] build I wanted to to earn attention and
+[15:17] to build trust with this audience and
+[15:19] then introduce how they can buy from us
+[15:21] later. Um, I think about a year ago the
+[15:23] B2B marketing institute came out with
+[15:25] the 955 rule, which essentially captures
+[15:28] what I just said, which is of your
+[15:30] entire addressable market, of all the
+[15:32] people you could sell to, only about 5%
+[15:35] are quote in market right now or have
+[15:38] intent to research or intent to compare
+[15:40] or intent to buy. 95% are not in market.
+[15:44] They did not wake up hoping to get a
+[15:45] cold call from Devon Reed, right? And
+[15:47] they are not looking to buy, but they do
+[15:49] have intent to learn, right? to learn
+[15:51] how to do their job better. And so when
+[15:54] I'm creating content, I'm I I explain
+[15:57] this to folks and say, "Hey, you're
+[15:58] probably overinvesting in the 5%."
+[16:02] >> Ads uh you should have a G, you know, G2
+[16:04] crowd page where you don't you have, you
+[16:06] know, so people can research you. Um you
+[16:08] should have high intent SEO pages,
+[16:11] right? You should capture the existing
+[16:13] demand that's there. But that's the same
+[16:15] thing kind of like STR like how, you
+[16:16] know, how much of that can you really
+[16:17] manage, right? How much can you really
+[16:19] get? So, you need to focus on the 95.
+[16:22] And so, that's why I've built the 955
+[16:24] content system, which is what I built at
+[16:25] Gong and Clary, which is playing the
+[16:28] long game because ultimately what we
+[16:29] want to do is to get people to know us,
+[16:31] like us, follow us, trust us. So, when
+[16:34] they do enter the market, whether it be
+[16:37] tomorrow or 18 months from now, they
+[16:39] think of us
+[16:40] >> and they think of us and they call us
+[16:42] first. So now what you've done is you've
+[16:45] made the consideration list, but you've
+[16:47] also leading the consideration list. So
+[16:50] they come talk to you and then they
+[16:52] compare all your competitors. You know,
+[16:53] if they go talk to take other calls,
+[16:54] they're now comparing all of them to
+[16:56] you. You're in the driver's seat.
+[16:57] >> That's very scary because you leave them
+[17:00] alone and you don't book the meeting on
+[17:02] the first visit on your website and then
+[17:04] you're going to have to like lean back
+[17:06] and wait for them to come back and feel
+[17:09] that you're leading. How do you feel
+[17:10] about that? your customers must be
+[17:12] terrified.
+[17:13] >> Sales people go, "Why would I wait?
+[17:15] They're here now. Let me pounce." And
+[17:18] I'm like, "Yeah, but you're gonna spend
+[17:19] a lot of time pouncing on people that uh
+[17:21] well, no one really wants to be pounced
+[17:22] on." Guess the analogy breaks down, but
+[17:24] you know, they're not ready yet.
+[17:26] >> So, the thing is like, hey, how do we
+[17:28] bring them into our orbit? How do we
+[17:29] say, "Okay, great. You landed on a page,
+[17:31] you came to an event. How do we keep
+[17:33] this relationship going?" And that's why
+[17:35] a lot of the best content marketing is
+[17:37] programmatic or series-based, right? a
+[17:39] podcast every week, a newsletter every
+[17:41] week, LinkedIn post three times a week,
+[17:42] whatever it is. So, you're getting
+[17:44] opportunities to kind of bring them
+[17:45] closer and keep them in your orbit. And
+[17:47] then, of course, you still will share
+[17:49] your product story, you'll still share
+[17:50] company milestones. You'll show that
+[17:52] your company uh is credible and share
+[17:55] customer proof, but you're kind of
+[17:57] putting it out there and then allowing
+[17:59] them to come back to you, right? So,
+[18:01] it's kind of a pull method versus a push
+[18:02] method. And it does take it does take
+[18:04] patience. What type of signals would you
+[18:06] start looking for that they're now
+[18:09] they're ready enough?
+[18:11] >> Yeah. And so, and this is something we
+[18:13] did at at Gong really well, which was
+[18:14] like, hey, we're pumping out a lot of
+[18:16] content. We're getting nothing like the
+[18:17] signal uh technology that exists today
+[18:20] that we we didn't have it nor was it
+[18:21] around, but we looked for, and I still
+[18:24] think it holds true, is kind of thinking
+[18:25] of it as like how how much activity in a
+[18:28] time period. So, has Laura engaged with
+[18:31] one piece of content once a year for 3
+[18:33] years? We need to get her closer, right?
+[18:35] She's probably not ready. She's familiar
+[18:36] and you could take your shot, but
+[18:37] probably not. Or did Laura come to uh a
+[18:41] live event, subscribe to the newsletter,
+[18:44] and come to three product pages in a
+[18:45] week?
+[18:46] >> Now, I'd say she might be worth, you
+[18:48] know, taking out. Now, of course, it
+[18:49] depends on what those product pages are.
+[18:51] What was the context of that event,
+[18:53] right? Was it very thought leadership
+[18:54] focused? Was it product focused? But my
+[18:56] point too is you could say you could
+[18:58] reach out to Lauren and say, "Hey, we
+[18:59] have um without being creepy, you you
+[19:01] you can recognize where she's at and how
+[19:03] familiar she is and then say,"Hey, we
+[19:05] have a bi-weekly product webinar where
+[19:07] leaders like you solve one, two, three,
+[19:09] it's 20 minutes. Would you like to take
+[19:10] a look?"
+[19:11] >> That sounds like a very close
+[19:13] collaboration with sales as well. How
+[19:15] much do you see content marketers
+[19:17] collaborating with sales as well? Both
+[19:20] for signals, but for outreach messaging,
+[19:22] too.
+[19:23] >> Not enough, unfortunately. I I call it
+[19:25] content island. Uh it's not a tropical
+[19:28] place you want to be. It's not Hawaii.
+[19:30] It's this lonely deserted island uh
+[19:32] often off the coast of marketing where
+[19:35] content kind of is just put into a
+[19:37] content factory, right? They're expected
+[19:38] just to be reactive. If we need a case
+[19:41] study, go make it. if we need a new deck
+[19:43] or a new slide or a new this and they're
+[19:44] very reactive and so they're not really
+[19:48] collaborating with sales so much as
+[19:50] unfortunately become kind of as I called
+[19:52] it task rabbits if you're familiar with
+[19:53] this uh service in the states so it's
+[19:56] like I want to turn teams around and say
+[19:58] we're not a task rabbit we're actually
+[20:00] um you know we have our own strategy and
+[20:03] yes there's push and pull internally
+[20:04] between sales right there there has to
+[20:06] be I don't like the word serving or
+[20:07] servitude because that doesn't make us
+[20:09] equal partners but we should be
+[20:11] supporting ing sales with maybe 20% of
+[20:13] our bandwidth, right? Hey, we have to
+[20:14] carve out 20%. When sales needs
+[20:16] something, we jump on it because we are
+[20:18] here to make sales happen.
+[20:20] >> Yep.
+[20:20] >> But you also have to have a strategy
+[20:22] that you can set and defend to explain,
+[20:24] hey, you know, we're on your fifth ask
+[20:26] this month. I'm actually going to say no
+[20:28] this time because here's our plan,
+[20:31] here's our strategy, and here's the
+[20:32] direction we're going as a marketing
+[20:33] team. Right.
+[20:34] >> Yeah. Got it. And if we get into more
+[20:37] back to the marketing realm,
+[20:40] >> there used to be a thought that we have
+[20:43] to pump as much content as possible. SEO
+[20:46] and everybody has to find us. The more
+[20:48] we write, the better it is.
+[20:50] >> Seems like it's shifting a bit going
+[20:53] from kind of publishing more to
+[20:55] publishing what matters. What is your
+[20:57] take on that?
+[20:58] >> I agree that that's happening. Uh the
+[21:01] the pendulum is swinging back uh in the
+[21:03] right direction, I think. I think the
+[21:06] reason why is it took a lot of dollars
+[21:08] and a lot of time of saying, "Hey, we've
+[21:09] been doing more for a while and that's
+[21:12] not working." And so what the the
+[21:14] thought was like, "Hey, we're creating,
+[21:16] you know, some content, we're getting
+[21:18] some results. Let's create more content,
+[21:21] we'll get more results." Well, now we're
+[21:23] seeing that that's not the case, right?
+[21:24] More does not, you know, more output
+[21:26] doesn't always equal more outcomes.
+[21:28] >> Yeah. And so the other thing on top of
+[21:31] it is that budgets have been decreased
+[21:33] and marketing teams have been downsized.
+[21:36] So now more becomes even less
+[21:39] attainable. It's even harder to do. So
+[21:41] we have to think, okay, if we wanted to
+[21:43] actually market as smart as possible and
+[21:45] instead of saying we'll publish 100
+[21:47] things this quarter, we're going to
+[21:48] publish 10.
+[21:49] >> Probably more, but you get the idea.
+[21:51] What would those 10 bets be? what's the
+[21:52] 10 smartest, most impactful things we
+[21:54] could do for the short term and the long
+[21:56] term of the company and the pipeline
+[21:58] goals we have. So, I think it's forcing
+[22:00] that conversation and uh and a bit of um
+[22:03] coming to Jesus, for lack of a better
+[22:04] phrase, forgive the uh religious
+[22:06] undertone or overtone there, but um
+[22:08] yeah, I think people are just kind of
+[22:09] having to face reality that more is not
+[22:11] working.
+[22:12] >> Yeah.
+[22:12] >> And so, we have to find a different
+[22:14] better way. And of course, AI has made
+[22:15] this only more tempting. So, there's
+[22:17] still companies leaning in heavy into AI
+[22:19] can just do a bunch more. And there's
+[22:20] people realizing, hey, if we really want
+[22:22] to be different, we have to come up with
+[22:23] our own point of view and we can't just
+[22:25] trust Chatbt to put out a whole bunch of
+[22:28] marketing collateral and expect that to
+[22:29] to drive the results we need.
+[22:31] >> When you were working at Gong and Clary,
+[22:33] were you always focused on the business
+[22:36] results or was there a specific time
+[22:38] where it shifted actually and come with
+[22:40] some examples what has happened? Yeah.
+[22:43] So I think one of the strengths of
+[22:45] coming from sales to marketing was
+[22:47] having sold a lot is you know the best
+[22:49] deals are at the sea suite right. So you
+[22:52] can get away now if you have a small ACV
+[22:54] you can get away with a senior manager
+[22:56] director right buying5 to $10,000 of
+[22:58] software but if you're selling $50,000
+[23:01] $100,000 or more to a VP of marketing
+[23:05] you have to get to that seuite because
+[23:07] the the CMO is not going to cut a check
+[23:08] for 100 grand without knowing why. So,
+[23:11] what I had learned in sales was you need
+[23:13] to get to the CEO slide. The CEO slide,
+[23:16] we've all seen it. It's the thing at the
+[23:17] beginning of the year, maybe quarterly,
+[23:19] hopefully quarterly as well. The CEO
+[23:21] comes on stage or on on Zoom and says,
+[23:24] "Hey, here's the three or five company
+[23:26] initiatives for the year, right? It's
+[23:29] usually like double revenue, good luck."
+[23:32] Uh, you know, launch a category, win the
+[23:35] category, launch an AMIA, right? Launch
+[23:37] a new product, like these really, really
+[23:39] big things.
+[23:40] And what I learned was this isn't just
+[23:42] what the CMO or my executive buyer cares
+[23:44] about. It's what the CEO talks about.
+[23:46] It's what the board is thinking about.
+[23:48] So if you can tap into those level of
+[23:50] priorities, you're going to get budget
+[23:52] and you're going to get some leeway to
+[23:53] go make it happen.
+[23:55] >> So what I would do is when I have an
+[23:57] idea for a program or something that I
+[23:59] want to launch, I would go back to the
+[24:01] CEO slide and say, "What can I build?
+[24:03] What can I do to help this company
+[24:05] attain that goal?" An example would be
+[24:07] at Gong. Uh when I first joined the
+[24:09] marketing team, I pitched a podcast to
+[24:11] Udy. It was quickly shut down. And this
+[24:14] was before Joe Rogan was like big. This
+[24:15] was like Joe Rogan was like the only
+[24:16] like podcaster anyone in America could
+[24:18] name probably. It was like why would you
+[24:20] do a podcast? But I had seen some of the
+[24:23] signs. I said I think we should do a
+[24:24] podcast. He says no. I later learned he
+[24:26] didn't listen to podcasts. So he was
+[24:28] like never going to have it. And so two
+[24:30] years later we launched the revenue
+[24:32] intelligence category. At the same time,
+[24:35] I know we need to win the seauite. We
+[24:37] need to we need to go up market and we
+[24:38] need to get into the seauite. So I start
+[24:41] to think where I look at our current
+[24:43] content strategy and I look at where we
+[24:44] need to go and I say we need a channel
+[24:47] that is dedicated to this audience with
+[24:49] this purpose
+[24:51] >> and I think a podcast is actually the
+[24:53] best way because this was pre- pandemic
+[24:55] where people were on trains, planes,
+[24:56] automobiles a lot listening to content
+[25:00] and I'd even talked to our CRO and said
+[25:02] hey when you have a big work problem but
+[25:03] you're too embarrassed to ask someone
+[25:05] internally what do you do? He said, "I
+[25:07] pick up the phone and I call an
+[25:08] executive friend of mine or someone I
+[25:10] trust." So, I launched an interview or I
+[25:12] pitched rather an interviewbased podcast
+[25:15] series where once a week we would go
+[25:18] talk to other executives on how they are
+[25:21] growing their companies using revenue
+[25:22] intelligence which is basically data
+[25:24] instead of opinions. We called pitched
+[25:26] it the revenue intelligence podcast
+[25:28] because sometimes you just need to be on
+[25:29] the nose. Uh, it was Reveal the Revenue
+[25:32] Intelligence podcast and I went to Udy
+[25:34] and I pitched that, but I pitched it
+[25:35] with the beginning first. Hey, you've
+[25:37] been telling me we want to win this
+[25:38] category. You've been telling me that we
+[25:40] want to get executives. Ryan told me
+[25:41] here's the content he listens to. Now is
+[25:43] the time to launch a podcast. And that
+[25:46] time he just said, "Yeah, go for it."
+[25:48] Right away. And so I know I give you a
+[25:51] big story. I promise tangents and
+[25:52] stories uh to begin their our
+[25:54] conversation. But that's how I think of
+[25:57] every quarterly planning, every strategy
+[25:59] I build is what is the board and the CMO
+[26:02] thinking about talking about and that's
+[26:04] what we need to latch on to because
+[26:05] content does need to grow the business.
+[26:07] >> And when you work with your clients, how
+[26:09] do they figure out what's going to be on
+[26:13] the CEO slide? Where do we want to go
+[26:16] with our content so we can reach that
+[26:18] sea level with the content that we're
+[26:20] writing? So, the first thing is is even
+[26:22] uh VPs of marketing CMOs get this then
+[26:25] like they may not call it the CEO slide,
+[26:27] but like they get it and they're like,
+[26:28] "Yeah, they can pull it up quickly."
+[26:30] >> Another thing is if I bring it up and
+[26:32] someone's like, "I don't even know what
+[26:33] that is. I haven't seen it." Like, okay,
+[26:35] then we are not at the right level to
+[26:36] even make this like we can't move
+[26:38] forward without this piece of
+[26:39] information. Otherwise, we're on content
+[26:40] island. We're just building things that
+[26:43] we think would be good and maybe we will
+[26:44] get engagement, maybe we'll go viral,
+[26:46] maybe we'll get lucky and build a great
+[26:47] newsletter,
+[26:48] >> but it won't be directly uh connected to
+[26:51] the goals and the direction that the
+[26:52] company is trying to go to. And I don't
+[26:53] like that. So, um I bring it up. One of
+[26:56] the examples to get more tactical was a
+[26:58] recent company said one of their top
+[26:59] three goals was is called Get Loud,
+[27:02] which is like they're in a very crowded
+[27:03] space. Um it's in CX and AI. So, it's
+[27:06] like this booming industry, booming
+[27:08] area, but there's a lot of competitors.
+[27:09] Everyone sounds the same. So get loud
+[27:11] was like how do we win share voice and
+[27:12] become the primary brand. And so a big
+[27:16] part of getting loud is just showing up.
+[27:18] So it's like the first thought is like
+[27:20] what are we doing today to be loud? Like
+[27:21] how loud are we today? Are we two out of
+[27:24] 10? Are we five out of 10? Are we
+[27:25] shouting but no one's listening? And so
+[27:27] once you kind of get an understanding of
+[27:29] oh we're actually at like three or four
+[27:30] out of 10. We're not really producing
+[27:32] that much content. We're not really
+[27:34] doing anything different. We're pretty
+[27:35] quiet. Okay great. So how do we get
+[27:38] loud? How do we want to show up? where
+[27:40] do we think we should show up and what
+[27:42] concepts do we think and stories should
+[27:43] we bring so that we're not just loud
+[27:45] shouting at people but we're loud
+[27:47] talking with our audience and so that's
+[27:49] when we said okay great everyone in our
+[27:52] to your to answer your your your
+[27:53] question Laures where do we build well
+[27:55] think of where is your audience
+[27:57] physically and digitally all day every
+[27:59] day I'm going to guess when you woke up
+[28:01] either on your phone or on your laptop
+[28:03] you probably opened your email you
+[28:05] possibly went to LinkedIn and you're
+[28:08] definitely sitting at a
+[28:09] really
+[28:10] >> some sort of a desk, right? So, and if
+[28:12] you're in sales or marketing, you
+[28:13] probably open to your CRM. Well, I can't
+[28:15] build in Salesforce. Salesforce won't
+[28:17] let me content market there yet. So, I
+[28:18] can't do that. But I can build
+[28:20] newsletter that you look forward to and
+[28:22] anticipate because I know you're going
+[28:23] to be there. And I can build uh content
+[28:26] on LinkedIn because I know that you're
+[28:27] going to go check that out to get
+[28:28] information and news. And then on your
+[28:30] desk, you know, if you have some cool if
+[28:32] you have some cool, can you see if you
+[28:34] have cool
+[28:35] >> That's funny.
+[28:36] >> Yeah. Yeah. You can get it on people's
+[28:37] desk. I'm holding up the uh benchmark
+[28:39] reports which is a very smart move. It's
+[28:41] thought leadership that's digital and
+[28:42] you can send it to people and get it on
+[28:44] their desk. Right? So this is you know
+[28:46] you can solve an awareness problem. You
+[28:47] can solve a lot of problems this way by
+[28:50] just thinking look where are they? Let's
+[28:51] simplify.
+[28:52] >> Yeah.
+[28:53] >> Look are they on Tik Tok maybe. Are they
+[28:54] on LinkedIn? Definitely. Great. There's
+[28:56] your answer.
+[28:57] >> Nice. And you mentioned also consistency
+[29:00] of some specific channels chosen to. So
+[29:03] there are some of the parts that have to
+[29:05] be scheduled and executed all the time
+[29:08] at the same time, but there are also
+[29:10] some of the variation of that
+[29:12] creativeness that comes into it. How do
+[29:14] you think about that type of structure?
+[29:16] >> It's a good question. I actually um
+[29:19] never plan more than a quarter ahead at
+[29:21] a time in terms of editorial unless you
+[29:23] have a big annual report, then obviously
+[29:25] that's going to, you know, you're going
+[29:26] to have to do that uh planning ahead of
+[29:29] time. But I think I think overplanning
+[29:32] can not only slow marketers down but
+[29:34] cause a lot of overthinking.
+[29:36] >> Like you shouldn't be planning more than
+[29:37] executing. I don't know what the exact
+[29:39] ratio could and should be. It probably
+[29:41] changes in Q4 versus other quarters. But
+[29:44] my thought is like look, if we're going
+[29:45] to win on LinkedIn, for example, we're
+[29:47] launching a CEO's profile, right? And we
+[29:49] want to get them going. You're not going
+[29:51] to get loud or get very very viewed if
+[29:53] you will or seen once a week, right?
+[29:56] You're you're basically saying four
+[29:58] times a month we're going to post and
+[29:59] our market is going to see this,
+[30:01] resonate with it, love it. Like that's
+[30:03] just not enough. Five times a week might
+[30:05] be too much. You might be your company
+[30:06] and team might not be able to support
+[30:08] five pieces of good content. So I like
+[30:10] to commit to one a pilot period of look,
+[30:13] we are launching this. We have some
+[30:15] directional goals, but we are really
+[30:17] here to set benchmarks. We've never
+[30:18] posted this before. We've never posted
+[30:20] from Laura's account before. So give us
+[30:22] 90 days to build the strategy, execute
+[30:26] on it, monitor everything that happens,
+[30:28] things that take off, topics that don't,
+[30:30] formats that work, formats that flop.
+[30:32] And then at the end of 90 days, we're
+[30:34] going to come back together and say,
+[30:35] great, what did we learn? How did we
+[30:36] really do? And one of the biggest things
+[30:38] I look at first is how many posts did we
+[30:40] commit to ourselves?
+[30:42] >> If we committed to 36 posts and then we
+[30:44] posted 12 times, the rest of the pilot
+[30:47] almost is a moot point because like we
+[30:49] didn't even show up and do the work,
+[30:51] right? It's kind of like, oh, I missed
+[30:52] quota, but I only showed up to work
+[30:54] eight out of 12 weeks. It's like, well,
+[30:56] no, you didn't do enough calls. You
+[30:57] didn't do enough work to get the
+[30:59] outcome. So, it's like the strategy
+[31:00] wasn't broken, right? Like, you didn't
+[31:02] you didn't do the work.
+[31:03] >> Interesting. And now you're talking
+[31:05] about the content that goes out both on
+[31:08] LinkedIn on the personal level, but also
+[31:10] on the company's page.
+[31:13] Talk to me more about how do you mix
+[31:15] those two? Where does the personality
+[31:17] comes in? How much do we reuse of the
+[31:20] content that we use on the website and
+[31:22] is there supposed to be a difference?
+[31:24] >> I view it like this. So one is a pure
+[31:27] numerical factor which is LinkedIn has
+[31:29] said I think it was LinkedIn if not them
+[31:31] I've seen it somewhere an incredible
+[31:33] source of personal profiles like are
+[31:36] yours or mine get five times more reach
+[31:39] based on the algorithm than a company
+[31:41] page. So to me, I have like my left, you
+[31:44] know, door to the left, you have like a
+[31:47] tough road, but a a somewhat paved road.
+[31:49] And then you look to the right and
+[31:50] you're like, that is five times harder.
+[31:51] It's five times worse terrain. It's
+[31:53] uphill and it's curvy. I'm going left.
+[31:56] Like, why would I take the hardest route
+[31:58] there? Right now, I know there's some
+[32:00] risks. People will say, "Oh, what if
+[32:01] Laura leaves or such such?" Okay, you
+[32:04] have to you have to balance the risk in
+[32:06] your own mind, right, and take it. But
+[32:07] to me, it's an obvious choice. We also
+[32:08] know we'd rather see a smiling face in a
+[32:10] person than we would a brand in a logo.
+[32:13] We obviously trust people more than
+[32:14] corporations, small or large. So to me,
+[32:16] it's a pretty pretty obvious decision.
+[32:18] If you had to pick one, the way that
+[32:21] they you said, "Where's the personality
+[32:22] come from?" It's in the word
+[32:24] personality. So the personality is very
+[32:26] easy and self um self-evident on the
+[32:29] personal profile. Um, if you have
+[32:31] obviously brand guidelines and a brand
+[32:32] voice that should and could could and
+[32:34] should come through on the company page.
+[32:36] I view I try to zoom out and think like
+[32:38] how do we really use a company page,
+[32:40] right? So if I'm a buyer or I'm not even
+[32:42] a buyer yet I'm just a professional and
+[32:45] I see Laura you posted on LinkedIn. I'm
+[32:48] like I like this. I wonder I wonder what
+[32:49] this is. Click Laura's profile.
+[32:51] >> Now there's your conversion opportunity.
+[32:53] Maybe I click follow because I really
+[32:54] liked what you said or I liked what you
+[32:56] have on your profile.
+[32:57] Now, I might even get interested and go
+[32:58] down to what's your role, right? I
+[33:00] scroll down like, "Oh, what's this
+[33:01] company? I never heard of this company
+[33:02] before." I click the company. What are
+[33:03] we really on that company page for?
+[33:06] Headline and maybe the description like
+[33:08] what does this company do? Maybe where
+[33:10] they're located and you're lucky to go
+[33:12] beyond that, right? Because we're moving
+[33:13] quick and we just wanted to get some
+[33:15] context to the conversation that we had
+[33:17] just seen on LinkedIn in this example.
+[33:19] So my opinion is you don't need to
+[33:21] necessarily overinvest in the best
+[33:23] content in the world on your company
+[33:25] page. Make sure that you're telling the
+[33:27] company story though. So what's the
+[33:29] brand story? What do you believe in? All
+[33:31] of your marketing offers, new content
+[33:32] should definitely be distributed through
+[33:33] that page. And your product story, how
+[33:36] are we different? What are we shipping?
+[33:38] Why should all be present there so Devon
+[33:41] the rando or Devon six months later
+[33:43] who's deep in, you know, deep in a sales
+[33:45] cycle wants to get more information and
+[33:47] how are you showing up? It's super clear
+[33:48] and immediate to me what this company is
+[33:50] all about and it should be congruent
+[33:52] with the website, the LinkedIn page, the
+[33:54] collateral I'm seeing, what people are
+[33:56] saying in the market, etc.
+[33:58] >> Does it also have to reflect on the
+[34:01] employees owned accounts? Because you
+[34:03] just mentioned exactly what the buyers
+[34:05] are doing. They saw a post by somebody
+[34:08] working at the company, then clicked the
+[34:10] profile, and then the profile says that
+[34:13] it's something totally different what
+[34:14] the company does. Does a company have to
+[34:16] care about those profiles?
+[34:18] >> I think you should definitely care, but
+[34:20] you should not attempt to control. You
+[34:22] have 100 employees, right? You're going
+[34:24] to have some that are going to wear the
+[34:26] company t-shirt every day of the week.
+[34:27] If you give them five, they're wearing
+[34:28] it Monday through Friday, right? And
+[34:30] they know the company narrative and
+[34:32] they're they're all the way plugged in.
+[34:33] And then you have some more zany
+[34:35] characters who maybe would never wear
+[34:36] the t-shirt and they're kind of a little
+[34:38] more outspoken, a little different.
+[34:40] >> That's people and that's natural in a
+[34:42] company and your profiles are going to
+[34:43] reflect that. And I say that because and
+[34:46] I don't think you're necessarily heading
+[34:47] this direction, but a lot of times
+[34:48] people say, "Oh, like we have to have
+[34:49] this specific description under, you
+[34:51] know, where it says Devon Reed head of
+[34:53] content has to have this description."
+[34:55] Yeah, provide it. But you might not get
+[34:57] 100% compliance there. That that
+[34:59] beautiful banner, great. Give it out to
+[35:01] people, but you cannot force them. And
+[35:03] that's the thing too is you don't want
+[35:04] to trade authenticity for control, which
+[35:07] is like you have to let your employees
+[35:08] be who they are and trust them because
+[35:10] you hired them in the first place versus
+[35:12] say, "Hey, starting January 1st, all 100
+[35:15] companies have to have this banner with
+[35:16] this type of profile picture with this
+[35:18] description." It's like people are going
+[35:19] to feel constrained. You'll get some
+[35:21] compliance, but you'll get a lot of
+[35:22] resistance as well.
+[35:23] >> Yeah. When you start working with
+[35:25] companies, what are the key metrics that
+[35:28] you're looking into? Let's keep the
+[35:30] metrics for later. I'm going on a
+[35:32] tangent now. So when you're talking
+[35:36] >> when you're speaking with your
+[35:37] companies, what is the strategy for
+[35:40] brand for SEO and for your content to
+[35:43] build brand to start with? Then we're
+[35:45] going to get into metrics. So what are
+[35:46] the building blocks that you're looking
+[35:48] for to build?
+[35:49] >> I I am no SEO pro, so I have some
+[35:52] experience, but I I haven't like set out
+[35:54] the strategy. I have kind of just been
+[35:56] sharing this philosophy which is like
+[35:58] look if you're if you're doing the
+[36:00] volume based approach or if you're
+[36:01] overindexing on um you're overusing AI
+[36:04] to write a bunch of web pages and
+[36:06] they're not very good. If you're doing
+[36:08] this approach you're basically investing
+[36:10] in bad first impressions at scale.
+[36:13] >> Well then
+[36:14] >> right so if the page doesn't have useful
+[36:16] information it's not written in a very
+[36:18] compelling way. Someone might find you
+[36:20] via search jump onto your website not
+[36:24] like what they see. not get value and
+[36:26] now you have a negative brand impression
+[36:28] right now. Now the next time I see your
+[36:30] logo, I probably avoid it because I know
+[36:32] that the trade-off wasn't there. I
+[36:33] invested time. I didn't get the value I
+[36:35] was looking for. Whatever that may be.
+[36:36] So I think too is like sometimes people
+[36:38] will say like, "Oh, there's like we have
+[36:40] like our content marketing and our
+[36:41] editorial team over here and then we
+[36:43] have our SEO team over here and they
+[36:45] those are two different shops creating
+[36:47] content for different for different
+[36:48] purposes. One's really good and
+[36:49] thoughtful and the other one's for
+[36:50] volume."
+[36:50] >> Yeah.
+[36:51] >> Can you imagine? Imagine like showing up
+[36:53] to like some work events and I'm like,
+[36:54] "Oh, this is Devon who's thoughtful and
+[36:56] cares, but like other parties aren't
+[36:57] really that important, but I'll still
+[36:58] come, but I'm just gonna kind of be like
+[37:01] >> volume.
+[37:02] >> Yeah, I'm gonna meet as many people as I
+[37:03] can and tell them nothing about me,
+[37:05] right?" He'd be like, "Wait, what? That
+[37:06] is insanity to have two different like
+[37:08] personas in this way." And so, I think
+[37:10] it's the same thing with SEO. It's like
+[37:12] your brand your your content is your
+[37:14] marketing
+[37:15] >> and your marketing is a huge chunk of
+[37:17] your brand identity. So why is it okay
+[37:19] in certain pockets to just outsource it
+[37:22] to the cheapest route, the most volume
+[37:24] play and go, "Yeah, we'll get a bunch of
+[37:26] traffic and then they'll find our good
+[37:28] content and then they'll like us." Like
+[37:30] this is just nonsensical to me. So what
+[37:32] you would do is first of all make sure
+[37:35] that your website is optimized because
+[37:37] when they find you make sure that that
+[37:40] is right%
+[37:41] >> and then as you mentioned 95% written
+[37:45] for
+[37:46] people who are not buying right now and
+[37:48] the other 5% for like get them to book
+[37:50] the demo right if you were to build a
+[37:53] dashboard for a content marketer what
+[37:57] should it include what should there be
+[37:59] of kind of measures
+[38:00] >> well I luckily I've have built built a
+[38:03] few. So the first thing and and maybe
+[38:04] not necessarily in order but I think
+[38:06] kind of chronologically.
+[38:08] So if I could have anything and
+[38:09] everything my dream dash my first
+[38:12] thought would be the early indicators.
+[38:14] Now I don't know I don't think content
+[38:16] produced would go through this dashboard
+[38:17] but if we could I have like a map slide
+[38:19] of like our cadence. So I don't know if
+[38:21] we're going super dreamy that would be
+[38:22] kind of cool but really I want to know
+[38:25] the visibility factor first. of like
+[38:27] where are we showing up in in AI search
+[38:30] and what is our web traffic doing week
+[38:32] over week month over month now there's
+[38:34] direct there's branded search and all
+[38:36] stuff I want to see that the next thing
+[38:39] I want to see is of the content we're
+[38:40] producing on each channel how are we
+[38:42] doing so for email for example are we
+[38:45] gaining subscribers or are we losing
+[38:47] them is our open rate going up or is it
+[38:49] going down are unsubs going up or they
+[38:50] going down is is CTRs same thing
+[38:53] clickthrough rates so those going up and
+[38:54] down on LinkedIn I want to know views
+[38:57] engagements. I I just map all of
+[38:59] engagements together. So, I just put
+[39:00] repost, comments, and reactions all in
+[39:02] one total engagement number because the
+[39:06] engagement rate can be very misleading.
+[39:08] And then and and then views if I didn't
+[39:09] say it already, and followers, right?
+[39:11] So, I'm kind of like I've got these like
+[39:13] chunks of like the LinkedIn channel, the
+[39:15] this channel. Uh I also love a good
+[39:17] webinar digital series. Um same with
+[39:19] podcasting. So, hey, are we getting more
+[39:21] views, more downloads, more rich, right?
+[39:22] So these key KPIs I can go deeper if you
+[39:25] want or listing these out but like I
+[39:26] want to know these and I want to know
+[39:29] what is our benchmark. So hey when we
+[39:31] typically throw this type of webinar we
+[39:33] get 500 registrance 30% show rate I want
+[39:36] to beat that next quarter. All these
+[39:38] metrics that I'm telling you are not on
+[39:39] the dashboard just so I can have as many
+[39:41] numbers as possible, but it's because it
+[39:43] tells me the health and the
+[39:45] effectiveness of what we're doing today
+[39:46] and gives me a baseline to beat because
+[39:48] quarter quarter we should be growing all
+[39:50] of these things otherwise they're broken
+[39:53] in some way, shape or form. Otherwise,
+[39:54] everything would be growing. Not
+[39:55] necessarily perfectly up into the right,
+[39:57] but some sort of growth.
+[39:58] >> How often would you be reviewing those?
+[40:01] >> Oh, on my obsessive days and end of
+[40:03] quarter probably more than I need to in
+[40:05] a more healthy sense. I used to do it
+[40:08] every Monday for sure. Um I had it very
+[40:10] manually built, but every Monday I had
+[40:11] on my team insert numbers because it was
+[40:12] manual and I would look at it and I
+[40:14] would say usually kind of like Monday,
+[40:16] Wednesday, Friday. I think Monday is
+[40:17] like you know remind me where we're at.
+[40:19] Wednesday is like a checkpoint if
+[40:20] anything's changed and then Friday is
+[40:21] like okay what are we going to focus on
+[40:22] the next week or any kind of updates
+[40:24] that I would send end of week. But um
+[40:27] for the most part, unless it's like the
+[40:29] last day or three of the quarter,
+[40:30] there's no point in having your
+[40:31] dashboard open 247 and hitting refresh
+[40:34] over and over again. Yeah, the slide.
+[40:36] >> What size What sizes of companies do you
+[40:38] usually work with?
+[40:40] >> Right now I'm in the um probably like
+[40:43] series A B to like C. So usually around
+[40:46] like 70 uh roughly 100 employees to
+[40:50] about a thousand employees like roughly
+[40:52] in that ballpark.
+[40:53] >> Got it. And when you start to work with
+[40:55] a smaller team, let's say Sirius E
+[40:57] company that wants to punch above their
+[40:59] weight with their content, what are the
+[41:02] tactics that they could employ? Oh,
+[41:04] that's a good question. Tactics to
+[41:05] employ to be bigger than you are. I
+[41:08] think one of the biggest ones is um also
+[41:10] the one people fight me on the most,
+[41:12] which is like building in public.
+[41:14] Companies will company will cross 100
+[41:16] million AR or 50 million AR R or 20
+[41:18] million AR and not want to share that.
+[41:20] So I go, "Okay, so you want you want the
+[41:23] whole you want the whole market to think
+[41:24] that you're the best and you want them
+[41:27] to know you're growing relief quickly
+[41:28] and there's two people ahead of you,
+[41:30] like two other companies ahead of you in
+[41:31] this perception, but you won't share
+[41:34] receipts of the scoreboard. You won't
+[41:35] share that you're winning. You you want
+[41:36] to win in private. Like how does that
+[41:38] work? How do you win privately and then
+[41:39] the whole world views you as a winner?"
+[41:41] Now, I know there's other metrics and
+[41:43] such and I'm just using the one that
+[41:44] came up this week uh in my world of like
+[41:47] AR, but there's a lot of ways where you
+[41:49] can show broadcast what you're doing.
+[41:52] So, for example, people often will host
+[41:53] an executive dinner and never talk about
+[41:55] it. Share the planning of it. Share
+[41:57] pictures there. Share that you are out
+[41:59] in the field in the market talking to
+[42:01] the people that matter. Because when you
+[42:04] see pictures of someone on stage or you
+[42:06] see Laura, you're hosting a event with
+[42:08] 10, you know, 10 other leaders in my
+[42:09] space, whatever, like your credibility
+[42:11] goes up.
+[42:13] >> So you want to build credibility and
+[42:15] proof that you're out here doing the
+[42:17] work and really substantiating a lot of
+[42:19] the claims that we make on our website,
+[42:21] right? Or the claims that we make on
+[42:23] keynotes and all these sorts of things.
+[42:25] So I think building in public is a inc
+[42:27] people roll their eyes at it because
+[42:28] they they've heard this phrase but they
+[42:30] don't really do it even though it works
+[42:33] on us so well. So I think again it's
+[42:35] like sharing milestones. I had another
+[42:37] company uh say you know we want to build
+[42:38] in the healthcare space.
+[42:39] >> So they put on a bunch of content never
+[42:41] talked about any of the stuff they were
+[42:42] doing just promoted the content. And I
+[42:45] was like you just had your CEO do a road
+[42:47] show across the country with healthc
+[42:49] care leaders. Learned a bunch of cool
+[42:52] stuff. Probably had some cool pictures.
+[42:54] had a lot of cool event spaces. Didn't
+[42:56] post any.
+[42:57] >> Not put that out there. It's not just
+[42:59] talking about you. You make it about
+[43:00] them, right? It's not, you know, I did
+[43:02] this, I learned that. You always make
+[43:04] these insights in this story something
+[43:06] that's entertaining and and educational
+[43:08] to the target audience. And so what
+[43:11] you're doing is you're providing both
+[43:13] value from an edutainment standpoint and
+[43:16] showing momentum.
+[43:17] >> Yeah.
+[43:18] >> You're broadcasting that the company's
+[43:19] making moves. We're growing. people are
+[43:21] coming to us and that gives out that
+[43:24] signal of credibility that I mentioned
+[43:25] >> and it also makes it much easier to
+[43:27] create because you already have that
+[43:28] knowledge in content. So there is not
+[43:30] that much to recreate like thought
+[43:33] leadership. You are already a leader.
+[43:35] >> You're talking with people. I love that
+[43:36] because when you're saying building in
+[43:39] public, you would feel like it's like a
+[43:41] single founder who's talking every time
+[43:43] how much money they have made or lost
+[43:45] and so on and you're afraid of that
+[43:47] because you're if you're showing that
+[43:48] you're losing, you're not sure if other
+[43:51] companies will want to choose to work
+[43:53] with you because you're sharing that in
+[43:55] public. But but if you're sharing your
+[43:58] successes, your excitement about what's
+[44:00] going on, everybody will have the FOMO
+[44:03] and they will want at least to have a
+[44:05] look at the company that is doing well.
+[44:07] >> Yeah, absolutely. I mean too is like
+[44:09] Yeah. And I think uh opening the comm
+[44:11] people think like opening the oh they're
+[44:13] going to see everything. It's not a tell
+[44:14] all. It's not a oh man terrible board
+[44:17] meeting. Let me share how that went. No,
+[44:19] of course not. But we also we also
+[44:22] identify with vulnerability and we and
+[44:24] we identify with missteps and mistakes.
+[44:27] And so it's not that you have to share
+[44:29] the mistake that cost you 10 million ARR
+[44:31] in a bad board meeting. But you could
+[44:33] share the mistake of uh I don't know
+[44:35] something silly like I totally forgot to
+[44:37] order chairs at our event. So I asked 75
+[44:40] executives to stand for three hours.
+[44:42] Don't tell my boss.
+[44:44] How terrible. Oh my god. Right. It's
+[44:46] just it's fun and it's like and it's
+[44:48] it's relatable. Right. So there's ways
+[44:49] to show these quote unquote failures,
+[44:51] mistakes in a way that's really just
+[44:54] part of a greater story because no one
+[44:56] no one no one wants to root for the
+[44:58] person who never loses and wins every
+[45:00] single time. It's why people hate the
+[45:02] big sports teams like the Lakers and the
+[45:04] uh Celtics and sorry I'm a basketball
+[45:06] fan and uh the Patriots back in the you
+[45:08] know a couple years back people hated
+[45:10] them because they won all the time.
+[45:11] >> Uhhuh.
+[45:12] >> We we like people we like underdogs.
+[45:13] We'd like people like us who, you know,
+[45:15] are doing a good job, ambitious, but,
+[45:17] you know, not, you know, not immune to
+[45:19] making a mistake from time to time.
+[45:20] >> Yep. And you relate to people that you
+[45:22] probably want to work with as well.
+[45:25] Yeah.
+[45:25] >> You're doing a good job and doing it the
+[45:27] hard work. Really,
+[45:29] >> it's it's very relatable because this is
+[45:31] also how we grow at Dream Data 2,
+[45:34] especially on LinkedIn because all of
+[45:36] those like real stories, people want to
+[45:38] hear them. So, what happened? Were there
+[45:40] no chairs or the food did not come on
+[45:42] time? Whatever. It's like, let's talk
+[45:44] about that as well or something that we
+[45:46] did on the website that didn't work.
+[45:47] That's cool because your audience is
+[45:49] listening and they want to see that
+[45:51] you're actually trying to make a
+[45:52] difference. I love that.
+[45:54] >> Devin, we're about to wrap up. For
+[45:57] people listening today, what is the one
+[46:00] thing that they have to remember that we
+[46:02] spoke about when leaving this? M well if
+[46:06] you want to grow your career, if you
+[46:10] want to get more creative freedom and
+[46:13] more budget, go find the CEO slide. Make
+[46:16] that a habit. And if you if you roll
+[46:18] your eyes at me, that's okay. But in
+[46:20] sooner than later, you will come back to
+[46:22] this piece of advice and you'll maybe
+[46:23] I'll try it. Everything is easier when
+[46:25] you understand it. It also what it does
+[46:27] is it shows your business acumen. So
+[46:29] when you're talking at a C level, even
+[46:31] if you are a specialist listening to
+[46:33] this, when you talk to your CMO in your
+[46:34] next maybe monthly reporting, size of
+[46:37] your company and you bring this up, you
+[46:39] are going to stand out against all of
+[46:41] her other one-on- ones because I
+[46:42] guarantee almost none of them are asking
+[46:44] about this thinking in this way that's
+[46:46] going to elevate you in and her mind.
+[46:48] The thing I'd say if you're on the
+[46:49] execution level and you want to win is
+[46:52] don't try to be better than your
+[46:53] competition, be different.
+[46:56] Find
+[46:56] >> something that does not exist that your
+[46:58] audience is craving yet passionate about
+[47:00] that. Nearly obsess over it, but don't
+[47:02] get obsessed over uh and and trust the
+[47:05] process that if you do good marketing
+[47:07] over time, good things will come.
+[47:09] >> There you go. That's the learnings from
+[47:12] going for Gong, Clary, and all the rest
+[47:14] of the clients that you're working with.
+[47:15] Devon, thank you so much for joining us
+[47:18] today. It was a pleasure. Thank you for
+[47:19] bringing up the benchmarks as well. I
+[47:21] love it that it's on the desk. This is
+[47:24] our marketing like just keep on looking
+[47:26] at that logo once in a while then we're
+[47:28] fine. We're fine. You'll see it other
+[47:30] places later. That's
+[47:31] >> great stuff in there. I really like it.
+[47:32] It's really well done.
+[47:34] >> Thank you so much for joining us today.
+[47:36] >> Of course. Thank you.
+[47:37] >> We hope you like listening to us.
+[47:40] Subscribe to our podcast and the ones
+[47:42] that we have been guests on.
+[47:44] >> And if you have any feedback for us,
+[47:45] just do let us know. And should there be
+[47:47] a guest that you think we should be
+[47:49] talking to, then like pitch us. We're
+[47:51] looking forward to seeing you.

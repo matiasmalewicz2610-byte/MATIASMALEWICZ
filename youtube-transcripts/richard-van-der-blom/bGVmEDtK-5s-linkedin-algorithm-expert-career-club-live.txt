@@ -1,31 +1,1354 @@
-# Transcript — Richard van der Blom - LinkedIn Algorithm Expert - Career Club Live
+# Transcript — bGVmEDtK-5s
 Video ID: bGVmEDtK-5s
 URL: https://youtube.com/watch?v=bGVmEDtK-5s
-Channel: guest-appearance
-Published: 2024-04-09
-Collected: PENDING
-Expert: Richard van der Blom
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~9546
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+I know you're going to find it you got to keep [Music] on welcome everybody to another episode of career Club live I'm Bob Goodwin your host and the president of career Club thank you so much for taking a few minutes out of your day to either watch us on YouTube or on your favorite podcast platform uh before we get started I want to let folks know about a couple of free resources for you if you're a job Seeker we are now offering uh free coaching every Thursday at 1:00 eastern time there's no fee there's no selling it's just the opportunity for you to get some highquality career coaching and ask your questions in a Q&A format so go to career. Club and you'll see the banner to register for that if you are an HR professional in particular in town acquisition we are now offering free resources for you to incorporate into your rejection or disposition letters so a great way to improve the candidate experience while also building your employer brand so again career. club and just go to the resources for employers under candidate experience with that I'm ready to get the uh episode started uh before I bring you on screen I want to introduce Our Guest today you may already know him from LinkedIn his name is Richard Vander Blum and I'm just GNA read this because he's got a very uh impressive background so we're going to dive into insights on LinkedIn today Richard is a just an acknowledge LinkedIn expert he is the uh person behind the algorithm report the LinkedIn algorithm report we all know that feels like a crazy black box and he's going to shed some light on what really drives it uh his expertise has transformed the way professionals and companies leverage LinkedIn offering strategies to significantly enhance online presence and engagement with the foundation in Social selling and digital branding his approach transcends basic profile optimization so I really want you guys to hear this focusing in instead on impactful storytelling and strategic networking as the Mind behind just connecting he's educated over 250,000 professionals and serve more than 850 companies globally making them a pivotal figure for anyone looking to unlock the potential of LinkedIn so with that let me welcome Richard Richard how are you doing today my friend well after such an introduction I'm doing very well absolutely hey and I'm I'm only I'm only telling the truth here so it's it's awesome to have you thank you so much it's really a privilege to have you you're you're welcome I'm I'm looking forward to it awesome where do we find you today where are you I'm uh I'm based in Valencia in the beautiful Spain so um I don't have a Spanish surname I I'm I'm Dutch but I decided to change the gray rainy Skies of Holland back in 2018 for the sunny Blue Skies of uh Valencia and the Mediterranean Coast awesome how's your C castian lisp coming along Valencia no it's no my castian lisp is very bad but I I'm getting pretty good in the valencian local language ah okay do you have a favorite slang word you've picked up that's repeatable in public [Music] um makaka but that's not a very nice thing to say that's if something goes wrong then that's how people say like enough sand I get it um very quick do you mind just um painting a little bit of a picture of your career Richard and kind of how you got here I think that'd be helpful to kind of set the table for your background of course yeah of course so um after when it came to the point in Holland you have you're around 17 16 17 you need to choose which university you're going to follow and I had no I had no IDE okay so and I had a few friends that I played football with them at the same team and they went to study economics so basically that was where I was going I'm going to study economics and then the first year of my study economics I know I'm not really a a number guy I don't like like a lot of uh bookkeeping so I went for commercial economics okay so people always see me as a smooth talker so I went okay let's go for sales so I studied commercial economics I started to work at Ado a well-known Staffing company I think they're globally active um I worked there for six years when I was actually actively head hunted by another Staffing Company ranad also one of the bigger names in in the world um moved there for two years and then I decided that I wanted to leave the Staffing industry and at that moment I applied for a job with um a Dutch training institute and they didn't had a sales department yet so they had about 200 trainers but each trainer was um themselves responsible for bringing in leads and it wasn't working that way so they invited me to set up a Sals and later on a marketing team so that what I did for about two years and while being active in a training company I thought wow I don't want to be the guy that sells the training I want to be the guy that does the training okay so that's why I started and now in 2009 I started to think okay how can I combine my knowledge for sales how to position yourselves how to get like at the table of your potential client or maybe even your potential employer because that's what I'm good at how can I transfer that knowledge and then just at that moment LinkedIn started to rise at least in Holland 2009 2010 and I saw the potential of LinkedIn being that vehicle that brings you via your profile to the table of where you actually want to be so I started December 2009 with my first LinkedIn training and I was actually um when we registered a company we were the third company in Europe that was 100% focused on LinkedIn so that was already like end of 2009 wow um and actually that's that's from that moment on it's been a journey of Entrepreneurship it's been a journey with heavy bumps going through some economical recessions yep um but it has also been a journey that has brought me to meet a lot of wonderful amazing people I mean I travel the world to be on stage talking about actually my well almost my hobby you know my expertise um so ever since 2009 I have been active in delivering training coaching consultancy when it comes to LinkedIn that's awesome awesome so that's what we're going to talk about today I think so you and I met um via Sarah Johnston who is a LinkedIn top voice here in the US uh you know like me you know she works a lot with um people in job transition and in fact I just spoke with her this morning so uh and gave her props for for introducing us but um you know there's there's a lot of emphas is I really kind of want to go in two directions with this one is the effective use of LinkedIn and again just being very transparent with listeners I engage you to help me with my LinkedIn profile I think I know a little bit about LinkedIn and I don't know everything so I went to the guy that knows about it Sarah introduced me via your algorithm your annual algorithm report do you mind just explaining that because that drives a lot of what we're going to talk about so people understand we have a common understanding what is the the algorithm report you guys have produced so basically a lot of people onl in actually on every social network but also a lot of companies uh put a lot of effort in creating content they want to be heard they want to put their voice out they want to share their expertise um but many of them struggle in getting a substantial reach or even reaching their target audience with their content and sometimes it's the quality of the content that is not good but we've also seen a lot of well-written content that would not drive a lot of traffic because the algorithm would not pick up on it or the algorithm would push it away so we got more and more questions actually from our clients about how does this work how does this Black Bog of the algorithm work what what do we need to do to increase visibility what are the dos and don'ts uh and why do some post fly and other ones like really don't take off like literally no reach um and we always answer those questions based on intuition our own experience but a lot of people they wanted to have like more the evidencebased background stats facts and that's actually back in 2018 when we started to do research into the algorithm for the first time basically to answer the question that we got from our Network and so what do you guys just I don't want to get super deep in the methodology but just so people understand you guys look at tens of thousands of posts and try and understand what's driving it has evolved so the first uh report we have published it this February for the Fifth Fifth consecutive year but the first report was a nine-page report where we did I think 3,000 post which we analyze manually just by simply taking uh print screen every 15 seconds and looking at the numbers um and this year we managed to collaborate with aop which is a LinkedIn Creator tool they have literally 10 thousands of users and they uh partner with us which means we could literally had a data of 1.5 million posts and since all these posts are published via their platform it's very easy to make an analysis for example example how many hashtags how many tags what is the best type of content is it a video post is it a text post so this year was really I mean last year we had 43 44 pages and this year we have a 123 page is almost like a book about the LinkedIn algorithm it's it's huge oh my go wow yeah yeah yeah and you know what's driving the algorithm is dynamic it's so what the answer was in 20 21 or 2022 would not be what the answer is in 2024 right no definitely no no it's changing and I also dare to say that it is changing more rapidly than ever also because LinkedIn is currently like bringing a lot of new features to the platform and every new feature to the platform impacts the algorithm impacts how we consume content how we publish content how we create content and let me be very clear about how people should should look at the algorithm report I mean it's not a Bible it's not something that tells you what to do what not to do it gives you an Insight so you may have a better understanding why some of your efforts fail and why some of your efforts fly so it it's more or less to find confirmation or find the reasons um and to optimize your strategy for example I get so many questions Lately from even Big G Creator say hey Richard my reach is down it's like really down like 50% 60% is it me well if you look at the algorithm no it's not you because 95% of all people have a 40% like downfall and reach so it's not you and that type of Confirmation and insights that's actually the goal behind the algorithm report no wa and again it's really I come from syndicated data so having norms and benchmarks and some Diagnostics like you say not a Bible but it's a well- researched quantitative you know data set to look at to say to your exact point oh it's not me this is this is the category is going down not just my brand as as an example so I think it's super cool I'm just very grateful that I found you first thing I'll just ask listeners to do is and we'll put this in the uh the show notes and even at the end of the YouTube video is a link to get the algorithm report the second thing that I would encourage people to do immediately is follow you you're putting out a tremendous amount of rich rich content that if you did a compendium of just every post Richard did in the past year would be a LinkedIn how-to book so again just something that people can do right now I want to kind of go at this from sort of two angles Richard and and you guide me here a little bit but I'm thinking about as you know career club we work a lot with job Seekers and they're not experts in LinkedIn at all right and the second thing they tend to not be experts in is personal branding and then the third thing they tend to not be experts in is networking and yet LinkedIn is all these things yes right and so this is not a you know how-to webinar you know with a bunch of slides and stuff but just you know if you can kind of start leading the conversation a little bit about yeah I will I will how people can most effectively be using LinkedIn you know in the most use case of a job search but I'll let you I'll let you run with that so I think the maybe the most important takeaway from this whole episode is going to be never stop doing Lin once you land your new job because that's basically what people do like I think 96% of all the people they start to use LinkedIn more intensively if they need a new job okay they're going to optimize their profile they're going to be more active once they land a new job they come back like in rest mode like okay I have a new job like job do what you see again fact-based is that people who have a consistent way of being active on LinkedIn I meaning updating your profile putting out valuable content actively networking people who do that have 16 times more chance to be found by recruiters or people who are looking for new talent because basically LinkedIn rewards your efforts okay they see that you spend time on their platform in return they make your profile more easy to find and Topping like the search ranks getting a higher place okay so and I seeing in I I'm going to be very honest I mean I have Facebook I have 200 friends people that I know I I used I I I used to use a I don't have Instagram I don't have Tik Tok or whatever I'm I'm really LinkedIn guy but for me LinkedIn is not a social network it's your digital identity in what I call the grown-up World okay B2B world or at least but it is I mean if you apply probably people are going to Google you like resumes people are going to Google you what can we find on the internet okay and the first link in 96% of all all cases is LinkedIn so to think for example that you can pimp your C your resume and you can make it all shiny and all like addressed to the vacancy but your LinkedIn profile is like ghost down it's a immediately turn off it's like really like it's I I I sometimes use the metaphor for people that are on Tinder like you have this shiny gr pictures of yourself and then you have your first date and you know you are like unshaved you don't look anything like the picture but that but that's really what happens between resumes and Linkedin profiles in a lot of cases so be aware that your LinkedIn profile it's out there 247 it needs to be update it needs to breed your expertise your knowledge and it needs to be active that's that's the most important Point okay um and then I also think that um I mean we really live in a network society and you mentioned that a lot of people are not good at networking but I think that has to do because they think networking is like almost like rocket science okay like I need to go to this arranged events I need to have this certain it's not I mean I Network when I go to my football club because I have the Chit Chats with my teammates okay what are you working on which project ah interesting I know a guy that does with bom I Network even when I'm on birthday parties I Network when I go out to I mean every day there are so many opportunities even if you're online to pay your groceries it's a network opportunity just by by chatting to people um and I think that's something that people need to get across that it's very easy to just start composition also like did I'm gonna marry two ideas at the risk of interrupting for half of a second is the the point that you made about people basically abandoning their LinkedIn profile once they've landed their new role guess what else they stopped doing networking and right well I don't need you anymore because I got what I was looking for and I'm done the other thing like you said like you're networking all the time and I know for a lot of my Less sales oriented friends out there that sounds gross like you know networking because there's this mis perception that networking is manipulative like I'm trying to use you and I wish we could just Rebrand networking as relationship building friend building that's all you know like if you're at your football club or you're at the birthday party or whatever like you're just being a human being building relationships well what are you working on that's interesting you know and you're hey maybe I could help you Richard what are you working I'm working on this hey I know somebody that might be that's called a relationship and to your point they think it's just over scientific or it's just some other category of conversation when you're just sharing information and being genuinely curious about another person well we we all know you know the the basics of network of relationship building is sometimes you are in a stage where you need to ask more than you can give and sometimes you're in a stage where you have simply more to give so if you just landed your new job as I don't know a sales director you have a lot to give you can share your experience maybe you have some jobs that you know um and the more people you are willing to help with like very simple gestures okay like to to to give them a name to give them a tip uh to give them feedback on what they are doing but the more people you are willing to help in a stage where you have more to give once you need those people when you have more to ask they will return the favor that's something that people really need to understand like um so to go back on something that you mentioned you said like follow Richard because the guy is giving away a lot and funny enough I had a few months ago uh a company ask for like a proposal for trainings so I made a proposal and then um the CEO came back to me and said like Richard I have a look at your profile your content he said like if I have my inter copying all your latest post from the last year and read like editing them and build them a structure I have the same knowledge that you can give me in a training and I said well yeah basically yes because I'm sharing 99% but you're not paying me for my knowledge you're paying me for a smooth implementation of this knowledge into your company okay that's that's my service so my service is something that I only can give to you and it's not something that you can Google and I think that's also something that people need to understand each professional has so much to give the things you have learned the expertise and the more you give the more eventually will come back to you that's that's for me the basics of relationship building yeah and I call that sewing and reaping and that's why it's not manipulative when you sew into other people and you you're giving you're planting seeds and the natural fruit that comes from being generous is you receive generosity in return that's just the way that it works that's a law of Nature and networking is just a again another manifestation of that um and I just feel like people are missing out when they view it as more transactional you know well then you're going to have transactional relationships because that's what you've sown right exactly exactly exactly so let's talk about you know uh John the job Seeker um and again I'm not trying to turn this into webinar exactly but what are two or three things that John can do to clean up his profile first that that's always one question and then the second thing is Bob I have no idea what I would post about like I hear you saying that I should post stuff I have no idea what to do okay let me give you three examples because it's it it's actually a mechanism on in so it's it's branding it's content and as you already said it's networking okay so let me give you a dip for for John for each one of them so one of the most important things when you build your brand is and I know this is this is like almost an empty box but it's authenticity okay don't try to be the guy that gets hired but try to be the best version of yourself and if you get hired it means it's the best match because they want you they don't want somebody pretending to be the best candidate so if you build your profile be authentic if you never wear like uh a suit don't go all then with a picture in suit because that's not you if you have a hobby for example you like to do uh chasing polar bears in Canada bad example but have have a background have a background of the Canadian mountains you know because that's where you have a story to tell I mean make it authentic okay so try to stand out by being authentic um and it helps if you understand how recruiters are using LinkedIn so what are the sections that they really filter on so it's about your skills which you can list it's about having a work description where you don't only mention your task and responsibilities but also your achievements because like tasking responsibilities in many companies are exactly the same if you're a sales director I can go to 10 companies and more or less the job description is exactly the same well I'm going to build on that super quick I'm interrupting you is yeah people get fired for not doing their job description just because you had that job doesn't mean you're any good at it it just means you had that job right exactly so go ahead so listing love it no no no so listing ding responsibilities is like it doesn't add anything I want to see what did you achieved or what did you achieve achieve with your team um and then the about section the about section should be your generic motivation letter like who am I how did I build my expertise and knowledge over the past years what is my added value for my future employer and where can you get to learn more of me that's basically what you need to have in your about section okay um so that that's about branding if you go to posting let's have an example of a CFO or a financial expert okay um if you want to be found based on your expertise it makes sense that you're going to publish content that is aligned with your expertise okay so that is aligned with financial things Financial articles and if you're not a good writer because I think that's really the lot of like the bottleneck for a lot of people that they don't feel comfortable in writing things make sure to follow influential people in the finance that are publishing content follow hashtags that are financially related that you can follow join groups where financials meet and whenever you see a piece of content that you go like hey this is an interesting article comment from your own perspective adding an additional Insight being relevant for your target audience uh starting conversation by asking questions I mean only 7.4% of all the members we have a billion members on LinkedIn but only 7.4% are publishing content so if you're not publishing content I mean you're the majority but at least try to become active and leaving comments because that means that you're dropping literally your profile in relevant discussions okay so I want to build on that thank you so I really want to build on this and is okay I don't know how to write a great post well chat GPT can probably help you a little bit with that but y defitely the point that you make because we I was just talking with clients about this the other day which is you know what do you want to be known for follow people who are known for that also who are influential like follow them ring the bell next to their name so you get pushed it's a Google news alert that hey Richard just published another thing so I don't have to go fishing for it it's just coming naturally into my feed and then you know I I promise you as one of that seven point whatever percent of content creators I know who follows me I know who comments on my stuff I know who reposts my stuff and so when somebody I've never met potentially never even had a conversation with is you know hey Bob really appreciate your post on you know taking a rest from the job search I found that in my own experience too and it made all the difference in the world blah blah blah so it wasn't just like great post love it but like a real human comment that matters and then if that person was to reach out to me now I'm into networking for real I know her name that's the lady that has dropped three really interesting comments on my post I'm very likely to take that call but that's that's the added value of getting into the comment section or relevant discussions that people see your name people get to know you people are going to check out your profile people might see that you're available for a new job and this is where the ball starts to uh starts running and and in addition to that I really need to say to all your listeners or viewers like get rid of that impostor syndrome that you think that everything you put on there needs to be perfect because that's not how it works we're not perfect um so instead of thinking but what if the people don't like my content okay ask yourself the question what does it say about me that I'm willing to jump into this that I'm willing to position myself alling in being vulnerable whatever it takes I think that's by far how you can really like distinguish yourself from the like the huge crowd LinkedIn that stays at the sideline because they're worried what their Network might think I mean we're all human we all make mistakes and the more mistakes you make also on then I've seen it by myself the quicker you will become successful the the point that you're making about you know not being afraid and you know what if nobody likes my content this is again why I really want to encourage people get your algorithm insights report there's a condensed version of it it's free and people will have a huge head start on knowing what works instead of as I like to say doing the best I don't know how like there's a manual here that will help you again it's not the Bible it's not you know a recipe do steps one through 10 and it's guaranteed but it will give you a huge head start on creating content the other point Richard that I just so appreciate that you said and again this is really in the impostor syndrome element too is authenticity people can feel the authenticity and they can feel the not authenticity and I'm I'm G to course crack myself a little bit chat GPT a good way to get started it's a good way for to maybe get your thoughts collected maybe create a little bit of structure of how you want to say something do not Outsource your posting to chat GPT everybody knows what chat GPT sounds like now do you agree yeah definitely so so you mentioned in the beginning of the session that chat GPT might help people to start creating content which I I 100% agree I mean it's a great tool to brainstorm to say hey I'm a Finance professional I have been working in the Staffing industry uh this is my interest what give me 10 topics that I could share with my network to position myself as an authority and chat GPT comes with d d d d and you choose the one that resonates with you and you might even ask JP can you give me a brief outline of how an article might look and then you start writing you know I for example I'm not native English so all my content that I write myself I put it to Jet GP to say correct for grammar okay that that's for example also how I use cat GPT but people copying literally the output from cat GPT into what they're going to publish that's that don't underestimate your network we all know how you sound and we know how chat GPT sounds and the same goes for commenting because I really see a huge increase in AI commenting tools being used on LinkedIn because people are aware that the more you put your name out on relevant discussions the better it is for your branding but they cannot manually or they do not want to spend that much time manually in searching all these posts commenting themselves so what they do they use tool Ling where they say follow these 300 people and if they publish right in AI comments so I've literally seen people publishing 800 comments a day by using a tool and they're all sound generic um not an authentic Don of voice and people see through it and they will really like like if I see it happening on my feet I would go like hey Bob nice to hear what your AI is thinking but what is your own opinion I call you out because I don't like people to send their robot to my PO to engage no no I I I mean you engage good to hear no no but I mean you engage because it's a topic that you like because you want here we go again you want to network with me you want me to respond but you don't send your robot to give me a generic comment just to put your name in my feet I mean it's I think in ways of Lin etiquette I could even call it rot to do that I would it well it's the opposite of authentic I'll say that much it um you know it's it the the a is artificial the a is not authentic so like I not a fan of that Approach at all and you know I get these these LinkedIn invitations hey Bob I looked at your profile looks really interesting would love to connect it's like oh my gosh seriously like what are you trying to sell me because I'm not interested in whatever it is um and the fun part is the fun the fun part is if you respond and say what exactly stood out on my profile you will not get a response you will never get a response you will never get a response because they're not like they are going for the connections they're not going for the discussion that's not they want so well it's a it's the waste of everybody's time yeah um may have one and I could be right I could be wrong this might be a myth but myths about LinkedIn for example I have read that when I do a post to help Drive the algorithm I should be on LinkedIn for a few minutes before commenting liking some stuff to basically kind like warm up LinkedIn that hey I'm here and then post and then stay on LinkedIn for a little while longer maybe engage on a couple other posts just to kind of fully bake my post instead of just putting it out there cold is that true or not true true true LinkedIn does not like us to what they call uh post and ghost you post your post and you ghost you go away or or drop and run whatever you call it you know but like GH that's good yeah yeah me too so it's true and I can see it myself because those things I have tested myself every now and then you know for example I always publish between 8 and 9 in the morning that that's my slot 8 and 9ine in the morning but imagine that I need to be boarding a plane at 8:30 okay so what I can do I can still posst at 8 um but then I go on a plane so I have no there is no way how I can interact directly on my post or other people's post and if I have that or I have an appointment or I'm in a training if I do not engage prior and directly after uh I publish I get around 30 3 five% less reach in total compared to when I do this so it's it's it's definitely true if I'm back to John the job Seeker um and let's just say I've got, 1500 2,000 connections and I do a post and it will show me the number of Impressions and if these are vanity metrics and again maybe this is just all myth but that's the only proxy I know for reach if I get a thousand Impressions should I be happy if I get 5,000 Impressions should I be happy like what's good that that's totally depending on the content for example um if you still if if you share a really personal story with people if you share something from the heart that resonates you can see a number of oppressions that is the tenfold of your connection so if you have a th000 con next you can get 10,000 20,000 Impressions because it resonates and the more people Engage The more networks are open to your post okay so really like grows beyond the borders of your first and second connections if you do a more indepth Niche post about your expertise you can be very happy if you get 50% of of reach of your connection so if you have a thousand connection you get 500 views job well done because that's not the type of post that people are going to massively engage with so it's not a post that is being boosted by the engagement so it's really difficult to answer if people say me what is a good percentage of reach it's totally depending on the type of post when you post it how you post it were you able to nurture it what is the topic all these elements influence that metric got it and then um what did you teach me about the you know hey I only 10 likes but there's this whole silent majority in Advocates right that that they're not taking the time to like it but they are seeing it they are reading it you are getting exposure can you explain that phenomenon that was new to me yeah so we call it the silent community so there is a huge it's it's more than 50% of all LED in members who are they're they are active users but they don't publish content themselves and they don't hit the like comment or repost button but they are like that's why we call them silent they read your post they click on the link to go to your article they watch your video they just will not engage because they don't like to put themselves in front of your eyes by by showing their profile so whenever people get frustrated or disappointed by the low reach of views or likes and they want to stop posting on ledin okay I always say don't stop be consistent for several months because if you are sure that you're putting out the right insightful content it will take you a few months until suddenly people start to send you invites that sound like this hey Bob I've been following your career advice now for four months I really liked your recent post can we have a chat on how you can help me to learn my dream job and then suddenly someone who has been signing for four months he's not connected you've never seen his name pop up under your post is now convinced that he needs you that's typical behavior of the silent Community they wait they consume you build trust they they you you become top of mind until they are convinced that they need your services or your expertise and then they reach out to you often outside LinkedIn like an email or a phone number that they found uh typical silent community so you're not only writing for the people who actively engage you're writing for over 50% that belongs to the silent community so I I want to just build on a point this takes a while there are no shortcuts right I mean you're oh here's the Silver Bullet just do this and like you'll be a rock star on LinkedIn it doesn't work that way and anybody who's looking for a quick fix is going to be really disappointed no so I I I you know I create a lot of content the hook you will never find on any of my contents is do this follow this method and in three days from now you will have result x i z because like you said I don't believe in shortcuts I've been on then since 2005 I it really took me years to understand the platform to use the platform in a successful way like I'm and and and now sharing that knowledge and I doesn't it doesn't mean that it will take you years for everyone but if somebody says to you buy my book buy my course Follow My Method and in three days from now you will land your dream job you will get new clients it's simply not true okay I don't know what's going on with my camera so let's go figure that out real quick there we go I'm back cool um yeah another myth maybe I'll ask two in one question because I think you'll get to them pretty quickly one is I've read or heard that if I do a post and within an hour whatever I edit it I found a typo I want to say it differently that kills the algorithm and the other thing is on external links within my post okay also algorithm okay first one was true until one and a half year ago is not true anymore so if you find a type if you want to edit your post you can do it without risking a penalty and reach the only thing is don't change more than approximately 15% of your posts okay that that's a risk because for example if I'm going to write a post where I explain to you Bob I'm really a a a big fan of the color red red is my favorite color do you agree and I get 100 likes and 80 people commenting yes I agree and then I go back to my post I addit and I said I'm a really big lover of the color blue the comments are still the same so that means that if you're substantially going to change your post LinkedIn will then almost make your post invisible because they don't know if what you have changed is still alive with the comments you earlier got okay makes sense to me yeah the second one um was about external links yes yes external link post perform less and there are two main reasons one un confirmed by LinkedIn the other one never confirmed and they will never confirm it so the official reason also the reason that LinkedIn tells us and it's true is that people on LinkedIn they don't have a high intent to leave the platform so if you share a Blog that is on your website and we are scrolling as soon as we see a link we just go to the next posi the fee because we don't want to go to your website we don't want to go to your YouTube Channel you know because I'm actually looking for updates what my network is doing on LinkedIn so opposite to if people are already on YouTube then they are looking for video so then it's good that if they see your video they can open it but onl then people have a very low intent to click on links okay so that's the first thing which means that people skip your post which is not good for the reach the second reason not confirm by LinkedIn but stated with almost every independent research I know including ours is that if not in the interest of LinkedIn if you drive away people from their platform if you say hey I've written this really cool post check out my website everybody who clicks leaves the platform that's not on the interest of LinkedIn because that means that they cannot show us any more ads or advertisement or whatever they want to show us okay so I do believe that platform gives you a hard time when you use to many external links but it's also uh your audience's behavior so couple of examples that have bit me I think one is hey I'm doing a a free webinar on Thursday you know here's the link to register right which would seem like a very appropriate thing to put in a post like that I've learned you tell me this is not right Bob to put it in the comment section so it's not in the post it's a comment no that doesn't work either no no okay dispell the myth no no no no no definitely not because I always tell people if your main conversion your main goal of the post is to have people to sign up for your webinar you don't need to give them a hard time by looking in which commment the link is you need to have your link in the original post and you need just to be accept that you get lower reach ah but you you get lower reach but you still get a lot of people signing up because you make it very easy and and the second reason why was very quickly to say no is that LinkedIn has seen that a lot of people jump to the comment because you get bigger reach so now since November if you leave a link in the comment that comment is almost invisible for your audience if you get multiple comments LinkedIn moves the comment with a link to the bottom which means people need three additional clicks to find the link which basically reduces a lot of traffic a lot of audience for your link so if your main goal goal is to have conversion just put the link in the original your goal is not reach it's at the end people need to click the link and sign up if your main goal has nothing to do with the article or the link the only reason you need to ask yourself is do I really need the link do I really refer to the post or can I just make my own and like I don't need an external link that's basically how I do it at the moment so sometimes job Seekers want to show expertise in value so they might like cite a Harvard Business review article or a Wall Street Journal article or whatever in that instance would you encourage them to just ignore the link and just say comments or or would you say no deal with the dilution of reach and put the link in there it's a good example and I think there's no good or bad way so again if you think I need the article because that's the compensation start I need to refer you put in the link and you you you just sell up for L reach you can also make like a print screen of the article okay so a print screen of the article so now you have an image and just stack Harvard Business magazine uh in the in the post so you tag the author so job done and instead of the link you have a pres uh an image okay that's also good beautiful and I think what's also great about and I've done that is you also get sort of the visual Beauty in your post of all the artwork they worked on for that article and you just get to borrow that drop it in it's like that's an interesting visually appealing post let me see what this is about um we're we're coming up on time so I want to be very respectful um just on the the the topic is there anything that we haven't talked about that you're like or if you want to summarize and like here are the three things just to kind of repeat that if you're a job seeker and you're really trying to maximize Linkin ABC I have a big a a capital A okay and that is proactivity that's a very important one proactivity so when I I I have been invited in the past by um career a agencies to provide training to their candidates yeah and one of the one of the exercise I always did I said okay I want you to make um a list of 10 potential but realistic companies you would like to work for okay so realistic so if somebody says I want to work at Walt Disney Florida and you live in Holland I mean that's not realistic well maybe who am I to say but I mean I know what you mean okay so then you go with that list to LinkedIn next thing you do is you're going to check if you know people this can do by the free search you know uh free search LinkedIn current company you take the first company that's on your list you click on connections and you see if you have anyone in your connection and it doesn't matter if he's working at HR or it or maybe he's the gardener it doesn't matter but if somebody works at the company he can give you insights okay that's the first thing what happen is that a lot of the times people get no hits and they say yeah I wanted to work at this company but I have no connection there okay now move the name from current connection or from current company to past company so now you're going to asking then am I connected with anyone who in the past has worked for the company on average five to six times more results because people move right and now you get people you are already connected with that hey look at this he left that company back in 2020 too but probably he can still tell me who's the most important person to connect hey are you still do you still have friends inside that company can you still like introduce me and that exercise like not to wait if your favorite company is going to have like a job offering but to put yourself proactively on the raidar of the decision makers in the hiring process with a list of 10 20 maybe 30 companies that really makes a difference okay um one more question question open to work should I have that thing on my profile yeah that that's a very good question and I'm not personally I'm not going to give you the most popular answer because I say no okay because especially in a labor market where a lot of companies struggle to find because we say like basically all the good people have jobs already you know you need to head hunt them uh on a position that they currently have I know and it's not only me but I I speak with a lot of recruiters I mean we work with a lot of HR uh departments and recruiters and I know that a lot of recruits are not necessarily triggered by that ring because they give you like it's almost like they brand you how come that if you're real expert that you haven't got a job in this dense Market where like people are scarce so I personally would say no make your profile appealing without having that green ring there are other experts LED in that say definitely yes because now your network knows that you're looking and they can look with you and they can support you on your journey which is also true but for me it's like a reverse data symbol yep because what I thought I'd read is that it's it's actually you know I can in my privacy settings you know open to work visible only to recruiters and then you can go this next step with the green ring as you said and open to recruiters is open to recruiters is what I advise because now it means that you're not publicly branded as a job Seeker but the people who are paying LinkedIn to get that information they can directly see that you're like almost directly available for a new job so that's a good thing but I'm talking about the publicly visible open to work green ring I'm not a big fan of that one awesome well I want I just want to go back to your capital A on being proactive and that really you know resonates with me and our philosophy that we you know put forward to our job candidates is there is so much that you do have control over I don't have control over world events the economy the company that laid me off whatever's happened is what's going on I have no control over that and that can be overwhelming and I start to feel like I don't have autonomy over my own career and so I just applaud you for saying be proactive that's something that you can control this you know and there are there are things that you can be doing doing as a job Seeker that you know will drive you know your visibility and desirability on the platform and that looks like hope to a lot of people because I mean let's be real LinkedIn is the marketplace for talent and so if we can do things that make us again more visible and more desirable in that Talent Marketplace that's a good thing so Richard I'm going to make sure that in the liner notes and in the video portion of this we would encourage people to connect with you on LinkedIn we would encourage people to get the free version of the algorithm insights for 2024 report and then lastly you actually have a special Community there's a way of engaging with you more uh intimately if I can say it that way do you mind describing just sort of the tribe that you're building with with our agency we focus more on midsize and and Enterprise companies with our trainings and I got especially the last three years I get so many requests from entrepreneurs like like like job Seekers individuals actually who want to leverage LinkedIn for their own individual business goals or career goals and I could never help them so in August 22 I started a community it's uh $90 a month uh we're currently at 60 members and um what we do literally you get three live sessions each month covering different topics how to build your profile how to put yourself on a radar for uh HR department how to uh have a unique voice when it comes to content strategy so all different topics related to LinkedIn we cover also with external experts if you can join live you will get a copy of the recordings you will get a copy of the slides so you guaranteed have three knowledge sessions a month we have a community on LinkedIn LinkedIn group we have a slack Community you can ask your questions 247 to other members and to me um all with a goal to grow individually but also to grow together as a community and it's a very nice place it's very collaborative um and again 90 bucks a month you're in and um I'll guarantee you oh something that I really need to emphasize if you get it now you directly have access access to all the workshops we had since the start so if you get in now you directly have over 60 hours of materials that you can look like okay what is my biggest challenge my biggest challenge is how to position myself and you can find the three master classes that we have done about personal branding you get the slides you can watch the recording so there's massive value um for like uh each member awesome so I'm really glad that you shared that because you know I want to you just personally endorse the work that you do and you you've you've got the insights you've got the experience you've got the track record and again LinkedIn is so important as you say kind of as the digital representation of your professional self your adult self um and and ignorance isn't an excuse you can know what to do better it's just a matter of accessing the right resources so Richard amazing thank you so much for uh spending a few minutes I really do appreciate it uh for people uh that watch listen thank you so much uh at the risk of staying the obvious ratings and reviews do help and lastly again if you're a job Seeker please go get some free resources from us at career. Club if you are an HR person we would love to help you with your candidate experience as well so with that Richard thank you so much and enjoy the rest of your week thank you Bob thank you thanks everyone I know you're going to find it you've got all in the so just keep [Music] going
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:00] I know you're going to find
+[00:04] it you got to keep
+[00:07] [Music]
+[00:10] on welcome everybody to another episode
+[00:13] of career Club live I'm Bob Goodwin your
+[00:15] host and the president of career Club
+[00:17] thank you so much for taking a few
+[00:18] minutes out of your day to either watch
+[00:20] us on YouTube or on your favorite
+[00:21] podcast platform uh before we get
+[00:24] started I want to let folks know about a
+[00:26] couple of free resources for you if
+[00:28] you're a job Seeker we are now offering
+[00:31] uh free coaching every Thursday at 1:00
+[00:34] eastern time there's no fee there's no
+[00:37] selling it's just the opportunity for
+[00:39] you to get some highquality career
+[00:41] coaching and ask your questions in a Q&A
+[00:43] format so go to career. Club and you'll
+[00:47] see the banner to register for that if
+[00:49] you are an HR professional in particular
+[00:51] in town acquisition we are now offering
+[00:54] free resources for you to incorporate
+[00:56] into your rejection or disposition
+[00:58] letters so a great way to improve the
+[01:01] candidate experience while also building
+[01:02] your employer brand so again career.
+[01:05] club and just go to the resources for
+[01:08] employers under candidate experience
+[01:11] with that I'm ready to get the uh
+[01:12] episode started uh before I bring you on
+[01:15] screen I want to introduce Our Guest
+[01:17] today you may already know him from
+[01:19] LinkedIn his name is Richard Vander Blum
+[01:21] and I'm just GNA read this because he's
+[01:23] got a very uh impressive background so
+[01:25] we're going to dive into insights on
+[01:27] LinkedIn today Richard is a just an
+[01:29] acknowledge LinkedIn expert he is the uh
+[01:32] person behind the algorithm report the
+[01:34] LinkedIn algorithm report we all know
+[01:36] that feels like a crazy black box and
+[01:38] he's going to shed some light on what
+[01:40] really drives it uh his expertise has
+[01:42] transformed the way professionals and
+[01:44] companies leverage LinkedIn offering
+[01:46] strategies to significantly enhance
+[01:48] online presence and engagement with the
+[01:50] foundation in Social selling and digital
+[01:52] branding his approach transcends basic
+[01:55] profile optimization so I really want
+[01:57] you guys to hear this focusing in
+[01:59] instead on impactful storytelling and
+[02:02] strategic networking as the Mind behind
+[02:05] just connecting he's educated over
+[02:07] 250,000 professionals and serve more
+[02:09] than 850 companies globally making them
+[02:12] a pivotal figure for anyone looking to
+[02:14] unlock the potential of LinkedIn so with
+[02:16] that let me welcome
+[02:19] Richard Richard how are you doing today
+[02:21] my friend well after such an
+[02:23] introduction I'm doing very well
+[02:25] absolutely hey and I'm I'm only I'm only
+[02:27] telling the truth here so it's it's
+[02:30] awesome to have you thank you so much
+[02:31] it's really a privilege to have you
+[02:34] you're you're welcome I'm I'm looking
+[02:35] forward to it awesome where do we find
+[02:37] you
+[02:38] today where are you I'm uh I'm based in
+[02:41] Valencia in the beautiful Spain so um I
+[02:45] don't have a Spanish surname I I'm I'm
+[02:47] Dutch but I decided to change the gray
+[02:51] rainy Skies of Holland back in 2018 for
+[02:54] the sunny Blue Skies of uh Valencia and
+[02:57] the Mediterranean Coast awesome how's
+[02:59] your C castian lisp coming along
+[03:02] Valencia no it's no my castian lisp is
+[03:05] very bad but I I'm getting pretty good
+[03:08] in the valencian local language ah okay
+[03:13] do you have a favorite slang word you've
+[03:14] picked up that's repeatable in
+[03:17] public
+[03:18] [Music]
+[03:20] um makaka but that's not a very nice
+[03:23] thing to say that's if something goes
+[03:25] wrong then that's how people say like
+[03:29] enough sand I get it um very quick do
+[03:32] you mind just um painting a little bit
+[03:35] of a picture of your career Richard and
+[03:38] kind of how you got here I think that'd
+[03:40] be helpful to kind of set the table for
+[03:43] your
+[03:43] background of course yeah of course so
+[03:48] um
+[03:50] after when it came to the point in
+[03:53] Holland you have you're around 17 16 17
+[03:55] you need to choose which university
+[03:57] you're going to follow and I had no I
+[04:00] had no IDE okay so and I had a few
+[04:03] friends that I played football with them
+[04:05] at the same team and they went to study
+[04:06] economics so basically that was where I
+[04:09] was going I'm going to study economics
+[04:11] and then the first year of my study
+[04:13] economics I know I'm not really a a
+[04:16] number guy I don't like like a lot of uh
+[04:19] bookkeeping so I went for commercial
+[04:21] economics okay so people always see me
+[04:24] as a smooth talker so I went okay let's
+[04:26] go for sales so I studied commercial
+[04:28] economics
+[04:30] I started to work at Ado a well-known
+[04:33] Staffing company I think they're
+[04:34] globally active um I worked there for
+[04:37] six years when I was actually actively
+[04:41] head hunted by another Staffing Company
+[04:43] ranad also one of the bigger names in in
+[04:46] the world um moved there for two years
+[04:49] and then I decided that I wanted to
+[04:51] leave the Staffing industry and at that
+[04:54] moment I applied for a job with um a
+[04:58] Dutch training institute and they didn't
+[05:02] had a sales department yet so they had
+[05:04] about 200 trainers but each trainer was
+[05:07] um themselves responsible for bringing
+[05:10] in leads and it wasn't working that way
+[05:13] so they invited me to set up a Sals and
+[05:16] later on a marketing team so that what I
+[05:18] did for about two years and while being
+[05:22] active in a training company I thought
+[05:25] wow I don't want to be the guy that
+[05:26] sells the training I want to be the guy
+[05:28] that does the training okay so that's
+[05:30] why I started and now in 2009 I started
+[05:34] to think okay how can I combine my
+[05:37] knowledge for sales how to position
+[05:39] yourselves how to get like at the table
+[05:43] of your potential client or maybe even
+[05:45] your potential employer because that's
+[05:46] what I'm good at how can I transfer that
+[05:49] knowledge and then just at that moment
+[05:52] LinkedIn started to rise at least in
+[05:54] Holland 2009
+[05:56] 2010 and I saw the potential of LinkedIn
+[05:59] being that vehicle that brings you via
+[06:01] your profile to the table of where you
+[06:04] actually want to be so I started
+[06:07] December 2009 with my first LinkedIn
+[06:10] training and I was
+[06:13] actually um when we registered a company
+[06:16] we were the third company in Europe that
+[06:18] was 100% focused on LinkedIn so that was
+[06:21] already like end of
+[06:22] 2009 wow um and actually that's that's
+[06:26] from that moment on it's been a journey
+[06:28] of Entrepreneurship it's been a journey
+[06:31] with heavy bumps going through some
+[06:33] economical recessions yep um but it has
+[06:36] also been a journey that has brought me
+[06:38] to meet a lot of wonderful amazing
+[06:41] people I mean I travel the world to be
+[06:44] on stage talking about actually my well
+[06:47] almost my hobby you know my
+[06:50] expertise um so ever since 2009 I have
+[06:53] been active in delivering training
+[06:56] coaching consultancy when it comes to
+[06:58] LinkedIn that's awesome awesome so
+[07:00] that's what we're going to talk about
+[07:01] today I think so you and I met um via
+[07:06] Sarah Johnston who is a LinkedIn top
+[07:08] voice here in the US uh you know like me
+[07:13] you know she works a lot with um people
+[07:15] in job
+[07:16] transition and in fact I just spoke with
+[07:19] her this morning so uh and gave her
+[07:21] props for for introducing us but
+[07:24] um you know there's there's a lot
+[07:28] of emphas is I really kind of want to go
+[07:31] in two directions with this one is the
+[07:34] effective use of LinkedIn and again just
+[07:36] being very transparent with listeners I
+[07:39] engage you to help me with my LinkedIn
+[07:41] profile I think I know a little bit
+[07:42] about LinkedIn and I don't know
+[07:45] everything so I went to the guy that
+[07:47] knows about it Sarah introduced me via
+[07:48] your algorithm your annual algorithm
+[07:51] report do you mind just explaining that
+[07:53] because that drives a lot of what we're
+[07:54] going to talk about so people understand
+[07:56] we have a common understanding what is
+[07:58] the the algorithm report you guys have
+[08:01] produced
+[08:04] so basically a lot of people onl in
+[08:08] actually on every social network but
+[08:09] also a lot of companies uh put a lot of
+[08:12] effort in creating content they want to
+[08:13] be heard they want to put their voice
+[08:16] out they want to share their
+[08:17] expertise um but many of them struggle
+[08:21] in getting a substantial reach or even
+[08:23] reaching their target audience with
+[08:25] their content
+[08:27] and sometimes it's the quality of the
+[08:30] content that is not good but we've also
+[08:33] seen a lot of well-written content that
+[08:37] would not drive a lot of traffic because
+[08:40] the algorithm would not pick up on it or
+[08:43] the algorithm would push it away so we
+[08:45] got more and more questions actually
+[08:47] from our clients about how does this
+[08:50] work how does this Black Bog of the
+[08:51] algorithm work what what do we need to
+[08:54] do to increase visibility what are the
+[08:56] dos and don'ts uh and why do some post
+[08:59] fly and other ones like really don't
+[09:02] take off like literally no reach um and
+[09:06] we always answer those questions based
+[09:09] on intuition our own experience but a
+[09:12] lot of people they wanted to have like
+[09:14] more the evidencebased background stats
+[09:18] facts and that's actually back in
+[09:20] 2018 when we started to do research into
+[09:24] the algorithm for the first time
+[09:25] basically to answer the question that we
+[09:27] got from our Network
+[09:29] and so what do you guys just I don't
+[09:31] want to get super deep in the
+[09:32] methodology but just so people
+[09:34] understand you guys look at tens of
+[09:36] thousands of posts and try and
+[09:38] understand what's
+[09:41] driving it has evolved so the first uh
+[09:45] report we have published it this
+[09:47] February for the Fifth Fifth consecutive
+[09:49] year but the first report was a
+[09:50] nine-page report where we did I think
+[09:53] 3,000 post which we analyze manually
+[09:56] just by simply taking uh print screen
+[09:59] every 15 seconds and looking at the
+[10:02] numbers
+[10:03] um
+[10:05] and this year we managed to collaborate
+[10:08] with aop which is a LinkedIn Creator
+[10:11] tool they have literally 10 thousands of
+[10:14] users and they uh partner with us which
+[10:18] means we could literally had a data of
+[10:20] 1.5 million posts and since all these
+[10:24] posts are published via their platform
+[10:26] it's very easy to make an analysis for
+[10:29] example example how many hashtags how
+[10:31] many tags what is the best type of
+[10:34] content is it a video post is it a text
+[10:36] post so this year was really I mean last
+[10:41] year we had 43 44 pages and this year we
+[10:44] have a 123 page is almost like a book
+[10:46] about the LinkedIn algorithm it's it's
+[10:48] huge oh my go wow yeah yeah yeah and you
+[10:53] know what's driving the algorithm is
+[10:56] dynamic it's so what the answer was in
+[10:59] 20 21 or 2022 would not be what the
+[11:01] answer is in 2024 right no definitely no
+[11:05] no it's changing and I
+[11:07] also dare to say that it is changing
+[11:10] more rapidly than ever also because
+[11:12] LinkedIn is currently like bringing a
+[11:14] lot of new features to the platform and
+[11:16] every new feature to the platform
+[11:18] impacts the algorithm impacts how we
+[11:20] consume content how we publish content
+[11:22] how we create content and let me be very
+[11:27] clear about how people should
+[11:29] should look at the algorithm report I
+[11:32] mean it's not a Bible it's not something
+[11:33] that tells you what to do what not to do
+[11:36] it gives you an
+[11:38] Insight so you may have a better
+[11:41] understanding why some of your efforts
+[11:43] fail and why some of your efforts fly so
+[11:46] it it's more or less to find
+[11:48] confirmation or find the
+[11:51] reasons um and to optimize your strategy
+[11:54] for example I get so many questions
+[11:57] Lately from even Big G Creator say hey
+[12:00] Richard my reach is down it's like
+[12:02] really down like 50% 60% is it me well
+[12:06] if you look at the algorithm no it's not
+[12:07] you because 95% of all people have a 40%
+[12:11] like downfall and reach so it's not you
+[12:14] and that type of Confirmation and
+[12:16] insights that's actually the goal behind
+[12:18] the algorithm report no wa and again
+[12:21] it's really I come from syndicated data
+[12:24] so having norms and benchmarks and some
+[12:27] Diagnostics like you say not a Bible but
+[12:30] it's a well- researched quantitative you
+[12:33] know data set to look at to say to your
+[12:37] exact point oh it's not me this is this
+[12:40] is the category is going down not just
+[12:43] my brand as as an example so I think
+[12:46] it's super cool I'm just very grateful
+[12:49] that I found you first thing I'll just
+[12:51] ask listeners to do is and we'll put
+[12:54] this in the uh the show notes and even
+[12:56] at the end of the YouTube video is a
+[12:58] link to get the algorithm report the
+[13:01] second thing that I would encourage
+[13:02] people to do immediately is follow you
+[13:06] you're putting out a tremendous amount
+[13:08] of rich rich content that if you did a
+[13:12] compendium of just every post Richard
+[13:14] did in the past year would be a LinkedIn
+[13:17] how-to book so again just something that
+[13:20] people can do right now I want to kind
+[13:23] of go at this from sort of two angles
+[13:25] Richard and and you guide me here a
+[13:27] little bit but I'm thinking about as you
+[13:29] know career club we work a lot with job
+[13:31] Seekers and they're not experts in
+[13:35] LinkedIn at all right and the second
+[13:38] thing they tend to not be experts in is
+[13:41] personal
+[13:42] branding and then the third thing they
+[13:44] tend to not be experts in is networking
+[13:47] and yet LinkedIn is all these things yes
+[13:50] right and so this is not a you know
+[13:53] how-to webinar you know with a bunch of
+[13:55] slides and stuff but just you know if
+[13:57] you can kind of start leading the
+[13:59] conversation a little bit about yeah I
+[14:02] will I will how people can most
+[14:04] effectively be using LinkedIn you know
+[14:06] in the most use case of a job search but
+[14:08] I'll let you I'll let you run with
+[14:11] that
+[14:13] so I think the maybe the most important
+[14:18] takeaway from this whole episode is
+[14:21] going to
+[14:22] be never stop doing Lin once you land
+[14:25] your new job because that's basically
+[14:27] what people do like I think 96% of all
+[14:31] the people they start to use LinkedIn
+[14:34] more intensively if they need a new job
+[14:36] okay they're going to optimize their
+[14:37] profile they're going to be more active
+[14:40] once they land a new job they come back
+[14:42] like in rest mode like okay I have a new
+[14:44] job like job do what you see again
+[14:48] fact-based is that people who have a
+[14:51] consistent way of being active on
+[14:53] LinkedIn I meaning updating your profile
+[14:57] putting out valuable content actively
+[14:59] networking people who do that have 16
+[15:03] times more chance to be found by
+[15:06] recruiters or people who are looking for
+[15:09] new talent because
+[15:12] basically LinkedIn rewards your efforts
+[15:16] okay they see that you spend time on
+[15:18] their platform in return they make your
+[15:20] profile more easy to find and Topping
+[15:23] like the search ranks getting a higher
+[15:25] place okay so and I seeing in I I'm
+[15:29] going to be very honest I mean I have
+[15:31] Facebook I have 200 friends people that
+[15:34] I know I I used I I I used to use a I
+[15:39] don't have Instagram I don't have Tik
+[15:41] Tok or whatever I'm I'm really LinkedIn
+[15:43] guy but for me LinkedIn is not a social
+[15:45] network it's your digital identity in
+[15:48] what I call the grown-up World okay B2B
+[15:51] world or at least but it is I mean if
+[15:55] you apply probably people are going to
+[15:58] Google you like resumes people are going
+[16:00] to Google you what can we find on the
+[16:01] internet okay and the first link in 96%
+[16:04] of all all cases is LinkedIn so to think
+[16:08] for example that you can pimp your C
+[16:11] your resume and you can make it all
+[16:13] shiny and all like addressed to the
+[16:15] vacancy but your LinkedIn profile is
+[16:18] like ghost down it's a immediately turn
+[16:20] off it's like really like it's I I I
+[16:23] sometimes use the metaphor for people
+[16:25] that are on Tinder like you have this
+[16:26] shiny gr pictures of yourself and then
+[16:29] you have your first date and you know
+[16:31] you are like unshaved you don't look
+[16:33] anything like the picture but that but
+[16:35] that's really what happens between
+[16:37] resumes and Linkedin profiles in a lot
+[16:40] of cases so be aware that your LinkedIn
+[16:42] profile it's out there 247 it needs to
+[16:45] be update it needs to breed your
+[16:48] expertise your knowledge and it needs to
+[16:50] be active that's that's the most
+[16:52] important Point okay um and then I also
+[16:57] think that
+[16:59] um I mean we really live in a network
+[17:01] society and you mentioned that a lot of
+[17:03] people are not good at networking but I
+[17:05] think that has to do because they think
+[17:08] networking is like almost like rocket
+[17:10] science okay like I need to go to this
+[17:13] arranged events I need to have this
+[17:16] certain it's not I mean I Network when I
+[17:20] go to my football club because I have
+[17:22] the Chit Chats with my teammates okay
+[17:24] what are you working on which project ah
+[17:26] interesting I know a guy that does with
+[17:28] bom I Network even when I'm on birthday
+[17:31] parties I Network when I go out to I
+[17:34] mean every day there are so many
+[17:36] opportunities even if you're online to
+[17:38] pay your groceries it's a network
+[17:39] opportunity just by by chatting to
+[17:41] people um and I think that's something
+[17:44] that people need to get across that it's
+[17:46] very easy to just start composition also
+[17:48] like did I'm gonna marry two ideas at
+[17:51] the risk of interrupting for half of a
+[17:52] second is the the point that you made
+[17:55] about people basically abandoning their
+[17:57] LinkedIn profile once they've landed
+[17:59] their new role guess what else they
+[18:00] stopped doing
+[18:02] networking and right well I don't need
+[18:05] you anymore because I got what I was
+[18:07] looking for and I'm done the other thing
+[18:11] like you said like you're networking all
+[18:13] the time and I know for a lot of my Less
+[18:16] sales oriented friends out there that
+[18:18] sounds gross like you know networking
+[18:21] because there's this mis perception that
+[18:23] networking is manipulative like I'm
+[18:26] trying to use you and I wish we could
+[18:29] just Rebrand networking as relationship
+[18:32] building friend building that's all you
+[18:34] know like if you're at your football
+[18:36] club or you're at the birthday party or
+[18:39] whatever like you're just being a human
+[18:42] being building relationships well what
+[18:44] are you working on that's interesting
+[18:46] you know and you're hey maybe I could
+[18:48] help you Richard what are you working
+[18:49] I'm working on this hey I know somebody
+[18:51] that might be that's called a
+[18:54] relationship and to your point they
+[18:56] think it's just over scientific or it's
+[18:58] just some other category of conversation
+[19:01] when you're just sharing information and
+[19:04] being genuinely curious about another
+[19:06] person well we we all know you know the
+[19:09] the basics of network of relationship
+[19:11] building is sometimes you are in a
+[19:14] stage where you need to ask more than
+[19:17] you can give and sometimes you're in a
+[19:19] stage where you have simply more to give
+[19:20] so if you just landed your new job as I
+[19:22] don't know a sales director you have a
+[19:25] lot to give you can share your
+[19:26] experience maybe you have some jobs that
+[19:29] you know um and the more people you are
+[19:32] willing to help with like very simple
+[19:35] gestures okay like to to to give them a
+[19:37] name to give them a tip uh to give them
+[19:40] feedback on what they are doing but the
+[19:42] more people you are willing to help in a
+[19:44] stage where you have more to give once
+[19:46] you
+[19:47] need those people when you have more to
+[19:50] ask they will return the favor that's
+[19:52] something that people really need to
+[19:54] understand like um so to go back on
+[19:58] something that you mentioned you said
+[19:59] like follow Richard because the guy is
+[20:01] giving away a lot and funny enough I had
+[20:05] a few months ago uh a company ask for
+[20:09] like a proposal for trainings so I made
+[20:12] a proposal and then um the CEO came back
+[20:16] to me and said like Richard I have a
+[20:18] look at your profile your content he
+[20:20] said like if I have my
+[20:23] inter copying all your latest post from
+[20:26] the last year and read like editing them
+[20:29] and build them a structure I have the
+[20:31] same knowledge that you can give me in a
+[20:33] training and I said well yeah basically
+[20:36] yes because I'm sharing
+[20:39] 99% but you're not paying me for my
+[20:42] knowledge you're paying me for a smooth
+[20:44] implementation of this knowledge into
+[20:47] your company okay that's that's my
+[20:49] service so my service is something that
+[20:51] I only can give to you and it's not
+[20:53] something that you can Google and I
+[20:55] think that's also something that people
+[20:58] need to understand each professional has
+[21:00] so much to give the things you have
+[21:02] learned the expertise and the more you
+[21:04] give the more eventually will come back
+[21:07] to you that's that's for me the basics
+[21:08] of relationship
+[21:10] building yeah and I call that sewing and
+[21:12] reaping and that's why it's not
+[21:14] manipulative when you sew into other
+[21:17] people and you you're giving you're
+[21:20] planting seeds and the natural fruit
+[21:22] that comes from being generous is you
+[21:25] receive generosity in return that's just
+[21:28] the way that it works that's a law of
+[21:30] Nature and networking is just a again
+[21:33] another manifestation of that um and I
+[21:36] just feel like people are missing out
+[21:39] when they view it as more
+[21:41] transactional you know well then you're
+[21:43] going to have transactional
+[21:44] relationships because that's what you've
+[21:46] sown right exactly exactly exactly so
+[21:50] let's talk
+[21:51] about you know uh John the job Seeker um
+[21:56] and again I'm not trying to turn this
+[21:58] into webinar exactly but what are two or
+[22:00] three things that John can do to clean
+[22:04] up his profile first that that's always
+[22:07] one question and then the second thing
+[22:08] is Bob I have no idea what I would post
+[22:11] about like I hear you saying that I
+[22:13] should post stuff I have no idea what to
+[22:15] do okay let me give you three examples
+[22:19] because it's it it's actually a
+[22:21] mechanism on in so it's it's branding
+[22:24] it's content and as you already said
+[22:26] it's networking okay so let me give you
+[22:27] a dip for for John for each one of them
+[22:30] so one of the most important things when
+[22:33] you build your brand is and I know this
+[22:35] is this is like almost an empty box but
+[22:37] it's authenticity okay don't try to be
+[22:40] the guy that gets hired but try to be
+[22:43] the best version of yourself and if you
+[22:45] get hired it means it's the best match
+[22:47] because they want you they don't want
+[22:48] somebody pretending to be the best
+[22:50] candidate so if you build your
+[22:54] profile be authentic if you never wear
+[22:58] like
+[23:00] uh a suit don't go all then with a
+[23:03] picture in suit because that's not you
+[23:06] if you have a hobby for example you like
+[23:09] to do uh chasing polar bears in Canada
+[23:13] bad example but have have a background
+[23:16] have a background of the Canadian
+[23:18] mountains you know because that's where
+[23:20] you have a story to tell I mean make it
+[23:22] authentic okay so try to stand out by
+[23:25] being authentic um and it helps if you
+[23:29] understand how recruiters are using
+[23:31] LinkedIn so what are the sections that
+[23:33] they really filter on so it's about your
+[23:36] skills which you can list it's about
+[23:39] having a work description where you
+[23:41] don't only mention your task and
+[23:43] responsibilities but also your
+[23:45] achievements because like tasking
+[23:48] responsibilities in many companies are
+[23:50] exactly the same if you're a sales
+[23:52] director I can go to 10 companies and
+[23:54] more or less the job description is
+[23:56] exactly the same well I'm going to build
+[23:57] on that super quick I'm interrupting you
+[23:59] is yeah people get fired for not doing
+[24:02] their job description just because you
+[24:03] had that job doesn't mean you're any
+[24:05] good at it it just means you had that
+[24:06] job right exactly so go ahead so listing
+[24:10] love it no no no so listing ding
+[24:12] responsibilities is like it doesn't add
+[24:15] anything I want to see what did you
+[24:16] achieved or what did you achieve achieve
+[24:18] with your team um and then the about
+[24:20] section the about section should be your
+[24:24] generic motivation letter like who am I
+[24:28] how did I build my expertise and
+[24:29] knowledge over the past years what is my
+[24:32] added value for my future employer and
+[24:36] where can you get to learn more of me
+[24:37] that's basically what you need to have
+[24:39] in your about section okay um so that
+[24:41] that's about branding if you go to
+[24:46] posting let's have an example of a CFO
+[24:50] or a financial expert okay um if you
+[24:55] want to
+[24:56] be found based on your expertise it
+[25:00] makes sense that you're going to publish
+[25:02] content that is aligned with your
+[25:04] expertise okay so that is aligned with
+[25:07] financial things Financial articles and
+[25:10] if you're not a good writer because I
+[25:11] think that's really the lot of like the
+[25:14] bottleneck for a lot of people that they
+[25:15] don't feel comfortable in writing things
+[25:18] make sure to follow influential people
+[25:21] in the finance that are publishing
+[25:24] content follow hashtags that are
+[25:27] financially related that you can follow
+[25:29] join groups where financials meet and
+[25:32] whenever you see a piece of content that
+[25:34] you go like hey this is an interesting
+[25:36] article comment from your own
+[25:39] perspective
+[25:40] adding an additional Insight being
+[25:43] relevant for your target audience uh
+[25:45] starting conversation by asking
+[25:47] questions I mean only
+[25:50] 7.4% of all the members we have a
+[25:53] billion members on LinkedIn but only
+[25:56] 7.4% are publishing content so if you're
+[25:58] not publishing content I mean you're the
+[26:01] majority but at least try to become
+[26:03] active and leaving comments because that
+[26:05] means that you're dropping literally
+[26:07] your profile in relevant discussions
+[26:09] okay so I want to build on that thank
+[26:12] you so I really want to build on this
+[26:14] and
+[26:15] is okay I don't know how to write a
+[26:17] great post well chat GPT can probably
+[26:20] help you a little bit with that but y
+[26:22] defitely the point that you make because
+[26:24] we I was just talking with clients about
+[26:26] this the other day which is
+[26:28] you know what do you want to be known
+[26:30] for follow people who are known for that
+[26:33] also who are
+[26:35] influential like follow them ring the
+[26:38] bell next to their name so you get
+[26:41] pushed it's a Google news alert that hey
+[26:43] Richard just published another thing so
+[26:45] I don't have to go fishing for it it's
+[26:47] just coming naturally into my feed and
+[26:50] then you know I I promise you as one of
+[26:53] that seven point whatever percent of
+[26:54] content creators I know who follows me I
+[26:57] know who comments on my stuff I know who
+[27:01] reposts my stuff and so when somebody
+[27:05] I've never met potentially never even
+[27:07] had a conversation with is you know hey
+[27:10] Bob really appreciate your post on you
+[27:12] know taking a rest from the job search I
+[27:15] found that in my own experience too and
+[27:17] it made all the difference in the world
+[27:19] blah blah blah so it wasn't just like
+[27:21] great post love it but like a real human
+[27:25] comment that matters and then if that
+[27:29] person was to reach out to me now I'm
+[27:31] into networking for real I know her name
+[27:35] that's the lady that has dropped three
+[27:37] really interesting comments on my post
+[27:40] I'm very likely to take that
+[27:43] call but that's that's the added value
+[27:47] of getting into the comment section or
+[27:49] relevant discussions that people see
+[27:51] your name people get to know you people
+[27:54] are going to check out your profile
+[27:56] people might see that you're available
+[27:58] for a new job and this is where the ball
+[27:59] starts to uh starts running and and in
+[28:03] addition to
+[28:05] that I really need to say to all your
+[28:08] listeners or viewers like get rid of
+[28:11] that impostor syndrome that you think
+[28:13] that everything you put on there needs
+[28:15] to be perfect because that's not how it
+[28:17] works we're not
+[28:19] perfect um so instead of thinking but
+[28:23] what if the people don't like my content
+[28:27] okay ask yourself the question what does
+[28:29] it say about me that I'm willing to jump
+[28:32] into this that I'm willing to position
+[28:34] myself alling in being vulnerable
+[28:36] whatever it takes I think that's by far
+[28:39] how you can really like distinguish
+[28:42] yourself from the like the huge crowd
+[28:44] LinkedIn that stays at the sideline
+[28:46] because they're worried what their
+[28:48] Network might think I mean we're all
+[28:49] human we all make mistakes and the more
+[28:52] mistakes you make also on then I've seen
+[28:54] it by myself the quicker you will become
+[28:57] successful
+[28:59] the the point that you're making about
+[29:01] you know not being afraid and you know
+[29:03] what if nobody likes my content this is
+[29:05] again why I really want to encourage
+[29:06] people get your algorithm insights
+[29:09] report there's a condensed version of it
+[29:11] it's free and people will have a huge
+[29:15] head start on knowing what works instead
+[29:18] of as I like to say doing the best I
+[29:20] don't know how like there's a manual
+[29:23] here that will help you again it's not
+[29:24] the Bible it's not you know a recipe do
+[29:27] steps one through 10 and it's guaranteed
+[29:29] but it will give you a huge head start
+[29:33] on creating content the other point
+[29:35] Richard that I just so appreciate that
+[29:37] you said and again this is really in the
+[29:40] impostor syndrome element too is
+[29:42] authenticity people can feel the
+[29:45] authenticity and they can feel the not
+[29:49] authenticity and I'm I'm G to course
+[29:51] crack myself a little
+[29:54] bit chat GPT a good way to get started
+[29:59] it's a good way for to maybe get your
+[30:00] thoughts collected maybe create a little
+[30:02] bit of structure of how you want to say
+[30:04] something do not Outsource your posting
+[30:07] to chat GPT everybody knows what chat
+[30:09] GPT sounds like now do you
+[30:12] agree yeah definitely so so you
+[30:14] mentioned in the beginning of the
+[30:15] session that chat GPT might help people
+[30:17] to start creating content which I I 100%
+[30:23] agree I mean it's a great tool to
+[30:25] brainstorm to say hey I'm a Finance
+[30:28] professional I have been working in the
+[30:31] Staffing industry uh this is my interest
+[30:35] what give me 10 topics that I could
+[30:36] share with my network to position myself
+[30:39] as an authority and chat GPT comes with
+[30:41] d d d d and you choose the one that
+[30:43] resonates with you and you might even
+[30:46] ask JP can you give me a brief outline
+[30:48] of how an article might look and then
+[30:50] you start writing you know I for example
+[30:53] I'm not native English so all my content
+[30:55] that I write myself I put it to Jet GP
+[30:56] to say correct for grammar okay that
+[30:58] that's for example also how I use cat
+[31:00] GPT
+[31:02] but people copying literally the output
+[31:05] from cat GPT into what they're going to
+[31:07] publish that's that don't underestimate
+[31:09] your network we all know how you sound
+[31:11] and we know how chat GPT sounds and the
+[31:14] same goes for commenting because I
+[31:17] really see a huge increase in AI
+[31:20] commenting tools being used on LinkedIn
+[31:23] because people are aware that the more
+[31:25] you put your name out on relevant
+[31:28] discussions the better it is for your
+[31:30] branding but they cannot manually or
+[31:33] they do not want to spend that much time
+[31:35] manually in searching all these posts
+[31:38] commenting themselves so what they do
+[31:40] they use tool Ling where they say follow
+[31:42] these 300 people and if they publish
+[31:44] right in AI comments so I've literally
+[31:46] seen people publishing 800 comments a
+[31:49] day by using a tool and they're all
+[31:51] sound generic um not an authentic Don of
+[31:55] voice and people see through it and they
+[31:59] will really like like if I see it
+[32:02] happening on my feet I would go like hey
+[32:06] Bob nice to hear what your AI is
+[32:08] thinking but what is your own opinion I
+[32:10] call you out because I don't like people
+[32:12] to send their robot to my PO to
+[32:15] engage no no I I I mean you engage good
+[32:19] to hear no no but I mean you engage
+[32:21] because it's a topic that you like
+[32:23] because you want here we go again you
+[32:26] want to network with me you want me to
+[32:28] respond but you don't send your robot to
+[32:31] give me a generic comment just to put
+[32:32] your name in my feet I mean it's I think
+[32:35] in ways of Lin etiquette I could even
+[32:37] call it rot to do
+[32:39] that I would it well it's the opposite
+[32:42] of authentic I'll say that much it um
+[32:46] you know it's it the the a is artificial
+[32:51] the a is not authentic so like I not a
+[32:55] fan of that Approach at all and you know
+[32:57] I get these these LinkedIn invitations
+[32:59] hey Bob I looked at your profile looks
+[33:00] really interesting would love to connect
+[33:02] it's like oh my gosh seriously like what
+[33:04] are you trying to sell me because I'm
+[33:06] not interested in whatever it is um and
+[33:10] the fun part is the fun the fun part is
+[33:12] if you respond and say what exactly
+[33:15] stood out on my profile you will not get
+[33:17] a response you will never get a response
+[33:19] you will never get a response because
+[33:21] they're not like they are going for the
+[33:24] connections they're not going for the
+[33:26] discussion that's not they want so well
+[33:29] it's a it's the waste of everybody's
+[33:31] time yeah
+[33:39] um may have one and I could be right I
+[33:41] could be wrong this might be a myth but
+[33:43] myths about LinkedIn for example I have
+[33:47] read that when I do a post to help Drive
+[33:50] the algorithm I should be on LinkedIn
+[33:53] for a few minutes before commenting
+[33:55] liking some stuff to basically kind like
+[33:58] warm up LinkedIn that hey I'm here and
+[34:01] then post and then stay on LinkedIn for
+[34:04] a little while longer maybe engage on a
+[34:06] couple other posts just to kind of fully
+[34:09] bake my post instead of just putting it
+[34:12] out there cold is that true or not true
+[34:15] true true LinkedIn does not like us to
+[34:18] what they call uh post and ghost you
+[34:21] post your post and you ghost you go away
+[34:24] or or drop and run whatever you call it
+[34:26] you know but like GH that's good yeah
+[34:29] yeah me too so it's true and I can see
+[34:31] it myself because those things I have
+[34:32] tested myself every now and then you
+[34:34] know for example I always publish
+[34:36] between 8 and 9 in the morning that
+[34:38] that's my slot 8 and 9ine in the morning
+[34:40] but imagine that I need to be boarding a
+[34:43] plane at 8:30 okay so what I can do I
+[34:45] can still posst at
+[34:47] 8 um but then I go on a plane so I have
+[34:50] no there is no way how I can interact
+[34:53] directly on my post or other people's
+[34:54] post and if I have that or I have an
+[34:57] appointment or I'm in a training if I do
+[34:59] not engage prior and directly after uh I
+[35:03] publish I get around 30 3 five% less
+[35:06] reach in total compared to when I do
+[35:09] this so it's it's it's definitely true
+[35:12] if I'm back to John the job Seeker um
+[35:15] and let's just say I've got, 1500 2,000
+[35:19] connections and I do a post and it will
+[35:22] show me the number of
+[35:25] Impressions and if these are vanity
+[35:28] metrics and again maybe this is just all
+[35:29] myth but that's the only proxy I know
+[35:31] for reach if I get a thousand
+[35:34] Impressions should I be happy if I get
+[35:36] 5,000 Impressions should I be happy like
+[35:38] what's
+[35:39] good that that's totally depending on
+[35:42] the content for example um if you still
+[35:46] if if you share a really personal story
+[35:48] with people if you share something from
+[35:50] the heart that
+[35:51] resonates you can see a number of
+[35:54] oppressions that is the tenfold of your
+[35:56] connection so if you have a th000 con
+[35:57] next you can get 10,000 20,000
+[35:59] Impressions because it resonates and the
+[36:01] more people Engage The more networks are
+[36:04] open to your post okay so really like
+[36:06] grows beyond the borders of your first
+[36:09] and second connections if you do a more
+[36:12] indepth Niche post about your
+[36:15] expertise you can be very happy if you
+[36:18] get 50% of of reach of your connection
+[36:21] so if you have a thousand connection you
+[36:22] get 500 views job well done because
+[36:24] that's not the type of post that people
+[36:27] are going to massively engage with so
+[36:29] it's not a post that is being boosted by
+[36:30] the engagement so it's really difficult
+[36:34] to answer if people say me what is a
+[36:37] good percentage of reach it's totally
+[36:39] depending on the type of post when you
+[36:41] post it how you post it were you able to
+[36:44] nurture it what is the topic all these
+[36:46] elements influence that
+[36:49] metric got it and then um what did you
+[36:53] teach me about the you know hey I only
+[36:57] 10 likes but there's this whole silent
+[37:00] majority in Advocates right that that
+[37:04] they're not taking the time to like it
+[37:05] but they are seeing it they are reading
+[37:07] it you are getting exposure can you
+[37:09] explain that phenomenon that was new to
+[37:10] me yeah so we call it the silent
+[37:13] community so there is a huge it's it's
+[37:15] more than 50% of all LED in members who
+[37:19] are they're they are active users but
+[37:23] they don't publish content themselves
+[37:25] and they don't hit the like comment or
+[37:26] repost button but they are like that's
+[37:29] why we call them silent they read your
+[37:31] post they click on the link to go to
+[37:33] your article they watch your video they
+[37:36] just will not engage because they don't
+[37:38] like to put themselves in front of your
+[37:39] eyes by by showing their profile so
+[37:43] whenever people
+[37:44] get frustrated or disappointed by the
+[37:47] low reach of views or likes and they
+[37:51] want to stop posting on ledin okay I
+[37:54] always say don't stop be consistent for
+[37:58] several months because if you are sure
+[38:01] that you're putting out the right
+[38:02] insightful content it will take you a
+[38:05] few months until suddenly people start
+[38:07] to send you invites that sound like this
+[38:10] hey Bob I've been following your career
+[38:13] advice now for four months I really
+[38:15] liked your recent post can we have a
+[38:18] chat on how you can help me to learn my
+[38:19] dream job and then suddenly someone who
+[38:22] has been signing for four months he's
+[38:24] not connected you've never seen his name
+[38:26] pop up under your post is now convinced
+[38:30] that he needs you that's typical
+[38:31] behavior of the silent Community they
+[38:33] wait they consume you build trust they
+[38:37] they you you become top of mind until
+[38:39] they are convinced that they need your
+[38:41] services or your expertise and then they
+[38:42] reach out to you often outside LinkedIn
+[38:46] like an email or a phone number that
+[38:48] they found uh typical silent community
+[38:50] so you're not only writing for the
+[38:52] people who actively engage you're
+[38:54] writing for over 50% that belongs to the
+[38:56] silent community
+[38:58] so I I want to just build on a point
+[39:02] this takes a while there are no
+[39:04] shortcuts right I mean you're oh here's
+[39:06] the Silver Bullet just do this and like
+[39:09] you'll be a rock star on LinkedIn it
+[39:11] doesn't work that way and anybody who's
+[39:13] looking for a quick fix is going to be
+[39:15] really
+[39:16] disappointed no so I I I you know I
+[39:18] create a lot of content the hook you
+[39:20] will never find on any of my contents is
+[39:24] do this follow this method and in three
+[39:26] days from now you will have result x i z
+[39:30] because like you said I don't believe in
+[39:31] shortcuts I've been on then since 2005 I
+[39:34] it really took me years to understand
+[39:37] the platform to use the platform in a
+[39:39] successful way like I'm and and and now
+[39:42] sharing that knowledge and I doesn't it
+[39:45] doesn't mean that it will take you years
+[39:46] for everyone but if somebody says to you
+[39:49] buy my book buy my course Follow My
+[39:52] Method and in three days from now you
+[39:54] will land your dream job you will get
+[39:56] new clients
+[39:57] it's simply not
+[39:59] true okay I don't know what's going on
+[40:02] with my camera so let's go figure that
+[40:04] out real
+[40:15] quick there we go I'm
+[40:17] back cool um yeah another myth maybe
+[40:22] I'll ask two in one question because I
+[40:23] think you'll get to them pretty quickly
+[40:25] one is I've read or heard that if I do a
+[40:29] post and within an hour whatever I edit
+[40:33] it I found a typo I want to say it
+[40:35] differently that kills the algorithm and
+[40:38] the other thing is on external links
+[40:41] within my post okay also
+[40:45] algorithm okay first
+[40:47] one was true until one and a half year
+[40:50] ago is not true anymore so if you find a
+[40:53] type if you want to edit your post you
+[40:55] can do it without risking a penalty and
+[40:57] reach the only thing is don't change
+[41:01] more than approximately 15% of your
+[41:03] posts okay that that's a risk because
+[41:06] for example if I'm going to write a post
+[41:09] where I explain to you Bob I'm really a
+[41:13] a a big fan of the color red red is my
+[41:17] favorite color do you agree and I get
+[41:21] 100 likes and 80 people commenting yes I
+[41:24] agree and then I go back to my post I
+[41:26] addit and I said I'm a really big lover
+[41:29] of the color blue the comments are still
+[41:32] the same so that means that if you're
+[41:35] substantially going to change your post
+[41:37] LinkedIn will then almost make your post
+[41:38] invisible because they don't know if
+[41:41] what you have changed is still alive
+[41:43] with the comments you earlier got okay
+[41:45] makes sense to me yeah the second
+[41:47] one um was about external links yes yes
+[41:53] external link post perform less and
+[41:55] there are two main reasons one un
+[41:57] confirmed by LinkedIn the other one
+[41:59] never confirmed and they will never
+[42:01] confirm it so the official reason also
+[42:05] the reason that LinkedIn tells us and
+[42:07] it's true is that people on LinkedIn
+[42:10] they don't have a high
+[42:12] intent to leave the platform so if you
+[42:16] share a Blog that is on your website and
+[42:19] we are scrolling as soon as we see a
+[42:21] link we just go to the next posi the fee
+[42:24] because we don't want to go to your
+[42:25] website we don't want to go to your
+[42:26] YouTube Channel you know because I'm
+[42:29] actually looking for updates what my
+[42:30] network is doing on LinkedIn so opposite
+[42:33] to if people are already on YouTube then
+[42:35] they are looking for video so then it's
+[42:37] good that if they see your video they
+[42:39] can open it but onl then people have a
+[42:41] very low intent to click on links okay
+[42:43] so that's the first thing which means
+[42:45] that people skip your post which is not
+[42:47] good for the reach the second reason not
+[42:49] confirm by LinkedIn but stated with
+[42:52] almost every independent research I know
+[42:55] including ours is that if not in the
+[42:57] interest of LinkedIn if you drive away
+[43:00] people from their platform if you say
+[43:01] hey I've written this really cool post
+[43:04] check out my website everybody who
+[43:07] clicks leaves the platform that's not on
+[43:09] the interest of LinkedIn because that
+[43:11] means that they cannot show us any more
+[43:12] ads or advertisement or whatever they
+[43:14] want to show us okay so I do believe
+[43:18] that platform gives you a hard time when
+[43:20] you use to many external links but it's
+[43:23] also uh your audience's behavior so
+[43:27] couple of examples that have bit me I
+[43:30] think one is hey I'm doing a a free
+[43:34] webinar on Thursday you know here's the
+[43:37] link to
+[43:38] register right which would seem like a
+[43:41] very appropriate thing to put in a post
+[43:43] like that I've learned you tell me this
+[43:45] is not right Bob to put it in the
+[43:48] comment section so it's not in the post
+[43:50] it's a comment no that doesn't work
+[43:53] either no no okay dispell the myth no no
+[43:56] no no no definitely not because I always
+[43:59] tell people if your main conversion your
+[44:03] main goal of the post is to have people
+[44:06] to sign up for your webinar you don't
+[44:09] need to give them a hard time by looking
+[44:11] in which commment the link is you need
+[44:12] to have your link in the original post
+[44:15] and you need just to be accept that you
+[44:18] get lower reach ah but you you get lower
+[44:21] reach but you still get a lot of people
+[44:22] signing up because you make it very easy
+[44:25] and and the second reason why was very
+[44:27] quickly to say no is that LinkedIn has
+[44:30] seen that a lot of people jump to the
+[44:32] comment because you get bigger reach so
+[44:34] now since November if you leave a link
+[44:38] in the comment that comment is almost
+[44:41] invisible for your audience if you get
+[44:43] multiple comments LinkedIn moves the
+[44:46] comment with a link to the bottom which
+[44:48] means people need three additional
+[44:49] clicks to find the link which basically
+[44:52] reduces a lot of traffic a lot of
+[44:54] audience for your link so if your main
+[44:56] goal goal is to have conversion just put
+[44:59] the link in the original your goal is
+[45:02] not reach it's at the end people need to
+[45:04] click the link and sign up if your main
+[45:07] goal has nothing to do with the article
+[45:09] or the link the only reason you need to
+[45:11] ask yourself is do I really need the
+[45:13] link do I really refer to the post or
+[45:16] can I just make my own and like I don't
+[45:18] need an external link that's basically
+[45:20] how I do it at the moment so sometimes
+[45:23] job Seekers want to show expertise in
+[45:27] value so they might like cite a Harvard
+[45:29] Business review article or a Wall Street
+[45:30] Journal article or whatever in that
+[45:33] instance would you encourage them to
+[45:37] just ignore the
+[45:42] link and just say comments or or would
+[45:45] you say no deal with the dilution of
+[45:48] reach and put the link in there it's a
+[45:51] good example and I think there's no good
+[45:54] or bad way so again if you think I need
+[45:57] the article because that's the
+[45:59] compensation start I need to refer you
+[46:01] put in the link and you you you just
+[46:02] sell up for L reach you can also make
+[46:05] like a print screen of the article okay
+[46:07] so a print screen of the article so now
+[46:09] you have an image and just stack Harvard
+[46:12] Business
+[46:13] magazine uh in the in the post so you
+[46:16] tag the author so job done and instead
+[46:19] of the link you have a pres uh an image
+[46:23] okay that's also good beautiful and I
+[46:25] think what's also great about and I've
+[46:27] done that is you also get sort of the
+[46:30] visual Beauty in your post of all the
+[46:32] artwork they worked on for that article
+[46:35] and you just get to borrow that drop it
+[46:37] in it's like that's an interesting
+[46:39] visually appealing post let me see what
+[46:41] this is about um we're we're coming up
+[46:44] on time so I want to be very respectful
+[46:47] um just on the the the topic is there
+[46:52] anything that we haven't talked about
+[46:54] that you're like or if you want to
+[46:56] summarize and like here are the three
+[46:58] things just to kind of repeat that if
+[47:01] you're a job seeker and you're really
+[47:03] trying to maximize
+[47:05] Linkin
+[47:07] ABC I have a big a a capital A okay and
+[47:12] that
+[47:12] is proactivity that's a very important
+[47:16] one proactivity so when I I I have been
+[47:21] invited in the past
+[47:23] by
+[47:25] um career a agencies to provide training
+[47:29] to their candidates yeah and one of the
+[47:32] one of the exercise I always did I said
+[47:34] okay I want you to make um a list of 10
+[47:39] potential but realistic companies you
+[47:42] would like to work for okay so realistic
+[47:44] so if somebody says I want to work at
+[47:47] Walt Disney Florida and you live in
+[47:48] Holland I mean that's not realistic well
+[47:50] maybe who am I to say but I mean I know
+[47:53] what you mean okay
+[47:55] so
+[47:57] then you go with that list to LinkedIn
+[48:00] next thing you do is you're going to
+[48:02] check if you know people this can do by
+[48:04] the free search you know uh free search
+[48:07] LinkedIn current company you take the
+[48:09] first company that's on your list you
+[48:11] click on connections and you see if you
+[48:14] have anyone in your connection and it
+[48:15] doesn't matter if he's working at HR or
+[48:18] it or maybe he's the gardener it doesn't
+[48:21] matter but if somebody works at the
+[48:22] company he can give you insights okay
+[48:24] that's the first thing what happen is
+[48:27] that a lot of the times people get no
+[48:29] hits and they say yeah I wanted to work
+[48:30] at this company but I have no connection
+[48:33] there okay now move the name from
+[48:35] current connection or from current
+[48:38] company to past company so now you're
+[48:40] going to asking then am I connected with
+[48:43] anyone who in the past has worked for
+[48:45] the company on average five to six times
+[48:48] more results because people move right
+[48:51] and now you get people you are already
+[48:53] connected with that hey look at this he
+[48:54] left that company back in 2020 too but
+[48:57] probably he can still tell me who's the
+[49:00] most important person to connect hey are
+[49:02] you still do you still have friends
+[49:04] inside that company can you still like
+[49:06] introduce me and that exercise like not
+[49:10] to wait if your favorite company is
+[49:12] going to have like a job offering but to
+[49:14] put yourself proactively on the raidar
+[49:16] of the decision makers in the hiring
+[49:18] process with a list of 10 20 maybe 30
+[49:21] companies that really makes a difference
+[49:24] okay um one more question question open
+[49:27] to work should I have that thing on my
+[49:30] profile yeah that that's a very good
+[49:33] question and I'm
+[49:36] not personally I'm not going to give you
+[49:39] the most popular answer because I say no
+[49:43] okay because especially in a labor
+[49:45] market where a lot of companies struggle
+[49:48] to find because we say like basically
+[49:49] all the good people have jobs already
+[49:51] you know you need to head hunt them uh
+[49:54] on a position that they currently have
+[49:57] I know and it's not only me but I I
+[50:00] speak with a lot of recruiters I mean we
+[50:02] work with a lot of HR uh departments and
+[50:04] recruiters and I know that a lot of
+[50:05] recruits are not necessarily triggered
+[50:07] by that ring because they give you like
+[50:10] it's almost like they brand you how come
+[50:11] that if you're real expert that you
+[50:13] haven't got a job in this dense Market
+[50:16] where like people are scarce so I
+[50:20] personally would say no make your
+[50:22] profile appealing without having that
+[50:24] green
+[50:25] ring there are other
+[50:27] experts LED in that say definitely yes
+[50:29] because now your network knows that
+[50:30] you're looking and they can look with
+[50:31] you and they can support you on your
+[50:33] journey which is also true but for me
+[50:35] it's like a reverse data
+[50:38] symbol yep because what I thought I'd
+[50:40] read is that it's it's actually you know
+[50:42] I can in my privacy settings you know
+[50:45] open to work visible only to
+[50:48] recruiters and then you can go this next
+[50:50] step with the green ring as you said and
+[50:53] open to recruiters is open to recruiters
+[50:55] is what I advise because now it means
+[50:57] that you're not publicly branded as a
+[50:59] job Seeker but the people who are paying
+[51:01] LinkedIn to get that information they
+[51:03] can directly see that you're like almost
+[51:06] directly available for a new job so
+[51:08] that's a good thing but I'm talking
+[51:09] about the publicly visible open to work
+[51:11] green ring I'm not a big fan of that
+[51:14] one awesome well I want I just want to
+[51:17] go back to your capital A on being
+[51:21] proactive and that really you know
+[51:24] resonates with me and our philosophy
+[51:26] that we you know put forward to our job
+[51:28] candidates is there is so much that you
+[51:31] do have control over I don't have
+[51:33] control over world events the economy
+[51:36] the company that laid me off whatever's
+[51:38] happened is what's going on I have no
+[51:41] control over that and that can be
+[51:42] overwhelming and I start to feel like I
+[51:44] don't have autonomy over my own career
+[51:47] and so I just applaud you for saying be
+[51:50] proactive that's something that you can
+[51:52] control this you know and there are
+[51:55] there are things that you can be doing
+[51:56] doing as a job Seeker that you know will
+[52:00] drive you know your visibility and
+[52:03] desirability on the
+[52:06] platform and that looks like hope to a
+[52:10] lot of people because I mean let's be
+[52:12] real LinkedIn is the marketplace for
+[52:16] talent and so if we can do things that
+[52:19] make us again more visible and more
+[52:21] desirable in that Talent Marketplace
+[52:24] that's a good thing so Richard I'm going
+[52:27] to make sure that in the liner notes and
+[52:30] in the video portion of this we would
+[52:32] encourage people to connect with you on
+[52:34] LinkedIn we would encourage people to
+[52:36] get the free version of the algorithm
+[52:38] insights for 2024 report and then lastly
+[52:42] you actually have a special Community
+[52:44] there's a way of engaging with you
+[52:49] more uh intimately if I can say it that
+[52:52] way do you mind describing just sort of
+[52:54] the tribe that you're building
+[52:57] with with our agency we focus more on
+[52:59] midsize and and Enterprise companies
+[53:01] with our trainings and I got especially
+[53:03] the last three years I get so many
+[53:05] requests from
+[53:07] entrepreneurs like like like job Seekers
+[53:11] individuals actually who want to
+[53:12] leverage LinkedIn for their own
+[53:15] individual business goals or career
+[53:17] goals and I could never help them so in
+[53:20] August 22 I started a community it's uh
+[53:23] $90 a month uh we're currently at 60
+[53:27] members and um what we do literally you
+[53:30] get three live sessions each month
+[53:33] covering different topics how to build
+[53:35] your profile how to put yourself on a
+[53:37] radar for uh HR department how to uh
+[53:41] have a unique voice when it comes to
+[53:43] content strategy so all different topics
+[53:46] related to LinkedIn we cover also with
+[53:48] external experts if you can join live
+[53:50] you will get a copy of the recordings
+[53:52] you will get a copy of the slides so you
+[53:54] guaranteed have three knowledge sessions
+[53:56] a month we have a community on LinkedIn
+[53:59] LinkedIn group we have a slack Community
+[54:01] you can ask your questions 247 to other
+[54:04] members and to me um all with a goal to
+[54:08] grow individually but also to grow
+[54:09] together as a community and it's a very
+[54:11] nice place it's very
+[54:13] collaborative um and again 90 bucks a
+[54:15] month you're in and um I'll guarantee
+[54:19] you oh something that I really need to
+[54:21] emphasize if you get it
+[54:23] now you directly have access access to
+[54:27] all the workshops we had since the start
+[54:29] so if you get in now you directly have
+[54:32] over 60 hours of materials that you can
+[54:35] look like okay what is my biggest
+[54:37] challenge my biggest challenge is how to
+[54:39] position myself and you can find the
+[54:41] three master classes that we have done
+[54:43] about personal branding you get the
+[54:45] slides you can watch the recording so
+[54:47] there's massive value um for like uh
+[54:51] each member awesome so I'm really glad
+[54:54] that you shared that because you know I
+[54:56] want to you just personally endorse the
+[54:58] work that you do and you you've you've
+[55:01] got the insights you've got the
+[55:02] experience you've got the track record
+[55:05] and again LinkedIn is so important as
+[55:07] you say kind of as the digital
+[55:10] representation of your professional self
+[55:12] your adult self um and and ignorance
+[55:16] isn't an excuse you can know what to do
+[55:19] better it's just a matter of accessing
+[55:21] the right resources so Richard amazing
+[55:23] thank you so much for uh spending a few
+[55:25] minutes I really do appreciate it
+[55:27] uh for people uh that watch listen thank
+[55:29] you so much uh at the risk of staying
+[55:31] the obvious ratings and reviews do help
+[55:34] and lastly again if you're a job Seeker
+[55:36] please go get some free resources from
+[55:38] us at career. Club if you are an HR
+[55:41] person we would love to help you with
+[55:42] your candidate experience as well so
+[55:44] with that Richard thank you so much and
+[55:46] enjoy the rest of your week thank you
+[55:48] Bob thank you thanks everyone I know
+[55:51] you're going to find it you've got all
+[55:56] in the so just keep
+[55:59] [Music]
+[56:01] going

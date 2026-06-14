@@ -1,31 +1,1482 @@
-# Transcript — Chris Walker: What Matters in B2B Marketing in 2024
+# Transcript — nmF1BFUnbus
 Video ID: nmF1BFUnbus
 URL: https://youtube.com/watch?v=nmF1BFUnbus
-Channel: guest-appearance
-Published: 2024-04-17
-Collected: PENDING
-Expert: Chris Walker
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~10469
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+[Music] hello everyone and uh thanks for joining in today I am super excited today because today I'm joined with uh no other than Chris Walker um somebody that I've been following tightly uh through the last couple of years if you haven't I hope today you'll learn why Chris is so interesting to to follow um as always this is going to be a casual session where you can treat it as a conversation that you're part of so if you comment on the chat on LinkedIn I can pull in the questions for for as we go along I've prepped 8 nine buckets which I'm sure Chris can go on about for an hour each but uh we'll try to try to see where it takes us uh Chris I named this conversation what matters in B2B Marketing in 24 and you've been right in 23 and 22 and 21 so I'm I'm really excited to hear what what comes out of today's conversation if there's a few people who have never heard about you before what is the uh what is the Chris Walker presentation uh nowadays yeah we'll keep it light Stefan great to great to be here uh as a side note I'm going to need because I'm coming to Europe for a couple of weeks maybe a month because it gets so hot in Austin so I'm gonna need some tips from you on where to go Italy France other places like that but we'll handle that another time um hey everyone great to be here for those of you that don't know me my name is Chris Walker I've been a B2B marketer since 2012 I I perceived myself more so a business professional at this point I started my first company refine lab in 2019 I'm now an investor and an entrepreneur and I started a new company called poetto um which is a go to market optimization and analytics company so maybe we'll get into some details around that as well um I've seen over the past 12 years in my career this transition of what's happening between how B2B buyers are buying and how B2B companies are so slow and oblivious in some ways oblivious to how how buyers have been changing um that was fine up until 20 2022 when the economy was really good economy slows down 2022 2023 and now B2B companies need to especially techken SAS company other companies outside of that Medtech manufacturing Financial Services have a lot more discipline in their financial structure but in in terms of tech SAS a lot of companies need to rebuild how they think about go to market and so looking forward to talking more about that with you today fantastic Chris and um I didn't get to tell you but I'm training to a marathon right now so this Sunday was listening to to you for two hours straight and I listened to some of the last episodes you put out i' would say to the people who have not listened to the latest ones there's one that is called must listen where you Chris go through kind of that crazy last five years you've had and I think for anybody who who've been following you they should really actually take a take a listen and that to understand the're behind the scenes because it sounds really they been it's like it's been extraordinary really hard uh but my first question would actually be you got into it a little bit but what is the kind of how have you seen this whole B2B marketing world go through like a change the last five years since you founded refin Labs yeah so I think there's a couple of core changes that have happened uh over the past five years one covid induced adjustments to how B2B professionals research discover and purchase products so preco um a lot of Executives especially ones that are sort of older or later in their career didn't use LinkedIn every day weren't part of a slack Community didn't come to a live event like this one and then through the period of covid and the work from home and those types of things all those people started to be trained about how to go and find their peers online how to engage with a community how to get information that way and what they found is that they trust that information and they get a lot better information that way than the sources they used to trust like Google or an analyst firm or other places like that so that's one big shift of how B2B Executives get information and make purchasing decisions there's been an economic slowdown from 2022 forward where before B2B companies might get a you know 20 to 100x revenue valuation especially Tech and SAS companies which have now normalized to 4 to 6X where they belong which puts tons of tons of tons of pressure on the sales and marketing expenditures that B2B companies have and the ca payback allowable CA payback periods that they're able to have which puts a lot of pressure on you know how effective is our marketing what's the actual Roi of our SDR team how many operations people do we actually need do we need those seven Tech tools or should we Consolidated into one tool that's way cheaper all those questions are starting to be asked I think those that's uh I think those are two of the big trends that I've seen um and uh looking forward to getting more detail I think the the one about just the scrutiny around go to market Investments is probably the number one thing that people need to be that companies have to make a adjustments for in 2024 and forward so we can get deeper into that yeah I think that I think that was also one of the observations I did as you were talking to my ear while I was running in this weekend the the CAC payback period uh if we are to get a little bit specific maybe you can just explain for those who know don't know what it is where it were and where it probably is uh today yeah so customer acquisition cost payback period the simple math is how much net new ARR do you acquire in a period of time divided by how much you spend in order to acquire that on sales and marketing and operations and technology and all those different things um in a public SAS company right now the median is around 40 months somewhere there's benchmarks around there in 40 months in private companies I see it pushing closer to 60 which means that you you it takes you five years to pay back the cost of just getting the customer so that your business doesn't actually profit off of that customer for that period of time which you know three and a half to 5 years is a long time that you have to retain that customer and then you actually become profitable and when your business gets uh valued at if you're a 5 million ARR business and you get valued at a 100 100 million 20x Revenue you can make that math work until you raise the next round but when there's pressure on valuations and now your 5 million AR SAS company that isn't growing very fast is now worth $12 million instead of of $100 million it puts a lot of pressure on the capital expenditures that you can use to acquire customers and grow um and so in short that's sort of what's going on I've analyzed personally Salesforce data data straight from the CFO put those two things together look at what uh private what's happening at private SAS companies and the average we see today is somewhere between 48 and 60 months for through 2023 partially because companies spend too much on sales and marketing and don't have enough pressure on efficiency but then also the amount of customers that companies have acquired the amount of money that other companies are spending to buy their technology has gone down so you see this happening in two ways companies spend too much money on sales and marketing and they're getting way less customers now than they did two or three years ago those two things compound it gets really ugly I'm I'm I'm really honestly surprised to hear that you see that high acceptable payback periods because that means you can invest a lot of money and if you're just able to make some math work in a four five year perspective the companies would actually accept this kind of every time they spend a dollar it's going to take them five years to get that dollar back yeah it's sort of it's it's sort of crazy when it's sort of crazy when you think about it and when we analyze we analyze some of the highest performing too so it's not just every company that comes in and works with us is a total disaster but the even the best performing companies are coming in at 2year cost to pay back a customer a great cyber security company in a hot Market great brand leading in their category still taking two two years and if you go and look at like a Salesforce or an adobe or some of the other publicly traded companies they're still sitting at 24 to 36 40 months as well and it's just it's it's just a lot of time and if you go into other Industries you go into Professional Services you go into medical device or manufacturing you go into those types of Industries you see CAC payback periods less than 12 months um and so I I this is really isolated to technology and SAS by the changes in valuation multiples in this in this space and then kind of let's say the CFO walks in the door now and say the 48 60 months that's over you need to get down to the 24 months or even less than that what is what is a the good way and what is the bad way of uh of trying to lower this this cact yeah so uh to be clear CFOs have been saying this since the middle of 2022 or late late 2022 at the absolute latest and the issue is that you don't just it's very it takes a long time to unwind it takes a really long time to try and figure out how do we get the same amount of Revenue at half the cost um the bad way to do it is to say okay we need to figure out how to lower our CAC by 20% so let's cut sales by 20% let's cut sdrs by 20% let's cut marketing headcount by 20% let's count let's uh marketing programs by 20% and just take a blanket cut across the entire go to market the reason being is that in order to actually make this effective what you need to do is you need to improve the ROI of your goto Market Investments which means identifying the things that are the lowest Roi and removing them and identifying the things that are highest Roi and doing more of them and so that's at at its most basic form that's what it comes down to um but most companies have taken blanket Cuts they look for what the easiest things to cut our let's find our agencies and fractionals and Consultants they're not our employees so we won't have to do a layoff so let's just get rid of them even if they are the highest producing Roi oh our advertising expenditures are easy to cut so we don't have to layoff let's just do that our outsourced SDR firm so what companies do first is they look for all of the expenses that don't require them to do a layoff and they cut all those that happened in 2022 then they realized in early 2023 that's not going to be enough they started doing layoffs layoffs happened a lot in 2023 across a lot of companies I talked about that on my podcast and now they're sitting at a point where they've done a lot of cost cut cost cutting in 2024 they're still not at the metrics they need to get to and then they need to figure out how do we actually make every dollar that we spend work a lot harder and I think that's where we are in 2024 yeah that it's just like it's it's super interesting as a marketer to follow these developments that used to be growth at all cost and of course that cannot be sustained as you said that do not Unlimited money then the next year comes around and oh you couldn't actually just do growth at all cost and now we actually need to be effective with our money and maybe just to do a plug is that what I bet you get this question all the time but is that what petto is doing now as opposed to refin laps that orchestrates the marketing I've I've been thinking a little bit about the distinction between the two uh Orcs yeah so refined Labs is a digital demand agency and account-based marketing agency we help companies optimize their advertising expenditures their marketing their content development how they report inside of their digital demand engine petto is much more focused on the entire go to market looking at sales sdrs operations technology and optimizing the expenditures across all of the go to market motions um petto also builds technology we have proprietary technology that does signal-based analytics when you look at the signal category that's rapidly developing and I'm very excited about this I see it sort of breaking up into multiple Cate subcategories that people haven't defined yet you have signal providers think trust radius bambora people like that that that are user gems that look at specific signals and then provide them to you you have signal aggregators that then pull in all those signals bambora and all that stuff and bring it all together like a six cense potentially what dream data is getting into things like that and then that you have signal analytics is that what petto is focused on I don't think many people are right now which is then measuring the impact of all of those signals that you know which signals suck which ones are good which on should we do more of of etc etc um and so that's how I see the signal category when you look back account-based marketing over the past five years has taken a very large uh large growth which is all about are we are is the fit of the account right do we have the right person in the account do we have is the right vertical is it the right company size does it fit into our segmentation all about fit the next wave of go to market is going to be focused on what signals do those good fit accounts send us we know the optimal time to invest advertising dollars to invest sales and SDR human capital to go out and try and get meetings and acquire that pipeline in 2019 that [ __ ] didn't matter companies would spend a massive companies would spend massive amount of money and they would they could do 10,000 actions and waste a lot of money to get one customer and now they have to be a lot smarter about when we reach out when we use our expensive $110,000 a year SDR $250,000 or more plus AE or the advertising expenditures that we have we have to be a lot smarter about when we deploy those Investments and who we deploy them against I'm I'm super fascinated by this uh this signals narrative that that you've kind of developed and for for those of us who've been following some time you used to talk about demand creation is and kind of how does this demand generation demand capture where yeah refer to kind of the signal based selling and activating signals and stuff yeah and so uh when most companies run their like pipeline analytics the pipeline analytics start when the opportunity gets created but the reality is there's this entire period of time between when the account sends the signal and when sales actually reaches out to when an opportunity is created that is basically a black hole and not connected against the opportunity and when you look at the data what you find is that the things that happen before the opportunity is created create massive predictors in sales velocity win rates sales productivity quota attainment marketing Roi all these different details that companies don't see right now and so the idea of a signal is to extend what pipeline means to from the at the time that sales reaches out to the time account sends us a signal and sales reaches out all the way to closed one and looking at that as a discrete process so when you separate this this is really from intent capture to closed one separate from demand creation and the reality is that B2B companies when they look at their goto Market inv M spend 85 90% of the total go to market investment on this part of the process and so while I love podcasts I love brand I love posting content organically on LinkedIn and things like that the B2B companies just don't spend a lot of money there and so the the biggest opportunity to optimize your go to market is to look at where is most of the money spent and then optimize that process which is where we're initially focused on at petto and this is so it's really fascinating it really connects a lot of stuff for me because we've always been doing marketing but why is it that we want to do marketing well then we start saying okay we do marketing to produce Revenue but what is it that leads to revenue from all the marketing you do that is the signals that we know that are kind of predictably turning into into Revenue so I really like that one yeah the simplest example for people listening that aren't that familiar with signals is that when most B2B companies like Target and do sales Outreach it's all about the fit right so let's find our tier one account and let's find the know CIO at that account if that's our Persona and then let's just do a bunch of Outreach and let's run advertising to those people but when you actually look at the data the signal really matters if you take a cold lead out of Zoom info which is a signal cold lead or you take the same CIO that H that submitted a pricing request on your website or attended your webinar or came to this event that the the ability for your sales team to create Pipeline and close them will be dramatically different between those two things different signal same account and same person and so what we need in the future is to basically map a quadrant between signals and fit and then identify these are the signals that matter for this segment these are the signals that matter for this vertical these what B2B companies don't see is all the times that they lose and so B2B data has a major survivorship bias they only look at the times that they win and when we're thinking about how do we optimize our go to market the biggest thing to do is look at all the times that you lose and stop doing those things but B2B data the way that it's set up is that basically every time a buyer sends a signal they send a signal and then your sales team reaches out and then you lose and the buyer sends another signal and then it overwrites that data and then you then it goes and then you lose and you could lose 99 times but you only see the one time that you win the 100 time and so it's we requiring a new data structure to track signals as an independent new dimension of your data alongs side contacts and accounts and opportunities and campaign members and that type of detail is really what we need in order to to see these insights I think it it it makes so much sense in terms of aligning the goto Market orc because a signal is not you have to wait 12 months until the contract is signed you can do your activity and then instantly or within weeks you'll know whether that signal triggered after you did your marketing activity and vice versa on the sales team you get the sales team to focus on the signals because you have data that proves that when those signals are present the velocity goes up they convert faster and my favorite part about signals to be direct is that it gets rid of the inbound outbound Marketing sales conversation we're a go to market team here are all the signals that are available let's forget whether marketing or sales did it and let's focused as a chief Revenue officer and a CMO and a head of revops on what are the signals that matter not putting these binary distinctions of oh marketing did that and sales did that I think we desperately need that and go to market and I watch a lot of companies use Silo Department level analytics where the SDR team has their data over here the marketing team has their data over here the sales team has their data over here they then roll it up into the qbr report none of the data matches up so B2B Executives don't have the right data to make decisions they don't have confidence in it so what do they do take a blanket cut across the go to the market or make no decision and take in action which is what a lot of the companies that we analyze have done over the past year oh we didn't you know we we thought that was happening but we weren't able to look at the data that way so we've just sat on that decision for the past 12 months we kept spending a million dollars a month on Google ads we kept we didn't scale our webinars but we thought that they were working or X Y and Z yeah this is super brilliant Chris um to change gear a little bit um there's a question that most of our customers come with and that is kind of related to how is it that we Elevate marketing to have that kind of seat at the revenue table so we're not kind of The Underdogs to sales anymore how can we change this narrative in in our orc and probably you're one of the people in the world that have the some of the best answers to to this question so so as a marketer in a B2B company how do you take that step from being kind of the supplier of leads to being regarded as somebody who's producing revenue for for your company for marketers to start thinking like like a seite executive instead of a department level leader in marketing to have a perspective on the finance and the C payback and how the ROI is calculated to have a perspective on how the sales process works and how we can be more efficient and things like that maybe as a marketer you should start calling the leads just like your sdrs do so that you get to experience that maybe as a marketer you should find some people and Pitch them just like your sales team does so you understand what that's like I think that there's often not always often marketers sit in a little Silo get sometimes looked at as the pretty picture department and the way that you break out of that is that you start looking at it as a business professional not just as a marketer yeah it's it's so true you need to you need to get out of that department and what I'm hearing you're saying is also you need to speak the language that the rest of the company cares about and not just clicks on an ad or lead submitted on LinkedIn or whatever it is and to and to actually do it like uh as a as a marketer in 2017 I went out into the field with our sales team and I would pitch the product to other people and I would see what objections to people have what things don't they understand where where in the sales process are we losing where are deals stalling out which then gave me a large perspective about what content do we need to create where are we going to advertise what influencers do we need to use to unblock these Key Parts in the sales process when we were running I in 2017 I read the Salesforce ebook or I don't want to throw Salesforce under the bus whoever's ebook it was big tech company that said okay build a gated ebook run Facebook and Linkedin ads against it collect these leads automate them into an email nurture after the seventh email passed them to the SDR what the SDR call them and I played the SDR role back then and so what did I do I called the people I emailed them I heard how they responded and I made a binary decision after making 10 calls that these people are not ready to buy why am I going to send this to our AE why am I going to send this to R SDR and so being able to actually be a part of those processes and get those learnings allows you to be a much better marketer because you see the exact same things that your other cross functional teams are seeing yeah and I can just Testament that I probably did the first 100 demo calls at dream data and you get a lot of respect for not throwing in crappy leads to the sales people because you just you're stuck there for half an hour where you just need to get time going and you know it's never going to be a sale so if you if sales complain about the quality take a couple of the demo calls themselves and see for yourself whether it's a waste of time or not 100% actually I sometimes I use the simple trick of just just imagining you having to physically present this lead to your salesperson like walking into the room saying hey this is your grandma she's 6 67 years old and she wants to buy our software do you think that that's possible probably not yeah I mean the way that I always looked at it in 2017 we had 40 sales reps across the country they were flying around doing demos we had four sdrs that were getting it was field sales they were like going and doing the demos they were in hospitals every day they also played account management so they were taking care of current customers and trying to expand them they were busy their jobs were hard why would I want to send them 10 shitty leads and waste their time and so I had I took a huge responsibility of every time that I sent a potential customer to our sales team that they were going to have the highest probability to win that over any other activity that they could do that's how you get respect from sales okay I'm I'm GNA post one or two more questions and then we have whoa then I'm going to take all the questions that's been posted in the the comment field so if you have a question for for Chris just start typing and I'll I'll pull them in uh one um what is the kind of have you kind of found a metric framework nowadays that you advise most B2B companies to run by to kind of sort of establish kind of these are the numbers we talk about forget about all the other numers I mean there's there's a ton of directions that we can take this you can take it at the CEO CFO level which is you know CA payback return on sales and marketing expenditures um there so there's one angle if as a go to market leader I like breaking it down into sales velocity and the four components of sales velocity ACV win rate sales cycle uh pipeline generated so you have like some good details there that align sales and marketing together across those four metrics when we think about optimizing signals we don't have it perfect yet but right now we use sales velocity as one of the core metrics to optimize against signals and when you have great signals sales velocity is really high when you have bad signal sales velocity is really low um signal to signal to win ends up being a really good metric because a lot of signals that sales acts on they'll do a thousand actions to win one deal um which is a massive inefficiency inside of the goto Market that most B2B companies don't see right now especially didn't see it in the growth at all cost era so there's a variety of angles to take it and then when you look at marketing it's not a perfect metric but I do think it's great for both benchmarking and looking at trending performance which is marketing Roi and a leading and a lagging indicator so lagging is just you know marketing expenditures to create Pipeline and revenue against the amount of Pipeline and revenue that's created so you have a revenue metric which is lagging you have a pipeline metric which is leading if that metric is going in the right direction on Pipeline you can expect that Downstream to be you know more effective on Revenue as well and so I think those become core metrics to look at and and given that B2B companies spend a majority of the money both on marketing and sdrs just to create pipeline not to build brand not to expand customers not to convert active pipeline a majority of the money gets spent to create signals and create Pipeline and so with that I think it becomes a very straightforward metric that a lot of companies can look at both to compare themselves against others but also to Trend their performance quarter over quarter I love how you kind of I would expect I was expecting you to kind of paint the funnel of leads marketing qualified leads sales opportunities Etc but what I'm really hearing you talk about is how much does it cost to acquire a new dollar like what how much are you investing in marketing and how much money is coming out on the other side just want to double check with the sales velocity meaning that that's like in simple terms it's the time it takes from say a demo call being booked until a client is one is that correct uh that is referred to as sales cycle sales velocity is different there's a difference between uh velocity and speed um so sales cycle is how long does it take you can Define this whether it's from signal to close one opportunity created to close one demo to close one just make sure you use it consistently with inside your company but then sales velocity is combining so it's uh average contract value from close one deals in the during the analysis period the amount of Pipeline and the amount of opportunities that you've created within that same time period uh the win rate of those opportunities based on close one and close loss deals divided by the sales cycle length and the amount of days inside the period and that gives you a a combined metric because as goto Market professionals what most goto Market professionals seem to think is that oh the only way that we can augment growth at our company is to create more pipeline but in reality if you close deals twice as fast that's going to make a huge impact if you increase win rates from 20% to 40% you'll double your Revenue just off of that with the same amount of Pipeline and so there's a lot of there's a lot of leverage that we have as goto Market professionals to increase the efficiency the productivity the growth of our company that doesn't involve just you know spending more ad dollars to to create more pipeline absolutely and I think that's probably a good segue to take the first question here um so Blake is asking what is an example of a signal to win uh ratio so in the companies that we analyze like let's say that one of one signal might be that a buyer subm a pricing request on your website right so that could be a signal um in the analysis you'll win those signals from the exact signal to close one somewhere between 5 and 12% which is huge like your sales team talks to somewhere between you know eight and 20 people in order to win a deal um conversely if you pull a cold lead out of Zoom info or you have someone that downloaded your ebook through SEO on your website that the signal to win of those deals is going to be less than 0.1 % which means that your the same salespeople need to expend somewhere between 50 and 100x the amount of activities to win the same amount of Revenue if you look at a pql or a free trial signup those will be incredibly low as well sometimes the exact same thing as a gated ebook which is something that I've now we have data to show but something that I've been saying for a long period of time that a free trial signup is basically just a gated e like getting a gated ebook lead in a different way because the signal to win ratios are about the same yeah it's funny with those ebooks when you first start studying the conversion rate if you do like a super broad ebook to to pipeline you're gonna need thousands of conversions so stop doing those ebooks um then you can just just to go a little bit further for Blake then you can take that and stack rank the basically signal to win across all the signals in your go to market not just your first-party website or your what people view as marketing signals but also what about the signals that user gem says you that your sales team wins what about just like taking six sense intent data what about uh all the other thing like your partner is having you connected with some partner software and you have second party data we need to be able to look at all those things together look at the cost of the signal and the signal to wins to be able to really understand the efficiency yeah yeah I think the point is there's an infinite amounts of accounts out there but you need to be spending the time on the accounts that are showing that signals that looks like somebody who's in Market to buy at the moment and then conversely once you're able to optimize that process and instead of spending $2 million to get five million now you're spending five million to get five million then you have a ton more money to go out and figure out how do we get more of our accounts to create those signals I.E demand creation companies can't spend there right now because of how inefficient their intent capture to close one processes yeah and then then there's a followup to just what you just said from Teresa why free is converting so low that's strange if they're interested in software uh because a majority of B2B companies get their free trial signups by running Performance Marketing on Google ads or high volume SEO that drives a lot of people into a free trial that either spam SMB would never want to buy the product it's just a function of how companies get the free trials um so that's gen that's generally what we see of why it's converting so low if you look at the P like plg benchmarks which by the way I don't believe but the plg benchmarks will say 5% of free trials will convert um we're typically seeing that far less than a half a percent which is 10x less than what the Benchmark is um so it's generally just how how companies get the free trials and their need to use advertising dollars to pump up their mqls or their free trial signups which when you just spend more money to do that what do you do you dramatically increase the volume while also dramatically decreasing the quality you end up getting about the same thing out and as a marketer you need to be studying what is coming through that free free trial door and then does it look like the people who are normally buying or is it the something at gmail or at Yahoo or whatever it is then you need to figure out what's sending you all this crap yep and then uh and then back in the day in like two 2020 I remember that plg companies would be able to raise a series B based on free trial signup growth so what what would they do they would just spend $200,000 a month to get 5,000 more free trial signups so they could raise their $20 million series B and uh it didn't matter if any of those customers were qualified to buy if they converted to an Enterprise customer or anything like that back in the day all that stuff is out the window but a lot of the bad behavior and the best practices around that that were created during that time still exist today yeah I don't know what we were doing back then uh like the signals questions are really going off here Chris I'll give you another one so when we're talking about signals is it best to look at account level or I'm guessing the opposite is the like individual uh level um so no matter what when your sales team takes action they take action against a person and so when you look at signals signals basically can be created through a a person level signal you got these things like RB Tob that get like Deon onize a person on on your website or someone fills out a form or someone intends your webs your webinar and then you have a a person level signal um you also could have account level signals and what what's the process of what happens when you have an account level signal you get an account level signal your sales team goes into a contact database they pull out contacts and then they go and and take action against contacts and so the beauty of signals is that you can actually look at it at an account level and you can look at it at a person level simultaneously with the same data structure um and so we need to have you know person do account matching which most companies have at this point HubSpot does it natively many others there's tools to do it um but when you think about actually taking action like you're we your sales our sales team is not just reaching out and sending it to you know Adobe adobe.com there's a person that they're actually engaging with so when you think about signals you might get an account level signal which then drives you to reach out to five different people um and those are sort of the the the way to look at it but the the beauty of it is that we can look at it in both dimensions account level and we could create an account level structure of where what are the what are the signals that these are accounts are sending us and the people inside of those accounts and look at that across the whole Spectrum which signals got us into pipeline which got us into meetings and you can look at it at a person level and then bubble it up to the account level brilliant okay let's change lanes a little bit so here's a question I I know you have a great answer to or at least you did because you built two successful agencies what is the best BW marketing tip for a startup that doesn't have so much resources um what the business model oh forget about the business model yeah yeah if you don't have any resources what do you do to actually build a a company when you don't have money you have time and expertise and speed and being smarter than the people I actually a lot of people think about not having money as a disadvantage I consistently look at it as an advantage because when you don't what look at all what the the big companies do they waste millions of dollars on a bunch of dumb [ __ ] they have tons of politics and overhead and meetings about stuff that doesn't matter and my three-person company we can make decisions fast we can do things that actually work if things don't work fast we can iterate and change really quickly you just innovate a lot faster when when resources are limited uh where does that lead you it leads you to producing expert level content Distributing that organically building a community or building some type of movement against signals or whatever you're trying to tell hosting live events which are basically free outside of the you know $40 a month package to actually produce them um and what what where you win there is customer expertise having a great strategy knowing how to create and distribute content effectively which carries through for the the entire your entire professional Lifetime and the professional like the lifetime of the business um and so it leads you into those places that actually create scale in Roi super nice um so now there's a question about uh let's talk proably probably broadly about how you think uh AI is impacting go to market I'll just read out the question that Yousef have written for us how do you see J is affecting the decision making on selling I'm I'm curious to hear how you see like the the whole AI pushing into to to go to market and what what does that mean for what's coming up next so uh the first thing that AI is going to do when it's already happening is just replace the actions that happen with expensive human capital that are inefficient so the first thing to go is going to be S sdrs not all of them but many of them especially sdrs that Target SMB and mid-market Deals where the cost structure just does make sense that those things will then get triggered off of AI sending an email AI doing a voicemail drop AI sending a LinkedIn message instead of having a human do it which is going to be more consistent faster better data things like that so that's the first thing that I see because when you think about uh like sdrs going outbound and you look at the data when they do personalized Outreach they those types of things actually drive revenue for most B2B companies especially mature companies the problem is it's just far too expensive and super inefficient so what is the solution to that instead of having 10 100K you know Sal 100K salary sdrs doing it what if we have two 100K salary sdrs do it augmented the the other eight people by AI instead of that $800,000 a year like that's that's going to be the first thing that happens uh with Gen and it's already happening B2B companies are running experiments with this they get better results on their personalized Outreach with AI than they do with a human that's happening um when we think about the full sort of like the full stack of AI the way I look at it is that com B2B companies are not they're they're they're good to lower cost and automate things right now like that's something that can happen right now but their core data structure does not allow for this to fully happen right now what you need we have like account fit most companies have all of their good fit accounts inside of the CRM they you can automatically get the job titles and the people so like the fit around that is set up for Success companies do not signals at all right now most like somewhere between 20 and 30% of signals are tracked 70% is a total black hole for B2B companies and so they do not have the right data to know what is the right time to reach out and why are we reaching out and what is the outcome of that so that's going to be the next wave and then lastly the final wave will be what is the right message what is the right channel when should we send it what should the Cadence be what should it be AI when should we use a human for that should we use LinkedIn or should we use email what should the subject line be how do we optimize and iterate that AI will be really good at that once we know what the right time is to reach out so the sequence right fit right time right message right channel brilliant Chris it's it's going to be interesting to see like if this access to like personalization gets democratized are we then as receivers of outbound stuff just going to block everything or how do you how do you then actually get through is the better personalization or or is there other plays you need to be making as well the only thing that matter matters in the future is what your customers say about you and what your community and content consumers say about you to your target market the only thing that matters um because all of the other sources including including Google what's going to happen with AI review sites that are getting gamed left and right analyst firms that get paid to give bad advice all of the other sources of information are becoming gamed and biased and not trustworthy and so where is it going to be it's going to be B2B buyers trust their peers more than anybody else I've been saying that since 2020 and that will continue to grow in importance over time absolutely I heard you also saying that was actually quite smart move of you that's you notice as soon as your posts on LinkedIn started to take off you'd have these people in different languages just copying pasting them to their own language and that that the AI can do for you so you your counter to that was to start to be on a video because they cannot be your physical body saying the same things and that help you kind of um stand out in the crowd at least for a good while yeah it's interesting when there's shifts in the market that it uh it drives Innovation like when people started copying my LinkedIn text Post in 2019 I wasn't thinking oh my God like videos the future this is going to be amazing it was just thinking like okay people aren't going to be able to copy what I say and somebody that copies my post and takes it and copies it into German is not going to be able to speak on it in a video or a live event or answer questions with Stephan the way that I am so boom done now What's Happening Now what's happening today is that there's a lot of companies that are copying your messaging it's never been easier to update your homepage copy one day they're an ABM platform the next day they're a Signal Company the next day they're a sales AI optimization company it's never been easier to change your website and change your messaging and copy someone and pretend that you're something that you're not and so what's that going to happen B2B buyers trust websites less they TR customer stories less because they understand who's creating them and what their intentions are and so I don't know how exactly we're going to I'm going to react to this one but there's a new thing happening where basically everyone's copying and it's going to drive more Innovation for us it's uh it's sort of too bad because where where I'm leaning in this is that before it's been pretty much all open content right like I've given away all my best stuff for free for the past six years it's helped a ton of people um and what's happening now with AI is that basically anyone can create open content and as a consumer of information the only thing that matters for you is what are the right sources of information because information is commoditized it's not only about what information do I get it's about is this the right information for me um and so I expect that uh in the future there's going to be a lot more closed closed systems where the information is closed off and not public and things like that and people will then have to decide am I going to trust what Walker says or what Gartner says or what this person says or am I going to trust what I get on LinkedIn that I see from some random person that might be AI generated it's really up to you as a consumer now to make the decision about what content should I trust it's a lot different than it was five or 10 years ago that's super nice and I I know you also do a is it a weekly session you do where people can join you live and have that onetoone kind of conversation with you yeah the weekly session happens at uh at 12 central time it'll happen today on Tuesday so that'll be coming up in about an hour if people want to sign up to that and be part of it Chris what do they do um we got I think there's a link you go if you go to pto.com there's now a link to sign up in the uh main nav yeah nice okay uh a couple of questions left and then I'll I'll let you get on with it so if we talk about um like I love hearing about a tactic that works right now so but and you must see so many different things out there what is the kind of highest Roi examples that that you're seeing at the moment this is Muhammad asking this as well but I love a tactic that I can steal from you and go Implement myself yeah I'll talk about some of the highest Roi but just so people have some clarity on the process especially with a mature and developed company step one in the process is to eliminate all the low Roi things it's much easier to find low Roi things than to clearly identify the high like and isolate the high Roi things and so what are we what are the lowest Roi things Google ad spend number one terrible Roi terrible C payback when you put in sales and SDR and all the other costs it literally makes no [ __ ] sense and I can't believe companies continue to do it when the data is sitting right in front of them about how bad it is um LinkedIn ads are often very poor especially when used as a lead gen mechanism and so using a LinkedIn lead gen form is a signal on its own um and B2B companies will spend you know 150 300 up to up to a thousand dollar for a lead gen form of a sea level executive and then get those per people into customers at 0.1% metadata produced a uh aggregated data study with hundreds of companies and hundreds of thousands of leads that came from those things CAC paybacks are untenable lead to win rates are terrible um that type the just Performance Marketing advertising generally tends to be a very poor Roi um because companies don't measure it against CAC they measure it against cost per lead so the metrics can look good up front and they don't actually materialize and so the way that companies measure them create the illusion that things are working fine when they're really not um when we and then uh conference trade especially National Conference trade show booths tend to be incredibly low Roi companies spend Millions to big companies spend tens of millions of dollars to build a [ __ ] booth in Las Vegas for two days some people show up have no tangible revenue for it and then what they do is they look for all of these unmeasured assumed second order outcomes like oh we did that for brand awareness or remember that customer we had that customer in the booth like maybe we'll expand them in the future and they look for all these different excuses to justify why when they can't actually look at a direct Roi and then they look at every other investment they have on a direct Roi but the things that they think they should do they apply all these second order outcomes to justify things that aren't working when you think about the highest yeah ouch when you think about the highest order uh Roi activities really it most of it comes down to the cost structure um so it part of it is Effectiveness but a lot of it is that you just don't spend as much on it therefore you get a much better Roi so in the events category webinars in almost every company that we analyze webinars are the highest performing signal um while National trade show boost the lowest performing why because webinars are less expensive and a lot more scalable and trade show boosts are very expensive and not scalable and things like that um organic organic content specifically content for for social tends to be uh really strong especially when measured against self-reported attribution and a variety of mechanisms not just uh UTM or things like that um and those are those are a couple of the core things but when you look at the and then there's a there's a really weird it's hard to explain effect but companies get a lot of their customers that have nothing to do with their marketing Investments and they don't know they think it's because their SEO strategy is so good when in reality their happy customers are telling somebody else in a community that person searching the brand in Google coming to the website getting a demo they're back at HQ saying our SEO strategy is working so good let's scale our SEO agency when in reality none of their marketing had anything to do with closing that customer so there's this idea of organic organic market demand is what I've been calling it I'll try to find a better term for it where you're going to get that customer no matter what and has nothing to do with the marketing Investments we actually we've actually have we actually have a a filter in our Google search ads report in dream that we can get rid of the Branded search keyword and that just destroys the the ROI of of Google search ads because it's like it's a quarter of what you're getting in that that is actually like let's call it de demand gen is probably saying too much but it's where it's not your brand that is just capturing all the effects of everything else that you've been doing generally we see just just to clarify we see the same thing in the data that 20% of Google ad spend goes to branded terms and that drives more than 80% of the revenue and then 80% of the spend goes to non-branded terms and drives less than 20% of the revenue and then all of that category of the 80% of the spend like that's that's where you go and find all your cuts and really you take that 80% you really spend like 5% on the money keywords that actually have a high Roi but then even on the Branded side companies are getting a 36-month CAC payback total CAC when you think about sales and sdrs and things on somebody that's searching for their brand um and so that's unacceptable as well absolutely Chris there's one thing as a as a marketer that I've really always admired from you and that and that is that is your ability to to develop a narrative or to kind of come up with a new story and like it's a little bit the same you need to do as a company when you go to market you need to do something that that catches on have you ever talked about how you you go about this process of how do you pick a narrative how do you know when you have a winner what is it that you do to kind of come up with these winning uh winning stories that you kind of lash on for a certain amount of time by creating such a rapid feedback loop between you and your target market that's it I do three three or more of these events every week where I'm on a live event people are asking questions so that they help me clarify I'm watching people's heads nods or people not understand things so I have a Content framework on live events that allow me to get rapid feedback and questions to help clarify the perspective then I can take that exact same content and post it on LinkedIn and get a hundred comments about people that say this is dumb this doesn't make sense or this is so smart you're a genius or ask questions that help clarify the perspective again and then I take sales calls with people that come in and I'm pitching the the product which is a different type of pitch than creating content and then you're pitching the product and building the sales deck and iterating on the proposal and then you're going to get questions on hey I don't understand this part of the proposal can you clarify these deliverables can you do this thing and the only thing is just shortening the time window between when you say something and when you get feedback from your Target customer and making that happen super fast four months ago people thought that petto was the same thing as refine labs in two months they're going to realize that it's a totally [ __ ] new game um but it just takes some time to figure that stuff out and build your build your narrative and get responses from the market and I think people underappreciate the process that it takes to get there yeah it is it's it's a it's a hard discipline because there's not the kind of you can study the click and what became of the click it's kind of but I guess the foundation yeah tot I wouldn't I agree uh but but the that foundation for be able to like make it art uh must be this thing about being super close to the market super close to the community or the customers because that's what's enables you to have a feedback loop at all and I think like your podcast and your weekly lives and your communi is kind of that's your training ground for every narrative that that you have 100% wonderful Chris I want to thank you so much for for taking the time to to speak with us um if people want to do business with you uh how do you kind of what's the funnel nowadays where do you need to go yes I mean honestly the easiest way shoot me a DM on LinkedIn and if you had a question that you wanted to ask that you didn't get answered today shoot me that on a DM if you do it within the hour I'll answer it on my live event at noon Central um and then if you're interested in working with any of my businesses hatch refine Labs or poetto or you like trying to figure out what to do in marketing your go to market engine you're not sure what to do just feel free to shoot me a note if want to companies can help amazing if not I'll try to refer you to somebody that can so LinkedIn DM is probably the best way to reach me right now fantastic and to all of you who have been following our conversation thank you so much for for taking the time it's super nice to see all these questions that's that's come in and be sure to follow up with Chris uh afterwards Chris thank you so much and uh to keep producing all this golden content that you that you put out Stefan always great to
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:01] [Music]
+[00:53] hello everyone and uh thanks for joining
+[00:56] in today I am super excited today
+[01:00] because today I'm joined with uh no
+[01:03] other than Chris Walker um somebody that
+[01:07] I've been following tightly uh through
+[01:09] the last couple of years if you haven't
+[01:12] I hope today you'll learn why Chris is
+[01:14] so interesting to to follow um as always
+[01:19] this is going to be a casual session
+[01:21] where you can treat it as a conversation
+[01:23] that you're part of so if you comment on
+[01:26] the chat on LinkedIn I can pull in the
+[01:28] questions for for as we go along I've
+[01:32] prepped 8 nine buckets which I'm sure
+[01:35] Chris can go on about for an hour each
+[01:37] but uh we'll try to try to see where it
+[01:39] takes us uh Chris I named this
+[01:43] conversation what matters in B2B
+[01:45] Marketing in 24 and you've been right in
+[01:47] 23 and 22 and 21 so I'm I'm really
+[01:51] excited to hear what what comes out of
+[01:52] today's conversation if there's a few
+[01:55] people who have never heard about you
+[01:57] before what is the uh what is the Chris
+[02:00] Walker presentation uh
+[02:03] nowadays yeah we'll keep it light Stefan
+[02:05] great to great to be here uh as a side
+[02:07] note I'm going to need because I'm
+[02:08] coming to Europe for a couple of weeks
+[02:09] maybe a month because it gets so hot in
+[02:11] Austin so I'm gonna need some tips from
+[02:12] you on where to go Italy France other
+[02:14] places like that but we'll handle that
+[02:16] another time um hey everyone great to be
+[02:18] here for those of you that don't know me
+[02:20] my name is Chris Walker I've been a B2B
+[02:22] marketer since 2012 I I perceived myself
+[02:26] more so a business professional at this
+[02:27] point I started my first company refine
+[02:29] lab in
+[02:31] 2019 I'm now an investor and an
+[02:33] entrepreneur and I started a new company
+[02:35] called
+[02:36] poetto um which is a go to market
+[02:38] optimization and analytics company so
+[02:40] maybe we'll get into some details around
+[02:41] that as well um I've seen over the past
+[02:45] 12 years in my career this transition of
+[02:47] what's happening between how B2B buyers
+[02:49] are buying and how B2B companies are so
+[02:52] slow and oblivious in some ways
+[02:55] oblivious to how how buyers have been
+[02:57] changing um that was fine up until 20
+[03:01] 2022 when the economy was really good
+[03:03] economy slows down 2022
+[03:06] 2023 and now B2B companies need to
+[03:09] especially techken SAS company other
+[03:10] companies outside of that Medtech
+[03:12] manufacturing Financial Services have a
+[03:14] lot more discipline in their financial
+[03:15] structure but in in terms of tech SAS a
+[03:17] lot of companies need to rebuild how
+[03:19] they think about go to market and so
+[03:21] looking forward to talking more about
+[03:22] that with you today fantastic Chris and
+[03:25] um I didn't get to tell you but I'm
+[03:28] training to a marathon right now so this
+[03:30] Sunday was listening to to you for two
+[03:32] hours straight and I listened to some of
+[03:35] the last episodes you put out i' would
+[03:37] say to the people who have not listened
+[03:40] to the latest ones there's one that is
+[03:41] called must listen where you Chris go
+[03:44] through kind of that crazy last five
+[03:46] years you've had and I think for anybody
+[03:49] who who've been following you they
+[03:51] should really actually take a take a
+[03:53] listen and that to understand the're
+[03:54] behind the scenes because it sounds
+[03:57] really they been it's like it's been
+[03:59] extraordinary really hard uh but my
+[04:01] first question would actually be you got
+[04:03] into it a little bit but what is the
+[04:06] kind of how have you seen this whole B2B
+[04:08] marketing world go through like a change
+[04:11] the last five years since you founded
+[04:13] refin
+[04:15] Labs yeah so I think there's a couple of
+[04:17] core changes that have happened uh over
+[04:19] the past five years one covid induced
+[04:22] adjustments to how B2B professionals
+[04:24] research discover and purchase products
+[04:26] so
+[04:27] preco um a lot of Executives especially
+[04:30] ones that are sort of older or later in
+[04:32] their career didn't use LinkedIn every
+[04:34] day weren't part of a slack Community
+[04:36] didn't come to a live event like this
+[04:38] one and then through the period of covid
+[04:41] and the work from home and those types
+[04:42] of things all those people started to be
+[04:45] trained about how to go and find their
+[04:46] peers online how to engage with a
+[04:48] community how to get information that
+[04:49] way and what they found is that they
+[04:52] trust that information and they get a
+[04:53] lot better information that way than the
+[04:55] sources they used to trust like Google
+[04:57] or an analyst firm or other places like
+[04:59] that so that's one big shift of how B2B
+[05:01] Executives get information and make
+[05:03] purchasing decisions there's been an
+[05:05] economic slowdown from 2022 forward
+[05:08] where before B2B companies might get a
+[05:10] you know 20 to 100x revenue valuation
+[05:13] especially Tech and SAS companies which
+[05:15] have now normalized to 4 to 6X where
+[05:17] they belong which puts tons of tons of
+[05:20] tons of pressure on the sales and
+[05:22] marketing expenditures that B2B
+[05:24] companies have and the ca payback
+[05:25] allowable CA payback periods that
+[05:27] they're able to have which puts a lot of
+[05:28] pressure on you know how effective is
+[05:31] our marketing what's the actual Roi of
+[05:32] our SDR team how many operations people
+[05:35] do we actually need do we need those
+[05:36] seven Tech tools or should we
+[05:38] Consolidated into one tool that's way
+[05:40] cheaper all those questions are starting
+[05:41] to be asked I think those that's uh I
+[05:45] think those are two of the big trends
+[05:47] that I've seen um and uh looking forward
+[05:50] to getting more detail I think the the
+[05:51] one about just the scrutiny around go to
+[05:54] market Investments is probably the
+[05:56] number one thing that people need to be
+[05:58] that companies have to make a
+[05:59] adjustments for in 2024 and forward so
+[06:02] we can get deeper into that yeah I think
+[06:04] that I think that was also one of the
+[06:06] observations I did as you were talking
+[06:08] to my ear while I was running in this
+[06:10] weekend the the CAC payback period uh if
+[06:14] we are to get a little bit specific
+[06:15] maybe you can just explain for those who
+[06:18] know don't know what it is where it were
+[06:21] and where it probably is uh today yeah
+[06:24] so customer acquisition cost payback
+[06:26] period the simple math is how much net
+[06:29] new ARR do you acquire in a period of
+[06:32] time divided by how much you spend in
+[06:36] order to acquire that on sales and
+[06:37] marketing and operations and technology
+[06:39] and all those different things um in a
+[06:42] public SAS company right now the median
+[06:44] is around 40 months somewhere there's
+[06:47] benchmarks around there in 40 months in
+[06:49] private companies I see it pushing
+[06:51] closer to 60 which means that you you it
+[06:55] takes you five years to pay back the
+[06:57] cost of just getting the customer so
+[06:58] that your business doesn't actually
+[07:00] profit off of that customer for that
+[07:02] period of time which you know three and
+[07:04] a half to 5 years is a long time that
+[07:06] you have to retain that customer and
+[07:08] then you actually become profitable and
+[07:10] when your business gets uh valued at if
+[07:13] you're a 5 million ARR business and you
+[07:15] get valued at a 100 100 million 20x
+[07:18] Revenue you can make that math work
+[07:20] until you raise the next round but when
+[07:22] there's pressure on valuations and now
+[07:24] your 5 million AR SAS company that isn't
+[07:26] growing very fast is now worth $12
+[07:28] million instead of of $100 million it
+[07:30] puts a lot of pressure on the capital
+[07:32] expenditures that you can use to acquire
+[07:34] customers and grow um and so in short
+[07:37] that's sort of what's going on I've
+[07:39] analyzed personally Salesforce data data
+[07:42] straight from the CFO put those two
+[07:44] things together look at what uh private
+[07:46] what's happening at private SAS
+[07:47] companies and the average we see today
+[07:49] is somewhere between 48 and 60 months
+[07:52] for through
+[07:53] 2023 partially because companies spend
+[07:56] too much on sales and marketing and
+[07:58] don't have enough pressure on efficiency
+[08:00] but then also the amount of customers
+[08:02] that companies have acquired the amount
+[08:04] of money that other companies are
+[08:05] spending to buy their technology has
+[08:06] gone down so you see this happening in
+[08:08] two ways companies spend too much money
+[08:09] on sales and marketing and they're
+[08:10] getting way less customers now than they
+[08:12] did two or three years ago those two
+[08:14] things compound it gets really
+[08:16] ugly I'm I'm I'm really honestly
+[08:19] surprised to hear that you see that high
+[08:21] acceptable payback periods because that
+[08:24] means you can invest a lot of money and
+[08:26] if you're just able to make some math
+[08:28] work in a four five year perspective the
+[08:31] companies would actually accept this
+[08:33] kind of every time they spend a dollar
+[08:35] it's going to take them five years to
+[08:36] get that dollar
+[08:39] back yeah it's sort of it's it's sort of
+[08:42] crazy when it's sort of crazy when you
+[08:43] think about it and when we analyze we
+[08:45] analyze some of the highest performing
+[08:47] too so it's not just every company that
+[08:48] comes in and works with us is a total
+[08:49] disaster but the even the best
+[08:51] performing companies are coming in at
+[08:53] 2year cost to pay back a customer a
+[08:55] great cyber security company in a hot
+[08:57] Market great brand leading in their
+[09:00] category still taking two two years and
+[09:02] if you go and look at like a Salesforce
+[09:03] or an adobe or some of the other
+[09:05] publicly traded companies they're still
+[09:07] sitting at 24 to 36 40 months as well
+[09:11] and it's just it's it's just a lot of
+[09:14] time and if you go into other Industries
+[09:16] you go into Professional Services you go
+[09:18] into medical device or manufacturing you
+[09:20] go into those types of Industries you
+[09:21] see CAC payback periods less than 12
+[09:23] months um and so I I this is really
+[09:27] isolated to technology and SAS by the
+[09:30] changes in valuation multiples in this
+[09:32] in this
+[09:33] space and then kind of let's say the CFO
+[09:36] walks in the door now and say the 48 60
+[09:39] months that's over you need to get down
+[09:42] to the 24 months or even less than that
+[09:46] what is what is a the good way and what
+[09:49] is the bad way of uh of trying to lower
+[09:52] this this cact yeah so uh to be clear
+[09:56] CFOs have been saying this since the
+[09:58] middle of 2022 or late late 2022 at the
+[10:02] absolute latest and the issue is that
+[10:04] you don't just it's very it takes a long
+[10:07] time to unwind it takes a really long
+[10:09] time to try and figure out how do we get
+[10:12] the same amount of Revenue at half the
+[10:14] cost um the bad way to do it is to say
+[10:18] okay we need to figure out how to lower
+[10:20] our CAC by 20% so let's cut sales by 20%
+[10:23] let's cut sdrs by 20% let's cut
+[10:25] marketing headcount by 20% let's count
+[10:28] let's uh marketing programs by 20% and
+[10:30] just take a blanket cut across the
+[10:32] entire go to market the reason being is
+[10:35] that in order to actually make this
+[10:37] effective what you need to do is you
+[10:38] need to improve the ROI of your goto
+[10:40] Market Investments which means
+[10:42] identifying the things that are the
+[10:43] lowest Roi and removing them and
+[10:46] identifying the things that are highest
+[10:47] Roi and doing more of them and so that's
+[10:51] at at its most basic form that's what it
+[10:53] comes down to um but most companies have
+[10:56] taken blanket Cuts they look for what
+[10:58] the easiest things to cut our let's find
+[11:00] our agencies and fractionals and
+[11:02] Consultants they're not our employees so
+[11:04] we won't have to do a layoff so let's
+[11:05] just get rid of them even if they are
+[11:07] the highest producing Roi oh our
+[11:09] advertising expenditures are easy to cut
+[11:11] so we don't have to layoff let's just do
+[11:13] that our outsourced SDR firm so what
+[11:15] companies do first is they look for all
+[11:16] of the expenses that don't require them
+[11:19] to do a layoff and they cut all those
+[11:21] that happened in 2022 then they realized
+[11:23] in early 2023 that's not going to be
+[11:25] enough they started doing layoffs
+[11:27] layoffs happened a lot in 2023 across a
+[11:28] lot of companies I talked about that on
+[11:30] my podcast and now they're sitting at a
+[11:32] point where they've done a lot of cost
+[11:33] cut cost cutting in 2024 they're still
+[11:36] not at the metrics they need to get to
+[11:37] and then they need to figure out how do
+[11:39] we actually make every dollar that we
+[11:41] spend work a lot harder and I think
+[11:43] that's where we are in
+[11:45] 2024 yeah
+[11:48] that it's just like it's it's super
+[11:50] interesting as a marketer to follow
+[11:51] these developments that used to be
+[11:54] growth at all cost and of course that
+[11:56] cannot be sustained as you said that do
+[11:58] not Unlimited money then the next year
+[12:01] comes around and oh you couldn't
+[12:02] actually just do growth at all cost and
+[12:04] now we actually need to be effective
+[12:05] with our money and maybe just to do a
+[12:07] plug is that what I bet you get this
+[12:10] question all the time but is that what
+[12:11] petto is doing now as opposed to refin
+[12:14] laps that orchestrates the marketing
+[12:17] I've I've been thinking a little bit
+[12:18] about the distinction between the two uh
+[12:21] Orcs yeah so refined Labs is a digital
+[12:24] demand agency and account-based
+[12:25] marketing agency we help companies
+[12:27] optimize their advertising expenditures
+[12:28] their marketing their content
+[12:30] development how they report inside of
+[12:33] their digital demand engine petto is
+[12:35] much more focused on the entire go to
+[12:37] market looking at sales sdrs operations
+[12:39] technology and optimizing the
+[12:41] expenditures across all of the go to
+[12:42] market motions um petto also builds
+[12:45] technology we have proprietary
+[12:46] technology that does signal-based
+[12:48] analytics when you look at the signal
+[12:50] category that's rapidly developing and
+[12:52] I'm very excited about this I see it
+[12:53] sort of breaking up into multiple Cate
+[12:55] subcategories that people haven't
+[12:57] defined yet you have signal providers
+[12:59] think trust radius
+[13:01] bambora people like that that that are
+[13:04] user gems that look at specific signals
+[13:06] and then provide them to you you have
+[13:08] signal aggregators that then pull in all
+[13:10] those signals bambora and all that stuff
+[13:12] and bring it all together like a six
+[13:14] cense potentially what dream data is
+[13:15] getting into things like that and then
+[13:18] that you have signal analytics is that
+[13:20] what petto is focused on I don't think
+[13:21] many people are right now which is then
+[13:23] measuring the impact of all of those
+[13:25] signals that you know which signals suck
+[13:27] which ones are good which on should we
+[13:28] do more of of etc etc um and so that's
+[13:31] how I see the signal category when you
+[13:33] look back account-based marketing over
+[13:36] the past five years has taken a very
+[13:38] large uh large growth which is all about
+[13:42] are we are is the fit of the account
+[13:44] right do we have the right person in the
+[13:46] account do we have is the right vertical
+[13:49] is it the right company size does it fit
+[13:50] into our segmentation all about fit the
+[13:54] next wave of go to market is going to be
+[13:55] focused on what signals do those good
+[13:58] fit accounts send us we know the optimal
+[14:00] time to invest advertising dollars to
+[14:02] invest sales and SDR human capital to go
+[14:05] out and try and get meetings and acquire
+[14:07] that pipeline in 2019 that [ __ ] didn't
+[14:10] matter companies would spend a massive
+[14:12] companies would spend massive amount of
+[14:14] money and they would they could do
+[14:15] 10,000 actions and waste a lot of money
+[14:17] to get one customer and now they have to
+[14:20] be a lot smarter about when we reach out
+[14:22] when we use our expensive $110,000 a
+[14:25] year SDR $250,000 or more plus AE or the
+[14:29] advertising expenditures that we have we
+[14:31] have to be a lot smarter about when we
+[14:32] deploy those Investments and who we
+[14:34] deploy them
+[14:35] against I'm I'm super fascinated by this
+[14:38] uh this signals narrative that that
+[14:41] you've kind of developed and for for
+[14:43] those of us who've been following some
+[14:45] time you used to talk about demand
+[14:47] creation is and kind of how does this
+[14:50] demand generation demand capture where
+[14:53] yeah refer to kind of the signal based
+[14:55] selling and activating signals and stuff
+[14:58] yeah and so uh when most companies run
+[15:01] their like pipeline analytics the
+[15:03] pipeline analytics start when the
+[15:05] opportunity gets created but the reality
+[15:08] is there's this entire period of time
+[15:10] between when the account sends the
+[15:12] signal and when sales actually reaches
+[15:14] out to when an opportunity is created
+[15:16] that is basically a black hole and not
+[15:18] connected against the opportunity and
+[15:20] when you look at the data what you find
+[15:22] is that the things that happen before
+[15:23] the opportunity is created create
+[15:25] massive predictors in sales velocity win
+[15:27] rates sales productivity quota
+[15:29] attainment marketing Roi all these
+[15:31] different details that companies don't
+[15:32] see right now and so the idea of a
+[15:35] signal is to extend what pipeline means
+[15:38] to from the at the time that sales
+[15:40] reaches out to the time account sends us
+[15:42] a signal and sales reaches out all the
+[15:44] way to closed one and looking at that as
+[15:46] a discrete process so when you separate
+[15:50] this this is really from intent capture
+[15:52] to closed one separate from demand
+[15:54] creation and the reality is that B2B
+[15:57] companies when they look at their goto
+[15:58] Market inv M spend 85 90% of the total
+[16:01] go to market investment on this part of
+[16:03] the process and so while I love podcasts
+[16:06] I love brand I love posting content
+[16:08] organically on LinkedIn and things like
+[16:10] that the B2B companies just don't spend
+[16:13] a lot of money there and so the the
+[16:15] biggest opportunity to optimize your go
+[16:17] to market is to look at where is most of
+[16:18] the money spent and then optimize that
+[16:20] process which is where we're initially
+[16:21] focused on at
+[16:23] petto and this is so it's really
+[16:25] fascinating it really connects a lot of
+[16:27] stuff for me because we've always been
+[16:29] doing marketing but why is it that we
+[16:32] want to do marketing well then we start
+[16:34] saying okay we do marketing to produce
+[16:36] Revenue but what is it that leads to
+[16:38] revenue from all the marketing you do
+[16:39] that is the signals that we know that
+[16:41] are kind of predictably turning into
+[16:44] into Revenue so I really like that one
+[16:47] yeah the simplest example for people
+[16:48] listening that aren't that familiar with
+[16:50] signals is that when most B2B companies
+[16:52] like Target and do sales Outreach it's
+[16:54] all about the fit right so let's find
+[16:56] our tier one account and let's find the
+[16:58] know CIO at that account if that's our
+[17:00] Persona and then let's just do a bunch
+[17:02] of Outreach and let's run advertising to
+[17:04] those people but when you actually look
+[17:06] at the data the signal really matters if
+[17:08] you take a cold lead out of Zoom info
+[17:11] which is a signal cold lead or you take
+[17:15] the same CIO that H that submitted a
+[17:17] pricing request on your website or
+[17:19] attended your webinar or came to this
+[17:21] event that the the ability for your
+[17:25] sales team to create Pipeline and close
+[17:27] them will be dramatically different
+[17:29] between those two things different
+[17:30] signal same account and same person and
+[17:33] so what we need in the future is to
+[17:35] basically map a quadrant between signals
+[17:38] and fit and then identify these are the
+[17:40] signals that matter for this segment
+[17:42] these are the signals that matter for
+[17:43] this vertical these what B2B companies
+[17:45] don't see is all the times that they
+[17:47] lose and so B2B data has a major
+[17:50] survivorship bias they only look at the
+[17:52] times that they win and when we're
+[17:54] thinking about how do we optimize our go
+[17:57] to market the biggest thing to do is
+[17:59] look at all the times that you lose and
+[18:00] stop doing those things but B2B data the
+[18:03] way that it's set up is that basically
+[18:06] every time a buyer sends a signal they
+[18:08] send a signal and then your sales team
+[18:10] reaches out and then you lose and the
+[18:11] buyer sends another signal and then it
+[18:13] overwrites that data and then you then
+[18:15] it goes and then you lose and you could
+[18:17] lose 99 times but you only see the one
+[18:19] time that you win the 100 time and so
+[18:22] it's we requiring a new data structure
+[18:24] to track signals as an independent new
+[18:26] dimension of your data alongs side
+[18:29] contacts and accounts and opportunities
+[18:31] and campaign members and that type of
+[18:33] detail is really what we need in order
+[18:34] to to see these
+[18:37] insights I think it it it makes so much
+[18:39] sense in terms of aligning the goto
+[18:41] Market orc because a signal is not you
+[18:44] have to wait 12 months until the
+[18:45] contract is signed you can do your
+[18:47] activity and then instantly or within
+[18:50] weeks you'll know whether that signal
+[18:52] triggered after you did your marketing
+[18:54] activity and vice versa on the sales
+[18:56] team you get the sales team to focus on
+[18:59] the signals because you have data that
+[19:01] proves that when those signals are
+[19:03] present the velocity goes up they
+[19:05] convert
+[19:06] faster and my favorite part about
+[19:08] signals to be direct is that it gets rid
+[19:11] of the inbound outbound Marketing sales
+[19:14] conversation we're a go to market team
+[19:16] here are all the signals that are
+[19:18] available let's forget whether marketing
+[19:20] or sales did it and let's focused as a
+[19:21] chief Revenue officer and a CMO and a
+[19:24] head of revops on what are the signals
+[19:26] that matter not putting these binary
+[19:27] distinctions of oh marketing did that
+[19:29] and sales did that I think we
+[19:31] desperately need that and go to market
+[19:33] and I watch a lot of companies use Silo
+[19:35] Department level analytics where the SDR
+[19:38] team has their data over here the
+[19:39] marketing team has their data over here
+[19:41] the sales team has their data over here
+[19:43] they then roll it up into the qbr report
+[19:45] none of the data matches up so B2B
+[19:47] Executives don't have the right data to
+[19:48] make decisions they don't have
+[19:49] confidence in it so what do they do take
+[19:52] a blanket cut across the go to the
+[19:53] market or make no decision and take in
+[19:55] action which is what a lot of the
+[19:57] companies that we analyze have done over
+[19:58] the past year oh we didn't you know we
+[20:02] we thought that was happening but we
+[20:03] weren't able to look at the data that
+[20:04] way so we've just sat on that decision
+[20:06] for the past 12 months we kept spending
+[20:07] a million dollars a month on Google ads
+[20:09] we kept we didn't scale our webinars but
+[20:12] we thought that they were working or X Y
+[20:13] and Z yeah this is super brilliant Chris
+[20:17] um to change gear a little bit um
+[20:20] there's a question that most of our
+[20:22] customers come with and that is kind of
+[20:25] related to how is it that we Elevate
+[20:28] marketing to have that kind of seat at
+[20:30] the revenue table so we're not kind of
+[20:32] The Underdogs to sales anymore how can
+[20:35] we change this narrative in in our orc
+[20:37] and probably you're one of the people in
+[20:39] the world that have the some of the best
+[20:42] answers to to this question so so as a
+[20:45] marketer in a B2B company how do you
+[20:47] take that step from being kind of the
+[20:49] supplier of leads to being regarded as
+[20:52] somebody who's producing revenue for for
+[20:54] your
+[20:55] company for marketers to start thinking
+[20:58] like like a seite executive instead of a
+[21:00] department level leader in marketing to
+[21:03] have a perspective on the finance and
+[21:06] the C payback and how the ROI is
+[21:08] calculated to have a perspective on how
+[21:10] the sales process works and how we can
+[21:12] be more efficient and things like that
+[21:14] maybe as a marketer you should start
+[21:16] calling the leads just like your sdrs do
+[21:18] so that you get to experience that maybe
+[21:20] as a marketer you should find some
+[21:22] people and Pitch them just like your
+[21:23] sales team does so you understand what
+[21:25] that's like I think that there's often
+[21:28] not always often marketers sit in a
+[21:30] little Silo get sometimes looked at as
+[21:33] the pretty picture department and the
+[21:34] way that you break out of that is that
+[21:36] you start looking at it as a business
+[21:38] professional not just as a
+[21:40] marketer yeah it's it's so true you need
+[21:43] to you need to get out of that
+[21:45] department and what I'm hearing you're
+[21:46] saying is also you need to speak the
+[21:48] language that the rest of the company
+[21:50] cares about and not just clicks on an ad
+[21:52] or lead submitted on LinkedIn or
+[21:54] whatever it is and to and to actually do
+[21:57] it like uh as a as a marketer in 2017 I
+[22:03] went out into the field with our sales
+[22:05] team and I would pitch the product to
+[22:09] other people and I would see what
+[22:10] objections to people have what things
+[22:12] don't they understand where where in the
+[22:15] sales process are we losing where are
+[22:17] deals stalling out which then gave me a
+[22:19] large perspective about what content do
+[22:21] we need to create where are we going to
+[22:22] advertise what influencers do we need to
+[22:24] use to unblock these Key Parts in the
+[22:26] sales process when we were running I in
+[22:29] 2017 I read the Salesforce ebook or I
+[22:32] don't want to throw Salesforce under the
+[22:33] bus whoever's ebook it was big tech
+[22:35] company that said okay build a gated
+[22:37] ebook run Facebook and Linkedin ads
+[22:40] against it collect these leads automate
+[22:42] them into an email nurture after the
+[22:43] seventh email passed them to the SDR
+[22:45] what the SDR call them and I played the
+[22:48] SDR role back then and so what did I do
+[22:51] I called the people I emailed them I
+[22:54] heard how they responded and I made a
+[22:56] binary decision after making 10 calls
+[22:58] that these people are not ready to buy
+[23:00] why am I going to send this to our AE
+[23:02] why am I going to send this to R SDR and
+[23:04] so being able to actually be a part of
+[23:06] those processes and get those learnings
+[23:08] allows you to be a much better marketer
+[23:10] because you see the exact same things
+[23:12] that your other cross functional teams
+[23:14] are
+[23:15] seeing yeah and I can just Testament
+[23:18] that I probably did the first 100 demo
+[23:20] calls at dream data and you get a lot of
+[23:23] respect for not throwing in crappy leads
+[23:26] to the sales people because you just
+[23:27] you're stuck there for half an hour
+[23:29] where you just need to get time going
+[23:31] and you know it's never going to be a
+[23:33] sale so if you if sales complain about
+[23:36] the quality take a couple of the demo
+[23:38] calls themselves and see for yourself
+[23:39] whether it's a waste of time or
+[23:41] not
+[23:43] 100% actually I sometimes I use the
+[23:46] simple trick of just just imagining you
+[23:48] having to physically present this lead
+[23:52] to your salesperson like walking into
+[23:54] the room saying hey this is your grandma
+[23:57] she's 6 67 years old and she wants to
+[24:00] buy our software do you think that
+[24:02] that's
+[24:03] possible probably not yeah I mean the
+[24:06] way that I always looked at it in 2017
+[24:08] we had 40 sales reps across the country
+[24:10] they were flying around doing demos we
+[24:12] had four sdrs that were getting it was
+[24:14] field sales they were like going and
+[24:17] doing the demos they were in hospitals
+[24:18] every day they also played account
+[24:20] management so they were taking care of
+[24:22] current customers and trying to expand
+[24:23] them they were busy their jobs were hard
+[24:26] why would I want to send them 10 shitty
+[24:28] leads and waste their time and so I had
+[24:31] I took a huge responsibility of every
+[24:33] time that I sent a potential customer to
+[24:36] our sales team that they were going to
+[24:37] have the highest probability to win that
+[24:39] over any other activity that they could
+[24:42] do that's how you get respect from sales
+[24:46] okay I'm I'm GNA post one or two more
+[24:48] questions and then we have
+[24:51] whoa then I'm going to take all the
+[24:53] questions that's been posted in the the
+[24:54] comment field so if you have a question
+[24:56] for for Chris just start typing and I'll
+[24:58] I'll pull them in uh one um what is the
+[25:03] kind of have you kind of found a metric
+[25:06] framework nowadays that you advise most
+[25:08] B2B companies to run by to kind of sort
+[25:11] of establish kind of these are the
+[25:13] numbers we talk about forget about all
+[25:14] the other
+[25:16] numers I mean there's there's a ton of
+[25:19] directions that we can take this you can
+[25:20] take it at the CEO CFO level which is
+[25:23] you know CA payback return on sales and
+[25:25] marketing
+[25:27] expenditures um there so there's one
+[25:29] angle if as a go to market leader I like
+[25:31] breaking it down into sales velocity and
+[25:33] the four components of sales velocity
+[25:34] ACV win rate sales cycle uh pipeline
+[25:38] generated so you have like some good
+[25:40] details there that align sales and
+[25:41] marketing together across those four
+[25:43] metrics when we think about optimizing
+[25:45] signals we don't have it perfect yet but
+[25:47] right now we use sales velocity as one
+[25:49] of the core metrics to optimize against
+[25:50] signals and when you have great signals
+[25:52] sales velocity is really high when you
+[25:54] have bad signal sales velocity is really
+[25:56] low um signal to
+[25:58] signal to win ends up being a really
+[26:00] good metric because a lot of signals
+[26:01] that sales acts on they'll do a thousand
+[26:04] actions to win one deal um which is a
+[26:07] massive inefficiency inside of the goto
+[26:10] Market that most B2B companies don't see
+[26:11] right now especially didn't see it in
+[26:13] the growth at all cost era so there's a
+[26:15] variety of angles to take it and then
+[26:16] when you look at marketing it's not a
+[26:18] perfect metric but I do think it's great
+[26:20] for both benchmarking and looking at
+[26:22] trending performance which is marketing
+[26:24] Roi and a leading and a lagging
+[26:26] indicator so lagging is just you know
+[26:29] marketing expenditures to create
+[26:31] Pipeline and revenue against the amount
+[26:33] of Pipeline and revenue that's created
+[26:34] so you have a revenue metric which is
+[26:36] lagging you have a pipeline metric which
+[26:37] is leading if that metric is going in
+[26:39] the right direction on Pipeline you can
+[26:41] expect that Downstream to be you know
+[26:43] more effective on Revenue as well and so
+[26:45] I think those become core metrics to
+[26:48] look at and and given that B2B companies
+[26:50] spend a majority of the money both on
+[26:52] marketing and sdrs just to create
+[26:54] pipeline not to build brand not to
+[26:57] expand customers not to convert active
+[26:59] pipeline a majority of the money gets
+[27:01] spent to create signals and create
+[27:02] Pipeline and so with that I think it
+[27:04] becomes a very straightforward metric
+[27:07] that a lot of companies can look at both
+[27:09] to compare themselves against others but
+[27:10] also to Trend their performance quarter
+[27:12] over
+[27:13] quarter I love how you kind of I would
+[27:16] expect I was expecting you to kind of
+[27:18] paint the funnel of leads marketing
+[27:21] qualified leads sales opportunities Etc
+[27:24] but what I'm really hearing you talk
+[27:26] about is how much does it cost to
+[27:28] acquire a new dollar like what how much
+[27:31] are you investing in marketing and how
+[27:32] much money is coming out on the other
+[27:35] side just want to double check with the
+[27:37] sales velocity meaning that that's like
+[27:40] in simple terms it's the time it takes
+[27:42] from say a demo call being booked until
+[27:45] a client is one is that correct uh that
+[27:48] is referred to as sales cycle sales
+[27:50] velocity is different there's a
+[27:52] difference between uh velocity and speed
+[27:56] um so sales cycle is how long does it
+[27:58] take you can Define this whether it's
+[28:00] from signal to close one opportunity
+[28:03] created to close one demo to close one
+[28:05] just make sure you use it consistently
+[28:06] with inside your company but then sales
+[28:09] velocity is combining so it's uh average
+[28:13] contract value from close one deals in
+[28:15] the during the analysis period the
+[28:19] amount of Pipeline and the amount of
+[28:20] opportunities that you've created within
+[28:22] that same time period uh the win rate of
+[28:25] those opportunities based on close one
+[28:27] and close loss deals divided by the
+[28:30] sales cycle length and the amount of
+[28:31] days inside the period and that gives
+[28:34] you a a combined metric because as goto
+[28:36] Market professionals what most goto
+[28:39] Market professionals seem to think is
+[28:40] that oh the only way that we can augment
+[28:43] growth at our company is to create more
+[28:45] pipeline but in reality if you close
+[28:48] deals twice as fast that's going to make
+[28:49] a huge impact if you increase win rates
+[28:51] from 20% to 40% you'll double your
+[28:53] Revenue just off of that with the same
+[28:55] amount of Pipeline and so there's a lot
+[28:57] of there's a lot of leverage that we
+[28:58] have as goto Market professionals to
+[29:00] increase the efficiency the productivity
+[29:02] the growth of our company that doesn't
+[29:03] involve just you know spending more ad
+[29:05] dollars to to create more
+[29:08] pipeline absolutely and I think that's
+[29:10] probably a good segue to take the first
+[29:13] question here um so Blake is asking what
+[29:17] is an example of a signal to win uh
+[29:21] ratio so in the companies that we
+[29:23] analyze like let's say that one of one
+[29:26] signal might be that a buyer subm a
+[29:28] pricing request on your website right so
+[29:30] that could be a signal um in the
+[29:32] analysis you'll win those signals from
+[29:35] the exact signal to close one somewhere
+[29:37] between 5 and
+[29:38] 12% which is huge like your sales team
+[29:41] talks to somewhere between you know
+[29:43] eight and 20 people in order to win a
+[29:45] deal um conversely if you pull a cold
+[29:48] lead out of Zoom info or you have
+[29:51] someone that downloaded your ebook
+[29:52] through SEO on your website that the
+[29:55] signal to win of those deals is going to
+[29:56] be less than 0.1 % which means that your
+[29:59] the same salespeople need to expend
+[30:01] somewhere between 50 and 100x the amount
+[30:03] of activities to win the same amount of
+[30:05] Revenue if you look at a pql or a free
+[30:08] trial signup those will be incredibly
+[30:09] low as well sometimes the exact same
+[30:11] thing as a gated ebook which is
+[30:13] something that I've now we have data to
+[30:15] show but something that I've been saying
+[30:16] for a long period of time that a free
+[30:17] trial signup is basically just a gated e
+[30:20] like getting a gated ebook lead in a
+[30:22] different way because the signal to win
+[30:24] ratios are about the same
+[30:28] yeah it's funny with those
+[30:30] ebooks when you first start studying the
+[30:32] conversion rate if you do like a super
+[30:35] broad ebook to to pipeline you're gonna
+[30:38] need thousands of
+[30:40] conversions so stop doing those ebooks
+[30:43] um then you can just just to go a little
+[30:45] bit further for Blake then you can take
+[30:47] that and stack rank the basically signal
+[30:50] to win across all the signals in your go
+[30:52] to market not just your first-party
+[30:53] website or your what people view as
+[30:55] marketing signals but also what about
+[30:57] the signals that user gem says you that
+[30:59] your sales team wins what about just
+[31:01] like taking six sense intent data what
+[31:04] about uh all the other thing like your
+[31:06] partner is having you connected with
+[31:08] some partner software and you have
+[31:09] second party data we need to be able to
+[31:11] look at all those things together look
+[31:13] at the cost of the signal and the signal
+[31:15] to wins to be able to really understand
+[31:17] the
+[31:19] efficiency yeah yeah I think the point
+[31:21] is there's an infinite amounts of
+[31:23] accounts out there but you need to be
+[31:25] spending the time on the accounts that
+[31:27] are showing that signals that looks like
+[31:29] somebody who's in Market to buy at the
+[31:30] moment and then conversely once you're
+[31:33] able to optimize that process and
+[31:34] instead of spending $2 million to get
+[31:37] five million now you're spending five
+[31:38] million to get five million then you
+[31:41] have a ton more money to go out and
+[31:42] figure out how do we get more of our
+[31:44] accounts to create those signals I.E
+[31:46] demand creation companies can't spend
+[31:48] there right now because of how
+[31:49] inefficient their intent capture to
+[31:51] close one
+[31:52] processes yeah and then then there's a
+[31:54] followup to just what you just said from
+[31:56] Teresa why free is converting so low
+[31:59] that's strange if they're interested in
+[32:03] software uh because a majority of B2B
+[32:06] companies get their free trial signups
+[32:08] by running Performance Marketing on
+[32:10] Google ads or high volume SEO that
+[32:11] drives a lot of people into a free trial
+[32:13] that either spam SMB would never want to
+[32:15] buy the product it's just a function of
+[32:17] how companies get the free trials um so
+[32:20] that's gen that's generally what we see
+[32:22] of why it's converting so low if you
+[32:24] look at the P like plg benchmarks which
+[32:26] by the way I don't believe but the plg
+[32:29] benchmarks will say 5% of free trials
+[32:30] will convert um we're typically seeing
+[32:33] that far less than a half a percent
+[32:34] which is 10x less than what the
+[32:36] Benchmark is um so it's generally just
+[32:40] how how companies get the free trials
+[32:42] and their need to use advertising
+[32:45] dollars to pump up their mqls or their
+[32:47] free trial signups which when you just
+[32:49] spend more money to do that what do you
+[32:50] do you dramatically increase the volume
+[32:52] while also dramatically decreasing the
+[32:54] quality you end up getting about the
+[32:55] same thing
+[32:56] out and as a marketer you need to be
+[32:59] studying what is coming through that
+[33:01] free free trial door and then does it
+[33:05] look like the people who are normally
+[33:06] buying or is it the something at gmail
+[33:09] or at Yahoo or whatever it is then you
+[33:12] need to figure out what's sending you
+[33:13] all this crap yep and then uh and then
+[33:17] back in the day in like two 2020 I
+[33:19] remember that plg companies would be
+[33:21] able to raise a series B based on free
+[33:23] trial signup
+[33:25] growth so what what would they do they
+[33:28] would just spend $200,000 a month to get
+[33:30] 5,000 more free trial signups so they
+[33:32] could raise their $20 million series B
+[33:35] and uh it didn't matter if any of those
+[33:38] customers were qualified to buy if they
+[33:40] converted to an Enterprise customer or
+[33:42] anything like that back in the day all
+[33:44] that stuff is out the window but a lot
+[33:45] of the bad behavior and the best
+[33:47] practices around that that were created
+[33:49] during that time still exist today yeah
+[33:52] I don't know what we were doing back
+[33:54] then uh like the signals questions are
+[33:57] really going off here Chris I'll give
+[33:59] you another one so when we're talking
+[34:01] about signals is it best to look at
+[34:04] account level or I'm guessing the
+[34:06] opposite is the like individual uh
+[34:10] level um so no matter what when your
+[34:13] sales team takes action they take action
+[34:15] against a person and so when you look at
+[34:19] signals signals basically can be created
+[34:22] through a a person level signal you got
+[34:25] these things like RB Tob that get like
+[34:27] Deon onize a person on on your website
+[34:30] or someone fills out a form or someone
+[34:32] intends your webs your webinar and then
+[34:34] you have a a person level signal um you
+[34:37] also could have account level signals
+[34:38] and what what's the process of what
+[34:40] happens when you have an account level
+[34:41] signal you get an account level signal
+[34:44] your sales team goes into a contact
+[34:46] database they pull out contacts and then
+[34:48] they go and and take action against
+[34:50] contacts and so the beauty of signals is
+[34:54] that you can actually look at it at an
+[34:55] account level and you can look at it at
+[34:57] a person level simultaneously with the
+[34:59] same data structure um and so we need to
+[35:02] have you know person do account matching
+[35:04] which most companies have at this point
+[35:06] HubSpot does it natively many others
+[35:08] there's tools to do it um but when you
+[35:11] think about actually taking action like
+[35:14] you're we your sales our sales team is
+[35:16] not just reaching out and sending it to
+[35:18] you know Adobe adobe.com there's a
+[35:20] person that they're actually engaging
+[35:22] with so when you think about signals you
+[35:24] might get an account level signal which
+[35:26] then drives you to reach out to five
+[35:28] different
+[35:29] people um and those are sort of the the
+[35:32] the way to look at it but the the beauty
+[35:34] of it is that we can look at it in both
+[35:35] dimensions account level and we could
+[35:37] create an account level structure of
+[35:38] where what are the what are the signals
+[35:40] that these are accounts are sending us
+[35:41] and the people inside of those accounts
+[35:43] and look at that across the whole
+[35:44] Spectrum which signals got us into
+[35:46] pipeline which got us into meetings and
+[35:48] you can look at it at a person level and
+[35:49] then bubble it up to the account
+[35:51] level brilliant okay let's change lanes
+[35:55] a little bit so here's a question I I
+[35:58] know you have a great answer to or at
+[36:00] least you did because you built two
+[36:03] successful agencies what is the best BW
+[36:05] marketing tip for a startup that doesn't
+[36:07] have so much
+[36:09] resources um what the business model oh
+[36:13] forget about the business model yeah
+[36:15] yeah if you don't have any resources
+[36:17] what do you do to actually build a a
+[36:19] company when you don't have money you
+[36:22] have time and expertise and speed and
+[36:26] being smarter than the people I actually
+[36:29] a lot of people think about not having
+[36:30] money as a disadvantage I consistently
+[36:32] look at it as an
+[36:33] advantage because when you don't what
+[36:36] look at all what the the big companies
+[36:38] do they waste millions of dollars on a
+[36:40] bunch of dumb [ __ ] they have tons of
+[36:42] politics and overhead and meetings about
+[36:44] stuff that doesn't matter and my
+[36:46] three-person company we can make
+[36:47] decisions fast we can do things that
+[36:49] actually work if things don't work fast
+[36:51] we can iterate and change really quickly
+[36:53] you just innovate a lot faster when when
+[36:56] resources are limited uh where does that
+[36:58] lead you it leads you to producing
+[37:00] expert level content Distributing that
+[37:02] organically building a community or
+[37:04] building some type of movement against
+[37:06] signals or whatever you're trying to
+[37:08] tell hosting live events which are
+[37:10] basically free outside of the you know
+[37:12] $40 a month package to actually produce
+[37:14] them um and what what where you win
+[37:19] there is customer expertise having a
+[37:22] great strategy knowing how to create and
+[37:25] distribute content effectively which
+[37:26] carries through for the the entire your
+[37:28] entire professional Lifetime and the
+[37:30] professional like the lifetime of the
+[37:32] business um and so it leads you into
+[37:34] those places that actually create scale
+[37:36] in
+[37:38] Roi super nice um so now there's a
+[37:42] question about uh let's talk proably
+[37:45] probably broadly about how you think uh
+[37:47] AI is impacting go to market I'll just
+[37:50] read out the question that Yousef have
+[37:51] written for us how do you see J is
+[37:54] affecting the decision making on selling
+[37:58] I'm I'm curious to hear how you see like
+[38:00] the the whole AI pushing into to to go
+[38:02] to market and what what does that mean
+[38:04] for what's coming up
+[38:05] next so uh the first thing that AI is
+[38:10] going to do when it's already happening
+[38:12] is just replace the actions that happen
+[38:14] with expensive human capital that are
+[38:16] inefficient so the first thing to go is
+[38:18] going to be S sdrs not all of them but
+[38:21] many of them especially sdrs that Target
+[38:24] SMB and mid-market Deals where the cost
+[38:26] structure just does make sense that
+[38:28] those things will then get triggered off
+[38:29] of AI sending an email AI doing a
+[38:32] voicemail drop AI sending a LinkedIn
+[38:34] message instead of having a human do it
+[38:36] which is going to be more consistent
+[38:37] faster better data things like that so
+[38:40] that's the first thing that I see
+[38:41] because when you think about uh like
+[38:44] sdrs going outbound and you look at the
+[38:46] data when they do personalized Outreach
+[38:49] they those types of things actually
+[38:51] drive revenue for most B2B companies
+[38:53] especially mature companies the problem
+[38:54] is it's just far too expensive and super
+[38:56] inefficient so what is the solution to
+[38:59] that instead of having 10 100K you know
+[39:02] Sal 100K salary sdrs doing it what if we
+[39:05] have two 100K salary sdrs do it
+[39:07] augmented the the other eight people by
+[39:09] AI instead of that $800,000 a year like
+[39:12] that's that's going to be the first
+[39:14] thing that happens uh with Gen and it's
+[39:17] already happening B2B companies are
+[39:18] running experiments with this they get
+[39:20] better results on their personalized
+[39:22] Outreach with AI than they do with a
+[39:23] human that's happening um when we think
+[39:27] about the full sort of like the full
+[39:29] stack of AI the way I look at it is that
+[39:32] com B2B companies are not they're
+[39:34] they're they're good to lower cost and
+[39:36] automate things right now like that's
+[39:38] something that can happen right now but
+[39:39] their core data structure does not allow
+[39:41] for this to fully happen right now what
+[39:44] you need we have like account fit most
+[39:46] companies have all of their good fit
+[39:47] accounts inside of the CRM they you can
+[39:50] automatically get the job titles and the
+[39:52] people so like the fit around that is
+[39:54] set up for Success companies do not
+[39:57] signals at all right now most like
+[39:59] somewhere between 20 and 30% of signals
+[40:01] are tracked 70% is a total black hole
+[40:03] for B2B companies and so they do not
+[40:05] have the right data to know what is the
+[40:07] right time to reach out and why are we
+[40:09] reaching out and what is the outcome of
+[40:10] that so that's going to be the next wave
+[40:12] and then lastly the final wave will be
+[40:14] what is the right message what is the
+[40:15] right channel when should we send it
+[40:17] what should the Cadence be what should
+[40:19] it be AI when should we use a human for
+[40:21] that should we use LinkedIn or should we
+[40:22] use email what should the subject line
+[40:23] be how do we optimize and iterate that
+[40:25] AI will be really good at that once we
+[40:27] know what the right time is to reach out
+[40:29] so the sequence right fit right time
+[40:32] right message right
+[40:34] channel brilliant Chris it's it's going
+[40:37] to be interesting to see like if this
+[40:39] access to like personalization gets
+[40:42] democratized are we then as receivers of
+[40:45] outbound stuff just going to block
+[40:47] everything or how do you how do you then
+[40:49] actually get through is the better
+[40:51] personalization or or is there other
+[40:53] plays you need to be making as well the
+[40:56] only thing that matter matters in the
+[40:57] future is what your customers say about
+[40:59] you and what your community and content
+[41:01] consumers say about you to your target
+[41:03] market the only thing that matters um
+[41:06] because all of the other sources
+[41:07] including including Google what's going
+[41:10] to happen with AI review sites that are
+[41:12] getting gamed left and right analyst
+[41:14] firms that get paid to give bad advice
+[41:16] all of the other sources of information
+[41:18] are becoming gamed and biased and not
+[41:21] trustworthy and so where is it going to
+[41:23] be it's going to be B2B buyers trust
+[41:25] their peers more than anybody else I've
+[41:27] been saying that since 2020 and that
+[41:29] will continue to grow in importance over
+[41:31] time absolutely I heard you also saying
+[41:34] that was actually quite smart move of
+[41:36] you that's you notice as soon as your
+[41:39] posts on LinkedIn started to take off
+[41:41] you'd have these people
+[41:43] in different languages just copying
+[41:46] pasting them to their own language and
+[41:49] that that the AI can do for you so you
+[41:51] your counter to that was to start to be
+[41:53] on a video because they cannot be your
+[41:56] physical body saying the same things and
+[41:58] that help you kind of um stand out in
+[42:01] the crowd at least for a good while yeah
+[42:04] it's interesting when there's shifts in
+[42:06] the market that it uh it drives
+[42:09] Innovation like when people started
+[42:11] copying my LinkedIn text Post in
+[42:14] 2019 I wasn't thinking oh my God like
+[42:16] videos the future this is going to be
+[42:18] amazing it was just thinking like okay
+[42:20] people aren't going to be able to copy
+[42:22] what I say and somebody that copies my
+[42:24] post and takes it and copies it into
+[42:26] German is not going to be able to speak
+[42:28] on it in a video or a live event or
+[42:29] answer questions with Stephan the way
+[42:31] that I am so boom done now What's
+[42:34] Happening Now what's happening today is
+[42:35] that there's a lot of companies that are
+[42:37] copying your messaging it's never been
+[42:39] easier to update your homepage copy one
+[42:41] day they're an ABM platform the next day
+[42:43] they're a Signal Company the next day
+[42:44] they're a sales AI optimization company
+[42:47] it's never been easier to change your
+[42:49] website and change your messaging and
+[42:50] copy someone and pretend that you're
+[42:52] something that you're not and so what's
+[42:54] that going to happen B2B buyers trust
+[42:56] websites less they TR customer stories
+[42:58] less because they understand who's
+[42:59] creating them and what their intentions
+[43:01] are and so I don't know how exactly
+[43:04] we're going to I'm going to react to
+[43:06] this one but there's a new thing
+[43:07] happening where basically everyone's
+[43:08] copying and it's going to drive more
+[43:10] Innovation for us it's uh it's sort of
+[43:13] too bad because where where I'm leaning
+[43:15] in this is that before it's been pretty
+[43:18] much all open content right like I've
+[43:20] given away all my best stuff for free
+[43:22] for the past six years it's helped a ton
+[43:24] of people um and what's happening now
+[43:27] with AI is that basically anyone can
+[43:29] create open content and as a consumer of
+[43:31] information the only thing that matters
+[43:33] for you is what are the right sources of
+[43:35] information because information is
+[43:37] commoditized it's not only about what
+[43:39] information do I get it's about is this
+[43:42] the right information for me um and so I
+[43:45] expect that uh in the future there's
+[43:47] going to be a lot more closed closed
+[43:49] systems where the information is closed
+[43:51] off and not public and things like that
+[43:53] and people will then have to decide am I
+[43:56] going to trust what Walker says or what
+[43:58] Gartner says or what this person says or
+[44:01] am I going to trust what I get on
+[44:02] LinkedIn that I see from some random
+[44:04] person that might be AI generated it's
+[44:06] really up to you as a consumer now to
+[44:08] make the decision about what content
+[44:10] should I trust it's a lot different than
+[44:12] it was five or 10 years
+[44:14] ago that's super nice and I I know you
+[44:16] also do a is it a weekly session you do
+[44:19] where people can join you live and have
+[44:21] that onetoone kind of conversation with
+[44:23] you yeah the weekly session happens at
+[44:26] uh at 12 central time it'll happen today
+[44:29] on Tuesday so that'll be coming up in
+[44:30] about an hour if people want to sign up
+[44:33] to that and be part of it Chris what do
+[44:34] they
+[44:36] do um we got I think there's a link you
+[44:39] go if you go to pto.com there's now a
+[44:41] link to sign up in the uh main nav yeah
+[44:45] nice okay uh a couple of questions left
+[44:48] and then I'll I'll let you get on with
+[44:49] it so if we talk about
+[44:52] um like I love hearing about a tactic
+[44:55] that works right now so but and you must
+[44:57] see so many different things out there
+[44:59] what is the kind of highest Roi examples
+[45:02] that that you're seeing at the moment
+[45:03] this is Muhammad asking this as well but
+[45:06] I love a tactic that I can steal from
+[45:08] you and go Implement myself yeah I'll
+[45:10] talk about some of the highest Roi but
+[45:12] just so people have some clarity on the
+[45:14] process especially with a mature and
+[45:15] developed company step one in the
+[45:18] process is to eliminate all the low Roi
+[45:20] things it's much easier to find low Roi
+[45:23] things than to clearly identify the high
+[45:26] like and isolate the high Roi things and
+[45:28] so what are we what are the lowest Roi
+[45:30] things Google ad spend number one
+[45:33] terrible Roi terrible C payback when you
+[45:35] put in sales and SDR and all the other
+[45:37] costs it literally makes no [ __ ]
+[45:39] sense and I can't believe companies
+[45:40] continue to do it when the data is
+[45:42] sitting right in front of them about how
+[45:43] bad it is um LinkedIn ads are often very
+[45:47] poor especially when used as a lead gen
+[45:49] mechanism and so using a LinkedIn lead
+[45:52] gen form is a signal on its own um and
+[45:55] B2B companies will spend you know 150
+[45:58] 300 up to up to a thousand dollar for a
+[46:01] lead gen form of a sea level executive
+[46:03] and then get those per people into
+[46:04] customers at 0.1% metadata produced a uh
+[46:09] aggregated data study with hundreds of
+[46:10] companies and hundreds of thousands of
+[46:13] leads that came from those things CAC
+[46:15] paybacks are untenable lead to win rates
+[46:17] are terrible um that type the just
+[46:20] Performance Marketing advertising
+[46:22] generally tends to be a very poor Roi um
+[46:26] because companies don't measure it
+[46:28] against CAC they measure it against cost
+[46:30] per lead so the metrics can look good up
+[46:32] front and they don't actually
+[46:33] materialize and so the way that
+[46:35] companies measure them create the
+[46:37] illusion that things are working fine
+[46:39] when they're really not um when we and
+[46:42] then uh conference trade especially
+[46:45] National Conference trade show booths
+[46:47] tend to be incredibly low Roi companies
+[46:49] spend Millions to big companies spend
+[46:52] tens of millions of dollars to build a
+[46:54] [ __ ] booth in Las Vegas for two days
+[46:57] some people show up have no tangible
+[46:59] revenue for it and then what they do is
+[47:01] they look for all of these unmeasured
+[47:03] assumed second order outcomes like oh we
+[47:05] did that for brand awareness or remember
+[47:08] that customer we had that customer in
+[47:09] the booth like maybe we'll expand them
+[47:11] in the future and they look for all
+[47:13] these different excuses to justify why
+[47:16] when they can't actually look at a
+[47:17] direct Roi and then they look at every
+[47:19] other investment they have on a direct
+[47:20] Roi but the things that they think they
+[47:21] should do they apply all these second
+[47:23] order outcomes to justify things that
+[47:25] aren't working when you think about the
+[47:27] highest yeah ouch when you think about
+[47:29] the highest order uh Roi
+[47:32] activities really it most of it comes
+[47:34] down to the cost structure um so it part
+[47:38] of it is Effectiveness but a lot of it
+[47:40] is that you just don't spend as much on
+[47:42] it therefore you get a much better Roi
+[47:44] so in the events category webinars in
+[47:46] almost every company that we analyze
+[47:48] webinars are the highest performing
+[47:49] signal um while National trade show
+[47:51] boost the lowest performing why because
+[47:53] webinars are less expensive and a lot
+[47:55] more scalable
+[47:57] and trade show boosts are very expensive
+[47:59] and not scalable and things like that um
+[48:02] organic organic content specifically
+[48:05] content for for social tends to be uh
+[48:08] really strong especially when measured
+[48:09] against self-reported attribution and a
+[48:11] variety of mechanisms not just uh UTM or
+[48:14] things like
+[48:15] that um and those are those are a couple
+[48:18] of the core things but when you look at
+[48:20] the and then there's a there's a really
+[48:22] weird it's hard to explain effect but
+[48:27] companies get a lot of their customers
+[48:29] that have nothing to do with their
+[48:31] marketing
+[48:32] Investments and they don't know they
+[48:34] think it's because their SEO strategy is
+[48:36] so good when in reality their happy
+[48:38] customers are telling somebody else in a
+[48:41] community that person searching the
+[48:43] brand in Google coming to the website
+[48:44] getting a demo they're back at HQ saying
+[48:46] our SEO strategy is working so good
+[48:48] let's scale our SEO agency when in
+[48:50] reality none of their marketing had
+[48:52] anything to do with closing that
+[48:53] customer so there's this idea of organic
+[48:56] organic market demand is what I've been
+[48:58] calling it I'll try to find a better
+[49:00] term for it where you're going to get
+[49:02] that customer no matter what and has
+[49:03] nothing to do with the marketing
+[49:05] Investments we actually we've actually
+[49:07] have we actually have a a filter in our
+[49:10] Google search ads report in dream that
+[49:12] we can get rid of the Branded search
+[49:15] keyword and that just destroys the the
+[49:17] ROI of of Google search ads because it's
+[49:20] like it's a quarter of what you're
+[49:22] getting in that that is actually
+[49:25] like let's call it de demand gen is
+[49:28] probably saying too much but it's where
+[49:30] it's not your brand that is just
+[49:32] capturing all the effects of everything
+[49:33] else that you've been doing generally we
+[49:36] see just just to clarify we see the same
+[49:38] thing in the data that 20% of Google ad
+[49:42] spend goes to branded terms and that
+[49:44] drives more than 80% of the revenue and
+[49:46] then 80% of the spend goes to
+[49:48] non-branded terms and drives less than
+[49:50] 20% of the revenue and then all of that
+[49:53] category of the 80% of the spend like
+[49:55] that's that's where you go and find all
+[49:57] your cuts and really you take that 80%
+[49:59] you really spend like 5% on the money
+[50:02] keywords that actually have a high Roi
+[50:04] but then even on the Branded side
+[50:06] companies are getting a 36-month CAC
+[50:09] payback total CAC when you think about
+[50:10] sales and sdrs and things on somebody
+[50:13] that's searching for their
+[50:14] brand um and so that's unacceptable as
+[50:18] well absolutely Chris there's one thing
+[50:20] as a as a marketer that I've really
+[50:22] always admired from you and that and
+[50:24] that is that is your ability to to
+[50:26] develop a narrative or to kind of come
+[50:29] up with a new story and like it's a
+[50:31] little bit the same you need to do as a
+[50:32] company when you go to market you need
+[50:33] to do something that that catches on
+[50:37] have you ever talked about how you you
+[50:38] go about this process of how do you pick
+[50:41] a narrative how do you know when you
+[50:42] have a winner what is it that you do to
+[50:45] kind of come up with these winning uh
+[50:47] winning stories that you kind of lash on
+[50:49] for a certain amount of
+[50:51] time by creating such a rapid feedback
+[50:55] loop between you and your target
+[50:58] market that's it I do three three or
+[51:01] more of these events every week where
+[51:03] I'm on a live event people are asking
+[51:05] questions so that they help me clarify
+[51:07] I'm watching people's heads nods or
+[51:09] people not understand things so I have a
+[51:12] Content framework on live events that
+[51:14] allow me to get rapid feedback and
+[51:15] questions to help clarify the
+[51:16] perspective then I can take that exact
+[51:18] same content and post it on LinkedIn and
+[51:20] get a hundred comments about people that
+[51:22] say this is dumb this doesn't make sense
+[51:24] or this is so smart you're a genius
+[51:27] or ask questions that help clarify the
+[51:28] perspective again and then I take sales
+[51:31] calls with people that come in and I'm
+[51:33] pitching the the product which is a
+[51:35] different type of pitch than creating
+[51:37] content and then you're pitching the
+[51:38] product and building the sales deck and
+[51:40] iterating on the proposal and then
+[51:42] you're going to get questions on hey I
+[51:44] don't understand this part of the
+[51:45] proposal can you clarify these
+[51:46] deliverables can you do this thing and
+[51:48] the only thing is just shortening the
+[51:50] time window between when you say
+[51:52] something and when you get feedback from
+[51:53] your Target customer and making that
+[51:55] happen super fast four months ago people
+[51:57] thought that petto was the same thing as
+[51:59] refine labs in two months they're going
+[52:00] to realize that it's a totally [ __ ]
+[52:01] new game um but it just takes some time
+[52:04] to figure that stuff out and build your
+[52:05] build your narrative and get responses
+[52:07] from the market and I think people
+[52:08] underappreciate the process that it
+[52:10] takes to get
+[52:12] there yeah it is it's it's a it's a hard
+[52:15] discipline because there's not the kind
+[52:17] of you can study the click and what
+[52:19] became of the click it's kind of but I
+[52:21] guess the foundation yeah tot I wouldn't
+[52:25] I agree uh but but the that foundation
+[52:27] for be able to like make it art uh must
+[52:30] be this thing about being super close to
+[52:32] the market super close to the community
+[52:34] or the customers because that's what's
+[52:36] enables you to have a feedback loop at
+[52:38] all and I think like your podcast and
+[52:41] your weekly lives and your communi is
+[52:44] kind of that's your training ground for
+[52:46] every narrative that that you have
+[52:50] 100% wonderful Chris I want to thank you
+[52:52] so much for for taking the time to to
+[52:55] speak with us um if people want to do
+[52:58] business with you uh how do you kind of
+[53:00] what's the funnel nowadays where do you
+[53:02] need to go yes I mean honestly the
+[53:05] easiest way shoot me a DM on LinkedIn
+[53:07] and if you had a question that you
+[53:08] wanted to ask that you didn't get
+[53:10] answered today shoot me that on a DM if
+[53:12] you do it within the hour I'll answer it
+[53:13] on my live event at noon Central um and
+[53:15] then if you're interested in working
+[53:16] with any of my businesses hatch refine
+[53:19] Labs or poetto or you like trying to
+[53:21] figure out what to do in marketing your
+[53:22] go to market engine you're not sure what
+[53:24] to do just feel free to shoot me a note
+[53:26] if want to companies can help amazing if
+[53:27] not I'll try to refer you to somebody
+[53:29] that can so LinkedIn DM is probably the
+[53:31] best way to reach me right now fantastic
+[53:34] and to all of you who have been
+[53:35] following our conversation thank you so
+[53:38] much for for taking the time it's super
+[53:40] nice to see all these questions that's
+[53:42] that's come in and be sure to follow up
+[53:44] with Chris uh afterwards Chris thank you
+[53:47] so much and uh to keep producing all
+[53:49] this golden content that you that you
+[53:51] put out Stefan always great to

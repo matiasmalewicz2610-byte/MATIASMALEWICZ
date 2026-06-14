@@ -1,0 +1,1462 @@
+# Transcript — mymPtjd48KQ
+Video ID: mymPtjd48KQ
+URL: https://youtube.com/watch?v=mymPtjd48KQ
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~10564
+Collected: 2026-06-14
+
+---
+
+## Full Transcript
+
+roughly one hour to go um of this live master class. We will learn something about how to get more visibility and engagement on LinkedIn in 2025 with our wonderful guest today uh Richard Fanderloom. Most of you um I guess know him. You not only um are one of the most voice most known voice on LinkedIn, you also are the author of the LinkedIn algorithm report. I think that's also when I first crossed um your name and I was super impressed about all the knowledge that you can put into one report. Um so I'm already super curious to learn about the insights of the latest report actually that you brought with us to that you brought today. Um we'll also learn a bit more about you and your why you actually started and of course also a little bit about Scribe. So that's the agenda for today. We'll first have a little bit of a welcome and intro. Then we'll dive deep into your algorithm insights. We'll have a little fireside chat um where we also have some time for your questions. So please prepare. Um then we have a little surprise. We have more surprises uh in this whole hour. So stay tuned. Um but we'll show you a little sneak peek of what we built in Scribe. And there is of course also some goodies and discount codes included. So make sure to stay until the end. It's worth it. I promise. And before we start, I would love to know what is your motivation score. I hope we only have over seven. I already saw people are saying where they are from. Wonderful. Oh, wow. We have some 11s. 12. I love that. Great motivation in the room. 10. Okay. So, not nothing under nine. I can see. I think. Amazing. So, I'm also definitely at a at a 10 plus, I would say, because I'm super excited. Um, and as I already said, we love surprises. I'm not the only one today here from our little Scribe team. Um, I actually brought my two amazing co-founders, Eva and Kristoff. They're here somewhere in the the videos. Um, so please, uh, I think I have to pin you. And I would love um of course I could introduce them but they can do this wonderfully themselves. So um who wants to start? I don't see you here in the but once you start talking then people can see you. Who wants to start? Kristoff will go first. Okay let's go. Uh yeah. Hi everyone. Uh I'm super excited to be here. Uh I'm Kristoff, CTO and co-founder of Scribe. Um I've been a software engineer for over a decade. uh and I've built other startups before. Uh so I love building uh great products and uh I'm currently obsessed with building the best content creation tool on the market. Um and yeah, I've been posting consistently myself on LinkedIn for over a year now um using our own tool. So um I'm as excited to listen to uh the insights from Richard as all of you are. Love that. And you are definitely you're definitely more than obsessed than than everyone I know. But it's always so great to also learn from you. And then of course we also have Eva somewhere here in the call. Where are you? There I am. I'm also super excited to be here and also super curious on all the insights. Um like short about me. I'm 26. I'm originally from Troll and I actually came into the marketing bubble when I was 15 there. I just started to post on Instagram and I just started to post my um personal stories and back then it was more advertising platform. So I quickly I think in like 3 months I gained like 20,000 followers um and with that knowledge I started a personal branding agency scaled it to 20 people but also quickly realized that there are so many cool stories out there who needs to be told and with an agency you cannot really scale that to like everyone out there and that's why I'm super happy now with Scribe. We finally make it possible for everyone to tell their story. um and also have a lot of fun with it. Yeah, I think that summarized it wonderfully and that um also I think my you already said that we were both or like I think the three of us what what unites us is the the passion for amazing stories and it is also what what I quickly realized um after I I left journalism what I like initially thought is is my my calling and that I would be love to be a journalist that I quickly learned it's actually not so much about the story only itself but who tells it. Um I then like also had a first startup encounter which was super insightful. Scaled that to 40,000 people only with personal stories and with personal branding which was super insightful for me. And then I quickly realized I just do it a bit like by feeling but I don't really understand it. And then I learned a lot from Eva when I joined her in um the agency. And now with Scribe we actually want to make that happen for everyone. everyone can use their voice and tell their stories um in the most effortless and stress-free way. So maybe some of you um here already you use Scribe. Please drop it in the chat who's already a Scrier. Um and that sounds all fancy and we are like building something big or we want to build something big. Um, and it gets bigger with everyone who's here and uses it. But also, just a side note, we're also just a team cringing it out sometimes and trying our best to just um, yeah, build something for you that you can use and want to use every day and also feel seen and welcome in our community. So um what unites us all is people trust people not brands and that our mission is to make a content creation tool and to make content creation itself as easy as talking to a friend and that's why one of our close friends is here Richard um so please maybe yeah you already introduced yourself quickly but just um a little bit about yourself where you're from and then we will dive straight in into your LinkedIn algorithm insights. Yeah, first of all, I want to I want to congrat all the three of you about building such an amazing tool. I mean, I've seen a lot of tools coming to LinkedIn. Um, I've not seen one tool that went this strong and this powerful from the launch uh with a continuous growth. So, that's only possible if the tool really fulfills a need. That that's basically the proof. Um, and I realize I'm old um because I signed up for Linda when Ava was 6 years. Uh I don't know if you were already in the marketing AA but I think you said you were 15. So but I sent up basically in 2005. LinkedIn was a ghost down. It was probably in 2003. Nobody responded. You could not even make post. It was like a digital rolodex. Uh I started my agency in 2010 just connecting. Um it's a a training and consultancy agency. We grow until 15 people. We work worldwide. We're amazing brands like we have clients like Nestlake, Gemini, Seammens where we train sales people or marketing people and I'm being very honest when you say that eight out of the 10 challenges that we come across with clients is content. That's basically it. People struggle so much with content. Either they have no priority, either they don't know how to write, either they have a lot of inspiration but they don't know how the algorithm works. some of them are actually afraid that who's going to see it, what is the impact and I think a tool like Scribe is um like comes in really handy for those people um especially if you make it that easy like from concept or ID uh to create a post. Um I've been publishing since 2009. There's an interesting thing I want to I want to show the audience because I did all my posts I did like three four posts a week. I publish in in Dutch which is even a smaller region than D region than the German region. And back in 2020 I decided to switch to English. So all my post from that moment on became English. Um and that's when I really scaled my visibility, my followers, my brand because then you an international network instead of only being like visible and and relevant for like a specific uh language region. So everyone in this call you know if you have a big audience or if you want to scale uh then please consider jumping from your native language to English. That's I think already a super great first insight. So I think we just start into the um into the insights right and thank you also so much for please mute yourself guys. Thank you. Wonderful. I just mute you. All right. So, I'll just um start right in. And uh yeah, also another like um thing that I want to emphasize, you just dropped the the report, right? Or when did it come out? Not even a month ago. 28th of April. Uh it was a very important. Yeah, it was it's less than a month. Uh and we worked on it since the start of December. So, it's actually five months of work with our team. um and you refer to it as um the LinkedIn algorithm research or report and we specifically do not use the term LinkedIn. It's called the algorithm insights report because I got a lot of problems two years ago and last year uh that LinkedIn actually wanted to ban me because of this report. They said like it's not from us and blah blah. people get the impression that it's ours and I had a huge disclaimers and obviously I don't want to be banned from LinkedIn and it's really it's it's it's it um it really surprised me because I've been such an ambassador for the platform. I've I've like taught so many people how to use it, how to use it in a better way, how to become more active that um and and this is something that sometimes frustrates me that I would say like hey if you collaborate, if you help me, if you join me in whatever form just by letting me publish it anyway. So it's called the uh uh the algorithm insights report. We've done it for the fifth year in a row. So it's not something that we done new. We started in 2020 and the first edition had seven pages. Okay. It was actually more like a summer project. Um it got a bit over the hand. We did it again in 2021. we had 20 page and this year we have 250 pages which is bizarre. My team have asked me not to do this again because it was very stressful the past four months with all the stats all the data creating not only the report in written but also obviously in in visuals. We did an amazing job and I want to emphasize I never advise people to write for the algorithm. I always advise people write for your human audience but optimize for the algorithm. All the tips we share if your content is sorry shitty and you can use whatever algorithm inside it's still a shitty content. So first you need to write content that really resonates and is relevant for your target audience but then if you take three or four insights of the algorithm you can really double your impressions. You can really get much more engagement and that's our goal. Uh basically what scribe also does we help you to create content that performs better. That's the goal of the algorithm report. Yeah, I I love that you said that. I think it's so so important and also to not overthink it if it resonates with you and your audience and then the algorithm tricks and hacks are just one thing to add on top. All right, so we're going to start. You brought us three main insights from the whole like thousands of pages. Um I will just start with one and you just tell me when to flip to the next slide. Yeah. Yeah, that's cool. So this is this is actually uh this is I think it's on page four. It's like the first like uh detail or the first research that we share and it's about reach engagement and follower growth which over the past 18 months have gone down for 95% of all the creators. So if you don't recognize that you get less reach than last year wow you know kudos to you because that means you're in the top 5%. I for example my reach is on 40% 50 40% of last year. Okay. So I've lost 60% of reach. However, my engagement is more or less the same. And LinkedIn doesn't communicate a lot about the algorithm but they did uh last year and they said the head of product said we don't want people necessarily to go viral on the platform. We want them to be more relevant for their target audience. So, they already told us, "We're going to lower your reach, but we're going to steal your content to a more relevant group." Which for me is proven with this stat because if I get less reach, but my likes and comments are the same, it means that who is seeing my posts are actually more engaged than like the hundreds or or thousand people that saw it last year. Um, I have often a discussion about reach. Is it a vanity metric? Is it good for your ago? Is it something you should not care about? Um, and I have a nuanced opinion because it all starts with reach. It's not your end goal, but it's very difficult if you don't get reach to get engagement and the end to get conversion. I mean, if nobody sees your post, you also don't get any new clients or any conversion. So, it is important to see a way that you can improve your reach, relevant reach. The end goal should be obviously conversion where you say, and conversion could be anything. I'm not talking about a deal. I'm talking about getting more followers. I'm talking about getting more clicks to your website. I'm talking about getting more uh direct messages from your target audience, getting more requests. That's what I mean with conversion that people become so interested in your content that they like click uh or or or connect with you or send you a message that they want to know more. That's what we talk about um conversion. And the last thing here is that also building your followers is becoming more and more harder because obviously you get less reach, less eyes, so also less people are uh starting to follow you. Hello Hello Michael. Hello. Good. Here you can go to the next one. Yeah. Okay. So this is a table. It's also something important. This here you see different content types. Okay. If you people are using scribe or if you simply publishing directly on LinkedIn you know that we can have text plus image. We can have text only. We can have a document post. Some people say it's carousel video poll and articles or whatever. So this um table does not show what you see in your feed. Some people mistaken and say hey so 60% what I see in my feed is text plus image. No this means of all the post that people send to LinkedIn almost 60% is text plus image and that's what we call the default post. People feel very comfortable to write a bit and then add an image and that's basically the the default post. Here we see that especially compared to last year texton posts have dropped hugely minus 41%. And this is because this format is extremely difficult for several reasons. You don't have a visual impression. So if people are scrolling in the feed it's very easy to skip your post or not even see your post because you don't have a visual that catch the attention. Also if you have a texton post the only way that you can really connect with your audience is if you're a good writer. If your copyrightiting skills are not good enough, people lose interest and they continue scrolling. Document post is only 7.6%. It's one of my favorite formats. I use a lot of carousel post because I feel that I can combine visual content with also educational content. Um, and you see that like 7% of all the posts on LinkedIn are documents. But also that is becoming harder and harder to get the same impressions because you could actually say that there is a bit of document fatigue. People are getting a bit tired of all the slides, especially the long ones. Um, video is a different story. It says here that 15%, so one out of six post on LinkedIn is video. For me, that's amazing. One out of six post video. And it was actually a bit higher half a year ago because LinkedIn opened the algorithm for vertical video. And everyone in my network went crazy. They all went like, "Okay, we need to create video because you got like massive engagement." LinkedIn now turned down the algorithm again. they deleted the mobile feed. So now it has stabilized a bit. LinkedIn video in terms of engagement is probably one of the best performing content because if people see you, you build trust more easily than if you only write things. So people seeing you speak, people hearing your talk, especially if you have educational content works very good on um uh online. Yeah. Next one. I just have a question here because I feel with video it's like this this back and forth and we also tried it a lot and I feel like some videos are just they don't get any reach and impressions and some just go absolutely crazy. Do you have a a best practice video like just from your perspective or what you experienced over the last months that works well for video? No, I I personally I haven't cracked the the the video secrets. Um, I was a bit late to the party. Um, I saw, for example, I don't know if you know him, Darren McGee, for example, it's a a social selling exper. Um, he was one of the first to start creating videos on LinkedIn, vertical videos, and he he showed me like stats like 600,000 views for one video, 400,000 views. He had 2 million v uh views with four videos. So, I thought, okay, I need to do vertical video. It took me two like two months. And when I came to LinkedIn, it didn't perform that well. I had 20,000 30,000 views but nothing more. So I haven't cracked it. In the algorithm report we've analyzed the best performing videos. They are vertical ones. So mobile fit not the YouTube ones, not the landscape but vertical. They are shorter than 1 minute preferably. Okay? So don't do long videos. Um they have captions so they also have some uh subtitle or some text to guide you to the video. Um and there was one thing more. Um and it's uh obviously um you are the main star in the video. So there's a huge difference between videos that I take for example on an event and I show a stage or I show a product compared to where I speak myself directly to my target audience. Okay, that's already that's great insights already like so something that that people can work on more and I think it's also just trying out what what works and what what resonates for you and your audience. Amazing. All right, then we I think this is already just a summary of the of the last one, right? Should we go to the No, this is No, this is not a summary. This is this is median reach on the left, median engage on the right. So, this is not um the percentage of those post, but this is how they perform and everything that has a number above one means you get a push at the back from the algorithm LinkedIn. So, if you look at the left reach uh document post 1.6, Six poll 1.99 it means that if you publish a poll you get additional push from the LinkedIn algorithm to get more reach and you see that post with external links articles text only post are the less performing and on the right it's the same but then for engagement so there you see that polls for example the document get a lot of engagement [Music] it's really really interesting and amazing analyszis I'm I'm sure in the report there's even more such such very nice insight. So just a sneak peek. All right. So insight three. Yeah. So what we did in the report is that we analyze all the different formats. So we have like three or four or maybe five pages per format. Uh and then we uh try to help you to really leverage a specific format. And you take the example of the text plus image post because it's like uh the best performing post. Can you go to the next slide? uh account. Mhm. So again, this is based on data and we research 1.8 million post. Okay. So it's not my data. It's not a data of a handful of people. It's 1.8 million posts. And it says, for example, that your text should be 700 to 900. If you want to write 2,000 characters, be my guest. Okay? What works for you might not work for me. If you're a good copywriter, if you really know how to uh stick people to your post, you can do more. But this is what we see. Averages of the best performing post. The hook is very important. Vertical images perform better than horizontal ones. Square is also good. If you add multiple pictures, for example, if you go to an event, I always advise people not to create a post and send just one picture, but upload three or four pictures because you get literally more reach because people can click on different pictures. Um and then also um you see for example a lot of people held by the company they use pictures that are either branded by the company or have logos they perform less than if you have authentic pictures shot with your own camera or so so especially in bigger companies be aware that the more you're trying to regulate with official branding the less authentic it performs on LinkedIn. And then um one of the last things that I want to say about text and image um images that provide me with instant uh easy to digest information perform the best. So we're talking basically about infographics. That's why they are so popular at the moment. A lot of people share an infographic about one topic and those are the posts that get a lot of save. They get a lot of engagement and that's also considered a text plus image post. Yeah. Interesting. And I I can totally relate with the with the authentic pictures. Um, and I think the more real it is and the more real they feel, it it performs well. Do you have a a um or a feeling or just a a meaning on like gifts and like things like funny pictures? Um, how does that work for you or just the things that I No, we haven't I I don't think we have the data on GIFs. Maybe I'm wrong because there's so much data, but I don't think we have data on gives. I personally I don't like them, but that's a personal preference. So that doesn't mean they don't work. Um there is however stats on selfies. Mhm. Um because a lot of people create pictures where they standing in front of I don't know a building or they're whatever. So they have themsel in the picture. If this goes with a relevant post, for example, personal storytelling about an experience, LinkedIn makes the connection. But if you create a selfie because you read somewhere like selfies perform better. But the post is about I don't know sustainability in the energy sector then LinkedIn will actually punish that image and give you less reach because they go like this is a personal picture and it doesn't match with your uh uh the content of your post. So selfies can build trust. They are very authentic but then you need to share more personal content and not like company related content. Interesting. I love that insight, but makes makes also a lot of sense and actually also more in the favor of of your um network. Amazing. So um Oh yeah, we also have some some things that were also when I was looking through it, I had to smile at some of them because I I get asked all of those things like a lot. So maybe you can add quick two cents on those seven hidden traps that kill your reach. Yeah, there there are more, but the other ones are like having for example one of the traps that is not on this slide that is can really tank your post is if you start tagging a lot of people and they don't respond. Okay, because if you tag you want them to engage and if LinkedIn sees that they don't care about your post, they don't engage. LinkedIn thinks you're abusing mentioning people and you really get like almost like a stop of the growth. So that's a very important one here. Uh it actually it's more common sense like if you use too many emojis and I'm not talking about the listicles the bullets I'm talking about the the the smileys the unicorn the rainbow those kind of things you do it too much and march is around five to six that's already too much it can have a negative impact on your reach if you have too many white lines right you avoid a double white line because if you have a double white line a blank line to create more space LinkedIn thinks that you are manipulating the dwell time the scroll time of people and they give you a penalty. Um, different from last year is that if you comment first on your own post, it doesn't has a good impact. You always need to worry until you get external comments before you jump into your own post. So, if you want to leave additional insights, make sure that you have a first comment from someone external before you do it yourself. If not, LinkedIn again thinks you're like trying to manipulate reach by having a lot of comments on your own post. And then, um, editing more than 5% of your post content. So, this is a myth. If you have a typo on LinkedIn, you can you can fix it. There's no penalty. But don't try to edit more than 5% of your content because then LinkedIn doesn't know if your content actually is the same. Let me give you an example. If I create a post where I say, I really like Donald Trump, and I get a lot of people that respond, "Yeah, me too. Me too." And then I edit my post and then I create, "I really dislike Donald Trump." All these comments are still saying me too while I've changed the entire post. That's why if you edit your post for more than 5% LinkedIn stops the growth. So be aware that um you don't do that. Um those are the most important ones. Just had to mute herself. Okay. Um that's a great insight as well. I think the the editing and also I just had one question on the on the commenting first on your post from Leon. Do is it a difference if you comment with a company profile on your post? Nope. That is that is good. There's no penalty for that. There's no penalty. Also if colleagues so also if you have with your colleagues an engagement or an agreement that you comment on each other's post it doesn't have the same power as an external comment but it still has a positive impact. Okay so some people say you don't need to comment as colleagues because you get less reach. That is true but it still helps you to get more reach. Um, obviously LinkedIn rewards external comments from not people connected to the same company page as better, but you can avoid that first comment by going to your company page and then leave a comment from your company page. And about the emoji, I saw a also a comment about uh from Michael. It's true. If you copy chat GPT content, a lot of those uh have emojis already. So if you use chat or whatever, I always prompt chat don't use any emojis because that's basically a lot of like a signal that people are using chat. Oh, interesting. Or just don't use chat at all because we have Scribe, right? Yes. A lot of a lot more better features. We'll see in a second. All right. That were a lot of amazing insights and it was still just a little tiny bit. uh maybe you can quickly say uh something about like what you created here with this whole um report. Yeah. So it's it's a report. It's 250 pages. It's really it's bizarre. It has uh uh uh I don't think there is anything on LinkedIn we haven't covered. So it has uh how to get better results with LinkedIn lives. It has everything about LinkedIn ads. It has everything about influencer marketing about the formats. It has 40 pages on company pages. everything about reach. Um there's like we have a specific section for how to stand out as a job seeker using the algorithm even for sales people like what type of invites work, what are the best days to send invites, how to use links and um because it changes a lot. That's why we do it every year. If you buy this report, it's 150 euro, okay? But if you buy this report, it's lifetime update. So that means that in 3 months because we're thinking about September to produce a new like probably 15 20 pages with update information, everyone who bought the report automatically gets the updates. If we launch the new report in 2026, you automatically for free get your new report. So it's really pay once lifetime updates. Why we did this? Because this is the first year that we have a paid algorithm report because we always give it away for free. one because we want to have a group of people where we say if you buy a report we've got you back. We've covered you all the all the future updates we will send to you. And second to make it a bit harder to uh copycat because we had a lot of people last year like hundreds of infographics uh and I if people refer to our content and they use visuals I'm totally fine with that. If you say, "Hey, this is a great visual I want to share with my network. By the way, it's in the report of Richard. I'm totally fine." But we had so many people pretending that they they had their own research or they had their own conclusions that we say, "Okay, now we're going to make a paid version." We have a small mechanism that if somebody publishes the full report, we can see who it is just to like uh make it more uh copyright. Makes sense. Yeah, makes totally sense. And of course, we also have a little discount code, but you have to wait until the end. Sorry, not sorry because we now u will learn a bit more about you. Um also about like a bit of a more insights over time, not just of this last year. And you already shared so much about um like more of the numbers and what we what can we do to actually improve our posts on the on the algorithm side. I want to know 15 years ago when you said like when Eva was six years old, why did you initially start LinkedIn and what kept you going over time? Why I started LinkedIn? It was basically I had a new sales job. I I've worked until I went I I became an entrepreneur back in 2010. Before that, I'm I'm I was born in 77. So I worked 33 years in sales. Um and I I changed job. I had a sales training from an American sales trainer and we were at the bar. uh after day one and for me always the best part of the training is at the bar in the evening and this guy said you need to be on LinkedIn because this is going to be big. I'm talking about 2005 at the beginning. So I went to LinkedIn I registered. I send out invitations and I got a lot of angry people that respond and say what is this? Is this spam? I don't know LinkedIn. I'm not going to accept. So I actually deleted my account and then I restarted it in November 2005 when it became a bit more popular and then I started again. I didn't had any strategy. Then fast forward to four years later, 2009, I saw in my work that a lot of people don't like to sell. They don't like sales talks. They don't like to position themselves. But if they can talk about their expertise, their solutions, they feel very comfortable. So the first step to get this meeting to book this meeting to become visible with your target audience a lot of people don't like to call they don't like to do the actual sales and I started to see that once you position yourself on LinkedIn once you network with the right strategy you can create a pool um and this has become so much stronger over the last years I mean I know a lot of people who have built their entire company on LinkedIn inbound sales and I'm not talking about people that have LinkedIn as service. I'm talking about coaches. I'm talking about uh lawyers. I'm talking a lot of people who said I get a lot of leads via LinkedIn just by publishing the right content. Um so that's basically why I became more active because I thought hey if I can do this then maybe I can teach people how to position yourself with your profile with your content so they don't feel like they need to do sales but they get inbound leads just by know sharing their knowledge. And that's basically where I started back in 2009 and where I founded the agency in 2010. Amazing story and I love lucky that you that you re restarted it and who knows how how how it would be uh otherwise. Um and like over that time what is something that did not change? Now we we know that of course the algorithm changes the read changes all the numbers change. Oh, that's that's very easy. Yeah, that's that's very easy. And I think you already mentioned in one of your slides, it's trust. Um, and it's it's it's easy. It has been the same over the last 15 years. And it's especially interesting now with a rise of AI and with a rise of more bot comments, you know, more chat comments, less humanity, more bots. Um, and we all need to realize, I see a lot of people underestimating the intelligence of their audience. They think that their audience will not know that their entire post is written by Chad GPT and they know and once you get the label this person is like blasting Chat GPT content people disconnect not from your profile but from your content they stop engaging they stop caring so every numbers go down. So especially now with the rise of chatpt I use chat GPT I use it in scribe I use like artificial intelligence to make my post better but my draft is always mine. I always uh start writing my own draft and then I optimize with hooks with good endings. Um but we need to realize without trust nobody buys nobody follows nobody engages nobody converts. They need to trust you before they become active. So that's that's something that will always be the same in sales in landing a job even in offline relationships without trust there is no relationship. Absolutely agree. Um and I think that's also sometimes what is current especially nowadays with this all like um like where everyone can create content people still feel oh now everyone can do something and I have to do it perfect and I have to like I have to know every trend and all the the things that are relevant for a post and then what I just see maybe you have a a similar experience people get stuck and afraid and they don't start at all so I think it's also so important to just overcome that overthinking and the the cringe that you might feel. What would you say to someone who is like, "Yeah, I want to start, but I don't know how." And is my story actually relevant enough? Like what is the the thing that you would encourage them to do then to find out what is their positioning? Yeah. So, so it's interesting. It's a very interesting discussion because I hear a lot of advice where people go just post, just post. no matter what, just post. And I don't like that advice too much because it's online, you know, and it says something about your positioning. But on the other hand, you have people writing 10 drafts, sending it to three people, and then at the end decide not to publish it because somehow they feel it's not like what they want to publish. So we need to stop overthinking and we need to trust in the power of a network that they are going to teach us with their engagement what they like, what they think is relevant and what resonates with them. And the best thing to teach yourself to become a better writer, get more engagement, get more followers, is just to publish post and to have a look at the metrics, have a look at the engagement. Um, and again, what works for you comment might not work for me. Style, tone of voice, type of post. I strongly believe that everyone has his own style, tone of voice, but also formats. I know people who really, we've discussed it, rush it with LinkedIn video. And I know people that if you, you know, put them in front of a camera, it will never ever become a a quality post because they're just not there. Um, so I would say, um, imagine that you come across on the street, you come across with a potential client and he asks you one question. Probably the majority will not walk away. They will probably start talking because they feel confident about their knowledge. That's basically for me how you start posting. Think about that one challenge that your client have and start writing how you could help or what your idea is on that challenge. That's basically how you can start. a great great advice and I think also what you mentioned that every h every everyone has a different style is what this is what makes LinkedIn so so interesting for me and so inspiring because if I start to seeing like every post is just the same um blah blah then it's not even inspiring anymore. I think we we can all encourage ourselves and each other to just really be purely authentic and um be confident that that this works. Um, and before we um also show quickly how Scribe actually does this, I would love to know from you what since you tested so many tools um how has your content creation flow changed with Scribe and maybe like what is one of the favorite features in that flow now? Um yeah. Yeah, of course. Um I' I've tested a lot of tools that that's for sure and I also get invites to be part of a lot of tools because I have a like all the people with lots of followers you know they're targeted by new tools say hey if you want to use it if you want to be an ambassador I and you know I I I really connected with scribe um one of the reasons why is for me uh the ability how scribe helps me to create a post um it's one of the only tools where I think like if I walk the dog and I generate a a voice memo. So, I'm talking into my mobile phone and I know I should pay attention to my dog. I'm sorry. I I I say sorry to her. But whenever I have the time to just talk to my phone, generate from voice and I go to Scribe and I get like post that helps me a lot. Um also, um what I really uh like is the the way how you can repurpose content. So, I've created a lot of YouTube videos. I've created a lot of YouTube materials and you can upload a link and then scribe starts to like create posts, create hook, gives you a score about the relevance. Um there is a connection with how you set up scribe. So for me it's a tool that makes it so much easier I think to create more content um from one ID that is easy and efficient to publish on LinkedIn. And I'm I'm not going to talk about a schedule opportunity or whatever because that's all included. Um, but I I really think that you on a on a on a great mission in making it as easy as possible to create content. And I think you also have the content interview. I haven't done that personally, so maybe I should. Um but I I because I think you really um hit home with that because a lot of people if I can interview them for 5 minutes or if I can talk to them they have so many relevant insights but when they need to put it in LinkedIn or when they need to start uh drafting you know they struggle and that's I think the for me the most uh important added value of scribe at the moment. I'm very happy to hear making content creation as easiest for a friend is also actually great because um like for for example what we do also internally is just having regular chats with each other. So we can really just talk and then we can use that recording um upload it to Scribe and then we'll already give us content ideas. So everyone here I know the chat is super busy but if you want to find your content buddy maybe he or she is here. Um, and now you already uh were were mentioning so many different um features and actually we um also want to show some of that. Not so for the ones who think I know Scribe already. I've been using it every day. That's wonderful. But we already have um something new to show you which is super sneak peek and super early. So stay for a bit. Um, I will hand it over to Eva because she's best in like explaining what Scrap actually is and then Kristoff will do a a quick demo before we have time for some more questions after you want to take over. Yeah, thank you. I think I mean for everyone who doesn't know Scribe, um, I just explain it quickly. But what the cool thing is on today is that it's the first time ever we present Scribe 2.0 zero live in public which is like the I think Kristoff did a lot of magic and you will see it it looks completely differently but before um Christoph is showing you that I just quickly explain you what is new and actually what Scribe is and you can just go to the next slide um actually what the cool thing on Scribe is and that's I think what we all hear is that Scribe connects to all your knowledge because we are knowledge first tools so we really want to know you as a person we want to know your expertise we want to know um your story we really want to get to know you and That's why you can think of like scribe just um as your content strategist who just is connected to all your knowledge. And the second thing is Scribe is built on the Scribe method. So we analyzed over 1 million posts to understand in which system you actually have to post to reach your goals. So it's not just about this one post. It's always about the combination and we really want to help people to understand what they need to do to actually also get something out of LinkedIn. And the third thing is also what Richard said is that we want to make it super easy for everyone to generate post. That's why you can use different sources to give us your input. You can make a voice memo, you can upload a file, you can use a YouTube video, you can do the content interview. So you just want to make it like super super simple. And the cool part now is and what I just mentioned that scribe is built on the scribe method is um and come you can go on the next slide and that's also I need to explain for everyone that you understand what scribe zero does because it's done more just than just a post generation tool. is like your whole content strategist body is that we at scribe always think as you as a whole person and we never we never just think of like you and like yeah you're just knowing for this type of expertise we always see you like in these four perspectives because we think that a personal brand everyone needs to understand at first your personal story so why you what makes you unique we also think that everyone needs to understand your organization like where you working what you're doing why is like your organization special we also think that it's your expertise as well. Um it's about like why should we trust you? What did you do in the back? And also getting all this insight as switch also start about the LinkedIn algorithms like just showing your expertise. And the first thing is we also want to know what you offer and it doesn't only has to be like a offer. It also can be that you're having um some expertise you can help others to reach some goals or it's like the offer of your company. But you also want to understand um what are you actually selling and this whole method and how you can execute it, how you make it easy and how you really get um results from LinkedIn is actually built in swipe 2.0 and what we did here and why we want to do that. This is what Kristoff uh is showing you now and then everything makes more sense. I just said I think it already make made sense. Um all right so over to you Kristoff. Yes, I'm trying to share my first time that we do this all the three like and even four of us together. So bear with us. But there we go. We made it. Okay, perfect. Do you see my screen? Yes. Okay, perfect. So, um yeah. Um for all of you that have been using Scribe before, uh some parts of this uh seem familiar, others uh don't. Um so what you see here is the new dashboard. uh as if I said from Scribe 2.0 that's not live yet. Uh this is like a a preview and uh what you see at the top row here is like actually what um if I said about we are about you and your LinkedIn profile. So this is connected with my LinkedIn knows every single post. Everything is analyzed. Um it knows what works and what doesn't and which formats are working for me and what post formats and content pillars uh are working and which are not working. And uh I have a knowledge base so I can upload um everything um that is necessary to know about me. For example, our company website or podcast I've been to or notion files or whatever um I can provide so that scribes understands me as a person. Uh I throw in here. So Scribe understands the context. And then uh what's completely new content strategy based on the four scribe method and the four pillars. Um, and if I click on edit strategy, we have like a whole new um um overview to see um my own inscribe generated content strategy. And it's based on four pillars as we said because like everyone has different goals. So if you have a lot of personal posts, you are sharing a lot about you and you as your personal brand. Um and if you share a lot educational posts then you establish yourself as the domain expert or organizational post is more about your team and what your organization um stands for. Promotional is more about selling and about your product. So it depends if you're for example uh like Richard um back then in sales you probably want to do a lot of promotional posts and a bit of personal posts so people know you and your product. But if you're like the CEO of a company you probably do a lot of organizational posts and personal posts. So that people uh that you have like um attract talent and people know your brand. Um so based on that we asked you about all your goals and your audience and your topics you want to post about and we help you to generate your own purpose statement. Um so with all of that we basically know okay this is you this is what you're trying to achieve and then we help you to select the post formats that you should do. So we identified not only the four um main pillars but also if I click on this button here you can see all the different post formats that belong to that. So um this is like very detailed but um for example a personal post uh you could do like a a career before and after post or like from to an event and then like share the experience how it was um or as an organizational post for example a company win or uh team spotlight. Um so there are a lot of formats that you can do and we're using this because we know um each of those formats has like specific goals and based on what you want to achieve we know what you should do and this makes it really easy to understand what is uh what am I currently doing and how is it like um attached to my goals and we are also um now proactively generating posts for you. So, we're taking all of this. We know what's working on the platform because we also have uh like a the the LinkedIn um like we connected so many LinkedIns. We have like live posts all the time. We know what's working. We know what's currently trending. Um so, we can use that and apply it to you as a person and your goals and your knowledge and then give you a constant stream of for you generated uh LinkedIn posts. So, this is like an AI content agent or your AI content strategist that works 24/7. Uh, and you don't even have to pro like know what you have to post about because that's like the main bottleneck right now like what should I even do? Um, you just have to provide like who you are and what you want to achieve on a constant basis. Um, and then we come up with a post. So, for example, here you see like there's like a lot of actionable guides for me. Um, I talked about Scribe 2.0. So it made a launch post for me for the launch announcement. Um offer highlight post, client success story. So it knows my strategy and it generates the post for me. So if I click on on this, you can see it generated a complete launch post. Um and it actually says now scrap acts like a 24/7 content agency knows your voice, your story, your goals. So everything that's in here. I didn't write this post and I didn't prepare this before this call. It's just a generated I don't even know when. I think like 5 days ago. Um, so it it comes up with all these ideas and I can take them and edit them and post them directly. And we also have a brand new content calendar. So we know when you want to post for example for me my goal is to post three times per week and right now we're so busy that I missed my Wednesday. Um, as you can see here um and I would know ah I can do the launch announcement post tomorrow and Scribe already knows that. um and for next week I know okay I could do these three post formats and it helps me to generate them and I can just um put them in my in my slots basically I don't have to think about anything um and we could also at all time for everyone who doesn't know anything about scribe also just generate a post from scratch if you have like a specific idea and you already know what you want to talk about you can as Richard say uh said generate a a post from voice on the go or upload anything YouTube videos um or live interview. Or the easiest one is just um prepared like a um a few sentences here like put on some some thoughts, some text, just throw them in and then you can generate a post and it will use all the u knowledge about you and what's working on the platform and apply all the principles for what hooks really work and you can select like the angle uh of your post. Um and actually I saw in the in the chat that someone asked like um will these also get scores? Yes, it's not done yet. Uh but we will also add scores. Basically what which post or which hook um is uh best for you or like what we would suggest. Um let me just take this one. So I can just click on this and here the same happens like it will take this hook and um search the whole platform for like similar uh posts that went viral. And it knows also my my post style like what I usually do or like how I usually write and it generates the whole post for me. I have like a complete editor in here um where I can create variations. I can also generate AI pictures of myself. So um everything you need to like from zero to 100 um everything that you need for great content creation um on LinkedIn. Um I think that's basically everything I wanted to show. If if you have anything else to add, let me know. I I try to to catch up in the chat, but there's so many so many questions and you can all soon test it. Thank you so much for for the demo, Kristoff. I think also one important thing here is that um it only triggers the post generation if you have enough knowledge in there. So, it's all coming from your brain or your brain dump. um and think of scribe as a second brain and then it will trigger the poll because I saw some sub questions there. um something that you want to add here Kristoff because otherwise I would switch back to I think I just think it's like you all you saw the excitement of Kristoff of all this new stuff and I think also for existing scribe users he just changed so much and it's the first time ever he also shows it to like everyone live and I just also want to like applause Christoff for actually building that all in like one month and that just was my ad Yeah. Yeah. It's really I think also we we didn't know what he's building in the background sometimes, but then it was just there and then it's like the magic that is just created. Um so I I'm looking super forward to to um all of you testing it soon because we have of course some goodies and we're almost at the end. Um, so Richard already said that he um has a discount for all of you for the report and we have also for everyone here a free month um who is not a Scribe user yet. Um and everyone who is here listening will get an early access of the amazing thing Chris just showed um for the first 50 people texting us. So, please um drop us an email very soon. Um redeem your codes and then you will all get early access. Um and I think that's about it. Maybe we have time for one more question. Um so, who is the quickest can now raise their hand or just start talking otherwise I'll have another question. Maybe Christopher Eva, you have another question that I didn't ask yet. All right. I always have Oh, there there is Stefan. Please go ahead. Hello. Hello. Wait, I need to turn on my camera. Can you guys see? I I can see myself, but hi. Amazing. Go ahead. Stefan also from Germany. Quick question. Um, boosting some of your top performing posts with some ad spend. Is that harming the rest of my post performance? Yes or no? If so, um what's a good ratio of posts to boost with ad spend? Thanks so much. That's for who is a question for me because I I can say something from Okay. Okay. You have two options. You can boost it from your company page for example to promote a post or you can have a thought leadership ad. I would always go for the thought leadership ad because basically the the conversion and the visibility is much higher because it doesn't look like an ad. Anything that looks like an ad, read likes an ad, gets very bad engagement. So, but a thought leadership ad is basically your company page saying, "I'm going to show this post and you can target your audience depending on what audience you select, but people will not see it as an ad. There's no promoter, there's no sponsored. It just said like um uh thought leadership. It doesn't look like an ad. Basically, that's it. So, that's the only opportunity I would or that's the only choice I would make if you want to use um sponsored content. It it is true, but obviously LinkedIn are never going to confirm this that once you start to using advertisement or sponsored post that your organic reach goes a bit down. And I don't know if this is something that comes from your network because they disconnect because you are targeting them with ads or if LinkedIn goes like hey Stfan started with boosting now he hasn't done it so let's decrease the reach so he comes back to promote. So I would be very careful to create any wellperforming post into an ad. I prefer to reuse the post in a different format in a different style and go organic but that's me and I have no shares in LinkedIn so I can easily tell this. All right. Thanks so much. Thank you so much for sharing this. And we're one minute to go. Um, and I think all I just want to say is thank you so much, Richard. Thank you all here who joined like I didn't expect like all of you joining. So so amazing. It was also now I also saw one of my last typos here. Wonderful. So we all make mistakes. It was so cool also to be here with like I was really really happy to have Eva and Kristoff here. It was the first webinar that we did. Three of us together. First time Christopher could show what he actually built with 2.0. You will get access. It has been a blast. Um here you but super important to get access. You have to write us an email. Exactly. That what I wanted to mention. Here you have our wonderful email address. Hellocribe.io. Shoot us an email. We'll give you access as soon as possible and you will be in our lucky Scribe 2.0 beta group. Um, also don't forget to connect with uh Richard, of course. I hope you follow him. And um, we'll also send all the details, all the discounts, the recording for the ones who haven't been here since the beginning only be valid for one a week, so be quick. And with that said, happy scriing and thanks so much for joining everyone. Now you're muted. Thank you guys. Thank you. Thank you for having me. Thank you. Bye. Bye. Bye. Bye.
+
+---
+
+## Timestamped Segments
+
+[00:01] roughly one hour to go um of this live
+[00:05] master class. We will learn something
+[00:07] about how to get more visibility and
+[00:09] engagement on LinkedIn in 2025 with our
+[00:14] wonderful guest today uh Richard
+[00:16] Fanderloom. Most of you um I guess know
+[00:19] him. You not only um are one of the most
+[00:23] voice most known voice on LinkedIn, you
+[00:26] also are the author of the LinkedIn
+[00:28] algorithm report. I think that's also
+[00:30] when I first crossed um your name and I
+[00:33] was super impressed about all the
+[00:35] knowledge that you can put into one
+[00:36] report. Um so I'm already super curious
+[00:39] to learn about the insights of the
+[00:41] latest report actually that you brought
+[00:44] with us to that you brought today. Um
+[00:46] we'll also learn a bit more about you
+[00:48] and your why you actually started and of
+[00:51] course also a little bit about Scribe.
+[00:53] So that's the agenda for today. We'll
+[00:56] first have a little bit of a welcome and
+[00:58] intro. Then we'll dive deep into your
+[01:01] algorithm insights. We'll have a little
+[01:03] fireside chat um where we also have some
+[01:06] time for your questions. So please
+[01:08] prepare. Um then we have a little
+[01:10] surprise. We have more surprises uh in
+[01:12] this whole hour. So stay tuned. Um but
+[01:15] we'll show you a little sneak peek of
+[01:17] what we built in Scribe. And there is of
+[01:19] course also some goodies and discount
+[01:21] codes included. So make sure to stay
+[01:23] until the end. It's worth it. I promise.
+[01:26] And before we start, I would love to
+[01:29] know what is your motivation score. I
+[01:32] hope we only have over
+[01:36] seven. I already saw people are saying
+[01:39] where they are from. Wonderful. Oh, wow.
+[01:41] We have some
+[01:43] 11s. 12. I love that. Great motivation
+[01:47] in the room.
+[01:49] 10. Okay. So, not nothing under nine. I
+[01:53] can see. I think. Amazing. So, I'm also
+[01:56] definitely at a at a 10 plus, I would
+[01:58] say, because I'm super excited. Um, and
+[02:02] as I already said, we love surprises.
+[02:05] I'm not the only one today here from our
+[02:07] little Scribe team. Um, I actually
+[02:09] brought my two amazing co-founders, Eva
+[02:11] and Kristoff. They're here somewhere in
+[02:14] the the videos. Um, so please, uh, I
+[02:18] think I have to pin you. And I would
+[02:20] love um of course I could introduce them
+[02:22] but they can do this wonderfully
+[02:24] themselves. So um who wants to start? I
+[02:27] don't see you here in the but once you
+[02:29] start talking then people can see you.
+[02:32] Who wants to
+[02:33] start? Kristoff will go first. Okay
+[02:36] let's go. Uh yeah. Hi everyone. Uh I'm
+[02:40] super excited to be here. Uh I'm
+[02:42] Kristoff, CTO and co-founder of Scribe.
+[02:45] Um I've been a software engineer for
+[02:47] over a decade. uh and I've built other
+[02:48] startups before. Uh so I love building
+[02:51] uh great products and uh I'm currently
+[02:54] obsessed with building the best content
+[02:56] creation tool on the market. Um and
+[02:58] yeah, I've been posting consistently
+[03:00] myself on LinkedIn for over a year now
+[03:02] um using our own tool. So um I'm as
+[03:06] excited to listen to uh the insights
+[03:08] from Richard as all of you are.
+[03:11] Love that. And you are definitely you're
+[03:14] definitely more than obsessed than than
+[03:16] everyone I know. But it's always so
+[03:18] great to also learn from you. And then
+[03:20] of course we also have Eva somewhere
+[03:22] here in the call. Where are you? There I
+[03:26] am. I'm also super excited to be here
+[03:28] and also super curious on all the
+[03:30] insights. Um like short about me. I'm
+[03:33] 26. I'm originally from Troll and I
+[03:36] actually came into the marketing bubble
+[03:37] when I was 15 there. I just started to
+[03:39] post on Instagram and I just started to
+[03:41] post my um personal stories and back
+[03:44] then it was more advertising platform.
+[03:46] So I quickly I think in like 3 months I
+[03:48] gained like 20,000 followers um and with
+[03:50] that knowledge I started a personal
+[03:52] branding agency scaled it to 20 people
+[03:54] but also quickly realized that there are
+[03:56] so many cool stories out there who needs
+[03:58] to be told and with an agency you cannot
+[04:00] really scale that to like everyone out
+[04:02] there and that's why I'm super happy now
+[04:04] with Scribe. We finally make it possible
+[04:06] for everyone to tell their story. um and
+[04:08] also have a lot of fun with it.
+[04:11] Yeah, I think that summarized it
+[04:13] wonderfully and that um also I think my
+[04:17] you already said that we were both or
+[04:19] like I think the three of us what what
+[04:21] unites us is the the passion for amazing
+[04:24] stories and it is also what what I
+[04:27] quickly realized um after I I left
+[04:30] journalism what I like initially thought
+[04:32] is is my my calling and that I would be
+[04:35] love to be a journalist that I quickly
+[04:37] learned it's actually not so much about
+[04:38] the story only itself but who tells it.
+[04:41] Um I then like also had a first startup
+[04:44] encounter which was super insightful.
+[04:46] Scaled that to 40,000 people only with
+[04:49] personal stories and with personal
+[04:50] branding which was super insightful for
+[04:53] me. And then I quickly realized I just
+[04:55] do it a bit like by feeling but I don't
+[04:57] really understand it. And then I learned
+[04:59] a lot from Eva when I joined her in um
+[05:02] the agency. And now with Scribe we
+[05:04] actually want to make that happen for
+[05:07] everyone. everyone can use their voice
+[05:09] and tell their stories um in the most
+[05:12] effortless and stress-free way. So maybe
+[05:14] some of you um here already you use
+[05:16] Scribe. Please drop it in the chat who's
+[05:18] already a Scrier. Um and that sounds all
+[05:21] fancy and we are like building something
+[05:24] big or we want to build something big.
+[05:26] Um, and it gets bigger with everyone
+[05:28] who's here and uses it. But also, just a
+[05:30] side note, we're also just a team
+[05:33] cringing it out sometimes and trying our
+[05:36] best to just um, yeah, build something
+[05:39] for you that you can use and want to use
+[05:41] every day and also feel seen and welcome
+[05:44] in our community. So um what unites us
+[05:48] all is people trust people not brands
+[05:51] and that our mission is to make a
+[05:53] content creation tool and to make
+[05:55] content creation itself as easy as
+[05:57] talking to a friend and that's why one
+[06:00] of our close friends is here Richard um
+[06:03] so please maybe yeah you already
+[06:05] introduced yourself quickly but just um
+[06:07] a little bit about yourself where you're
+[06:09] from and then we will dive straight in
+[06:11] into your LinkedIn algorithm insights.
+[06:14] Yeah, first of all, I want to I want to
+[06:16] congrat all the three of you about
+[06:18] building such an amazing tool. I mean,
+[06:20] I've seen a lot of tools coming to
+[06:22] LinkedIn. Um, I've not seen one tool
+[06:25] that went this strong and this powerful
+[06:27] from the launch uh with a continuous
+[06:29] growth. So, that's only possible if the
+[06:31] tool really fulfills a need. That that's
+[06:34] basically the proof. Um, and I realize
+[06:37] I'm old um because I signed up for Linda
+[06:40] when Ava was 6 years. Uh I don't know if
+[06:43] you were already in the marketing AA but
+[06:44] I think you said you were 15. So but I
+[06:46] sent up basically in 2005. LinkedIn was
+[06:48] a ghost down. It was probably in 2003.
+[06:51] Nobody responded. You could not even
+[06:53] make post. It was like a digital
+[06:55] rolodex. Uh I started my agency in 2010
+[06:58] just connecting. Um it's a a training
+[07:01] and consultancy agency. We grow until 15
+[07:03] people. We work worldwide. We're amazing
+[07:05] brands like we have clients like
+[07:07] Nestlake, Gemini, Seammens where we
+[07:09] train sales
+[07:10] people or marketing people and I'm being
+[07:14] very honest when you say that eight out
+[07:16] of the 10 challenges that we come across
+[07:18] with clients is content. That's
+[07:20] basically it. People struggle so much
+[07:22] with content. Either they have no
+[07:23] priority, either they don't know how to
+[07:25] write, either they have a lot of
+[07:27] inspiration but they don't know how the
+[07:28] algorithm works. some of them are
+[07:30] actually afraid that who's going to see
+[07:31] it, what is the impact and I think a
+[07:34] tool like Scribe is um like comes in
+[07:38] really handy for those people um
+[07:40] especially if you make it that easy like
+[07:42] from concept or ID uh to create a post.
+[07:46] Um I've been publishing since
+[07:49] 2009. There's an interesting thing I
+[07:52] want to I want to show the audience
+[07:53] because I did all my posts I did like
+[07:55] three four posts a week. I publish in in
+[07:57] Dutch which is even a smaller region
+[08:00] than D region than the German region.
+[08:02] And back in 2020 I decided to switch to
+[08:05] English. So all my post from that moment
+[08:06] on became English. Um and that's when I
+[08:09] really scaled my visibility, my
+[08:11] followers, my brand because then you an
+[08:14] international network instead of only
+[08:16] being like visible and and relevant for
+[08:18] like a specific uh language region. So
+[08:21] everyone in this call you know if you
+[08:23] have a big audience or if you want to
+[08:25] scale uh then please consider jumping
+[08:28] from your native language to English.
+[08:33] That's I think already a super great
+[08:36] first insight. So I think we just start
+[08:37] into the um into the insights right and
+[08:41] thank you also so much
+[08:43] for please mute yourself guys. Thank
+[08:46] you. Wonderful. I just mute you. All
+[08:47] right. So, I'll just um start right in.
+[08:51] And uh yeah, also another like um thing
+[08:56] that I want to emphasize, you just
+[08:58] dropped the the report, right? Or when
+[09:00] did it come out? Not even a month ago.
+[09:02] 28th of April. Uh it was a very
+[09:05] important. Yeah, it was it's less than a
+[09:07] month. Uh and we worked on it since the
+[09:08] start of December. So, it's actually
+[09:10] five months of work with our team.
+[09:13] um and you refer to it as um the
+[09:15] LinkedIn algorithm research or report
+[09:17] and we specifically do not use the term
+[09:20] LinkedIn. It's called the algorithm
+[09:22] insights report because I got a lot of
+[09:24] problems two years ago and last year uh
+[09:26] that LinkedIn actually wanted to ban me
+[09:28] because of this report. They said like
+[09:30] it's not from us and blah blah. people
+[09:31] get the impression that it's ours and I
+[09:34] had a huge disclaimers and obviously I
+[09:36] don't want to be banned from LinkedIn
+[09:38] and it's really it's it's
+[09:40] it's it um it really surprised me
+[09:45] because I've been such an ambassador for
+[09:47] the platform. I've I've like taught so
+[09:49] many people how to use it, how to use it
+[09:51] in a better way, how to become more
+[09:52] active that um and and this is something
+[09:55] that sometimes frustrates me that I
+[09:56] would say like hey if you collaborate,
+[09:57] if you help me, if you join me in
+[09:59] whatever form just by letting me publish
+[10:01] it anyway. So it's called the uh uh the
+[10:04] algorithm insights report. We've done it
+[10:06] for the fifth year in a row. So it's not
+[10:08] something that we done new. We started
+[10:09] in 2020 and the first edition had seven
+[10:11] pages. Okay. It was actually more like a
+[10:13] summer project. Um it got a bit over the
+[10:16] hand. We did it again in 2021. we had 20
+[10:18] page and this year we have 250 pages
+[10:20] which is bizarre. My team have asked me
+[10:24] not to do this again because it was very
+[10:26] stressful the past four months with all
+[10:27] the stats all the data creating not only
+[10:30] the report in written but also obviously
+[10:32] in in visuals. We did an amazing job and
+[10:35] I want to emphasize I never advise
+[10:38] people to write for the algorithm. I
+[10:40] always advise people write for your
+[10:42] human audience but optimize for the
+[10:44] algorithm. All the tips we share if your
+[10:48] content is sorry shitty and you can use
+[10:51] whatever algorithm inside it's still a
+[10:52] shitty content. So first you need to
+[10:54] write content that really resonates and
+[10:55] is relevant for your target audience but
+[10:57] then if you take three or four insights
+[10:59] of the algorithm you can really double
+[11:02] your impressions. You can really get
+[11:03] much more engagement and that's our
+[11:05] goal. Uh basically what scribe also does
+[11:08] we help you to create content that
+[11:09] performs better. That's the goal of the
+[11:11] algorithm report. Yeah, I I love that
+[11:14] you said that. I think it's so so
+[11:15] important and also to not overthink it
+[11:18] if it resonates with you and your
+[11:20] audience and then the algorithm tricks
+[11:23] and hacks are just one thing to add on
+[11:25] top. All right, so we're going to start.
+[11:28] You brought us three main insights from
+[11:30] the whole like thousands of pages. Um I
+[11:33] will just start with one and you just
+[11:34] tell me when to flip to the next slide.
+[11:37] Yeah. Yeah, that's cool. So this is this
+[11:38] is actually
+[11:40] uh this is I think it's on page four.
+[11:42] It's like the first like uh detail or
+[11:44] the first research that we share and
+[11:46] it's about reach engagement and follower
+[11:48] growth which over the past 18 months
+[11:51] have gone down for 95% of all the
+[11:53] creators. So if you don't recognize that
+[11:56] you get less reach than last year wow
+[11:59] you know kudos to you because that means
+[12:00] you're in the top 5%. I for example my
+[12:04] reach is on 40% 50 40% of last year.
+[12:09] Okay. So I've lost 60% of reach.
+[12:11] However, my engagement is more or less
+[12:13] the same. And LinkedIn doesn't
+[12:16] communicate a lot about the algorithm
+[12:17] but they did uh last year and they said
+[12:21] the head of product said we don't want
+[12:23] people necessarily to go viral on the
+[12:25] platform. We want them to be more
+[12:26] relevant for their target audience. So,
+[12:28] they already told us, "We're going to
+[12:30] lower your reach, but we're going to
+[12:32] steal your content to a more relevant
+[12:33] group." Which for me is proven with this
+[12:36] stat because if I get less reach, but my
+[12:38] likes and comments are the same, it
+[12:40] means that who is seeing my posts are
+[12:42] actually more engaged than like the
+[12:44] hundreds or or thousand people that saw
+[12:46] it last year. Um, I have often a
+[12:49] discussion about reach. Is it a vanity
+[12:51] metric? Is it good for your ago? Is it
+[12:53] something you should not care about? Um,
+[12:56] and I have a nuanced opinion because it
+[12:58] all starts with reach. It's not your end
+[13:00] goal, but it's very difficult if you
+[13:02] don't get reach to get engagement and
+[13:04] the end to get conversion. I mean, if
+[13:06] nobody sees your post, you also don't
+[13:07] get any new clients or any conversion.
+[13:09] So, it is important to see a way that
+[13:12] you can improve your reach, relevant
+[13:14] reach. The end goal should be obviously
+[13:16] conversion where you say, and conversion
+[13:18] could be anything. I'm not talking about
+[13:20] a deal. I'm talking about getting more
+[13:22] followers. I'm talking about getting
+[13:24] more clicks to your website. I'm talking
+[13:25] about getting more uh direct messages
+[13:27] from your target audience, getting more
+[13:28] requests. That's what I mean with
+[13:30] conversion that people become so
+[13:32] interested in your content that they
+[13:34] like click uh or or or connect with you
+[13:37] or send you a message that they want to
+[13:38] know more. That's what we talk about um
+[13:40] conversion. And the last thing here is
+[13:42] that also building your followers is
+[13:45] becoming more and more harder because
+[13:46] obviously you get less reach, less eyes,
+[13:48] so also less people are uh starting to
+[13:51] follow you. Hello
+[13:53] Hello Michael. Hello.
+[13:56] Good. Here you can go to the next one.
+[13:58] Yeah.
+[14:01] Okay. So this is a table. It's also
+[14:03] something important. This here you see
+[14:05] different content types. Okay. If you
+[14:08] people are using scribe or if you simply
+[14:10] publishing directly on LinkedIn you know
+[14:12] that we can have text plus image. We can
+[14:13] have text only. We can have a document
+[14:15] post. Some people say it's carousel
+[14:17] video poll and articles or whatever. So
+[14:21] this um table does not show what you see
+[14:25] in your feed. Some people mistaken and
+[14:27] say hey so 60% what I see in my feed is
+[14:29] text plus image. No this means of all
+[14:32] the post that people send to LinkedIn
+[14:35] almost 60% is text plus image and that's
+[14:38] what we call the default post. People
+[14:40] feel very comfortable to write a bit and
+[14:43] then add an image and that's basically
+[14:44] the the default post. Here we see that
+[14:48] especially compared to last year texton
+[14:51] posts have dropped hugely minus 41%. And
+[14:56] this is because this format is extremely
+[14:57] difficult for several reasons. You don't
+[15:00] have a visual impression. So if people
+[15:02] are scrolling in the feed it's very easy
+[15:04] to skip your post or not even see your
+[15:06] post because you don't have a visual
+[15:07] that catch the attention. Also if you
+[15:09] have a texton post the only way that you
+[15:12] can really connect with your audience is
+[15:14] if you're a good writer. If your
+[15:16] copyrightiting skills are not good
+[15:18] enough, people lose interest and they
+[15:19] continue
+[15:20] scrolling. Document post is only 7.6%.
+[15:24] It's one of my favorite formats. I use a
+[15:25] lot of carousel post because I feel that
+[15:27] I can combine visual content with also
+[15:30] educational content. Um, and you see
+[15:33] that like 7% of all the posts on
+[15:35] LinkedIn are documents. But also that is
+[15:38] becoming harder and harder to get the
+[15:39] same impressions because you could
+[15:41] actually say that there is a bit of
+[15:42] document fatigue. People are getting a
+[15:44] bit tired of all the slides, especially
+[15:46] the long ones. Um, video is a different
+[15:49] story. It says here that 15%, so one out
+[15:53] of six post on LinkedIn is video. For
+[15:54] me, that's amazing. One out of six post
+[15:56] video. And it was actually a bit higher
+[15:59] half a year ago because LinkedIn opened
+[16:01] the algorithm for vertical video. And
+[16:03] everyone in my network went crazy. They
+[16:05] all went like, "Okay, we need to create
+[16:07] video because you got like massive
+[16:09] engagement." LinkedIn now turned down
+[16:12] the algorithm again. they deleted the
+[16:14] mobile feed. So now it has stabilized a
+[16:16] bit. LinkedIn video in terms of
+[16:19] engagement is probably one of the best
+[16:21] performing content because if people see
+[16:23] you, you build trust more easily than if
+[16:26] you only write things. So people seeing
+[16:28] you speak, people hearing your talk,
+[16:29] especially if you have educational
+[16:31] content works very good on um uh online.
+[16:35] Yeah. Next one. I just have a question
+[16:37] here because I feel with video it's like
+[16:40] this this back and forth and we also
+[16:42] tried it a lot and I feel like some
+[16:43] videos are just they don't get any reach
+[16:47] and impressions and some just go
+[16:49] absolutely crazy. Do you have a a best
+[16:52] practice video like just from your
+[16:55] perspective or what you experienced over
+[16:56] the last months that works well for
+[16:59] video?
+[17:01] No, I I personally I haven't cracked the
+[17:02] the the video secrets. Um, I was a bit
+[17:06] late to the party. Um, I saw, for
+[17:08] example, I don't know if you know him,
+[17:10] Darren McGee, for example, it's a a
+[17:12] social selling
+[17:13] exper. Um, he was one of the first to
+[17:15] start creating videos on LinkedIn,
+[17:17] vertical videos, and he he showed me
+[17:18] like stats like 600,000 views for one
+[17:21] video, 400,000 views. He had 2 million v
+[17:23] uh views with four videos. So, I
+[17:26] thought, okay, I need to do vertical
+[17:27] video. It took me two like two months.
+[17:29] And when I came to LinkedIn, it didn't
+[17:32] perform that well. I had 20,000 30,000
+[17:34] views but nothing more. So I haven't
+[17:36] cracked it. In the algorithm report
+[17:38] we've analyzed the best performing
+[17:40] videos. They are vertical ones. So
+[17:42] mobile fit not the YouTube ones, not the
+[17:45] landscape but vertical. They are shorter
+[17:47] than 1 minute preferably. Okay? So don't
+[17:50] do long videos. Um they have captions so
+[17:53] they also have some uh subtitle or some
+[17:56] text to guide you to the video. Um and
+[17:59] there was one thing more. Um and it's uh
+[18:02] obviously um you are the main star in
+[18:04] the video. So there's a huge difference
+[18:05] between videos that I take for example
+[18:07] on an event and I show a stage or I show
+[18:09] a product compared to where I speak
+[18:11] myself directly to my target audience.
+[18:14] Okay, that's already that's great
+[18:15] insights already like so something that
+[18:18] that people can work on more and I think
+[18:20] it's also just trying out what what
+[18:22] works and what what resonates for you
+[18:23] and your audience. Amazing. All right,
+[18:26] then we I think this is already just a
+[18:28] summary of the of the last one, right?
+[18:30] Should we go to the No, this is No, this
+[18:33] is not a summary. This is this is median
+[18:35] reach on the left, median engage on the
+[18:36] right. So, this is not um the percentage
+[18:40] of those post, but this is how they
+[18:42] perform and everything that has a number
+[18:44] above one means you get a push at the
+[18:46] back from the algorithm LinkedIn. So, if
+[18:48] you look at the left reach uh document
+[18:50] post 1.6, Six poll 1.99 it means that if
+[18:53] you publish a poll you get additional
+[18:55] push from the LinkedIn algorithm to get
+[18:57] more reach and you see that post with
+[18:59] external links articles text only post
+[19:02] are the less performing and on the right
+[19:04] it's the same but then for engagement so
+[19:06] there you see that polls for example the
+[19:08] document get a lot of engagement
+[19:11] [Music]
+[19:14] it's really really interesting and
+[19:16] amazing analyszis I'm I'm sure in the
+[19:19] report there's even more such such very
+[19:22] nice insight. So just a sneak peek. All
+[19:23] right. So insight three. Yeah. So what
+[19:26] we did in the report is that we analyze
+[19:28] all the different formats. So we have
+[19:30] like three or four or maybe five pages
+[19:32] per format. Uh and then we uh try to
+[19:35] help you to really leverage a specific
+[19:37] format. And you take the example of the
+[19:39] text plus image post because it's like
+[19:41] uh the best performing post. Can you go
+[19:44] to the next slide? uh account. Mhm.
+[19:48] So again, this is based on data and we
+[19:52] research 1.8 million post. Okay. So it's
+[19:56] not my data. It's not a data of a
+[19:57] handful of people. It's 1.8 million
+[19:59] posts. And it says, for example, that
+[20:01] your text should be 700 to 900. If you
+[20:04] want to write 2,000 characters, be my
+[20:06] guest. Okay? What works for you might
+[20:08] not work for me. If you're a good
+[20:10] copywriter, if you really know how to uh
+[20:14] stick people to your post, you can do
+[20:15] more. But this is what we see. Averages
+[20:18] of the best performing post. The hook is
+[20:20] very important. Vertical images perform
+[20:23] better than horizontal ones. Square is
+[20:25] also good. If you add multiple pictures,
+[20:28] for example, if you go to an event, I
+[20:30] always advise people not to create a
+[20:32] post and send just one picture, but
+[20:33] upload three or four pictures because
+[20:35] you get literally more reach because
+[20:36] people can click on different pictures.
+[20:39] Um and then also um you see for example
+[20:44] a lot of people held by the company they
+[20:46] use pictures that are either branded by
+[20:49] the company or have logos they perform
+[20:51] less than if you have authentic pictures
+[20:53] shot with your own camera or so so
+[20:56] especially in bigger companies be aware
+[20:58] that the more you're trying to regulate
+[21:00] with official branding the less
+[21:02] authentic it performs on LinkedIn. And
+[21:05] then um one of the last things that I
+[21:08] want to say about text and image
+[21:10] um images that provide me with instant
+[21:15] uh easy to digest information perform
+[21:17] the best. So we're talking basically
+[21:18] about infographics. That's why they are
+[21:20] so popular at the moment. A lot of
+[21:22] people share an infographic about one
+[21:24] topic and those are the posts that get a
+[21:26] lot of save. They get a lot of
+[21:27] engagement and that's also considered a
+[21:29] text plus image post.
+[21:32] Yeah. Interesting. And I I can totally
+[21:34] relate with the with the authentic
+[21:37] pictures. Um, and I think the more real
+[21:40] it is and the more real they feel, it it
+[21:42] performs well. Do you have a a um or a
+[21:46] feeling or just a a meaning on like
+[21:49] gifts and like things like funny
+[21:51] pictures? Um, how does that work for you
+[21:54] or just the things that I No, we haven't
+[21:59] I I don't think we have the data on
+[22:00] GIFs. Maybe I'm wrong because there's so
+[22:02] much data, but I don't think we have
+[22:03] data on gives. I personally I don't like
+[22:05] them, but that's a personal preference.
+[22:06] So that doesn't mean they don't work. Um
+[22:09] there is however stats on selfies. Mhm.
+[22:13] Um because a lot of people create
+[22:15] pictures where they standing in front of
+[22:17] I don't know a building or they're
+[22:19] whatever. So they have themsel in the
+[22:20] picture. If this goes with a relevant
+[22:24] post, for example, personal storytelling
+[22:26] about an experience, LinkedIn makes the
+[22:28] connection. But if you create a selfie
+[22:31] because you read somewhere like selfies
+[22:33] perform better. But the post is about I
+[22:35] don't know sustainability in the energy
+[22:37] sector then LinkedIn will actually
+[22:39] punish that image and give you less
+[22:41] reach because they go like this is a
+[22:43] personal picture and it doesn't match
+[22:45] with your uh uh the content of your
+[22:47] post. So selfies can build trust. They
+[22:50] are very authentic but then you need to
+[22:52] share more personal content and not like
+[22:54] company related content. Interesting. I
+[22:56] love that insight, but makes makes also
+[22:59] a lot of sense and actually also more in
+[23:00] the favor of of your um network.
+[23:03] Amazing. So um Oh yeah, we also have
+[23:06] some some things that were also when I
+[23:08] was looking through it, I had to smile
+[23:10] at some of them because I I get asked
+[23:12] all of those things like a lot. So maybe
+[23:15] you can add quick two cents on those
+[23:18] seven hidden traps that kill your reach.
+[23:21] Yeah, there there are more, but the
+[23:23] other ones are like having for
+[23:26] example one of the traps that is not on
+[23:28] this slide that is can really tank your
+[23:31] post is if you start tagging a lot of
+[23:33] people and they don't respond. Okay,
+[23:34] because if you tag you want them to
+[23:36] engage and if LinkedIn sees that they
+[23:37] don't care about your post, they don't
+[23:39] engage. LinkedIn thinks you're abusing
+[23:41] mentioning people and you really get
+[23:43] like almost like a stop of the growth.
+[23:44] So that's a very important one here. Uh
+[23:48] it actually it's more common sense like
+[23:50] if you use too many emojis and I'm not
+[23:52] talking about the listicles the bullets
+[23:54] I'm talking about the the the smileys
+[23:57] the unicorn the rainbow those kind of
+[23:58] things you do it too much and march is
+[24:01] around five to six that's already too
+[24:03] much it can have a negative impact on
+[24:05] your reach if you have too many white
+[24:07] lines right you avoid a double white
+[24:09] line because if you have a double white
+[24:11] line a blank line to create more space
+[24:14] LinkedIn thinks that you are
+[24:15] manipulating the dwell time the scroll
+[24:17] time of people and they give you a
+[24:19] penalty.
+[24:21] Um, different from last year is that if
+[24:24] you comment first on your own post, it
+[24:26] doesn't has a good impact. You always
+[24:28] need to worry until you get external
+[24:29] comments before you jump into your own
+[24:31] post. So, if you want to leave
+[24:33] additional insights, make sure that you
+[24:35] have a first comment from someone
+[24:36] external before you do it yourself. If
+[24:38] not, LinkedIn again thinks you're like
+[24:40] trying to manipulate reach by having a
+[24:41] lot of comments on your own post. And
+[24:44] then, um, editing more than 5% of your
+[24:46] post content. So, this is a myth. If you
+[24:48] have a typo on LinkedIn, you can you can
+[24:52] fix it. There's no penalty. But don't
+[24:54] try to edit more than 5% of your content
+[24:57] because then LinkedIn doesn't know if
+[24:59] your content actually is the same. Let
+[25:02] me give you an example. If I create a
+[25:04] post where I say, I really like Donald
+[25:07] Trump, and I get a lot of people that
+[25:09] respond, "Yeah, me too. Me too." And
+[25:11] then I edit my post and then I create,
+[25:13] "I really dislike Donald Trump." All
+[25:16] these comments are still saying me too
+[25:18] while I've changed the entire post.
+[25:20] That's why if you edit your post for
+[25:22] more than 5% LinkedIn stops the growth.
+[25:24] So be aware that um you don't do that.
+[25:27] Um those are the most important ones.
+[25:36] Just had to mute herself. Okay. Um
+[25:39] that's a great insight as well. I think
+[25:41] the the editing and also I just had one
+[25:44] question on the on the commenting first
+[25:46] on your post from Leon. Do is it a
+[25:49] difference if you comment with a company
+[25:51] profile on your post? Nope. That is that
+[25:54] is good. There's no penalty for that.
+[25:56] There's no penalty. Also if colleagues
+[25:59] so also if you have with your colleagues
+[26:01] an engagement or an agreement that you
+[26:03] comment on each other's post it doesn't
+[26:06] have the same power as an external
+[26:08] comment but it still has a positive
+[26:10] impact. Okay so some people say you
+[26:13] don't need to comment as colleagues
+[26:14] because you get less reach. That is true
+[26:15] but it still helps you to get more
+[26:17] reach. Um, obviously LinkedIn rewards
+[26:20] external comments from not people
+[26:21] connected to the same company page as
+[26:23] better, but you can avoid that first
+[26:25] comment by going to your company page
+[26:26] and then leave a comment from your
+[26:27] company page. And about the emoji, I saw
+[26:30] a also a comment about uh from Michael.
+[26:33] It's true. If you copy chat GPT content,
+[26:36] a lot of those uh have emojis already.
+[26:38] So if you use chat or whatever, I always
+[26:41] prompt chat don't use any emojis because
+[26:44] that's basically a lot of like a signal
+[26:46] that people are using chat.
+[26:49] Oh, interesting. Or just don't use chat
+[26:51] at all because we have Scribe, right?
+[26:53] Yes. A lot of a lot more better
+[26:56] features. We'll see in a second. All
+[26:58] right. That were a lot of amazing
+[27:00] insights and it was still just a little
+[27:02] tiny bit. uh maybe you can quickly say
+[27:05] uh something about like what you created
+[27:07] here with this whole um report. Yeah. So
+[27:12] it's it's a report. It's 250 pages. It's
+[27:14] really it's bizarre. It has uh uh uh I
+[27:18] don't think there is anything on
+[27:19] LinkedIn we haven't covered. So it has
+[27:21] uh how to get better results with
+[27:23] LinkedIn lives. It has everything about
+[27:25] LinkedIn ads. It has everything about
+[27:27] influencer marketing about the formats.
+[27:28] It has 40 pages on company pages.
+[27:31] everything about reach. Um there's like
+[27:34] we have a specific section for how to
+[27:36] stand out as a job seeker using the
+[27:38] algorithm even for sales people like
+[27:40] what type of invites work, what are the
+[27:42] best days to send invites, how to use
+[27:44] links and um because it changes a lot.
+[27:48] That's why we do it every year. If you
+[27:50] buy this report, it's 150 euro, okay?
+[27:53] But if you buy this report, it's
+[27:56] lifetime update. So that means that in 3
+[27:58] months because we're thinking about
+[27:59] September to produce a new like probably
+[28:01] 15 20 pages with update information,
+[28:04] everyone who bought the report
+[28:05] automatically gets the updates. If we
+[28:07] launch the new report in 2026, you
+[28:09] automatically for free get your new
+[28:12] report. So it's really pay once lifetime
+[28:15] updates. Why we did this? Because this
+[28:17] is the first year that we have a paid
+[28:19] algorithm report because we always give
+[28:20] it away for free. one because we want to
+[28:23] have a group of people where we say if
+[28:26] you buy a report we've got you back.
+[28:28] We've covered you all the all the future
+[28:30] updates we will send to you. And second
+[28:33] to make it a bit harder to uh copycat
+[28:38] because we had a lot of people last year
+[28:40] like hundreds of infographics uh and I
+[28:44] if people refer to our content and they
+[28:48] use visuals I'm totally fine with that.
+[28:50] If you say, "Hey, this is a great visual
+[28:52] I want to share with my network. By the
+[28:54] way, it's in the report of Richard. I'm
+[28:56] totally fine." But we had so many people
+[28:59] pretending that they they had their own
+[29:00] research or they had their own
+[29:02] conclusions that we say, "Okay, now
+[29:03] we're going to make a paid version." We
+[29:05] have a small mechanism that if somebody
+[29:07] publishes the full report, we can see
+[29:09] who it is just to like uh make it more
+[29:12] uh copyright. Makes sense. Yeah, makes
+[29:14] totally sense. And of course, we also
+[29:16] have a little discount code, but you
+[29:17] have to wait until the end. Sorry, not
+[29:20] sorry because we now u will learn a bit
+[29:23] more about you. Um also about like a bit
+[29:26] of a more insights over time, not just
+[29:28] of this last year. And you already
+[29:31] shared so much about um like more of the
+[29:34] numbers and what we what can we do to
+[29:36] actually improve our posts on the on the
+[29:40] algorithm side. I want to know 15 years
+[29:43] ago when you said like when Eva was six
+[29:45] years old, why did you initially start
+[29:47] LinkedIn and what kept you going over
+[29:51] time? Why I started LinkedIn? It was
+[29:53] basically I had a new sales job. I I've
+[29:55] worked until I went I I became an
+[29:57] entrepreneur back in 2010. Before that,
+[29:59] I'm I'm I was born in 77. So I worked 33
+[30:03] years in sales. Um and I I changed job.
+[30:06] I had a sales training from an American
+[30:08] sales trainer and we were at the bar. uh
+[30:11] after day one and for me always the best
+[30:13] part of the training is at the bar in
+[30:14] the evening and this guy said you need
+[30:16] to be on LinkedIn because this is going
+[30:18] to be big. I'm talking about 2005 at the
+[30:20] beginning. So I went to LinkedIn I
+[30:22] registered. I send out
+[30:24] invitations and I got a lot of angry
+[30:26] people that respond and say what is
+[30:27] this? Is this spam? I don't know
+[30:29] LinkedIn. I'm not going to accept. So I
+[30:31] actually deleted my account and then I
+[30:33] restarted it in November 2005 when it
+[30:37] became a bit more popular and then I
+[30:38] started again. I didn't had any
+[30:41] strategy. Then fast forward to four
+[30:43] years later, 2009, I saw in my work that
+[30:46] a lot of people don't like to sell. They
+[30:50] don't like sales talks. They don't like
+[30:52] to position themselves. But if they can
+[30:54] talk about their expertise, their
+[30:56] solutions, they feel very comfortable.
+[30:58] So the first step to
+[31:01] get this meeting to book this meeting to
+[31:04] become visible with your target audience
+[31:05] a lot of people don't like to call they
+[31:07] don't like to do the actual sales and I
+[31:09] started to see that once you position
+[31:11] yourself on LinkedIn once you network
+[31:14] with the right strategy you can create a
+[31:16] pool um and this has become so much
+[31:19] stronger over the last years I mean I
+[31:21] know a lot of people who have built
+[31:23] their entire company on LinkedIn inbound
+[31:25] sales and I'm not talking about people
+[31:27] that have LinkedIn as service. I'm
+[31:29] talking about coaches. I'm talking about
+[31:31] uh lawyers. I'm talking a lot of people
+[31:33] who said I get a lot of leads via
+[31:35] LinkedIn just by publishing the right
+[31:37] content. Um so that's basically why I
+[31:40] became more active because I thought hey
+[31:42] if I can do this then maybe I can teach
+[31:45] people how to position yourself with
+[31:48] your profile with your content so they
+[31:50] don't feel like they need to do sales
+[31:51] but they get inbound leads just by know
+[31:53] sharing their knowledge. And that's
+[31:54] basically where I started back in 2009
+[31:57] and where I founded the agency in 2010.
+[32:00] Amazing story and I love lucky that you
+[32:02] that you re restarted it and who knows
+[32:06] how how how it would be uh otherwise. Um
+[32:10] and like over that time what is
+[32:13] something
+[32:15] that did not change? Now we we know that
+[32:18] of course the algorithm changes the read
+[32:20] changes all the numbers change. Oh,
+[32:21] that's that's very easy. Yeah, that's
+[32:23] that's very easy. And I think you
+[32:24] already mentioned in one of your slides,
+[32:26] it's trust. Um, and it's it's it's easy.
+[32:29] It has been the same over the last 15
+[32:31] years. And it's especially interesting
+[32:33] now with a rise of AI and with a rise of
+[32:36] more bot comments, you know, more chat
+[32:39] comments, less humanity, more bots. Um,
+[32:41] and we all need to realize, I see a lot
+[32:43] of people
+[32:45] underestimating the intelligence of
+[32:47] their audience. They think that their
+[32:49] audience will not know that their entire
+[32:52] post is written by Chad GPT and they
+[32:54] know and once you get the label this
+[32:58] person is like blasting Chat GPT content
+[33:00] people disconnect not from your profile
+[33:03] but from your content they stop engaging
+[33:04] they stop caring so every numbers go
+[33:06] down. So especially now with the rise of
+[33:09] chatpt I use chat GPT I use it in scribe
+[33:12] I use like artificial intelligence to
+[33:14] make my post better but my draft is
+[33:16] always mine. I always uh start writing
+[33:20] my own draft and then I optimize with
+[33:21] hooks with good endings. Um but we need
+[33:25] to realize without trust nobody buys
+[33:27] nobody follows nobody engages nobody
+[33:30] converts. They need to trust you before
+[33:32] they become active. So that's that's
+[33:34] something that will always be the same
+[33:36] in sales in landing a job even in
+[33:38] offline relationships without trust
+[33:40] there is no relationship.
+[33:42] Absolutely agree. Um and I think that's
+[33:46] also sometimes what is current
+[33:48] especially nowadays with this all like
+[33:50] um like where everyone can create
+[33:52] content people still feel oh now
+[33:55] everyone can do something and I have to
+[33:57] do it perfect and I have to like I have
+[34:00] to know every trend and all the the
+[34:03] things that are relevant for a post and
+[34:05] then what I just see maybe you have a a
+[34:08] similar experience people get stuck and
+[34:10] afraid and they don't start at all so I
+[34:12] think it's also so important to just
+[34:15] overcome that overthinking and the the
+[34:18] cringe that you might feel. What would
+[34:20] you say to someone who is like, "Yeah, I
+[34:22] want to start, but I don't know how."
+[34:24] And is my story actually relevant
+[34:26] enough? Like what is the the thing that
+[34:29] you would encourage them to do then to
+[34:31] find out what is their positioning?
+[34:35] Yeah. So, so it's interesting. It's a
+[34:37] very interesting discussion because I
+[34:38] hear a lot of advice where people go
+[34:40] just post, just post. no matter what,
+[34:42] just post.
+[34:43] And I don't like that advice too much
+[34:46] because it's online, you know, and it
+[34:47] says something about your positioning.
+[34:49] But on the other hand, you have people
+[34:51] writing 10 drafts, sending it to three
+[34:53] people, and then at the end decide not
+[34:54] to publish it because somehow they feel
+[34:57] it's not like what they want to publish.
+[34:58] So we need to stop overthinking and we
+[35:01] need to trust in the power of a network
+[35:04] that they are going to teach us with
+[35:06] their engagement what they like, what
+[35:08] they think is relevant and what
+[35:10] resonates with them. And the best thing
+[35:12] to teach yourself to become a better
+[35:14] writer, get more engagement, get more
+[35:15] followers, is just to publish post and
+[35:17] to have a look at the metrics, have a
+[35:18] look at the engagement. Um, and again,
+[35:20] what works for you comment might not
+[35:22] work for me. Style, tone of voice, type
+[35:25] of post. I strongly believe that
+[35:27] everyone has his own style, tone of
+[35:30] voice, but also formats. I know people
+[35:31] who really, we've discussed it, rush it
+[35:34] with LinkedIn video. And I know people
+[35:35] that if you, you know, put them in front
+[35:37] of a camera, it will never ever become a
+[35:40] a quality post because they're just not
+[35:42] there. Um, so I would say, um, imagine
+[35:46] that you come across on the street, you
+[35:48] come across with a potential client and
+[35:51] he asks you one question. Probably the
+[35:54] majority will not walk away. They will
+[35:56] probably start talking because they feel
+[35:57] confident about their knowledge. That's
+[35:59] basically for me how you start posting.
+[36:02] Think about that one challenge that your
+[36:03] client have and start writing how you
+[36:05] could help or what your idea is on that
+[36:07] challenge. That's basically how you can
+[36:09] start. a great great advice and I think
+[36:12] also what you mentioned that every h
+[36:14] every everyone has a different style is
+[36:15] what this is what makes LinkedIn so so
+[36:18] interesting for me and so inspiring
+[36:20] because if I start to seeing like every
+[36:23] post is just the same
+[36:25] um blah blah then it's not even
+[36:28] inspiring anymore. I think we we can all
+[36:31] encourage ourselves and each other to
+[36:33] just really be purely authentic and um
+[36:37] be confident that that this works. Um,
+[36:40] and before we um also show quickly how
+[36:44] Scribe actually does this, I would love
+[36:46] to know from you what since you tested
+[36:49] so many tools um how has your content
+[36:52] creation flow changed with Scribe and
+[36:56] maybe like what is one of the favorite
+[36:58] features in that flow now?
+[37:03] Um yeah. Yeah, of course. Um I' I've
+[37:07] tested a lot of tools that that's for
+[37:08] sure and I also get invites to be part
+[37:11] of a lot of tools because I have a like
+[37:13] all the people with lots of followers
+[37:14] you know they're targeted by new tools
+[37:16] say hey if you want to use it if you
+[37:17] want to be an ambassador I and you know
+[37:20] I I I really connected with scribe um
+[37:23] one of the reasons why is for me uh the
+[37:27] ability how scribe helps me to create a
+[37:30] post um it's one of the only tools where
+[37:33] I think like if I walk the dog and I
+[37:36] generate a a voice memo. So, I'm talking
+[37:38] into my mobile phone and I know I should
+[37:40] pay attention to my dog. I'm sorry. I I
+[37:42] I say sorry to her. But whenever I have
+[37:45] the time to just talk to my phone,
+[37:47] generate from voice and I go to Scribe
+[37:49] and I get like post that helps me a lot.
+[37:53] Um also, um what I really uh like is the
+[37:58] the way how you can repurpose content.
+[38:00] So, I've created a lot of YouTube
+[38:01] videos. I've created a lot of YouTube
+[38:03] materials and you can upload a link and
+[38:06] then scribe starts to like create posts,
+[38:09] create hook, gives you a score about the
+[38:11] relevance. Um there is a connection with
+[38:14] how you set up scribe. So for me it's a
+[38:16] tool that makes it so much easier I
+[38:20] think to create more content um from one
+[38:25] ID that is easy and efficient to publish
+[38:28] on LinkedIn. And I'm I'm not going to
+[38:30] talk about a schedule opportunity or
+[38:32] whatever because that's all included.
+[38:34] Um, but I I really think that you on a
+[38:36] on a on a great mission in making it as
+[38:40] easy as possible to create content. And
+[38:42] I think you also have the content
+[38:43] interview. I haven't done that
+[38:45] personally, so maybe I should. Um but I
+[38:49] I because I think you really
+[38:52] um hit home with that because a lot of
+[38:54] people if I can interview them for 5
+[38:56] minutes or if I can talk to them they
+[38:58] have so many relevant insights but when
+[39:00] they need to put it in LinkedIn or when
+[39:02] they need to start uh drafting you know
+[39:05] they struggle and that's I think the for
+[39:08] me the most uh important added value of
+[39:11] scribe at the moment. I'm very happy to
+[39:13] hear making content creation as easiest
+[39:15] for a friend is also actually great
+[39:17] because um like for for example what we
+[39:20] do also internally is just having
+[39:21] regular chats with each other. So we can
+[39:23] really just talk and then we can use
+[39:25] that recording um upload it to Scribe
+[39:28] and then we'll already give us content
+[39:29] ideas. So everyone here I know the chat
+[39:31] is super busy but if you want to find
+[39:33] your content buddy maybe he or she is
+[39:35] here. Um, and now you already uh were
+[39:38] were mentioning so many different um
+[39:40] features and actually we um also want to
+[39:44] show some of that. Not so for the ones
+[39:47] who think I know Scribe already. I've
+[39:49] been using it every day. That's
+[39:50] wonderful. But we already have um
+[39:53] something new to show you which is super
+[39:55] sneak peek and super early. So stay for
+[39:58] a bit. Um, I will hand it over to Eva
+[40:01] because she's best in like explaining
+[40:04] what Scrap actually is and then Kristoff
+[40:06] will do a a quick demo before we have
+[40:09] time for some more questions
+[40:11] after you want to take over. Yeah, thank
+[40:14] you. I think I mean for everyone who
+[40:16] doesn't know Scribe, um, I just explain
+[40:18] it quickly. But what the cool thing is
+[40:20] on today is that it's the first time
+[40:22] ever we present Scribe 2.0 zero live in
+[40:25] public which is like the I think
+[40:27] Kristoff did a lot of magic and you will
+[40:29] see it it looks completely differently
+[40:31] but before um Christoph is showing you
+[40:33] that I just quickly explain you what is
+[40:35] new and actually what Scribe is and you
+[40:36] can just go to the next slide um
+[40:39] actually what the cool thing on Scribe
+[40:41] is and that's I think what we all hear
+[40:42] is that Scribe connects to all your
+[40:45] knowledge because we are knowledge first
+[40:46] tools so we really want to know you as a
+[40:49] person we want to know your expertise we
+[40:50] want to know um your story we really
+[40:53] want to get to know you and That's why
+[40:54] you can think of like scribe just um as
+[40:57] your content strategist who just is
+[40:59] connected to all your knowledge. And the
+[41:01] second thing is Scribe is built on the
+[41:03] Scribe method. So we analyzed over 1
+[41:05] million posts to understand in which
+[41:07] system you actually have to post to
+[41:08] reach your goals. So it's not just about
+[41:09] this one post. It's always about the
+[41:11] combination and we really want to help
+[41:13] people to understand what they need to
+[41:15] do to actually also get something out of
+[41:17] LinkedIn. And the third thing is also
+[41:19] what Richard said is that we want to
+[41:20] make it super easy for everyone to
+[41:22] generate post. That's why you can use
+[41:23] different sources to give us your input.
+[41:25] You can make a voice memo, you can
+[41:27] upload a file, you can use a YouTube
+[41:28] video, you can do the content interview.
+[41:30] So you just want to make it like super
+[41:32] super simple. And the cool part now is
+[41:34] and what I just mentioned that scribe is
+[41:36] built on the scribe method is um and
+[41:38] come you can go on the next slide and
+[41:40] that's also I need to explain for
+[41:41] everyone that you understand what scribe
+[41:43] zero does because it's done more just
+[41:45] than just a post generation tool. is
+[41:46] like your whole content strategist body
+[41:48] is that we at scribe always think as you
+[41:52] as a whole person and we never we never
+[41:54] just think of like you and like yeah
+[41:56] you're just knowing for this type of
+[41:57] expertise we always see you like in
+[41:59] these four perspectives because we think
+[42:02] that a personal brand everyone needs to
+[42:03] understand at first your personal story
+[42:05] so why you what makes you unique we also
+[42:08] think that everyone needs to understand
+[42:09] your organization like where you working
+[42:11] what you're doing why is like your
+[42:13] organization special we also think that
+[42:15] it's your expertise as well. Um it's
+[42:17] about like why should we trust you? What
+[42:19] did you do in the back? And also getting
+[42:21] all this insight as switch also start
+[42:23] about the LinkedIn algorithms like just
+[42:24] showing your expertise. And the first
+[42:26] thing is we also want to know what you
+[42:28] offer and it doesn't only has to be like
+[42:30] a offer. It also can be that you're
+[42:32] having um some expertise you can help
+[42:34] others to reach some goals or it's like
+[42:36] the offer of your company. But you also
+[42:38] want to understand um what are you
+[42:40] actually selling and this whole method
+[42:43] and how you can execute it, how you make
+[42:45] it easy and how you really get um
+[42:46] results from LinkedIn is actually built
+[42:48] in swipe 2.0 and what we did here and
+[42:51] why we want to do that. This is what
+[42:53] Kristoff uh is showing you now and then
+[42:55] everything makes more sense. I just said
+[42:58] I think it already make made sense. Um
+[43:01] all right so over to you Kristoff. Yes,
+[43:04] I'm trying to share my first time that
+[43:06] we do this all the three like and even
+[43:08] four of us together. So bear with us.
+[43:11] But there we go. We made it. Okay,
+[43:14] perfect. Do you see my screen?
+[43:17] Yes. Okay, perfect. So, um yeah. Um for
+[43:22] all of you that have been using Scribe
+[43:24] before, uh some parts of this uh seem
+[43:27] familiar, others uh don't. Um so what
+[43:30] you see here is the new dashboard. uh as
+[43:32] if I said from Scribe 2.0 that's not
+[43:35] live yet. Uh this is like a a preview
+[43:38] and uh what you see at the top row here
+[43:41] is like actually what um if I said about
+[43:44] we are about you and your LinkedIn
+[43:45] profile. So this is connected with my
+[43:47] LinkedIn knows every single post.
+[43:49] Everything is analyzed. Um it knows what
+[43:52] works and what doesn't and which formats
+[43:53] are working for me and what post formats
+[43:56] and content pillars uh are working and
+[43:59] which are not working. And uh I have a
+[44:01] knowledge base so I can upload um
+[44:05] everything um that is necessary to know
+[44:07] about me. For example, our company
+[44:09] website or podcast I've been to or
+[44:11] notion files or whatever um I can
+[44:14] provide so that scribes understands me
+[44:15] as a person. Uh I throw in here. So
+[44:18] Scribe understands the context. And then
+[44:21] uh what's completely new content
+[44:23] strategy based on the four scribe method
+[44:26] and the four pillars. Um, and if I click
+[44:29] on edit strategy, we have like a whole
+[44:31] new um um overview to see um my own
+[44:36] inscribe generated content strategy. And
+[44:39] it's based on four pillars as we said
+[44:41] because like everyone has different
+[44:42] goals. So if you have a lot of personal
+[44:45] posts, you are sharing a lot about you
+[44:47] and you as your personal brand. Um and
+[44:50] if you share a lot educational posts
+[44:52] then you establish yourself as the
+[44:54] domain expert or organizational post is
+[44:56] more about your team and what your
+[44:58] organization um stands for. Promotional
+[45:00] is more about selling and about your
+[45:02] product. So it depends if you're for
+[45:04] example uh like Richard um back then in
+[45:07] sales you probably want to do a lot of
+[45:09] promotional posts and a bit of personal
+[45:10] posts so people know you and your
+[45:12] product. But if you're like the CEO of a
+[45:15] company you probably do a lot of
+[45:16] organizational posts and personal posts.
+[45:19] So that people uh that you have like um
+[45:22] attract talent and people know your
+[45:24] brand. Um so based on that we asked you
+[45:26] about all your goals and your audience
+[45:28] and your topics you want to post about
+[45:30] and we help you to generate your own
+[45:32] purpose statement. Um so with all of
+[45:35] that we basically know okay this is you
+[45:39] this is what you're trying to achieve
+[45:41] and then we help you to select the post
+[45:42] formats that you should do. So we
+[45:45] identified not only the four um main
+[45:48] pillars but also if I click on this
+[45:50] button here you can see all the
+[45:52] different post formats that belong to
+[45:53] that. So um this is like very detailed
+[45:56] but um for example a personal post uh
+[45:59] you could do like a a career before and
+[46:01] after post or like from to an event and
+[46:04] then like share the experience how it
+[46:06] was um or as an organizational post for
+[46:09] example a company win or uh team
+[46:12] spotlight. Um so there are a lot of
+[46:14] formats that you can do and we're using
+[46:17] this because we know um each of those
+[46:20] formats has like specific goals and
+[46:22] based on what you want to achieve we
+[46:24] know what you should do
+[46:26] and this makes it really easy to
+[46:28] understand what is uh what am I
+[46:30] currently doing and how is it like um
+[46:32] attached to my goals and we are also um
+[46:36] now proactively generating posts for
+[46:39] you. So, we're taking all of this. We
+[46:41] know what's working on the platform
+[46:43] because we also have uh like a the the
+[46:46] LinkedIn um like we connected so many
+[46:48] LinkedIns. We have like live posts all
+[46:51] the time. We know what's working. We
+[46:52] know what's currently trending. Um so,
+[46:54] we can use that and apply it to you as a
+[46:57] person and your goals and your knowledge
+[47:00] and then give you a constant stream of
+[47:02] for you generated uh LinkedIn posts. So,
+[47:04] this is like an AI content agent or your
+[47:07] AI content strategist that works 24/7.
+[47:11] Uh, and you don't even have to pro like
+[47:13] know what you have to post about because
+[47:15] that's like the main bottleneck right
+[47:17] now like what should I even do? Um, you
+[47:20] just have to provide like who you are
+[47:22] and what you want to achieve on a
+[47:23] constant basis. Um, and then we come up
+[47:26] with a post. So, for example, here you
+[47:28] see like there's like a lot of
+[47:29] actionable guides for me. Um, I talked
+[47:32] about Scribe 2.0. So it made a launch
+[47:34] post for me for the launch announcement.
+[47:36] Um offer highlight post, client success
+[47:38] story. So it knows my strategy and it
+[47:41] generates the post for me. So if I click
+[47:43] on on this, you can see it generated a
+[47:45] complete launch post. Um and it actually
+[47:48] says now scrap acts like a 24/7 content
+[47:51] agency knows your voice, your story,
+[47:53] your goals. So everything that's in
+[47:54] here. I didn't write this post and I
+[47:57] didn't prepare this before this call.
+[47:59] It's just a generated I don't even know
+[48:01] when. I think like 5 days ago. Um, so it
+[48:04] it comes up with all these ideas and I
+[48:06] can take them and edit them and post
+[48:09] them directly. And we also have a brand
+[48:12] new content calendar. So we know when
+[48:15] you want to post for example for me my
+[48:17] goal is to post three times per week and
+[48:19] right now we're so busy that I missed my
+[48:21] Wednesday. Um, as you can see here um
+[48:24] and I would know ah I can do the launch
+[48:26] announcement post tomorrow and Scribe
+[48:28] already knows that. um and for next week
+[48:30] I know okay I could do these three post
+[48:33] formats and it helps me to generate them
+[48:35] and I can just um put them in my in my
+[48:38] slots basically I don't have to think
+[48:39] about anything um and we could also at
+[48:43] all time for everyone who doesn't know
+[48:44] anything about scribe also just generate
+[48:47] a post from scratch if you have like a
+[48:48] specific idea and you already know what
+[48:50] you want to talk about you can as
+[48:52] Richard say uh said generate a a post
+[48:55] from voice on the go or upload anything
+[48:57] YouTube videos um or live interview. Or
+[49:00] the easiest one is just um prepared like
+[49:03] a um a few sentences here like put on
+[49:06] some some thoughts, some text, just
+[49:08] throw them in and then you can generate
+[49:10] a post and it will use all the u
+[49:14] knowledge about you and what's working
+[49:15] on the platform and apply all the
+[49:18] principles for what hooks really work
+[49:21] and you can select like the angle uh of
+[49:23] your post. Um and actually I saw in the
+[49:26] in the chat that someone asked like um
+[49:28] will these also get scores? Yes, it's
+[49:30] not done yet. Uh but we will also add
+[49:32] scores. Basically what which post or
+[49:34] which hook um is uh best for you or like
+[49:38] what we would suggest. Um let me just
+[49:41] take this one. So I can just click on
+[49:43] this and here the same happens like it
+[49:45] will take this hook and um search the
+[49:47] whole platform for like similar uh posts
+[49:49] that went viral. And it knows also my my
+[49:52] post style like what I usually do or
+[49:55] like how I usually write and it
+[49:57] generates the whole post for me. I have
+[49:58] like a complete editor in here um where
+[50:01] I can create variations. I can also
+[50:03] generate AI pictures of myself. So um
+[50:06] everything you need to like from zero to
+[50:09] 100 um everything that you need for
+[50:12] great content creation um on
+[50:14] LinkedIn. Um I think that's basically
+[50:18] everything I wanted to show. If if you
+[50:21] have anything else to add, let me know.
+[50:23] I I try to to catch up in the chat, but
+[50:26] there's so many so many questions and
+[50:28] you can all soon test it. Thank you so
+[50:31] much for for the demo, Kristoff. I think
+[50:34] also one important thing here is that um
+[50:37] it only triggers the post generation if
+[50:39] you have enough knowledge in there. So,
+[50:42] it's all coming from your brain or your
+[50:44] brain dump. um and think of scribe as a
+[50:46] second brain and then it will trigger
+[50:48] the poll because I saw some sub
+[50:50] questions there. um something that you
+[50:53] want to add here Kristoff because
+[50:55] otherwise I would switch back to
+[50:59] I think I just think it's like you all
+[51:02] you saw the excitement of Kristoff of
+[51:03] all this new stuff and I think also for
+[51:05] existing scribe users he just changed so
+[51:07] much and it's the first time ever he
+[51:10] also shows it to like everyone live and
+[51:12] I just also want to like applause
+[51:15] Christoff for actually building that all
+[51:17] in like one month and that just was my
+[51:19] ad Yeah. Yeah. It's really I think also
+[51:23] we we didn't know what he's building in
+[51:25] the background sometimes, but then it
+[51:27] was just there and then it's like the
+[51:28] magic that is just created. Um so I I'm
+[51:34] looking super forward to to um all of
+[51:37] you testing it soon because we have of
+[51:40] course some goodies and we're almost at
+[51:42] the end. Um, so Richard already said
+[51:44] that he um has a discount for all of you
+[51:48] for the report and we have also for
+[51:51] everyone here a free month um who is not
+[51:54] a Scribe user yet. Um and everyone who
+[51:57] is here listening will get an early
+[51:59] access of the amazing thing Chris just
+[52:03] showed um for the first 50 people
+[52:06] texting us. So, please um drop us an
+[52:09] email very soon. Um redeem your codes
+[52:11] and then you will all get early access.
+[52:14] Um and I think that's about it. Maybe we
+[52:17] have time for one more question. Um so,
+[52:21] who is the quickest can now raise their
+[52:24] hand or just start
+[52:27] talking otherwise I'll have another
+[52:30] question. Maybe Christopher Eva, you
+[52:31] have another
+[52:32] question that I didn't ask yet.
+[52:37] All right. I always have Oh, there there
+[52:39] is Stefan. Please go ahead.
+[52:44] Hello. Hello. Wait, I need to turn on my
+[52:47] camera.
+[52:49] Can you guys see?
+[52:51] I I can see myself, but hi.
+[52:55] Amazing. Go ahead. Stefan also from
+[52:57] Germany. Quick question. Um, boosting
+[53:00] some of your top performing posts with
+[53:03] some ad spend. Is that harming the rest
+[53:06] of my post performance? Yes or no? If
+[53:09] so, um what's a good ratio of posts to
+[53:13] boost with ad spend? Thanks so much.
+[53:19] That's for who is a question for me
+[53:22] because I I can say something from Okay.
+[53:24] Okay. You have two options. You can
+[53:27] boost it from your company page for
+[53:29] example to promote a post or you can
+[53:31] have a thought leadership ad. I would
+[53:32] always go for the thought leadership ad
+[53:33] because basically the the conversion and
+[53:36] the visibility is much higher because it
+[53:38] doesn't look like an ad. Anything that
+[53:40] looks like an ad, read likes an ad, gets
+[53:42] very bad engagement. So, but a thought
+[53:46] leadership ad is basically your company
+[53:48] page saying, "I'm going to show this
+[53:50] post and you can target your audience
+[53:53] depending on what audience you select,
+[53:55] but people will not see it as an ad.
+[53:57] There's no promoter, there's no
+[53:58] sponsored. It just said like um uh
+[54:02] thought leadership. It doesn't look like
+[54:04] an ad. Basically, that's it. So, that's
+[54:06] the only opportunity I would or that's
+[54:08] the only choice I would make if you want
+[54:09] to use um sponsored
+[54:13] content. It it is true, but obviously
+[54:16] LinkedIn are never going to confirm this
+[54:19] that once you start to using
+[54:21] advertisement or sponsored post that
+[54:22] your organic reach goes a bit down. And
+[54:26] I don't know if this is something that
+[54:28] comes from your network because they
+[54:29] disconnect because you are targeting
+[54:32] them with ads or if LinkedIn goes like
+[54:34] hey Stfan started with boosting now he
+[54:36] hasn't done it so let's decrease the
+[54:38] reach so he comes back to promote. So I
+[54:41] would be very careful to create any
+[54:43] wellperforming post into an ad. I prefer
+[54:45] to reuse the post in a different format
+[54:47] in a different style and go organic but
+[54:49] that's me and I have no shares in
+[54:51] LinkedIn so I can easily tell this. All
+[54:54] right. Thanks so much.
+[54:56] Thank you so much for sharing this. And
+[54:57] we're one minute to go. Um, and I think
+[55:01] all I just want to say is thank you so
+[55:04] much, Richard. Thank you all here who
+[55:08] joined like I didn't expect like all of
+[55:10] you joining. So so amazing. It was also
+[55:13] now I also saw one of my last typos
+[55:15] here. Wonderful. So we all make
+[55:17] mistakes. It was so cool also to be here
+[55:20] with like I was really really happy to
+[55:23] have Eva and Kristoff here. It was the
+[55:24] first webinar that we did. Three of us
+[55:26] together. First time Christopher could
+[55:28] show what he actually built with 2.0.
+[55:31] You will get access. It has been a
+[55:33] blast. Um here you but super important
+[55:36] to get access. You have to write us an
+[55:38] email. Exactly. That what I wanted to
+[55:40] mention. Here you have our wonderful
+[55:41] email address.
+[55:43] Hellocribe.io. Shoot us an email. We'll
+[55:45] give you access as soon as possible and
+[55:48] you will be in our lucky Scribe 2.0 beta
+[55:52] group. Um, also don't forget to connect
+[55:55] with uh Richard, of course. I hope you
+[55:56] follow him. And um, we'll also send all
+[55:59] the details, all the discounts, the
+[56:01] recording for the ones who haven't been
+[56:02] here since the beginning only be valid
+[56:05] for one a week, so be quick. And with
+[56:08] that said, happy scriing and thanks so
+[56:11] much for joining
+[56:13] everyone. Now you're muted. Thank you
+[56:16] guys. Thank you. Thank you for having
+[56:18] me. Thank you. Bye. Bye. Bye. Bye.

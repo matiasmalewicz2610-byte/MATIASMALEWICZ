@@ -1,31 +1,881 @@
-# Transcript — B2B Positioning Masterclass with April Dunford
+# Transcript — 65h0xYQA9cE
 Video ID: 65h0xYQA9cE
 URL: https://youtube.com/watch?v=65h0xYQA9cE
-Channel: guest-appearance
-Published: 2024-06-13
-Collected: PENDING
-Expert: April Dunford
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~6392
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+the first thing is we have to think about what do we have to position against step two is what do you have that they don't have and then we'd look at okay so we have that feature so what like why does anybody care like what's the value of [Music] [Laughter] that hello and welcome to Confessions of a B2B marketer today we have a big one it's April Dunford who is the person who's making in actionable we' got two books obviously awesome and sales pitch that we run through I think if you didn't want to read the books obviously you should and they'll be linked below this episode will give a very awesome overview to the two books and you could probably make some changes to your positioning or your sales pitch without even reading the books now unfortunately I didn't actually read the books before the interview I had obviously awesome on my Kindle by I hadn't readit and then sales pitch only just came out so I hadn't bought it yet since then so we recorded last week I've now read obviously awesome and let me tell you it is gamechanging for anybody in the B2B space that's looking to understand what positioning means and also gain benefits from better positioning so super crucial episode for any B2B marketers out there want to give a big shout out to fame who is producing this show also my business we start and grow the most profitable podcasts for B2B companies there'll be a link in the show notes if you want to check us out and request a proposal completely free will give you insights on your podcast so let's jump into this discussion with April now again I was in the co-working space without my mic that problem is now solved so my audio might be slightly worse just during the interview portion of this episode April welcome to the show so great to be here thanks for having me on the positioning Guru is what I've been told you know what okay I'm gonna say this just because I love it so much so some guy on LinkedIn called me the Beyonce of positioning and I was like oh my God I love that so much that is epic I don't think I'm the Beyonce of positioning but I wish that I was it's goals hash goals so what we're GNA do today is we're g to try and do these are not the actual names of the books obviously but book one book to yep because they flow nicely together I've heard awesome things about both books and so first we're going to start off by understanding specifically through a B2B lens yeah how people can provision because it's such if people get this right it seems like it just makes everything else in BB marketing easier so I'm going to hand the floor over yeah yeah so the the origin of book one came out of my deep frustration in trying to figure out how to do positioning so positioning is this really fundamental concept so we have this idea that the positioning defines how we win in the market like how we deliver something that's amazing that no one else can deliver and right from my very first marketing job at a B2B company we were always wrestling with our positioning if you look at the state of the education around positioning like what you learn about positioning like even if you go to marketing school which I didn't do originally but I did end up taking a lot of marketing courses in the end but if we look at it there's a lot of stuff written about positioning at a very conceptual level like here's what it is here's what it looks like when it's bad here's what it looks like when it's good the foundational textbook on this thing is a book by these guys re and trout called positioning to battle for your mind and this was written in 1982 so before the internet before a lot of people were born at this point and the great thing about that book was it it really give you a firm understanding of what positioning was what it didn't do was give you a methodology to actually do it and so for me as a vice president of marketing working in a B2B company I was like well that's fine I get what it is but my big worry here is how do we do it like how do we make sure the positioning is really good so I eventually when I was back inhouse developed a bit of a way to do positioning and in the later parts of my career as a VP marketing that's why you hired me you hired me because I could come in and say all right I think the positioning might be weak here I've got this little way to do it I could explain it to you I could write the little thing down on a piece of paper and theyd be oh that sounds good we'll hire you to come in and do that and then sevenish years ago when I made the switch to Consulting I thought well this would be a thing I could teach people how to do and then the book came out of that so the book is essentially my answer to the question how do we actually get this thing done and so the first book is called obviously awesome and that's what it's intended to do that makes total sense could we pick either one of the companies where you we the VP marketing or any I'm sure there are many examples of the book and by the way guys both books are going to be linked below so can't buy them now but could we pick one and then just look at or take a look at it pre your positioning process and then post to give an example for the audience sure so I think which one pick there's like seven of them so I'll give you one of the later ones I got hired at a company to be the VP marketing at a company that had been around for a long time in fact they were actually public on the Toronto Stock Exchange which most of you out there won't even know is a thing but they were doing decent Revenue like 80 90 million Revenue I believe when I joined so not startup startup but not big company like IBM either and when I joined the positioning was mushy and you could feel it in a bunch of ways so they were positioning themselves as a data replication tool like you have data over here and you have data over here and this thing replicated the data now when this company was first launched data replication tools were a thing that it was a category of solution that you would pay for but fast forward 10 years or whatever when I'm joining like a data replication tool for the most part you got that for free when you bought your database like all the databases shipped with a replication tool so now their thing could do replication across lots of different types types of databases but if you looked at it positioning as a data replication tool like the first question was like wait I don't need that I have that and that cost nothing that's a free thing the market had shifted significantly and there was an emerging category of solutions called information integration and information integration wasn't just about having data here and having data there it was actually data could be anywhere and transform that could be anywhere and there was a whole bunch of things you could do with that if you had an information integration tool specifically what data miror had was an information integration tool that worked really well if what you wanted was continuous uptime like one of these things go down and you don't want it to go down and so you could have backup data all over the place and then it would help you bring that thing back up so when I started there Revenue had been somewhat flat growing but not growing as fast as they would like the CEO was interested in exiting so he had been there a long time they had gone on public but the shares were lightly traded because nobody knows what the Toronto Stock Exchange even is and so his goal was to get the company sold and so I felt like one we could probably do a lot with a repositioning so that people would just understand what the value of this thing was and then two we could probably get the growth happening again in a lot of different ways like you know the sales pitch was really weak there were a bunch of things that were weak we were doing a lot of really wasteful things in marketing so we did the repositioning and we started by going to some of the analysts so our customers talked to Gartner a lot and so first thing we did was kind of reposition it to the analyst so we went to Gardner and one of the things we did was we pretended we had a had a whole new version of the product which we didn't but we called it like we gave it a new version number and like I think the previous version was like version four and we're like dude this is so big this is version 10 and we did all this stuff man we're like skipping 789 we had version 10 and this thing is so awesome and we talked about a bunch of stuff that we had had for a long time but nobody understood it so it was like it didn't exist so we kind of relaunched a bunch of things under a new storyline and specifically positioning it in this new market so we did that reth so we got immediately listed as a Gartner like hot vendor which was hysterical because we hadn't been hot for like 10 years so now we're a hot vendor and then we really tightened up the sales pitch on the sales side to really drive at this idea that we're an information integration tool and this is what you would use it for here's what use cases look like and this is how it's very different from data replication very different from ETL very different from the other tools you already have here's why you need one and so Revenue started going like this everybody was happy we cut a lot of waste out in marketing so we're making a lot more money but putting a lot less money in and then the end of that story was we got acquired by IBM and everybody was happy Rich except me because I hadn't even been there a year yet I thought it was going to take longer damn it I was just out of a job because I had actually just come from IBM and so I was like I like going back there so anyway yeah that is hilarious at least you got the good K study for the book though yeah I did I didn't even use that one in the book I used a bunch of other ones but yeah no data miror didn't even make it into the book but yeah I'm using it now good podcast talking and so that was like a really good illustration of the power of positioning and I'm sure you had your process happened in the background so now I think if we can share the steps on the process it's going to give context to the example yeah yeah so here's how it works so the first thing is we have to think about what do we have to position against so like if I use data mirror as example we were positioning against data replication tools which were free but had very limited functionality we were positioning against something called an ETL tool it stands for extract transform load so this is how you bring data out of one thing and put it in somewhere else and those were the two main buckets of competitors so when we came in people were very confused like are you this are you that and we're like no we're this new emerging thing which that category existed but there were very few Tools in it and so we were like no we're this emerging thing which is this information integration thing so we Step One is who do you have to position to gain step two is what do you have that they don't have and so in our case we handled heterogenous data store ources really well so if you had a grab bag you got Oracle over here and sbase over here and some weird ass 400 box over here we didn't care where the data was we could make sure that the data was the same in all the places and if one of them went down it could instantly pull the data from another source so that none of your systems would go down so we listed so there were a whole bunch of things that was the main one and then we'd look at okay so we have that feature so what like why does anybody care like what's the value of that so the value of that that was continuous uptime for systems so let's say for example you're a retail company and you've got all this data that essentially makes the cash registers go if something bad happens the cash registers don't turn off or if you're a utility company something bad happens the lights don't go out so that's what we were about the value of that was that and then you say well who cares a lot about that well it's not all companies like a company had to have a lot of heterogeneous data sources and in particular there were some data sources we were really good at that nobody else could touch like there were these weird IBM as400 boxes that were really common in retail and utilities so if you it was retail and utilities we could really smash it so lots of heterogeneity and then also a use case where it was super important that the lights don't go out of the casers don't turn off or something like that and so that's who cares a lot about that so in when we looked at that we circled a couple of vertical markets and use cases so retail was a big one utilities was another one and then the last one was what's the best Market category to position this thing in clearly it's not a replication tool because that's underselling what we do clearly it's not ETL that's under selling what we do IBM was spending a lot of time talking about this new market category called information integration which I just happen to know a lot about because I had come from IBM and invented the freaking thing over there and I left IBM to go to data Mir and I was like this fits right in this category IBM's putting all kinds of weight behind it we don't really compete with them because we're down in the midmarket so we could just sell there and win everything so that's what we did so that's how it mapped and then we took that turned it into a sales pitch turned it into marketing messaging ran campaigns against it and that worked really well and we're GNA get to the sales pitch in a second but I have to see if I can pull out the points so step one was understanding who you're peing against step two is work out how you're different step three then is to using that information decide which category to put yourself in well step three is differentiated value so we competitive Alternatives differentiated capabilities we map the capabilities to Value so why do the capabilities matter and then step four is well who cares a lot about that so what's my definition of a best fit customer and then the last one is Market category so what's the best context to position this thing in such that this value kind of makes sense to these people we're trying to sell to it's very ACC isn't it compared to the positioning book you know what the action is in the positioning book The Action is call them and they'll do it for you you're not supposed to be doing it yourself I know this because I actually called them once so I worked at this startup and we got Acquired and I inherited a bunch of products that and my boss was like okay we're going to reposition all these products and at that point I didn't really have a methodology so I thought well I'll just call these rise and trout guys like cuz they must know how to do this so they had an agency and I called them and it was very very expensive to work with them and their methodology was a big secret like they were going to interview some people and do some stuff or whatever and then go away do the magic thing and then come back and tell us what it was and it was very very expensive like it would have taken my whole budget and every time you wanted to do a new product you had to go back to them again and I was like well that's stupid like we need to be able to do this inside like so tell me how to do it anyways so yeah no there's nothing actionable in that book although I love that book I read it 300 times so let's now transition I think it's a good time to go to book two which is then we have this petitioning how do we then convert that into something that is going to be easy for our sales team to convert customers or convert prospects into customers yeah so here's how I got to this so at the beginning when I was doing positioning as a consultant I thought well I'll just teach teams how to do the positioning thing we'll work on the positioning thing and then if they've got good copywriters and people that can do messaging stuff they know that the differentiated value is and they can convert that into messaging and that's fine and then sales will figure out how to turn this into a sales pitch and that's fine and everything's fine and then what happened was marketing was good marketing could take the differentiated value and go run with that marketing's happy but sales is not like sales is like intellectually they're in the room when we're working on the positioning they're like yep yep yep we get it we get it and they're really involved and then they go back and they're using the same pitch they were always use it and so you're like my dudes what's going on over here and they're like well we don't know how to tell the story like we don't know how to tell the story so then I thought well surely there's an accepted methodology to build a sales pitch in B2B like I mean we've been doing this since the year of the flood like there must be a sales pitch methodology so I went looking for one and there just wasn't like and in fact most of the companies that I talked to the vast majority like 99% of them if you looked what was happening in the sales pitch there was no attempt to do any positioning at all like what the sales pitch was was really a product feature function walk through there might be a couple extra slides in there like one that says company history and one with a bunch of customers that we've worked with with the logo slide but everything the meat of the pitch was I got 57 drop-down menus and I'm going to click on everyone and show you everything in there and there's no positioning in there and it's up to the customer to figure out which of those features are differentiating and which isn't what's the value of any of those features how is this different than any of our competitors why should you pick us over the other guys and nobody's answering that question which is literally the question we need to answer in a sales pitch so anyways I was frustrated with that so I had a sales pitch structure that I had used for about 15 years I think before I was a consultant and I had learned it well partially from IBM so when I was at IBM what was cool about IBM when they did a sales pitch is first of all they never started with the product they would never just jump into the product and they would never start with like here's the problem and we're the solution or there's a trend or a change and then they would always start with here's our IBM insight into the market like we know a lot about this we've worked with a lot of companies we've seen a lot of stuff and here's the way we look at it and then they would have a conversation about that and so I thought and that seemed to work really good and I thought that was intriguing the second thing that IBM did was they never talked about Fe fees outside of the context of the value so they would say look we're going to save you 20 million bucks a year on your customer service cost and here's the features that enabled that and then here's the value here's the feature here's the value just here's the feature so we would never talk about features outside of the context of value so anyways when I left IBM I went to data Mir the one I was just telling you about and I was new and the VP sales was kind of new and so the two of us sit down we were going to read do the sales pitch deck to reflect the positioning that we had worked on and I said hey they had an IBM sales thing was in a binder and I stole the binder so I like brought the binder and said we're not going to use all of this because a lot of this is really specific to IBM but I really like to setup bit and I really like this value orientation so we reworked the sales pitch using that and that worked really well and so after that I'd been using kind of an evolving version of that structure since then as a consultant I started using it with my Consulting clients because nobody else had a structure like you say okay we have the positioning we need to turn it into a pitch so I'm happy to use your structure if you have one and then you look at their pitch and it's like nope feature function walk through all right well forget about that and then I was teaching people my structure and so the new book is basically just that if you want to do it on your own and you don't want the consultant to come in and tell you how to do make a sales pitch this is one way to do it and so I'm sure the book goes into more detail right that's the two things we definitely me to have which is the unique in Insight yeah and then whenever we give features we have to give value is there anything else like high level that even without getting the book somebody could get started today with that pitch for sure so the way I look at a sales pitch is there's two big pieces to it there's the setup and the follow through the setup is where we're teaching the customer about the market and we're talking about the whole Market the follow through is where we're talking about us and we're basically answering the question why pick us over the other guys here's the value we can deliver no one else can here's how we do it so the setup consists of like three parts so we start with our unique Insight onto the market we move to hear the pluses and minuses of different approaches to solving the problem or doing the job that the customer is trying to do and we get an agreement with the customer on can we agree that if we really wanted to get this thing done and knowing what we know about what works and doesn't work with other ways of approaching the problem can we agree that a perfect solution would tick these boxes if we can get the customer aligned to that then we switch to the actual pitch which is all right here's us here's what we do here's the value we deliver here's how we deliver it we give them some proof we can do what we say we can do and then we end with the ask which is whatever we want the client to do next so my structure is kind of eight piece parts and that's how it breaks apart got so are you then saying that if the salesperson doesn't get the agreement after those three steps in the setup then they're disqualified they finished the sales while disqualified they're disqualified so I can give you an example do we have time for an example please so there's a company that I've done some work with and I've been using them as example because they're easy to understand so these folks are help Scout and so what they do is customer service software like so think zenes that sort of thing so they're specifically targeted at digital businesses so businesses that don't have a physical storefront and they don't have actual salespeople that sell stuff so they sell everything online in a digital business help Scouts point of view and how they when they built this thing in the first place was that look digital businesses are looking for something different in customer service they don't actually see customer service like a cost center like your telephone company does where they're just trying to get you off the phone or get you to use the FAQ or whatever in a digital business customer service is the one place where we actually get to talk to customers so what we want to do is deliver an amazing customer experience because it's been proven that that drives loyalty drives repeat business all this good stuff so help Scouts solution is designed to do that if you look at the different the competitive so let's walk through the positioning who do they compete with most folks start with a shared inbox which is really easy for the Reps to use but they eventually outgrow it because they want to do customer service stuff prioritizations assignments all that kind of thing so then they move to help desk software and so everything else in the market is like zenes is kind of help desk software problem with that is two things hard to use so their reps have a big learning curve to get up to speed there second thing is all this stuff that's designed to reduce cost is actually delivering a terrible experience like you're not John anymore you're case number 147 so things like that so if they were to just do a Feature Feature Feature pitch here's what it would look like it'd be like hi we're house Scout here's how you log in here's the main screen look it kind of looks like a shared inbox looks here's here's how we do prioritization here how we do assignments here's how we do this here's how we do this here's how we do this and we would keep hitting you with features until the time ran out if you're a customer and you're like I don't know man is that different from zenes is it I don't know a lot of those things I think zenes has some of those things I got I don't really know what the difference is it kind of looks like a shared inbox maybe I should just keep using that so it's not really answering the question why pick us over the other guys so here's how you do it my way my way we start with the Insight so help help Scout comes in and says hey digital business we work with a lot of digital businesses one of the things we've seen is that we think digital businesses think about customer service in a different way they see it as a growth driver rather than a cost center and customer is usually like yeah yeah you're right you're right it's the only place we get to they have some nice data that shows how good customer experience can drive loyalty and drive revenue and all this stuff then they say okay so you have choices and how you could get this done you could use the shareed inbox it's great easy your folks love it we love it that's great but if you're growing eventually you're going to outgrow that and you're going to need prioritizations and assignments and things like this customer is usually there because of that they like yeah yeah we do yeah we're having that problem and then you say okay so then what's your choice well you could go to help Des software it's great it does all the things all the things all the customer service things bad news is one your reps are going to be some up to speed time there so making the switch from the shared inbox to that is not going to be easy second thing is that it's not really designed to deliver a great experience it's designed to reduce costs so people are going to be ticket numbers it's going to try to push people to lowcost channels so in a perfect world can we agree that like for a digital Business Like Yours what we actually want is something as easy to use as an inbox has all the bells and whistles so I don't have to migrate off it and delivers an amazing customer experience we want that right yes now you're either with me or not right so so if you say no then you're not a fit for me man you should go buy Zen desk like because you don't care about delivering amazing customer experience you just care about taking the cost out for example we can't win on that but if you say yeah because I've done a good job setting this up then I'm like great so let me show you the product let's start let's go through those three things number one easy to use as an inbox oh here it is here's the inbox so nice so easy well your people can use it no problem number two never outgrow it because it has all the things looks here's how we do prioritization here's how we do assignments here's how we do whatever blah blah blah and then last thing delivers an amazing experience look your customer is still Tom we don't get to call him some case number 257 and your customer actually gets to choose what channel they use to communicate with you because you want to give them the best experience ever blah blah blah so you can imagine that second way of doing a pitch Works a hell of a lot better than just click on the drop down benu show you every feature and then say you figure it out you figure it out why we're better makes a lot of sense and also sounds their action about at the same time that's the idea man I'm all about the actionable stuff over here I don't like I just think the world doesn't need another book to talk about conceptual stuff for us to go think about in B2B what we need to do is like how do we get this stuff done like we want to build a sales pitch okay tell me the steps to build it that's what I'm trying to do over here what do we think book three is going to be about there's no book three man I'm an old Lady this is the end whoop it up now kids I saw the link temp book one is obviously awesome obviously awesome book two is sales pitch I strategically locate them here for people who can see me on video because then you can see them sitting on my shoulder they're in the video and they're link below of course yeah I think book two had an awesome launch from what I can see on LinkedIn with any insights from that thank you it's really new like we've only been a couple weeks I've only had it out there a couple of weeks but yeah launch is going great I look at books this way because I'm trying to write a book that's useful I don't actually care if it has an awesome launch because an awesome launch is just marketing like it's just marketing and that just means a whole bunch of people bought your book on the day you said go buy the book but the real test of whether a book is good or not is anybody talking about it six months from now don't get me wrong I like that it's a good book launch selling a lot of books but what I need is for people to actually read the book and then we'll find out whether it's good or not so come ask me in six months whether how this thing is still doing for sure and it's like how many sales you're still getting when you stop marketing is the other great measure right that's exactly it like what I think is really cool about my first book Is this year I will sell almost exactly the same number of books that I sold the first year it was out and it's three getting on four years old that is how you know you have a good book that's how you know so we'll see the second one I don't know like you don't really don't like you do your best job at trying to explain a thing but not everybody's going to understand what the heck you're talking about so let's see I don't get to decide readers get to decide April awesome really awesome I feel like we covered a lot of ground but I think because we gave the examples and the theory I I feel like it's going to make sense to the audience hope so you just absolutely incredible like talker and I love how you laugh at your own jokes because they're really funny hey come on man we have to be having some fun with this otherwise why are we doing it I totally agree so we're going to link to your link in below obviously we're going to link to both of our anything else we should give a shout out to you no I don't think so like a couple of things like I think the books are a good place to start not everybody's a reader so if you're not a reader there's a couple other places where you can absorb some of my stuff so linkedin's the only social media that I'm really active on I got a podcast and the podcast is for positioning nerds so if you want to do the Dory Deep dive on aspects of positioning you can the podcast called positioning with April Dunford it's easy enough to find and then I'm doing a newsletter now too because I find like writing on LinkedIn feels like writing a blog post so I'm like why the heck am I not just doing a newsletter so I got a news I got a substack you can find that Google around you guys can link to it or whatever but those are the best ways to find me I think amazing they all be in the show April thank you so much for your time all right no problem this has been [Applause] great okay big shout out to April for coming on what an awesome speaker you can tell April re loves this stuff the way she talks the story she tells and how she laughs I find it fascinating I want to thank you for tuning into the show for giving us all the great feedback the followers ATT track the followers on Apple Spotify and Google podcast three major places and the followers are going up like they haven't gone up before so I'm super happy with the responses I get people dming me on LinkedIn saying that they like the show and actually for the first time ever last week in this co-working space that I go to someone was like Hey excuse me is your name Tom I'm like yes and he's like I listen to your podcast it's super awesome and so that actually to give a shout out to Perry who runs an SEO agency called mad X so if you just Google mad X SEO Agency for SAS you'll find it so shout out to Perry for being a listener and of course thank you for [Music] listening
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:00] the first thing is we have to think
+[00:01] about what do we have to position
+[00:03] against step two is what do you have
+[00:06] that they don't have and then we'd look
+[00:08] at okay so we have that feature so what
+[00:11] like why does anybody care like what's
+[00:12] the value of
+[00:13] [Music]
+[00:17] [Laughter]
+[00:19] that hello and welcome to Confessions of
+[00:23] a B2B marketer today we have a big one
+[00:26] it's April Dunford who is the person
+[00:29] who's making in actionable we' got two
+[00:31] books obviously awesome and sales pitch
+[00:33] that we run through I think if you
+[00:36] didn't want to read the books obviously
+[00:38] you should and they'll be linked below
+[00:39] this episode will give a very awesome
+[00:42] overview to the two books and you could
+[00:44] probably make some changes to your
+[00:45] positioning or your sales pitch without
+[00:48] even reading the books now unfortunately
+[00:50] I didn't actually read the books before
+[00:52] the interview I had obviously awesome on
+[00:54] my Kindle by I hadn't readit and then
+[00:56] sales pitch only just came out so I
+[00:57] hadn't bought it yet since then so we
+[00:59] recorded last week I've now read
+[01:01] obviously awesome and let me tell you it
+[01:03] is gamechanging for anybody in the B2B
+[01:05] space that's looking to understand what
+[01:07] positioning means and also gain benefits
+[01:10] from better positioning so super crucial
+[01:13] episode for any B2B marketers out there
+[01:15] want to give a big shout out to fame who
+[01:17] is producing this show also my business
+[01:20] we start and grow the most profitable
+[01:22] podcasts for B2B companies there'll be a
+[01:25] link in the show notes if you want to
+[01:26] check us out and request a proposal
+[01:29] completely free will give you insights
+[01:30] on your podcast so let's jump into this
+[01:33] discussion with April now again I was in
+[01:35] the co-working space without my mic that
+[01:37] problem is now solved so my audio might
+[01:39] be slightly worse just during the
+[01:41] interview portion of this
+[01:44] episode April welcome to the show so
+[01:46] great to be here thanks for having me on
+[01:48] the positioning Guru is what I've been
+[01:51] told you know what okay I'm gonna say
+[01:53] this just because I love it so much so
+[01:55] some guy on LinkedIn called me the
+[01:57] Beyonce of positioning and I was like oh
+[01:59] my God I love that so much that is epic
+[02:02] I don't think I'm the Beyonce of
+[02:04] positioning but I wish that I was it's
+[02:07] goals hash
+[02:09] goals so what we're GNA do today is
+[02:12] we're g to try and do these are not the
+[02:14] actual names of the books obviously but
+[02:15] book one book to yep because they flow
+[02:17] nicely together I've heard awesome
+[02:18] things about both books and so first
+[02:20] we're going to start off by
+[02:21] understanding specifically through a B2B
+[02:23] lens yeah how people can provision
+[02:26] because it's such if people get this
+[02:27] right it seems like it just makes
+[02:29] everything else in BB marketing easier
+[02:31] so I'm going to hand the floor over yeah
+[02:34] yeah so the the origin of book one came
+[02:37] out of my deep frustration in trying to
+[02:39] figure out how to do positioning so
+[02:42] positioning is this really fundamental
+[02:44] concept so we have this idea that the
+[02:46] positioning defines how we win in the
+[02:48] market like how we deliver something
+[02:50] that's amazing that no one else can
+[02:52] deliver and right from my very first
+[02:55] marketing job at a B2B company we were
+[02:57] always wrestling with our positioning if
+[03:00] you look at the state of the education
+[03:02] around positioning like what you learn
+[03:04] about positioning like even if you go to
+[03:06] marketing school which I didn't do
+[03:07] originally but I did end up taking a lot
+[03:09] of marketing courses in the end but if
+[03:11] we look at it there's a lot of stuff
+[03:13] written about positioning at a very
+[03:15] conceptual level like here's what it is
+[03:18] here's what it looks like when it's bad
+[03:20] here's what it looks like when it's good
+[03:21] the foundational textbook on this thing
+[03:23] is a book by these guys re and trout
+[03:25] called positioning to battle for your
+[03:26] mind and this was written in 1982
+[03:30] so before the internet before a lot of
+[03:32] people were born at this point and the
+[03:36] great thing about that book was it it
+[03:37] really give you a firm understanding of
+[03:39] what positioning was what it didn't do
+[03:41] was give you a methodology to actually
+[03:43] do it and so for me as a vice president
+[03:47] of marketing working in a B2B company I
+[03:49] was like well that's fine I get what it
+[03:52] is but my big worry here is how do we do
+[03:54] it like how do we make sure the
+[03:55] positioning is really good so I
+[03:58] eventually when I was back inhouse
+[04:01] developed a bit of a way to do
+[04:03] positioning and in the later parts of my
+[04:05] career as a VP marketing that's why you
+[04:07] hired me you hired me because I could
+[04:08] come in and say all right I think the
+[04:10] positioning might be weak here I've got
+[04:12] this little way to do it I could explain
+[04:14] it to you I could write the little thing
+[04:16] down on a piece of paper and theyd be oh
+[04:17] that sounds good we'll hire you to come
+[04:19] in and do that and then sevenish years
+[04:23] ago when I made the switch to Consulting
+[04:25] I thought well this would be a thing I
+[04:26] could teach people how to do and then
+[04:28] the book came out of that so the book is
+[04:30] essentially my answer to the question
+[04:32] how do we actually get this thing done
+[04:34] and so the first book is called
+[04:35] obviously awesome and that's what it's
+[04:37] intended to do that makes total sense
+[04:39] could we pick either one of the
+[04:41] companies where you we the VP marketing
+[04:43] or any I'm sure there are many examples
+[04:45] of the book and by the way guys both
+[04:46] books are going to be linked below so
+[04:48] can't buy them now but could we pick one
+[04:50] and then just look at or take a look at
+[04:52] it pre your positioning process and then
+[04:55] post to give an example for the audience
+[04:57] sure so I think which one pick there's
+[05:00] like seven of them so I'll give you one
+[05:02] of the later ones I got hired at a
+[05:04] company to be the VP marketing at a
+[05:06] company that had been around for a long
+[05:08] time in fact they were actually public
+[05:10] on the Toronto Stock Exchange which most
+[05:12] of you out there won't even know is a
+[05:14] thing but they were doing decent Revenue
+[05:16] like 80 90 million Revenue I believe
+[05:18] when I joined so not startup startup but
+[05:21] not big company like IBM either and when
+[05:24] I joined the positioning was mushy and
+[05:28] you could feel it in a bunch of ways so
+[05:30] they were positioning themselves as a
+[05:32] data replication tool like you have data
+[05:34] over here and you have data over here
+[05:36] and this thing replicated the data now
+[05:38] when this company was first launched
+[05:39] data replication tools were a thing that
+[05:41] it was a category of solution that you
+[05:43] would pay for but fast forward 10 years
+[05:46] or whatever when I'm joining like a data
+[05:48] replication tool for the most part you
+[05:50] got that for free when you bought your
+[05:52] database like all the databases shipped
+[05:54] with a replication tool so now their
+[05:57] thing could do replication across lots
+[05:58] of different types types of databases
+[06:01] but if you looked at it positioning as a
+[06:03] data replication tool like the first
+[06:04] question was like wait I don't need that
+[06:06] I have that and that cost nothing that's
+[06:08] a free thing the market had shifted
+[06:12] significantly and there was an emerging
+[06:14] category of solutions called information
+[06:16] integration and information integration
+[06:19] wasn't just about having data here and
+[06:21] having data there it was actually data
+[06:23] could be anywhere and transform that
+[06:26] could be anywhere and there was a whole
+[06:27] bunch of things you could do with that
+[06:28] if you had an information integration
+[06:30] tool specifically what data miror had
+[06:33] was an information integration tool that
+[06:36] worked really well if what you wanted
+[06:38] was continuous uptime like one of these
+[06:40] things go down and you don't want it to
+[06:41] go down and so you could have backup
+[06:44] data all over the place and then it
+[06:45] would help you bring that thing back up
+[06:47] so when I started there Revenue had been
+[06:50] somewhat flat growing but not growing as
+[06:53] fast as they would like the CEO was
+[06:55] interested in exiting so he had been
+[06:57] there a long time they had gone on
+[06:59] public but the shares were lightly
+[07:01] traded because nobody knows what the
+[07:02] Toronto Stock Exchange even is and so
+[07:04] his goal was to get the company sold and
+[07:07] so I felt like one we could probably do
+[07:10] a lot with a repositioning so that
+[07:12] people would just understand what the
+[07:13] value of this thing was and then two we
+[07:16] could probably get the growth happening
+[07:18] again in a lot of different ways like
+[07:20] you know the sales pitch was really weak
+[07:22] there were a bunch of things that were
+[07:23] weak we were doing a lot of really
+[07:24] wasteful things in marketing so we did
+[07:27] the repositioning and we started by
+[07:30] going to some of the analysts so our
+[07:32] customers talked to Gartner a lot and so
+[07:35] first thing we did was kind of
+[07:36] reposition it to the analyst so we went
+[07:38] to Gardner and one of the things we did
+[07:40] was we pretended we had a had a whole
+[07:42] new version of the product which we
+[07:45] didn't but we called it like we gave it
+[07:47] a new version number and like I think
+[07:49] the previous version was like version
+[07:50] four and we're like dude this is so big
+[07:52] this is version
+[07:53] 10 and we did all this stuff man we're
+[07:56] like skipping 789 we had version 10 and
+[07:59] this thing is so awesome and we talked
+[08:01] about a bunch of stuff that we had had
+[08:03] for a long time but nobody understood it
+[08:05] so it was like it didn't exist so we
+[08:07] kind of relaunched a bunch of things
+[08:10] under a new storyline and specifically
+[08:14] positioning it in this new market so we
+[08:16] did that reth so we got immediately
+[08:18] listed as a Gartner like hot vendor
+[08:21] which was hysterical because we hadn't
+[08:23] been hot for like 10 years so now we're
+[08:24] a hot vendor and then we really
+[08:26] tightened up the sales pitch on the
+[08:28] sales side to really drive at this idea
+[08:30] that we're an information integration
+[08:31] tool and this is what you would use it
+[08:33] for here's what use cases look like and
+[08:35] this is how it's very different from
+[08:36] data replication very different from ETL
+[08:39] very different from the other tools you
+[08:41] already have here's why you need one and
+[08:43] so Revenue started going like this
+[08:45] everybody was happy we cut a lot of
+[08:47] waste out in marketing so we're making a
+[08:49] lot more money but putting a lot less
+[08:51] money in and then the end of that story
+[08:54] was we got acquired by IBM and everybody
+[08:56] was happy Rich except me because I
+[08:59] hadn't even been there a year
+[09:02] yet I thought it was going to take
+[09:03] longer damn it I was just out of a job
+[09:07] because I had actually just come from
+[09:08] IBM and so I was like I like going back
+[09:10] there so anyway yeah that is hilarious
+[09:13] at least you got the good K study for
+[09:14] the book though yeah I did I didn't even
+[09:16] use that one in the book I used a bunch
+[09:17] of other ones but yeah no data miror
+[09:20] didn't even make it into the book but
+[09:22] yeah I'm using it now good podcast
+[09:24] talking and
+[09:26] so that was like a really good
+[09:28] illustration of the power of positioning
+[09:30] and I'm sure you had your process
+[09:32] happened in the background so now I
+[09:34] think if we can share the steps on the
+[09:36] process it's going to give context to
+[09:38] the example yeah yeah so here's how it
+[09:39] works so the first thing is we have to
+[09:42] think about what do we have to position
+[09:44] against so like if I use data mirror as
+[09:47] example we were positioning against data
+[09:50] replication tools which were free but
+[09:52] had very limited functionality we were
+[09:54] positioning against something called an
+[09:55] ETL tool it stands for extract transform
+[09:58] load so this is how you bring data out
+[09:59] of one thing and put it in somewhere
+[10:01] else and those were the two main buckets
+[10:04] of competitors so when we came in people
+[10:06] were very confused like are you this are
+[10:08] you that and we're like no we're this
+[10:10] new emerging thing which that category
+[10:12] existed but there were very few Tools in
+[10:14] it and so we were like no we're this
+[10:16] emerging thing which is this information
+[10:18] integration thing so we Step One is who
+[10:20] do you have to position to gain step two
+[10:22] is what do you have that they don't have
+[10:25] and so in our case we handled
+[10:27] heterogenous data store ources really
+[10:29] well so if you had a grab bag you got
+[10:31] Oracle over here and sbase over here and
+[10:33] some weird ass 400 box over here we
+[10:36] didn't care where the data was we could
+[10:38] make sure that the data was the same in
+[10:40] all the places and if one of them went
+[10:42] down it could instantly pull the data
+[10:44] from another source so that none of your
+[10:46] systems would go down so we listed so
+[10:49] there were a whole bunch of things that
+[10:50] was the main one and then we'd look at
+[10:52] okay so we have that feature so what
+[10:55] like why does anybody care like what's
+[10:56] the value of that so the value of that
+[10:59] that was continuous uptime for systems
+[11:02] so let's say for example you're a retail
+[11:05] company and you've got all this data
+[11:07] that essentially makes the cash
+[11:08] registers go if something bad happens
+[11:11] the cash registers don't turn off or if
+[11:14] you're a utility company something bad
+[11:16] happens the lights don't go out so
+[11:18] that's what we were about the value of
+[11:20] that was that and then you say well who
+[11:21] cares a lot about that well it's not all
+[11:24] companies like a company had to have a
+[11:26] lot of heterogeneous data sources and in
+[11:29] particular there were some data sources
+[11:30] we were really good at that nobody else
+[11:32] could touch like there were these weird
+[11:34] IBM as400 boxes that were really common
+[11:37] in retail and utilities so if you it was
+[11:40] retail and utilities we could really
+[11:41] smash it so lots of heterogeneity and
+[11:44] then also a use case where it was super
+[11:46] important that the lights don't go out
+[11:47] of the casers don't turn off or
+[11:49] something like that and so that's who
+[11:51] cares a lot about that so in when we
+[11:53] looked at that we circled a couple of
+[11:56] vertical markets and use cases so retail
+[11:59] was a big one utilities was another one
+[12:01] and then the last one was what's the
+[12:03] best Market category to position this
+[12:05] thing in clearly it's not a replication
+[12:07] tool because that's underselling what we
+[12:09] do clearly it's not ETL that's under
+[12:11] selling what we do IBM was spending a
+[12:14] lot of time talking about this new
+[12:16] market category called information
+[12:18] integration which I just happen to know
+[12:20] a lot about because I had come from IBM
+[12:23] and invented the freaking thing over
+[12:25] there and I left IBM to go to data Mir
+[12:29] and I was like this fits right in this
+[12:31] category IBM's putting all kinds of
+[12:32] weight behind it we don't really compete
+[12:34] with them because we're down in the
+[12:35] midmarket so we could just sell there
+[12:38] and win everything so that's what we did
+[12:40] so that's how it mapped and then we took
+[12:42] that turned it into a sales pitch turned
+[12:44] it into marketing messaging ran
+[12:46] campaigns against it and that worked
+[12:47] really well and we're GNA get to the
+[12:49] sales pitch in a second but I have to
+[12:50] see if I can pull out the points so step
+[12:52] one was understanding who you're peing
+[12:54] against step two is work out how you're
+[12:56] different step three then is to using
+[12:59] that information decide which category
+[13:01] to put yourself in well step three is
+[13:03] differentiated value so we competitive
+[13:05] Alternatives differentiated capabilities
+[13:08] we map the capabilities to Value so why
+[13:10] do the capabilities matter and then step
+[13:13] four is well who cares a lot about that
+[13:15] so what's my definition of a best fit
+[13:17] customer and then the last one is Market
+[13:20] category so what's the best context to
+[13:22] position this thing in such that this
+[13:25] value kind of makes sense to these
+[13:26] people we're trying to sell to it's very
+[13:28] ACC isn't it compared to the positioning
+[13:30] book you know what the action is in the
+[13:32] positioning book The Action is call them
+[13:34] and they'll do it for
+[13:36] you you're not supposed to be doing it
+[13:39] yourself I know this because I actually
+[13:41] called them once so I worked at this
+[13:43] startup and we got Acquired and I
+[13:45] inherited a bunch of products that and
+[13:48] my boss was like okay we're going to
+[13:49] reposition all these products and at
+[13:51] that point I didn't really have a
+[13:53] methodology so I thought well I'll just
+[13:54] call these rise and trout guys like cuz
+[13:57] they must know how to do this so they
+[13:58] had an agency and I called them and it
+[14:00] was very very expensive to work with
+[14:01] them and their methodology was a big
+[14:03] secret like they were going to interview
+[14:05] some people and do some stuff or
+[14:06] whatever and then go away do the magic
+[14:08] thing and then come back and tell us
+[14:10] what it was and it was very very
+[14:12] expensive like it would have taken my
+[14:13] whole budget and every time you wanted
+[14:15] to do a new product you had to go back
+[14:17] to them again and I was like well that's
+[14:18] stupid like we need to be able to do
+[14:20] this inside like so tell me how to do it
+[14:22] anyways so yeah no there's nothing
+[14:24] actionable in that book although I love
+[14:25] that book I read it 300 times so let's
+[14:27] now transition I think it's a good time
+[14:29] to go to book two which is then we have
+[14:31] this petitioning how do we then convert
+[14:34] that into something that is going to be
+[14:36] easy for our sales team to convert
+[14:38] customers or convert prospects into
+[14:40] customers yeah so here's how I got to
+[14:43] this so at the beginning when I was
+[14:46] doing positioning as a consultant I
+[14:49] thought well I'll just teach teams how
+[14:50] to do the positioning thing we'll work
+[14:51] on the positioning thing and then if
+[14:53] they've got good copywriters and people
+[14:55] that can do messaging stuff they know
+[14:57] that the differentiated value is and
+[14:59] they can convert that into messaging and
+[15:01] that's fine and then sales will figure
+[15:03] out how to turn this into a sales pitch
+[15:04] and that's fine and everything's fine
+[15:06] and then what happened was marketing was
+[15:08] good marketing could take the
+[15:09] differentiated value and go run with
+[15:11] that marketing's happy but sales is not
+[15:13] like sales is like intellectually
+[15:15] they're in the room when we're working
+[15:16] on the positioning they're like yep yep
+[15:18] yep we get it we get it and they're
+[15:19] really involved and then they go back
+[15:21] and they're using the same pitch they
+[15:22] were always use it and so you're like my
+[15:24] dudes what's going on over
+[15:26] here and they're like well we don't know
+[15:28] how to tell the story like we don't know
+[15:30] how to tell the story so then I thought
+[15:32] well surely there's an accepted
+[15:33] methodology to build a sales pitch in
+[15:36] B2B like I mean we've been doing this
+[15:38] since the year of the flood like there
+[15:40] must be a sales pitch methodology so I
+[15:42] went looking for one and there just
+[15:44] wasn't like and in fact most of the
+[15:47] companies that I talked to the vast
+[15:48] majority like 99% of them if you looked
+[15:51] what was happening in the sales pitch
+[15:53] there was no attempt to do any
+[15:55] positioning at all like what the sales
+[15:57] pitch was was really a product feature
+[15:59] function walk through there might be a
+[16:01] couple extra slides in there like one
+[16:03] that says company history and one with a
+[16:05] bunch of customers that we've worked
+[16:06] with with the logo slide but everything
+[16:09] the meat of the pitch was I got 57
+[16:12] drop-down menus and I'm going to click
+[16:13] on everyone and show you everything in
+[16:15] there and there's no positioning in
+[16:17] there and it's up to the customer to
+[16:19] figure out which of those features are
+[16:20] differentiating and which isn't what's
+[16:22] the value of any of those features how
+[16:25] is this different than any of our
+[16:26] competitors why should you pick us over
+[16:28] the other guys and nobody's answering
+[16:31] that question which is literally the
+[16:33] question we need to answer in a sales
+[16:35] pitch so anyways I was frustrated with
+[16:37] that so I had a sales pitch structure
+[16:40] that I had used for about 15 years I
+[16:42] think before I was a consultant and I
+[16:44] had learned it well partially from IBM
+[16:48] so when I was at IBM what was cool about
+[16:50] IBM when they did a sales pitch is first
+[16:53] of all they never started with the
+[16:54] product they would never just jump into
+[16:56] the product and they would never start
+[16:58] with like here's the problem and we're
+[17:00] the solution or there's a trend or a
+[17:03] change and then they would always start
+[17:06] with here's our IBM insight into the
+[17:12] market like we know a lot about this
+[17:14] we've worked with a lot of companies
+[17:15] we've seen a lot of stuff and here's the
+[17:18] way we look at it and then they would
+[17:20] have a conversation about that and so I
+[17:22] thought and that seemed to work really
+[17:24] good and I thought that was intriguing
+[17:25] the second thing that IBM did was they
+[17:27] never talked about Fe fees outside of
+[17:29] the context of the value so they would
+[17:31] say look we're going to save you 20
+[17:34] million bucks a year on your customer
+[17:36] service cost and here's the features
+[17:38] that enabled that and then here's the
+[17:40] value here's the feature here's the
+[17:41] value just here's the feature so we
+[17:43] would never talk about features outside
+[17:46] of the context of value so anyways when
+[17:48] I left IBM I went to data Mir the one I
+[17:51] was just telling you about and I was new
+[17:54] and the VP sales was kind of new and so
+[17:56] the two of us sit down we were going to
+[17:58] read do the sales pitch deck to reflect
+[18:00] the positioning that we had worked on
+[18:02] and I said hey they had an IBM sales
+[18:05] thing was in a binder and I stole the
+[18:07] binder so I like brought the binder and
+[18:09] said we're not going to use all of this
+[18:11] because a lot of this is really specific
+[18:12] to IBM but I really like to setup bit
+[18:14] and I really like this value orientation
+[18:16] so we reworked the sales pitch using
+[18:19] that and that worked really well and so
+[18:21] after that I'd been using kind of an
+[18:23] evolving version of that structure since
+[18:26] then as a consultant I started using it
+[18:29] with my Consulting clients because
+[18:30] nobody else had a structure like you say
+[18:32] okay we have the positioning we need to
+[18:34] turn it into a pitch so I'm happy to use
+[18:36] your structure if you have one and then
+[18:38] you look at their pitch and it's like
+[18:39] nope feature function walk through all
+[18:41] right well forget about that and then I
+[18:43] was teaching people my structure and so
+[18:45] the new book is basically just that if
+[18:46] you want to do it on your own and you
+[18:48] don't want the consultant to come in and
+[18:49] tell you how to do make a sales pitch
+[18:51] this is one way to do it and so I'm sure
+[18:54] the book goes into more detail right
+[18:55] that's the two things we definitely me
+[18:57] to have which is the unique in Insight
+[18:59] yeah and then whenever we give features
+[19:00] we have to give value is there anything
+[19:02] else like high level that even without
+[19:05] getting the book somebody could get
+[19:06] started today with that pitch for sure
+[19:09] so the way I look at a sales pitch is
+[19:11] there's two big pieces to it there's the
+[19:14] setup and the follow through the setup
+[19:16] is where we're teaching the customer
+[19:17] about the market and we're talking about
+[19:19] the whole Market the follow through is
+[19:21] where we're talking about us and we're
+[19:23] basically answering the question why
+[19:25] pick us over the other guys here's the
+[19:26] value we can deliver no one else can
+[19:28] here's how we do it so the setup
+[19:30] consists of like three parts so we start
+[19:34] with our unique Insight onto the market
+[19:36] we move to hear the pluses and minuses
+[19:39] of different approaches to solving the
+[19:41] problem or doing the job that the
+[19:43] customer is trying to do and we get an
+[19:45] agreement with the customer on can we
+[19:47] agree that if we really wanted to get
+[19:49] this thing done and knowing what we know
+[19:51] about what works and doesn't work with
+[19:52] other ways of approaching the problem
+[19:54] can we agree that a perfect solution
+[19:56] would tick these boxes if we can get the
+[19:58] customer aligned to that then we switch
+[20:00] to the actual pitch which is all right
+[20:02] here's us here's what we do here's the
+[20:04] value we deliver here's how we deliver
+[20:06] it we give them some proof we can do
+[20:08] what we say we can do and then we end
+[20:10] with the ask which is whatever we want
+[20:11] the client to do next so my structure is
+[20:14] kind of eight piece parts and that's how
+[20:16] it breaks apart got so are you then
+[20:18] saying that if the salesperson doesn't
+[20:20] get the agreement after those three
+[20:22] steps in the setup then they're
+[20:23] disqualified they finished the sales
+[20:25] while disqualified they're disqualified
+[20:27] so I can give you an example do we have
+[20:29] time for an example please so there's a
+[20:31] company that I've done some work with
+[20:33] and I've been using them as example
+[20:34] because they're easy to understand so
+[20:36] these folks are help Scout and so what
+[20:38] they do is customer service software
+[20:40] like so think zenes that sort of thing
+[20:43] so they're specifically targeted at
+[20:45] digital businesses so businesses that
+[20:47] don't have a physical storefront and
+[20:49] they don't have actual salespeople that
+[20:50] sell stuff so they sell everything
+[20:52] online in a digital business help Scouts
+[20:55] point of view and how they when they
+[20:57] built this thing in the first place was
+[20:58] that look digital businesses are looking
+[21:00] for something different in customer
+[21:02] service they don't actually see customer
+[21:04] service like a cost center like your
+[21:06] telephone company does where they're
+[21:08] just trying to get you off the phone or
+[21:09] get you to use the FAQ or whatever in a
+[21:12] digital business customer service is the
+[21:14] one place where we actually get to talk
+[21:15] to customers so what we want to do is
+[21:17] deliver an amazing customer experience
+[21:19] because it's been proven that that
+[21:21] drives loyalty drives repeat business
+[21:23] all this good stuff so help Scouts
+[21:26] solution is designed to do that if you
+[21:29] look at the different the competitive so
+[21:32] let's walk through the positioning who
+[21:33] do they compete with most folks start
+[21:35] with a shared inbox which is really easy
+[21:37] for the Reps to use but they eventually
+[21:39] outgrow it because they want to do
+[21:41] customer service stuff prioritizations
+[21:43] assignments all that kind of thing so
+[21:44] then they move to help desk software and
+[21:46] so everything else in the market is like
+[21:48] zenes is kind of help desk software
+[21:50] problem with that is two things hard to
+[21:52] use so their reps have a big learning
+[21:54] curve to get up to speed there second
+[21:56] thing is all this stuff that's designed
+[21:58] to reduce cost is actually delivering a
+[22:00] terrible experience like you're not John
+[22:02] anymore you're case number
+[22:05] 147 so things like that so if they were
+[22:09] to just do a Feature Feature Feature
+[22:10] pitch here's what it would look like
+[22:12] it'd be like hi we're house Scout here's
+[22:14] how you log in here's the main screen
+[22:16] look it kind of looks like a shared
+[22:17] inbox looks here's here's how we do
+[22:19] prioritization here how we do
+[22:21] assignments here's how we do this here's
+[22:22] how we do this here's how we do this and
+[22:24] we would keep hitting you with features
+[22:25] until the time ran out if you're a
+[22:28] customer and you're like I don't know
+[22:29] man is that different from zenes is it I
+[22:32] don't know a lot of those things I think
+[22:33] zenes has some of those things I got I
+[22:35] don't really know what the difference is
+[22:36] it kind of looks like a shared inbox
+[22:38] maybe I should just keep using that so
+[22:39] it's not really answering the question
+[22:41] why pick us over the other guys so
+[22:43] here's how you do it my way my way we
+[22:45] start with the Insight so help help
+[22:47] Scout comes in and says hey digital
+[22:48] business we work with a lot of digital
+[22:50] businesses one of the things we've seen
+[22:52] is that we think digital businesses
+[22:54] think about customer service in a
+[22:55] different way they see it as a growth
+[22:57] driver rather than a cost center and
+[23:00] customer is usually like yeah yeah
+[23:01] you're right you're right it's the only
+[23:02] place we get to they have some nice data
+[23:04] that shows how good customer experience
+[23:06] can drive loyalty and drive revenue and
+[23:08] all this stuff then they say okay so you
+[23:10] have choices and how you could get this
+[23:11] done you could use the shareed inbox
+[23:13] it's great easy your folks love it we
+[23:15] love it that's great but if you're
+[23:16] growing eventually you're going to
+[23:18] outgrow that and you're going to need
+[23:19] prioritizations and assignments and
+[23:21] things like this customer is usually
+[23:22] there because of that they like yeah
+[23:24] yeah we do yeah we're having that
+[23:25] problem and then you say okay so then
+[23:27] what's your choice well you could go to
+[23:28] help Des software it's great it does all
+[23:30] the things all the things all the
+[23:32] customer service things bad news is one
+[23:34] your reps are going to be some up to
+[23:36] speed time there so making the switch
+[23:38] from the shared inbox to that is not
+[23:39] going to be easy second thing is that
+[23:41] it's not really designed to deliver a
+[23:42] great experience it's designed to reduce
+[23:44] costs so people are going to be ticket
+[23:46] numbers it's going to try to push people
+[23:48] to lowcost channels so in a perfect
+[23:50] world can we agree that like for a
+[23:52] digital Business Like Yours what we
+[23:54] actually want is something as easy to
+[23:56] use as an inbox has all the bells and
+[23:58] whistles so I don't have to migrate off
+[24:00] it and delivers an amazing customer
+[24:02] experience we want that right yes now
+[24:04] you're either with me or not right so so
+[24:06] if you say no then you're not a fit for
+[24:08] me man you should go buy Zen desk like
+[24:12] because you don't care about delivering
+[24:13] amazing customer experience you just
+[24:14] care about taking the cost out for
+[24:16] example we can't win on that but if you
+[24:18] say yeah because I've done a good job
+[24:20] setting this up then I'm like great so
+[24:22] let me show you the product let's start
+[24:23] let's go through those three things
+[24:24] number one easy to use as an inbox oh
+[24:27] here it is here's the inbox so nice so
+[24:29] easy well your people can use it no
+[24:30] problem number two never outgrow it
+[24:32] because it has all the things looks
+[24:33] here's how we do prioritization here's
+[24:34] how we do assignments here's how we do
+[24:36] whatever blah blah blah and then last
+[24:38] thing delivers an amazing experience
+[24:39] look your customer is still Tom we don't
+[24:42] get to call him some case number
+[24:44] 257 and your customer actually gets to
+[24:46] choose what channel they use to
+[24:49] communicate with you because you want to
+[24:50] give them the best experience ever blah
+[24:51] blah blah so you can imagine that second
+[24:53] way of doing a pitch Works a hell of a
+[24:56] lot better than just click on the drop
+[24:58] down benu show you every feature and
+[25:00] then say you figure it out you figure it
+[25:02] out why we're better makes a lot of
+[25:03] sense and also sounds their action about
+[25:05] at the same time that's the idea man I'm
+[25:07] all about the actionable stuff over here
+[25:09] I don't like I just think the world
+[25:11] doesn't need another book to talk about
+[25:13] conceptual stuff for us to go think
+[25:15] about in B2B what we need to do is like
+[25:18] how do we get this stuff done like we
+[25:20] want to build a sales pitch okay tell me
+[25:21] the steps to build it that's what I'm
+[25:23] trying to do over here what do we think
+[25:24] book three is going to be about there's
+[25:26] no book three man I'm an old Lady this
+[25:28] is the
+[25:30] end whoop it up now
+[25:33] kids I saw the link temp book one is
+[25:36] obviously awesome obviously awesome book
+[25:38] two is sales pitch I strategically
+[25:40] locate them here for people who can see
+[25:42] me on video because then you can see
+[25:43] them sitting on my shoulder they're in
+[25:45] the video and they're link below of
+[25:47] course yeah I think book two had an
+[25:49] awesome launch from what I can see on
+[25:50] LinkedIn with any insights from that
+[25:52] thank you it's really new like we've
+[25:54] only been a couple weeks I've only had
+[25:56] it out there a couple of weeks but yeah
+[25:57] launch is going great I look at books
+[26:00] this way because I'm trying to write a
+[26:01] book that's useful I don't actually care
+[26:03] if it has an awesome launch because an
+[26:05] awesome launch is just marketing like
+[26:06] it's just marketing and that just means
+[26:08] a whole bunch of people bought your book
+[26:10] on the day you said go buy the book but
+[26:12] the real test of whether a book is good
+[26:14] or not is anybody talking about it six
+[26:17] months from now don't get me wrong I
+[26:19] like that it's a good book launch
+[26:20] selling a lot of books but what I need
+[26:22] is for people to actually read the book
+[26:24] and then we'll find out whether it's
+[26:25] good or not so come ask me in six months
+[26:28] whether how this thing is still doing
+[26:29] for sure and it's like how many sales
+[26:31] you're still getting when you stop
+[26:32] marketing is the other great measure
+[26:34] right that's exactly it like what I
+[26:36] think is really cool about my first book
+[26:38] Is this year I will sell almost exactly
+[26:41] the same number of books that I sold the
+[26:42] first year it was out and it's three
+[26:44] getting on four years old that is how
+[26:46] you know you have a good book that's how
+[26:48] you know so we'll see the second one I
+[26:50] don't know like you don't really don't
+[26:51] like you do your best job at trying to
+[26:53] explain a thing but not everybody's
+[26:54] going to understand what the heck you're
+[26:56] talking about so let's
+[26:59] see I don't get to decide readers get to
+[27:02] decide April awesome really awesome I
+[27:04] feel like we covered a lot of ground but
+[27:06] I think because we gave the examples and
+[27:08] the theory I I feel like it's going to
+[27:09] make sense to the audience hope so you
+[27:12] just absolutely incredible like talker
+[27:14] and I love how you laugh at your own
+[27:16] jokes because they're really funny hey
+[27:19] come on man we have to be having some
+[27:20] fun with this otherwise why are we doing
+[27:22] it I totally agree so we're going to
+[27:24] link to your link in below obviously
+[27:26] we're going to link to both of our
+[27:27] anything else we should give a shout out
+[27:29] to you no I don't think so like a couple
+[27:30] of things like I think the books are a
+[27:32] good place to start not everybody's a
+[27:33] reader so if you're not a reader there's
+[27:36] a couple other places where you can
+[27:37] absorb some of my stuff so linkedin's
+[27:39] the only social media that I'm really
+[27:41] active on I got a podcast and the
+[27:43] podcast is for positioning
+[27:45] nerds so if you want to do the Dory Deep
+[27:48] dive on aspects of positioning you can
+[27:50] the podcast called positioning with
+[27:52] April Dunford it's easy enough to find
+[27:54] and then I'm doing a newsletter now too
+[27:56] because I find like writing on LinkedIn
+[27:57] feels like writing a blog post so I'm
+[27:59] like why the heck am I not just doing a
+[28:00] newsletter so I got a news I got a
+[28:01] substack you can find that Google around
+[28:03] you guys can link to it or whatever but
+[28:05] those are the best ways to find me I
+[28:07] think amazing they all be in the show
+[28:09] April thank you so much for your time
+[28:11] all right no problem this has been
+[28:13] [Applause]
+[28:15] great okay big shout out to April for
+[28:19] coming on what an awesome speaker you
+[28:21] can tell April re loves this stuff the
+[28:24] way she talks the story she tells and
+[28:26] how she laughs I find it fascinating I
+[28:28] want to thank you for tuning into the
+[28:31] show for giving us all the great
+[28:32] feedback the followers ATT track the
+[28:34] followers on Apple Spotify and Google
+[28:36] podcast three major places and the
+[28:37] followers are going up like they haven't
+[28:40] gone up before so I'm super happy with
+[28:42] the responses I get people dming me on
+[28:44] LinkedIn saying that they like the show
+[28:46] and actually for the first time ever
+[28:48] last week in this co-working space that
+[28:50] I go to someone was like Hey excuse me
+[28:52] is your name Tom I'm like yes and he's
+[28:54] like I listen to your podcast it's super
+[28:56] awesome and so that actually to give a
+[28:58] shout out to Perry who runs an SEO
+[29:00] agency called mad X so if you just
+[29:03] Google mad X SEO Agency for SAS you'll
+[29:06] find it so shout out to Perry for being
+[29:07] a listener and of course thank you for
+[29:10] [Music]
+[29:15] listening

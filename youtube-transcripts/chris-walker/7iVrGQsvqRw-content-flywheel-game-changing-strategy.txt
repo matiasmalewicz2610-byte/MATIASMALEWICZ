@@ -1,31 +1,1544 @@
-# Transcript — Content Flywheel: A Game-Changing Strategy
+# Transcript — 7iVrGQsvqRw
 Video ID: 7iVrGQsvqRw
 URL: https://youtube.com/watch?v=7iVrGQsvqRw
-Channel: guest-appearance
-Published: 2024-01-26
-Collected: PENDING
-Expert: Chris Walker
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~11324
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+so we've had some awesome guests on we've had Brian long who started attentive he was on recently we got Noah Kagan coming on and then we have the biggest guest of all Chris Walker the the LinkedIn star so many people have asked me like how do we get like the team active on LinkedIn and my answer is always you get active on ledin we do no basically no SEO at my company and I'm ranking number one over big websites cuz I made a YouTube short video and they have their blog that they published 4 years ago it's undeniable that there's no larger opportunity for organic reach than Tik Tok right now I actually had someone we were at Outreach and someone was applying for a role I think like a manager and I got an ad and I looked at this ad and it was like hey Andrew this is why you should hire me that was the headline and I was like what the heck I think what people would want to hear most from Chris Walker is I was talking to Adam Robinson who was on the Pod you know found a ret we're going to dinner in a couple weeks and he he is most interested he I love Adam because he's obsessed like dude I need to figure out what Chris did on like thing because he's yeah dude let's let's break that whole thing let's break that whole down I haven't talked about that in a minute and like it'll be interesting to reflect back because it's it's now been like [ __ ] almost five years so yeah yeah we can talk we can spend an hour or however long just on that yeah let's talk that because I think I think people would find the most value in that people know and then like your kind of voice un LinkedIn which seems to be what I like is anytime I see a a comment from you on LinkedIn F all right first off whenever I see your stuff pop up which is now rarely ever we talked about this the other day but the stuff that does pop up for for you is never your content right now it's it's your comments which whenever I know whenever I see a Chris comment I'm like yep it's going to be contrarian he's gonna completely disagree with whatever this person say so let's break it down then we'll get into the strategy and then let's talk about how you started dude and then like the evolution because I think that would be interesting for people um and why we should do this is because you've built a massive business just on LinkedIn right everyone tries to do everything Twitter LinkedIn all that You' just stuck to LinkedIn I think you dabbled and other stuff but like let's break down how the heck you did it yeah just to get it uh to get it started I was talking to um an in an investment firm yesterday and they he was asking like some of the GTM advisor was asking me a question about okay so like part of it is e like efficiency in the marketing spend right so we have to be able to lower it but at some point as an executive we need to be able to put a million or two million dollars and get compounding gains out of Marketing how do we know when the right time to do that is and I said uh when this when you say that to the CMO and they say this is exactly how I'm going to spend the million dollars and this is exactly how much Roi I'm going to get but what happens in B2B companies is that they never know what is that one thing that's going to drive massive growth so if they get a million dollars in budget they take 100K and split it out over 10 things and get no like degrading Roi across the whole the whole million because they don't have one to two powerful channels that they know are they're going to be their major growth levers so let's talk about because then that's like a some people would see that contrarian but I truly believe to grow a business at any scale you need one to two marketing channels that are the best thing at that exact time and you need to push it as hard as you can sure you still need to be doing a couple of other things you you don't abandon your email strategy or your SEO strategy but you're in making huge Investments and focus in a couple of core things um and so for me the the initial one what in my uh experimentation when I started my company April 2019 I have one customer paying me $5,000 a month no employees less than a thousand followers on LinkedIn nobody knows who I am um and so I was experimenting with creating content both on in Instagram organic and on uh LinkedIn um and was getting interesting traction sort of on both but what I noticed is on Instagram I was like attracting like the thousand a month you know small business e-commerce company that was trying to get me to run their Instagram ads that they had a$1 thousand month budget and on LinkedIn I started to get interest from B2B companies that just raised $10 million in series a and had a bunch of money that they were like trying to deploy in marketing and already had an existing engine and were willing to spend a lot more um with for my the the problems are bigger the opportunity was bigger they're willing to invest more to address the problem or or uh it to get that opportunity um and so quickly within the first three months of LinkedIn and when I started on LinkedIn I was posting like a couple times a week and what I thought to myself is like who cares what Chris Walker thinks doesn't everybody think the way that I do like I feel like this is common knowledge and I started to go to B2B conferences and I would see the people that would keynote at the B2B conferences and I would listen to it and with all respect that I was like this stuff is trash like this is this is the person they have keynote keynoting this big conference in Boston that I'm going to 104 and I know that all I figured out three years ago that all this stuff isn't the right thing to do anymore um and so that started to give me a little bit of confidence in my voice to think about that it was different and then I started posting on LinkedIn and when I was posting seven to 10 likes my first post probably got three 7 to 10 likes is like the range that I stayed in for a while it was all text post at that time um um and uh at some point over the first couple of months I would get an inbound DM from someone say but usually people that I'd worked with in the past already that then through my posting figured out that I was doing my own thing and so my attracted a couple people from my network that knew me that then hired me all of a sudden now you're making 15 20K a month and you're making more than your job within three months of leaving it and then just po like poting on LinkedIn inconsistently getting almost no engagement yeah um and so the the thing the uh the miscon conception of like oh LinkedIn takes a long time to work it depends how you define success like to me grow going from 5K a month to 15K a month within 60 days of posted on LinkedIn was a massive success yeah um and so I think people need when they think about what whether something works or not need to be clear on what the success criteria is and then let's let's stop there real quick because I want to you made you made a major point you made it and then hold that thought hold that thought because you said something interesting that I 100% agree with you on which is every company that blows up has some Arbitrage channel that they use they just double down on right like and it depends on timing right so if you look at like if you look at like Outreach right where we were I mean we built the system to do this but like our arbitra Arbitrage early on was cold email guess what we built the system to do a crap ton of cold email faster in that scale more than anyone and this is when no one had a system like that within B2B so they were all doing everything manual so we used our own system to use cold Em's Arbitrage right and then if you look at other companies they some used Facebook ads when they were cheap right some used um I don't know whatever the hell the other channels are right some use Instagram some use LinkedIn some use whatever and that's super interesting because I agree with you on that and the mistake that people make is they try and [ __ ] do everything initially right when it's like it's like no pick one that you know is going to work for me like I like I I dab on Twitter and stuff but no like linkedin's my my Holy Grail right like I'm just gonna own LinkedIn and I think some companies are doing well you obviously did that I think for B2B LinkedIn is amazing um so it's an interesting point now let me ask you what do you think the channels are right now like for Arbitrage like what for like B2B specifically yeah let's just go through some examples you mentioned a couple but like I have like uh amazon.com a ma a ton of their business growth was through Google paid search ads in the early 2000s they were the largest Advertiser of Google search wow in the 2000s and they built the comp obviously they did a ton of things right and the strategies great and they have great leadership but that's a signal there they were the biggest spender early on for the first I think the first seven years of Google paid search ads and they massively took advantage of it and they built a massive company then you look at a company uh like Salesforce Salesforce built it off of uh the predictable Revenue cold calling model they got a large amount of their growth through that model in the late 2000s that took them uh from like basically the transition from on-prem to cloud and they took advantage of that channel which was cold calling in the late 2000 late 2000s then you look at a company like HubSpot in the early 2010s that built the company off of uh gated content email nurtures and SEO um and they built a very large company off of that core marketing channel then you look at a company like wish.com who built a $4 billion e-commerce company on the back of of Facebook ads in the mid 2000s mid 2010s there's several that had huge successes on um Instagram during that time a lot of b2c companies then you look at a company like gong or drift that had massive breakouts in a B2B company on LinkedIn you look at uh myself and things like that in LinkedIn in a podcast and things like that and that will continue to happen because there are always one or two very golden marketing channels at any one time that have to match the buyer and the seller together right if wish.com doing that on LinkedIn they might have not gotten the same results yeah me doing that on Instagram we might have not gotten the same result because it has to have an a like a a a content creator audience very large match so let's talk about what the what the best opportunities are uh today yeah yeah I want to hear that um and let's talk about it let's talk about it in the context of B2B as well um when because yeah so let's talk let's sort of narrow it down um I still believe that the move of uh live event webinar to podcast to micro video content on LinkedIn is one of the best moves in B2B today is by LinkedIn is by far the the highest used channel for Content consumption for B2B professionals especially when they're in a B2B mindset and a buying mindset the same person will like your mindset is different when you're using Instagram or Tik Tok versus versus LinkedIn you're the you're the same person but the way that you approach the channel is different um I think that there is a large opportunity in short form vertical video so and then you can look at that across CH you could basically cross post Tik Tok Instagram reals and YouTube shorts the format's almost exactly the same and the algorithms pushing those things up but you'd use them for different reasons on on YouTube shorts is actually like uh very much a modern SEO strategy Google owns YouTube shorts they're trying to make that mobile move they put in the search the top search results based on the search optimization of that YouTube short video they put it number one in Google search so I we do no as basically no SEO at my company and I'm ranking number one over big websites because I made a YouTube short video and they have their blog that they published four years ago yeah yeah so I think that's interesting it's undeniable that there's there's uh no larger opportunity for organic reach than Tik Tok right now there it's it's not our undeniable um and B2B professionals consume content on the platform and we're getting some early signals that it works but uh I'm not I'm not fully there yet for a B2B uh environment yeah so I think those are I think those are some of the best opportunities when you think about LinkedIn like people look at LinkedIn ads as expensive um I think just the way that companies use LinkedIn ads makes it expensive um and I think that LinkedIn uh like paid distribution of content is also a massive opportunity when you think about how good the targeting is yeah that's something that's like I haven't screwed around with with LinkedIn ads yet but it it blows my mind like Facebook ads like when you go in there and you go because I'm running some right now just doing a couple little tests and it's it like it works off of broad targeting right and it's saying hey we're GNA give you we're gonna automatically say hey broad targeting you can't you can't say I want cro I want this these people and with LinkedIn you can boil it down to the actual company and role right like or person I think you could even Target the exact person that you want which is like insane and a funny story here I actually had someone we were at Outreach and some uh someone was applying for a role I think like a manager of no not even just like an AE role or something and um I got an ad and I looked at this ad and it was like hey Andrew this is why you should hire me or whatever and it was like that was the headline and I was like what the heck or I'm applying to outrage basically he targeted me and I clicked on it I was like like this is amazing so what did I do I sent it to my recruiting department and that got him a meeting right I don't know if we ever hired that person I don't think we did but anyway we should have because I mean if you're doing that it got it gets you got you in the door though and that's what it that's what it takes right and so like that I think was like super phenomenal so I think there's a lot of creativity that you can get with that um that people aren't leveraging I think what I when I look at LinkedIn ads right now I see like the standard hey we're the number one CRM yeah get my ebook we're the number one CRM or whatever the hell it is right uh get my ebook or get my white paper which which you know we don't like white papers around here but you know yeah let's talk to that for a sec because I have an example yesterday so I'm Consulting with a company like 100 million plus company in the VP of Revenue marketing we like looking at their data on LinkedIn ads they spent a million dollars on LinkedIn ads last year 985 um and our our uh analysis is showed a 56 Monon CA payback on just the advertising spend so not including marketing headcount sdrs sales just so we're talking yeah just the ad we're talking 800 month CAC payback on this LinkedIn execution and they're and then so what they say is like we've we want to change the strategy on LinkedIn but our CFO needs to have this direct tracking to show the ROI and I said so what do you show them right now to to show them that there's Roi in LinkedIn because I took the report that we just built and showed them hey I know that you need direct tracking on this but here's the ROI we're [ __ ] wasting a million dollars a year on on this strategy because you think that we need to track it this way um and so uh most companies are stuck in that trap most companies because like e what the finance department is going to look at it that way or they force them into certain things so that at least 80 per spend 80% of the spend on LinkedIn ads but usually closer to 95% or 100 is spent on lead generation forms where you get $1150 to $300 conversion or lead and then they become a customer at 0.1% um and so uh yeah like I there's huge power in LinkedIn ads but companies whether they're whether the metrics don't allow them to or they just haven't figured it out yet have not been able to figure out how to use the LinkedIn media to Target those people in creative ways and drive business outomes yeah and this is like so let me ask you who's doing it well right now who do you is there anyone doing it well besides all your customers of course right yeah I mean so so uh we believe fully that the best strategy inside of LinkedIn is a combination of paid and organic working together right so and when you narrow it down to those companies there's really not that many um I think that a company like Clary uh is one that is doing really well right now you have thought leadership coming from the CEO their CMO I think their CFO is well so they have like organic thought leadership going then you can take that thought leadership and amplifi it in thought leadership ads targeted at your accounts and then you take paid uh paid distribution and you run category marketing product marketing social proof things like that all ungated content and you can really dominate that channel so um there are if you look there are almost no maybe some companies have figured out how to run LinkedIn ads in a different way and they don't run all run all Le gen those are few and far between but there's even fewer that are Al doing that like the proper 2023 LinkedIn ad strategy in combination with Organic which is how you get the yeah the real compounding you know I had this idea well you know I'm building distribute now and I had this idea like every like most employ like I want to keep the team small and I'm what I'm going to do is every employee even if we have to get a guest Ghost Rider we're going to do thought leadership posts every morning like basically recreate the process and do that every morning from each person and I brought this up to Adam um from attention and he's he's doing that exactly that with his team right now he's doing it with his uh cro he's doing it with his new ceoo so all the exact leaders they're all posting stuff I don't know if it's daily right now but it's like often and it's all amazing like because he's he's basically coaching them and I think he has a ghost riter uh coaching them as well but he's got this ghost riter coaching each of them to do thought leadership and each one of them is getting like at least 500 likes on the post um and it's actually like legit info um and it's very valuable you take you take that existing base and you put five or 10K a month you get 3K in retargeting you have a very solid retargeting audience off of you go 7K cold yeah and like uh that's how you really blend them together we're starting to do that now I think we I think our we spend three to 5K a month on LinkedIn ads specific at uh like account filters and based on intent yeah um and yeah we've so we believe that is the ideal combination of doing uh to of how to do both but but uh we'll continue to to share what findings we have yeah interesting I think I'm going to try and mess with that which is like I've always done that on uh on Instagram you know right now just again dabbling in Instagram it's like looking at what it does organically taking the top organic post and then boosting those which we've talked about right and then seeing which one of those same thing they make it so easy to do like Facebook's like give give me your money right there's like a big button that's like boost post I feel like LinkedIn we're kind of going a little off topic here but if they just put like a boost post button there and we like throw 50 bucks at this post when it was there it would like they their revenue would go insane right because it's like right in front of your face able to do that uh because there's just barrier to entry right now on using LinkedIn ads too because they're I would say a little behind when it comes to the experience but um yeah there's been a like a crazy shift in platforms over the past two years and Linkedin isn't fully there but my guess is that they'll end up but if you look at a Tik Tok or Instagram reals the distribution of the reach of the post is now much more correlated with the quality of the content and the engagement and your follow you're following um and so what that means is that when you get an organic post that works well you've had it fully validated by the audience that people like it um and so before a lot of people would build a bunch of content and then run paid against it without testing and now a much better approach is to create the content run an organic let the metrics tell you for themselves and then either take that post and directly boost it or edit it to make it more of a paid or performance ad and then put that and then use that as paid content but you're you you're getting validation that it works before most people guess when they put out a commercial they make the commercial and then they hope that it works um and in this way you can make the content and then prove that it works and then make it in like transform that into a commercial which we think is a a better way to like run media now there's something yeah you know what's funny I was listening to this interview with the the liquid death uh founder Mike uh who I'm I'm obsessed with liquid death think they're just they're I mean what they've done is like it's they've taken the world's number one commodity and like created a media company to sell it like it's it's pretty phenomenal right they they did the Red Bull move with what was water right um and this podcast with the founder I was listening and he said they're like how do you come up with your ideas right and he said look we used to do a bunch of quantity right and he's like we actually completely exed that and now we do quality and he's like well what do you know what quality is and he like he goes well we actually look through all the comments of stuff that we've posted in the past or stuff we post and people will leave comments like oh my gosh my kid is even drinking this and thought it was beer or or people leave funny comments like you know stuff like that and then they'll actually take that that market data or what people are saying would be funny that are commenting and they're taking that and they're making videos out of that right so when they focus on quality going back to your point they're actually looking at the market data like let's call it signals breakout data points right and they're saying like hey holy crap like let's just make that would actually be a funny commercialist doing something around that it the comment on that already got thousands of likes people already said that would be hilarious and so they're actually using their like let's call it ugc comments right user generated ideas let's call it gii right and just making commercials and their their next big you know gimmicky post out of that which is it's genius you know because they're not guessing they're like holy [ __ ] like let's take what works and like do it because the like the genius is having the feedback loop from the audience back into the content and look at where B2B companies produce and distribute content they produ they distribute it in media that gets almost no comments on blogs that get almost no comments in ebooks that get almost no comments and so what happens is they never get any feedback about whether people are actually liking this or not and they go and put this on social and they don't get any feedback either because act in actuality the content isn't good um I've been using this flow from the beginning I still use it today like uh somebody will write something on a LinkedIn post I'll make a comment about that to share my perspective with my entire followers about hey like this person has this perspective but just be aware of this this and this that I like that you should consider here and that that comment gets a hundred likes and a bunch of different comments than that and then that becomes a new post or I post and it like I get a hundred comments in there and someone has an objection or someone has something about they hey I don't understand this could you explain this more but and then you can take that and you can use that as an input to a post or I do live events uh and I do live events and I talk about things then people ask questions and then I answer those questions and that becomes post but I'm not guessing either because I have the Insight loop from the market back yeah um and so I think that's uh the key place here and just point blank B2B companies and B2B marketers do not look at this [ __ ] no they don't dude they don't they never look at it or they never they don't have they don't never create the machine to actually get the the feedback back um and so you're you're Flying Blind when you go and do keyword research about how like what blog you should write about next um and you you're missing the real tangible insights from the market right now yeah so yeah becomes a foundational part of how to build a Content strategy is build content around what your audience wants and needs help it's it's a product in itself right and I think people forget that like that you're just like when you build a product you know listen to customers listen to that like every I think every piece of content that you put out is a product in itself right that that you should look at and say okay how do I iterate this how do I do you know how do we change this and this goes back to I think the role my my opinion is is that content is the best new way to create demand today right like it I think having like a Founder brand or an audience is arbitrage now getting to that point is obviously very difficult but if you have a person that has a brand like yourself Chris right like that in itself is arbitrage in my opinion right now and you kind of see it with these Forward Thinking Founders right which are like holy [ __ ] let me invest in building this founder brand getting my team right uh building the audience per se whatever whether it's on LinkedIn or or elsewhere but with that I think what's becoming more important there is what you said is having that I don't know what you would call it like a social media coordinator or or social media marketer but the person that's listening to those signals and those trying to find those breakout data points right because you and I can do that like we'll do it on a you know on a day you know day-by-day basis and we're we're trying to manage it right but like at a at a different level if you're getting hundreds of comments how do you make sure you create a system around that I see these social media marketers as becoming very undervalued in that in that way right and then seeing the role change as well from being more of like hey let me get out and schedule all this stuff to more of like this scientific approach to what's working what's not um and so yeah just a quick thought I had on that but you know what do you think there right like as you mentioned no one's looking at this [ __ ] probably because no one is tasked of focusing on it I mean uh the first thing that I want to go to is like you you mentioned like oh we have these Founders that are building personal Brands and they're quote unquote Forward Thinking yeah um it's interesting to it's interesting to debate whether they're actually Forward Thinking or they're building a business based on how the world works today versus the people that started building their business in 2013 that haven't T haven't moved that step like the reason that people do the stuff on LinkedIn today is because it's the best opportunity to build today it's like cold calling in 2007 and Amazon search ads in 2000 like right now that is the move um and so like it's I don't want to discredit anyone I did the same thing so I'm not like talking but like I I'm uh it's interesting to think as people observe are these people really Forward Thinking or are they just smart based on how the world works today and then we think when we think about like a social media manager this is a this is a tough one because if you like especially in B2B if you look at almost every B2B social media strategy against Real outcomes there is probably less than a tenth of a percent that are getting positive Roi on these Investments yeah almost every B2B social media strategy is checking the Box let's post something about our company cookout last week oh it's Flag Day we'll post a thing happy Flag Day and they're just mailing it in doing like the basic social media strategy you got the social media manager over there saying like hey I should be making I should be making more money but there's really absolutely no Roi in the program um and then convers you look at the companies that are have either have invested in it fully and maybe don't do don't do as much anymore or are in the current of investing in it getting an incredible and massive Roi we calculate our Roi on LinkedIn ads to be uh somewhere around $28 million over the past two or LinkedIn not LinkedIn ads we don't actually separate paid in organic um $28 million in closed one business over the past two years um and we have a four person team that does it so people you can you can determine what you think the ROI of those activities are so there but it's a small it's a very small subset of the people that are actually getting Roi um and so and I think the drivers to whether you have a like a social strategy or a Content a dark social content strategy really work today is that you need Executives to be doing it you need Executives in the company to be showing the rest of the company that this is a priority it's a priority for me I'm not Outsourcing it to a ghost writer I'm not having our my assistant you know answer my comments it's a priority for me because I know how the world works today even though I have a 500 person company I'm committed to doing this because it's how it's I'm going to get my company to exit for a billion dollars and then all of a sudden it permeates and then other Executives in the company either start doing it or feel more comfortable to start experimenting with it then all of a sudden you set up self-reported attribution and a couple of other basic measurement strategies and you start to see people that are coming inbound at your target accounts to buy say oh I listen to Kyle Coleman's LinkedIn posts every like all the time that's why that's why I'm interested in buying Clary now or I see your CEO's posts every every day they're so insightful about how to run Revenue let's like I want to talk to you then you push that into slack and the whole [ __ ] company is now seeing hey Target account tier one account CMO or CEO coming in Bound to work with us based on Andy Burns content yeah and then all of a sudden you start to get the waves of it going but if you start at the bottom with your social media manager and say okay we're going to Outsource our LinkedIn thought leaders ship strategy to a social media person who's supposed to make content for cro and CFOs why do you obviously it's not going to work and that person never gets traction there never gets expansion you don't set up the right measurement to to report on it and it never works um so there's very simple steps and you can watch it repeat over and over at companies you can look at drift you can look at gong you can look at Clary you can look at refund Labs over and you can look at retention. comom it's proven you can look at hockey stat over and over it's the same thing the executives start it they believe in it they measure it the right way team feels they start to see the results team feels more comfortable team scales yeah yeah that's it has to start top down and so many people have asked me like how do you you know founders of like you know let's say 10 to 100 employees you know in that the little circle where like Hey how do how do we get like the team active on LinkedIn I'm like and my answer is always you get active on Lin like and is as cliche is it's like lead by example and people will follow right like I think if you look at gong like all their reps I think they don't quote me on this I think some people like some somewhere out there someone said they had a quota like people had to post at least once a week or something I don't know if that's true but it's not happen yeah it's not anymore but people were and if you look at these companies that all have reps that are posting they probably came from companies where the leader at the top the CEO or one of the execs was actually posting content right and it as simple as that however you know it blows my mind that even CMOS of companies and no discredit to them there's some out there and you know they're busy whatever aren't doing this right of like you know and that they're not posting and they're a B2B company it's a perfect way to do it why do you think they're just not doing it like even CMOS right they see it's working for you it really depends on your buyer right so you need you need to decide as a CMO am I the subject matter expert or am I the architect true true right if you're a CMO and you sell to uh cesos like you trying to be the host podcast talk about cyber it's not gonna work it's not gonna work yeah but you being clear in how to architect that and get your executive or subject matter expert here and know who the influencers and key opinion leaders in your industry are and how they get on your podcast how you do Wrap events around them how you get that onto a long form podcast YouTube in LinkedIn how you boost it with media that's a CMO role as the architect of that and then at a bigger company it would go down at a VPR director level yes but and the at at the beginning if you're the CMO of a thousand person company you should get that to work not Outsource it to your like director of content you should prove that that works at an executive level um and so it's just about deciding are you the subject matter expert are you the architect in the CMO uh in the CMO seat why why do uh companies CMOS not prioritize it because it's not measured effectively in companies if you if you really Trace back everything every behavior in marketing and in sales and everything else is based on the goals and incentives inside of those departments and incentives always man yeah so if you're a CMO and you need to get 50,000 mqls then there's no sense in posting on LinkedIn or building a podcast or doing anything like that because it's not going to get you any trackable mqls um and so that's why companies don't and if you think you need mqls and you need attribution or and you need influenced Revenue you're not going to get an influenced Revenue touch point on a organic post on social media on a podcast on a YouTube video or on a million other things that people View and so why would you do that yeah it doesn't help you hit your goal yeah like and so and so it's really questioning in inside of B2B companies which I question all the time is what are the right goals and kpis that allow the team to do the things that are most effective today yeah the measurement systems that companies use were best most appropriate in 2013 marketing and people still are stuck in the same like box and Bounds uh about how we do marketing which is pretty much look we still gating ebooks is one of the main strategies yeah which is crazy 2013 that was a popular strategy yeah H for people that listen to this go watch it because Chris the way he shakes his head when he says that is hilarious he just he smiles and shakes his head which is just phenomenal um okay so let's boil this down top down is what you need to freaking get this thing going like that that is that is if you want to start today how do you do it you get the CEO to do it um I think Adam Adam at retention and why we talk about we're all in Austin we're all friends you know and he he he did it the right way he basically he said he first hired a Ghost Rider and he's like that wasn't me he's like that wasn't me he's like I love the kid but that wasn't me and so he said I'm going to figure this out he's like and I'm going to do less things and I'm going to get better at him and that less thing for marketing for me was getting good at LinkedIn and and he brought you up he's like dude I want to get on Chris's level you know so uh which is funny so he's like I'm gonna get good at this he's like I got a coach right and he's like I got a coach and now he has a coach Alec who's phenomenal right and he's got a coach now he's crushing it right so he has I think that helps for two reasons so I think maybe people that want to do this and you're scared right or or you have this impostor syndrome or fear of perfectionism or you know whatever it is I think that holds a lot of people back from it even at the top is these execs they get coaches for like how do I handle HR how do I handle this how do I handle this but one of the most impactful coaches you can do is is you getting content out there that's seeing by at least a thousand people so you're on stage by in front of at least a thousand people like you should definitely get a coach for that if you're a little bit scared or whatever I think that's that's one way to start um right and there's multiple out there Chris you know you you didn't need a coach and some people just don't need it they kind of have a marketing sense or whatever but I think that's one kind of takeaway here that that some execs can really have um I don't know what do you think about the the only reason I didn't need a coach on LinkedIn is because I've been using social media to sell stuff since 2013 when I was using Facebook uh Facebook ads to sell speakers and then Instagram organic to spell to sell BS of blankets and then Facebook organic and ads and Instagram organic and ads to sell medical devices and then Facebook ads to sell other medical devices and so when I started on LinkedIn I was six years into using social media to sell stuff that's why I didn't need a coach right um and so but a lot of people don't want to wait six years and so in that case maybe maybe you should get a coach you can accelerate that when I did it I didn't have any money so I couldn't afford a coach for a couple thousand bucks a month but most exact most Executives or Founders can yeah so that's that's a decision that you need to make but it to to me it's uh once you see it you can't unsee it yeah and so if you are a person that is not bought into this you need to figure out how to see it that the people are there that they engage that they log in five times a day that there's huge scale that sometimes when you post or someone that's posting about the same stuff that you want to talk about gets a million views that that could be you you need to see it and then you need to commit to an outcome it's just like if you're 300 pounds and you're trying to get to 180 you gotta you got to commit to that outcome um and right now if you're like if you're a founder of a 10 person company and your strategy is predictable Revenue cold call with with h four bdrs and three a s your 6K ACV product it doesn't have product Market fit you're like you're gonna lose most likely and so thinking like thinking about how how to get committed to see it and then get committed to a new strategy for how the world works yeah and and it's it's interesting you say that like yes getting started today if you think you're going to rely on this old this is coming from someone on an Outreach right like that help build Outreach like if you think you're just going to use Outreach and do the cold call cold email thing like no like it's that's going to be part of it that and here's what I think the magic formula is right I think the magic formula is you have this this person like you me Adam um some you know some phenomenal women out there Sam sales right that are also doing it and you have them and they're building this kind of content engine on LinkedIn right and then what you do is when you're actually reaching out to people whether it's via LinkedIn DMS or it's on cold email from Sam right then you're not as cold on the cold meter one to 10 right versus a rep that's never heard of the company it's not it's warm it's not cold right and so I think here that is also the point is that like just like organ organic helps fuel paid organic also helps fuel your cold and who you are right and like what you're about what your company does and all that and I think people forget that right and so coming up with the systems to do that is a little tricky right but Mo what most people don't talk about is the most important thing in a cold email is not the what's in the email it's not what the subject line is it's who it's from that is the most important part of a cold email and guess guess what if you email me Chris I'm like oh that's Chris I'm gonna open I don't care what the subject line is I don't care what the hell it says inside right but that is what people forget dude is that the name on that email is what is most important right and if it's a company name and whatever but if it's from someone I've seen their name before over and over and over again and this is marketing 101 right what is marketing 101 your your what you know what Gary ve says is like jab jaab Punch or whatever the name of that book is that's literally it that's part of the process so um anyways long story short going back to it how you solve cold email is also being in front of people outside of cold email right and I think that is what people forget and everyone's arguing about like the cold email subject lines and and you know all this stuff it the name is what really matters coming from it uh and I'm a True Believer in that right so I'll give you an example I have a cold email campaign right now my reply rate is at 6% right fully automated no personalization 6% reply rate right I can show you now why why do you think that is because it's my name showing up to people that are my first-degree connections that I'm offering something to right like it's I mean in a 6% fully automated reply rate right now that's insane right like I don't have to work as hard on the cold email side you know I've got other tricks in there to make sure it lands in inboxes but that's that's a whole technical thing but that's what freaking matters man um so anyways uh hopefully I'm we're we're definitely preaching the choir here on the get on LinkedIn for sure but coming from people that have built great things off of it right like um anyways okay I've got another idea for us here's what another Arbitrage I think right now is that that um if and if everyone's doing it it's probably not good marketing right is kind of is kind of my take so I think right now the a huge thing that people kind of toy in but don't take seriously and don't create the right systems and processes around it is Affiliates and I think Affiliates this is what I'm actually doubling down on on distribute so we're doing this appsumo launch soon we're going to get a couple hundred thousand you know hits and bunch of users da but we're going to take that we're going to turn those users into Affiliates as well now with these Affiliates what most people do is they'll put an affiliate thing on their website and they'll say Affiliates here's our signup form like good luck right but no there needs to be like affiliate let's call it en a man right and like some companies that are doing this well that have actually grown their whole business off of this again this is more plg stuff right so it's a little bit you if you're not plg yet this is a benefit but it's these people if you enable them to be your mini sailor sellers right I think you could have huge success and so what I'm betting on is if you have good product that people like right that's the first step that you're going to need obviously but then if you can build out an affiliate program these creators all these people because we know cont and is key how do I double down on that and I think I'm going to make that bet right especially if a product with a good brand that people like um and so I'm going to make that bet because one these people that you can get as Affiliates they're known to be good creators right if you can find the right ones now it's finding the right ones and this is where we get into the systems you can't just set it up and put a link on your site I was talking to someone I don't want to name them because I don't know if they want me to talk about them right now so I won't name them but they're like we treat we like recruit these Affiliates off of of YouTube all day long they like they have a four-person team just to recruit affiliat right and they pay those they pay their salaries over and over and over and over again and who are these Affiliates they're just content creators that they make a deal with they have different levels of Affiliates Etc but this is something interesting where I'm like holy [ __ ] this makes sense right and you know I think that some people will dabble in it but again just like I had distribute now has a link it's like Affiliates I've never sent one email to these people and that's shame on me because I haven't taken it seriously right I'm like oh they'll just go do their thing no they won't like you need to handhold people and so that's where I think the sales motion is changing too right yeah I mean whether it's uh Affiliates for transactional or partners for Enterprise it's gener like generally the same thing both of those both of those things are like referral demand capture mechanisms whether the part like you're a partner maybe you have a sales team that's going to co-sell a deal if you're an affiliate you're just getting a link and you're referring somebody in for a free meum plan or a $7 a month plan or something like that and taking a a commission imp properity like either one is generally the same thing it's just a way to leverage external resources as a means to capture demand and then incentivize them financially um so yeah I mean you think about people that are talking about near bound I'll uh I'll really get on that train when I see like experience it really working for myself haven't haven't seen that yet but if I if and when I do then that's when I would start like continue to pump on that and we we have some experiments running uh more in like the partner area than Affiliates but uh yeah I see it as well yeah I see that's it is something interesting we'll see where this where this goes like this is just again big experiment right but I think and I think just like we were talking about earlier like you have to have your you know your content Market fit right like the right person or the right thing I think you also have to have the right type of product like is a full sales Le product gonna work on this affiliate train no it's that might be more partner Le Channel Partners kind of the you know that that motion but if you do have a straight plg product I think that would be work super well and anything transactional e-commerce plg or some type of selfs serve anything transactional is the use of Affiliates yeah yeah and so I'm thinking on that uh The Last Mile yeah yeah how do you do that and again this takes volume to really work but then you have to recruit and all this stuff so I'm looking for someone that's like really has done this before I'm really good at it right I'm actually working with someone now um but yeah I think that's another kind of Arbitrage Channel that's going to come but again you need to have the right product the right Channel and all this stuff um so you know I think this kind of strategy wise this is where companies that aren't currently product L growth that want to become product L growth this is is one benefit of it right people are like why would you become product the growth and I'm thinking well you can proba of build something like this but here's the thing some of these products just are too technical to set up to be product L growth you know and like it's different Building Product L growth when you have two employees versus switching to a product L growth motion when you have 400 employees yeah yeah um yeah switching to product Le growth motion with 400 employees uh can you know significantly negatively impact or even kill your company if not if not played the right way it can delay Pipeline and revenue for years um and so uh yeah there people should take lot lots of caution when they think about adding plg to an existing business if you're building a business from the ground up and the product is simple to use and it's horizontal or wide with a very large Tam and a lower price and needs to be like the go to market has to be transactional at the beginning then it makes perfect sense yeah um but technical setups existing companies um higher a uh dollar value sales and products are all reasons to to uh not do it so I think it's more about understanding the situation for your own business there's people that are like Pro PG no matter what and there's people that are not pro plg no matter what and the the real answer somewhere in the middle yeah and I actually was talking to a Founder there have a well-known B2B SAS company that a lot of people use and they were talking to me about plg um and their product is as it stands is currently not anything plg like that you can do it's it's it's a technical backend setup that's required right which now what I they said well how would you think about this in a plg motion I said honestly put that product that you currently have in another bucket and create an entirely new product that's blg that is a stepping stone in your current offering right what's the problem that people have before your current product offering that needs solving maybe there's already other products for it SE up build it cheaper make it free right and then basically create that engine to get that product I would not screw with your current product offering and do that because I think it's a whole different it is a like you said it's kind of like Common Sense marketing it's a whole different strategy don't screw up your if it's if it ain't broke don't fix it right we should create a new category called Common Sense marketing but uh so anyways I told them no build this other product here's an idea I have for you that's completely free right make that product free it'll probably take you a couple Engineers a few months to do right like sure you're going to with that you're going to you know the cost of build 100K you're going to put in thing but if that gets you to fuel basically these people that are deal clients using this free product offering that's your way in the door you're essentially building you're going from a trust level of one now and I always look at this like on the trust scale and I'm kind of like selling it salesy now but like if you look on the trust SC of 1 to 10 and getting someone in a sales Le motion to go from one to 10 that's why these sales long like motions take so long right you have to be like will this work does it produce results is there Roi that but if you have that free product offering before some product offering you know your plg product offering you can get them from a one to a three or four or five on the trust level scale and then you just need to make the jump from five to 10 right now this is part marketing part product strategy right but I think this is overall go to market strategy in in essence right and so I think there is where we're going to start to see people make this change and I'll tell you this for Tapo how we got to million in Revenue in nine months right on a on a b Toc software product which is very difficult to do we did exactly that we said oh here's a we didn't 10 10 different lead magnet tools literally I think it was like 10 and got people into the funnel and then we said hey then what was the next step so a free Carousel generator for example we did a free Carousel generator hey you want to make a LinkedIn uh Carousel put Post in your make a Twitter thread post the link and we'll do a free LinkedIn Carousel for you after they generated it what do you think we ask them to do schedule with tap right so how do you do that with your product right it gets in the stepping stone U so I think we're going to see a lot more of that one thing I want to invest in as we go through this and I kind of like that we're talking here because it's like a buildin public esque kind of thing which is um I'm having a head of engineering come on and what we're going to literally do like part of what his role is going to be is build like half his time is not going to be building the actual product it's going to be building actual lead magnets that we get to fuel people into the product and right he's he's call in for it because he knows distribution is keing so what I would say for companies that have enough resources I know this is difficult I'm a boot I come from a bootstrap we did did just raise money but something interesting to think about is how can you have an engineer and a product person get together and build these basically stepping stone products that are highly valuable and free or cheap and get them into into your thing and I think that's going to be a whole department I think it's going to be like the before it used to be called what like uh the what do you call those departments that are straight experimentation like your your Labs or growth Market yeah something like that but there's going to be an engineer in there that's full-time let's call it growth marketing growth hacking or whatever that they're basically making a bunch of bets on multiple products that get people to see them into their bigger platform offering um that's the way if I was running a straight sales Le company right now and I was like holy [ __ ] we need to do plg or we need to figure out pipeline I would double down on that [ __ ] right now like I would I would just say do that like that and do that super well that is your freaking Arbitrage make good products that already exist make them free and give them away all right um and I'm not all about like give everything away for free but that in order to get to your main offering yes uh anyways I'll stop freaking pre I get passionate about this [ __ ] so [Laughter] anyways uh what do you think Chris what do you think man uh I I don't even know how to comment on that like yeah there's a bunch of arbitres out there anyways I'm getting nerdy I'm getting nerdy man let's end this with with asking you okay something that people want to know we talked about your LinkedIn kind of strategy overall I think something that would be interesting Chris is I see you on video all the time and I'm wondering is he actually like podcasting with people or is it a webinar where you have a bunch of people on or like this is a lot this is an interesting question what's the form do people just submit questions to you and then you're answering them via video like what the heck is going on and let's end on this now uh yeah we have the dark social content flywheel where we have a weekly live event that a live audience comes every single week um and so we do that those people then ask live questions and I answer those questions and then that so that episode creates a long form podcast and YouTube video then we cut that up it creates short firm video for Tik Tok LinkedIn YouTube shorts any other ones that we decide then we get the insights in the comments from those posts and then the insights in the comments that we get from the live event and then we decide to do another live event and then we do a flywheel every week um and so it's a way that I spend three to four hours a week creating content and have content to publish all the time all the time and that's your main engine right now right like that is the main engine that's the main engine and having the live audience on the event uh gives you confidence that the th the topics you're talking about are relevant and important and that you get realtime feedback about what if what you're saying resonates with people and is valuable to them yeah and so just sitting back with you and someone else talking on a podcast about the things that you think people want to know or it's I I've just found it's a lot more productive to have people live on there for me yeah and see what's going on I like that I might steal something like that but we'll see um we'll see how that's done but dude this has been amazing man um we got two minutes here so we'll wrap it up um yeah what are let's wrap it up with there's three different offerings that you have right now that you're helping people with marketing on what are what are those three so people know what's up uh so we have uh an offer that we help companies of all sizes with uh which is basically a B2B digital agency that combines demand generation paid media execution and creative and content into offer that helps companies sort of like create and capture demand um we have a uh a re what we call Revenue Sciences what some people would look at as Revenue operations right now but it's a much more strategic thing than I what I see happening in practice where we get CRM data we run it through a standardized Pro uh processing data model and then we give companies back key insights that they would never get on their own um and then we have uh a research and advisory product where uh CMOS and other Executives can get access to this the information that we have that we've collected over with more than 250 companies to make smarter uh smarter go to market decisions with confidence and Clarity there we go so those are the three things that uh we help companies with and uh looking forward to keep building yes my friend yes my friend amazing well Chris been a pleasure my [Music] friend
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:00] so we've had some awesome guests on
+[00:01] we've had Brian long who started
+[00:02] attentive he was on recently we got Noah
+[00:05] Kagan coming on and then we have the
+[00:07] biggest guest of all Chris Walker the
+[00:09] the LinkedIn
+[00:11] star so many people have asked me like
+[00:14] how do we get like the team active on
+[00:15] LinkedIn and my answer is always you get
+[00:17] active on ledin we do no basically no
+[00:19] SEO at my company and I'm ranking number
+[00:21] one over big websites cuz I made a
+[00:23] YouTube short video and they have their
+[00:24] blog that they published 4 years ago
+[00:26] it's undeniable that there's no larger
+[00:28] opportunity for organic reach than Tik
+[00:30] Tok right now I actually had someone we
+[00:32] were at Outreach and someone was
+[00:33] applying for a role I think like a
+[00:35] manager and I got an ad and I looked at
+[00:38] this ad and it was like hey Andrew this
+[00:40] is why you should hire me that was the
+[00:41] headline and I was like what the
+[00:45] heck I think what people would want to
+[00:47] hear most from Chris Walker is I was
+[00:51] talking to Adam Robinson who was on the
+[00:53] Pod you know found a ret we're going to
+[00:54] dinner in a couple weeks and he he is
+[00:58] most interested he I love Adam because
+[01:00] he's obsessed like dude I need to figure
+[01:02] out what Chris did on like thing because
+[01:03] he's yeah dude let's let's break that
+[01:05] whole thing let's break that whole down
+[01:07] I haven't talked about that in a minute
+[01:09] and like it'll be interesting to reflect
+[01:11] back because it's it's now been like
+[01:12] [ __ ] almost five years so yeah yeah
+[01:15] we can talk we can spend an hour or
+[01:17] however long just on that yeah let's
+[01:19] talk that because I think I think people
+[01:21] would find the most value in that people
+[01:23] know and then like your kind of voice un
+[01:26] LinkedIn which seems to be what I like
+[01:28] is anytime I see a a comment from you on
+[01:31] LinkedIn F all right first off whenever
+[01:33] I see your stuff pop up which is now
+[01:35] rarely ever we talked about this the
+[01:37] other day but the stuff that does pop up
+[01:39] for for you is never your content right
+[01:42] now it's it's your comments which
+[01:45] whenever I know whenever I see a Chris
+[01:47] comment I'm like yep it's going to be
+[01:50] contrarian he's gonna completely
+[01:51] disagree with whatever this person
+[01:55] say so let's break it down then we'll
+[01:58] get into the strategy
+[02:00] and then let's talk about how you
+[02:01] started dude and then like the evolution
+[02:04] because I think that would be
+[02:05] interesting for people um and why we
+[02:08] should do this is because you've built a
+[02:09] massive business just on LinkedIn right
+[02:11] everyone tries to do everything Twitter
+[02:13] LinkedIn all that You' just stuck to
+[02:15] LinkedIn I think you dabbled and other
+[02:16] stuff but like let's break down how the
+[02:19] heck you did
+[02:20] it yeah just to get it uh to get it
+[02:23] started I was talking to um an in an
+[02:27] investment firm yesterday and they he
+[02:29] was asking like some of the GTM advisor
+[02:31] was asking me a question about okay so
+[02:35] like part of it is e like efficiency in
+[02:37] the marketing spend right so we have to
+[02:38] be able to lower it but at some point as
+[02:40] an executive we need to be able to put a
+[02:42] million or two million dollars and get
+[02:44] compounding gains out of Marketing how
+[02:46] do we know when the right time to do
+[02:47] that is and I said uh when this when you
+[02:50] say that to the CMO and they say this is
+[02:52] exactly how I'm going to spend the
+[02:53] million dollars and this is exactly how
+[02:54] much Roi I'm going to get but what
+[02:56] happens in B2B companies is that they
+[02:59] never know what is that one thing that's
+[03:01] going to drive massive growth so if they
+[03:03] get a million dollars in budget they
+[03:05] take 100K and split it out over 10
+[03:07] things and get no like degrading Roi
+[03:09] across the whole the whole million
+[03:11] because they don't have one to two
+[03:12] powerful channels that they know are
+[03:14] they're going to be their major growth
+[03:16] levers so let's talk about because then
+[03:18] that's like a some people would see that
+[03:19] contrarian but I truly believe to grow a
+[03:22] business at any scale you need one to
+[03:24] two marketing channels that are the best
+[03:26] thing at that exact time and you need to
+[03:28] push it as hard as you can sure you
+[03:30] still need to be doing a couple of other
+[03:31] things you you don't abandon your email
+[03:34] strategy or your SEO strategy but you're
+[03:36] in making huge Investments and focus in
+[03:39] a couple of core things um and so for me
+[03:42] the the initial one what in my uh
+[03:45] experimentation when I started my
+[03:46] company April 2019 I have one customer
+[03:49] paying me $5,000 a month no employees
+[03:51] less than a thousand followers on
+[03:52] LinkedIn nobody knows who I am um and so
+[03:56] I was experimenting with creating
+[03:58] content both on in Instagram organic and
+[04:01] on uh
+[04:02] LinkedIn um and was getting interesting
+[04:05] traction sort of on both but what I
+[04:06] noticed is on Instagram I was like
+[04:08] attracting like the thousand a month you
+[04:11] know small business e-commerce company
+[04:13] that was trying to get me to run their
+[04:14] Instagram ads that they had a$1 thousand
+[04:16] month budget and on LinkedIn I started
+[04:19] to get interest from B2B companies that
+[04:21] just raised $10 million in series a and
+[04:24] had a bunch of money that they were like
+[04:25] trying to deploy in marketing and
+[04:26] already had an existing engine and were
+[04:28] willing to spend a lot more um with for
+[04:31] my the the problems are bigger the
+[04:33] opportunity was bigger they're willing
+[04:34] to invest more to address the problem or
+[04:36] or uh it to get that opportunity um and
+[04:40] so quickly within the first three months
+[04:41] of LinkedIn and when I started on
+[04:43] LinkedIn I was posting like a couple
+[04:44] times a week and what I thought to
+[04:46] myself is like who cares what Chris
+[04:47] Walker thinks doesn't everybody think
+[04:49] the way that I do like I feel like this
+[04:50] is common knowledge and I started to go
+[04:52] to B2B conferences and I would see the
+[04:54] people that would keynote at the B2B
+[04:56] conferences and I would listen to it and
+[04:58] with all respect that I was like this
+[05:00] stuff is trash like this is this is the
+[05:03] person they have keynote keynoting this
+[05:05] big conference in Boston that I'm going
+[05:07] to
+[05:07] 104 and I know that all I figured out
+[05:10] three years ago that all this stuff
+[05:11] isn't the right thing to do anymore um
+[05:14] and so that started to give me a little
+[05:15] bit of confidence in my voice to think
+[05:17] about that it was different and then I
+[05:18] started posting on LinkedIn and when I
+[05:20] was posting seven to 10 likes my first
+[05:22] post probably got three 7 to 10 likes is
+[05:24] like the range that I stayed in for a
+[05:26] while it was all text post at that time
+[05:29] um um and uh at some point over the
+[05:33] first couple of months I would get an
+[05:35] inbound DM from someone say but usually
+[05:37] people that I'd worked with in the past
+[05:39] already that then through my posting
+[05:40] figured out that I was doing my own
+[05:42] thing and so my attracted a couple
+[05:44] people from my network that knew me that
+[05:45] then hired me all of a sudden now you're
+[05:47] making 15 20K a month and you're making
+[05:49] more than your job within three months
+[05:51] of leaving it and then just po like
+[05:53] poting on LinkedIn inconsistently
+[05:54] getting almost no engagement yeah um and
+[05:56] so the the thing the uh the miscon
+[05:59] conception of like oh LinkedIn takes a
+[06:01] long time to work it depends how you
+[06:03] define success like to me grow going
+[06:05] from 5K a month to 15K a month within 60
+[06:08] days of posted on LinkedIn was a massive
+[06:09] success yeah um and so I think people
+[06:11] need when they think about what whether
+[06:13] something works or not need to be clear
+[06:15] on what the success criteria is and then
+[06:18] let's let's stop there real quick
+[06:19] because I want to you made you made a
+[06:21] major point you made it and then hold
+[06:23] that thought hold that thought because
+[06:24] you said something interesting that I
+[06:26] 100% agree with you on which is every
+[06:29] company that blows up has some Arbitrage
+[06:33] channel that they use they just double
+[06:36] down on right like and it depends on
+[06:38] timing right so if you look at like if
+[06:40] you look at like Outreach right where we
+[06:42] were I mean we built the system to do
+[06:44] this but like our arbitra Arbitrage
+[06:46] early on was cold email guess what we
+[06:47] built the system to do a crap ton of
+[06:49] cold email faster in that scale more
+[06:51] than anyone and this is when no one had
+[06:54] a system like that within B2B so they
+[06:56] were all doing everything manual so we
+[06:57] used our own system to use cold Em's
+[06:59] Arbitrage right and then if you look at
+[07:02] other companies they some used Facebook
+[07:04] ads when they were cheap right some used
+[07:07] um I don't know whatever the hell the
+[07:10] other channels are right some use
+[07:12] Instagram some use LinkedIn some use
+[07:14] whatever and that's super interesting
+[07:17] because I agree with you on that and the
+[07:19] mistake that people make is they try and
+[07:22] [ __ ] do everything initially right
+[07:24] when it's like it's like no pick one
+[07:26] that you know is going to work for me
+[07:28] like I like I I dab on Twitter and stuff
+[07:30] but no like linkedin's my my Holy Grail
+[07:33] right like I'm just gonna own LinkedIn
+[07:35] and I think some companies are doing
+[07:36] well you obviously did that I think for
+[07:38] B2B LinkedIn is amazing um so it's an
+[07:42] interesting point now let me ask you
+[07:44] what do you think the channels are right
+[07:45] now like for Arbitrage like what for
+[07:47] like B2B specifically yeah let's just go
+[07:49] through some examples you mentioned a
+[07:51] couple but like I have like uh
+[07:54] amazon.com a ma a ton of their business
+[07:57] growth was through Google paid search
+[07:58] ads in the early 2000s they were the
+[08:01] largest Advertiser of Google search wow
+[08:03] in the 2000s and they built the comp
+[08:05] obviously they did a ton of things right
+[08:06] and the strategies great and they have
+[08:08] great leadership but that's a signal
+[08:09] there they were the biggest spender
+[08:11] early on for the first I think the first
+[08:13] seven years of Google paid search ads
+[08:15] and they massively took advantage of it
+[08:16] and they built a massive company then
+[08:18] you look at a company uh like Salesforce
+[08:21] Salesforce built it off of uh the
+[08:23] predictable Revenue cold calling model
+[08:25] they got a large amount of their growth
+[08:27] through that model in the late 2000s
+[08:30] that took them uh from like basically
+[08:32] the transition from on-prem to cloud and
+[08:34] they took advantage of that channel
+[08:36] which was cold calling in the late 2000
+[08:39] late 2000s then you look at a company
+[08:41] like HubSpot in the early 2010s that
+[08:44] built the company off of uh gated
+[08:47] content email nurtures and SEO um and
+[08:50] they built a very large company off of
+[08:52] that core marketing channel then you
+[08:53] look at a company like wish.com who
+[08:56] built a $4 billion e-commerce company on
+[08:58] the back of of Facebook ads in the mid
+[09:01] 2000s mid 2010s there's several that had
+[09:04] huge successes on um Instagram during
+[09:08] that time a lot of b2c companies then
+[09:10] you look at a company like gong or drift
+[09:12] that had massive breakouts in a B2B
+[09:14] company on LinkedIn you look at uh
+[09:17] myself and things like that in LinkedIn
+[09:20] in a podcast and things like that and
+[09:21] that will continue to happen because
+[09:23] there are always one or two very golden
+[09:25] marketing channels at any one time that
+[09:27] have to match the buyer and the seller
+[09:30] together right if wish.com doing that on
+[09:34] LinkedIn they might have not gotten the
+[09:35] same results yeah me doing that on
+[09:38] Instagram we might have not gotten the
+[09:39] same result because it has to have an a
+[09:41] like a a a content creator audience very
+[09:45] large match so let's talk about what the
+[09:47] what the best opportunities are uh today
+[09:50] yeah yeah I want to hear that um and
+[09:51] let's talk about it let's talk about it
+[09:52] in the context of B2B as well um when
+[09:56] because yeah so let's talk let's sort of
+[09:58] narrow it down um I still believe that
+[10:00] the move of uh live event webinar to
+[10:04] podcast to micro video content on
+[10:06] LinkedIn is one of the best moves in B2B
+[10:09] today is by LinkedIn is by far the the
+[10:12] highest used channel for Content
+[10:13] consumption for B2B professionals
+[10:15] especially when they're in a B2B mindset
+[10:17] and a buying mindset the same person
+[10:20] will like your mindset is different when
+[10:22] you're using Instagram or Tik Tok versus
+[10:24] versus LinkedIn you're the you're the
+[10:26] same person but the way that you
+[10:27] approach the channel is different
+[10:29] um I think that there is a large
+[10:31] opportunity in short form vertical video
+[10:34] so and then you can look at that across
+[10:36] CH you could basically cross post Tik
+[10:37] Tok Instagram reals and YouTube shorts
+[10:39] the format's almost exactly the same and
+[10:41] the algorithms pushing those things up
+[10:43] but you'd use them for different reasons
+[10:44] on on YouTube shorts is actually like uh
+[10:47] very much a modern SEO strategy Google
+[10:50] owns YouTube shorts they're trying to
+[10:51] make that mobile move they put in the
+[10:54] search the top search results based on
+[10:56] the search optimization of that YouTube
+[10:57] short video they put it number one in
+[10:59] Google search so I we do no as basically
+[11:02] no SEO at my company and I'm ranking
+[11:04] number one over big websites because I
+[11:06] made a YouTube short video and they have
+[11:08] their blog that they published four
+[11:09] years ago yeah yeah so I think that's
+[11:11] interesting it's undeniable that there's
+[11:14] there's uh no larger opportunity for
+[11:17] organic reach than Tik Tok right now
+[11:19] there it's it's not our undeniable um
+[11:23] and B2B professionals consume content on
+[11:25] the platform and we're getting some
+[11:27] early signals that it works but uh I'm
+[11:31] not I'm not fully there yet for a
+[11:34] B2B uh environment yeah so I think those
+[11:38] are I think those are some of the best
+[11:39] opportunities when you think about
+[11:40] LinkedIn like people look at LinkedIn
+[11:42] ads as expensive um I think just the way
+[11:45] that companies use LinkedIn ads makes it
+[11:47] expensive um and I think that LinkedIn
+[11:50] uh like paid distribution of content is
+[11:53] also a massive opportunity when you
+[11:54] think about how good the targeting is
+[11:56] yeah that's something that's like I
+[11:58] haven't screwed around with with
+[11:59] LinkedIn ads yet but it it blows my mind
+[12:03] like Facebook ads like when you go in
+[12:05] there and you go because I'm running
+[12:06] some right now just doing a couple
+[12:08] little tests and it's it like it works
+[12:11] off of broad targeting right and it's
+[12:13] saying hey we're GNA give you we're
+[12:14] gonna automatically say hey broad
+[12:16] targeting you can't you can't say I want
+[12:18] cro I want this these people and with
+[12:21] LinkedIn you can boil it down to the
+[12:23] actual company and role right like or
+[12:26] person I think you could even Target the
+[12:29] exact person that you want which is like
+[12:32] insane and a funny story here I actually
+[12:34] had someone we were at Outreach and some
+[12:37] uh someone was applying for a role I
+[12:39] think like a manager of no not even just
+[12:41] like an AE role or something and um I
+[12:45] got an ad and I looked at this ad and it
+[12:48] was like hey Andrew this is why you
+[12:50] should hire me or whatever and it was
+[12:52] like that was the headline and I was
+[12:53] like what the heck or I'm applying to
+[12:55] outrage basically he targeted me and I
+[12:57] clicked on it I was like like this is
+[12:59] amazing so what did I do I sent it to my
+[13:02] recruiting department and that got him a
+[13:04] meeting right I don't know if we ever
+[13:06] hired that person I don't think we did
+[13:08] but anyway we should have because I mean
+[13:10] if you're doing that it got it gets you
+[13:11] got you in the door though and that's
+[13:13] what it that's what it takes right and
+[13:15] so like that I think was like super
+[13:18] phenomenal so I think there's a lot of
+[13:19] creativity that you can get with that um
+[13:22] that people aren't leveraging I think
+[13:24] what I when I look at LinkedIn ads right
+[13:26] now I see like the standard hey we're
+[13:29] the number one CRM yeah get my ebook
+[13:33] we're the number one CRM or whatever the
+[13:35] hell it is right uh get my ebook or get
+[13:37] my white paper which which you know we
+[13:39] don't like white papers around here but
+[13:41] you know yeah let's talk to that for a
+[13:43] sec because I have an example yesterday
+[13:45] so I'm Consulting with a company like
+[13:48] 100 million plus company in the VP of
+[13:50] Revenue marketing we like looking at
+[13:51] their data on LinkedIn ads they spent a
+[13:53] million dollars on LinkedIn ads last
+[13:54] year 985 um and our our uh analysis is
+[13:58] showed a 56 Monon CA payback on just the
+[14:01] advertising spend so not including
+[14:03] marketing headcount sdrs sales just so
+[14:06] we're talking yeah just the ad we're
+[14:08] talking 800 month CAC payback on this
+[14:11] LinkedIn execution and they're and then
+[14:14] so what they say is like we've we want
+[14:16] to change the strategy on LinkedIn but
+[14:18] our CFO needs to have this direct
+[14:21] tracking to show the ROI and I said so
+[14:24] what do you show them right now to to
+[14:26] show them that there's Roi in LinkedIn
+[14:28] because I took the report that we just
+[14:30] built and showed them hey I know that
+[14:32] you need direct tracking on this but
+[14:34] here's the ROI we're [ __ ] wasting a
+[14:35] million dollars a year on on this
+[14:38] strategy because you think that we need
+[14:39] to track it this way um and so uh most
+[14:43] companies are stuck in that trap most
+[14:45] companies because like e what the
+[14:46] finance department is going to look at
+[14:48] it that way or they force them into
+[14:49] certain things so that at least 80 per
+[14:51] spend 80% of the spend on LinkedIn ads
+[14:54] but usually closer to 95% or 100 is
+[14:56] spent on lead generation forms where you
+[14:59] get $1150 to $300 conversion or lead and
+[15:03] then they become a customer at
+[15:05] 0.1% um and so uh yeah like I there's
+[15:09] huge power in LinkedIn ads but companies
+[15:12] whether they're whether the metrics
+[15:13] don't allow them to or they just haven't
+[15:15] figured it out yet have not been able to
+[15:17] figure out how to use the LinkedIn media
+[15:19] to Target those people in creative ways
+[15:21] and drive business outomes yeah and this
+[15:23] is like so let me ask you who's doing it
+[15:25] well right now who do you is there
+[15:27] anyone doing it well besides all your
+[15:29] customers of course
+[15:31] right yeah I mean so so uh we believe
+[15:36] fully that the best strategy inside of
+[15:38] LinkedIn is a combination of paid and
+[15:41] organic working together right so and
+[15:44] when you narrow it down to those
+[15:45] companies there's really not that many
+[15:48] um I think that a company like Clary uh
+[15:51] is one that is doing really well right
+[15:53] now you have thought leadership coming
+[15:54] from the CEO their CMO I think their CFO
+[15:58] is well so they have like organic
+[15:59] thought leadership going then you can
+[16:01] take that thought leadership and amplifi
+[16:03] it in thought leadership ads targeted at
+[16:05] your accounts and then you take paid uh
+[16:07] paid distribution and you run category
+[16:10] marketing product marketing social proof
+[16:12] things like that all ungated content and
+[16:15] you can really dominate that channel so
+[16:17] um there are if you look there are
+[16:20] almost no maybe some companies have
+[16:22] figured out how to run LinkedIn ads in a
+[16:23] different way and they don't run all run
+[16:25] all Le gen those are few and far between
+[16:28] but there's even fewer that are Al doing
+[16:30] that like the proper 2023 LinkedIn ad
+[16:33] strategy in combination with Organic
+[16:35] which is how you get the yeah the real
+[16:37] compounding you know I had this idea
+[16:39] well you know I'm building distribute
+[16:40] now and I had this idea like every like
+[16:42] most employ like I want to keep the team
+[16:44] small and I'm what I'm going to do is
+[16:46] every employee even if we have to get a
+[16:47] guest Ghost Rider we're going to do
+[16:49] thought leadership posts every morning
+[16:51] like basically recreate the process and
+[16:53] do that every morning from each person
+[16:55] and I brought this up to Adam um from
+[16:58] attention and he's he's doing that
+[17:00] exactly that with his team right now
+[17:01] he's doing it with his uh cro he's doing
+[17:04] it with his new ceoo so all the exact
+[17:06] leaders they're all posting stuff I
+[17:08] don't know if it's daily right now but
+[17:09] it's like often and it's all amazing
+[17:13] like because he's he's basically
+[17:14] coaching them and I think he has a ghost
+[17:16] riter uh coaching them as well but he's
+[17:19] got this ghost riter coaching each of
+[17:20] them to do thought leadership and each
+[17:22] one of them is getting like at least 500
+[17:23] likes on the post um and it's actually
+[17:25] like legit info um and it's very
+[17:29] valuable you take you take that existing
+[17:31] base and you put five or 10K a month you
+[17:33] get 3K in retargeting you have a very
+[17:35] solid retargeting audience off of you go
+[17:37] 7K cold yeah and like uh that's how you
+[17:41] really blend them together we're
+[17:42] starting to do that now I think we I
+[17:44] think our we spend three to 5K a month
+[17:46] on LinkedIn ads specific at uh like
+[17:48] account filters and based on intent yeah
+[17:51] um and yeah we've so we believe that is
+[17:55] the ideal combination of doing uh to of
+[17:57] how to do both but but uh we'll continue
+[17:59] to to share what findings we have yeah
+[18:02] interesting I think I'm going to try and
+[18:03] mess with that which is like I've always
+[18:05] done that on uh on Instagram you know
+[18:08] right now just again dabbling in
+[18:09] Instagram it's like looking at what it
+[18:11] does organically taking the top organic
+[18:13] post and then boosting those which we've
+[18:15] talked about right and then seeing which
+[18:17] one of those same thing they make it so
+[18:19] easy to do like Facebook's like give
+[18:21] give me your money right there's like a
+[18:23] big button that's like boost post I feel
+[18:25] like LinkedIn we're kind of going a
+[18:27] little off topic here but if they just
+[18:28] put like a boost post button there and
+[18:30] we like throw 50 bucks at this post when
+[18:32] it was there it would like they their
+[18:35] revenue would go insane right because
+[18:37] it's like right in front of your face
+[18:38] able to do that uh because there's just
+[18:40] barrier to entry right now on using
+[18:42] LinkedIn ads too because they're I would
+[18:44] say a little behind when it comes to the
+[18:45] experience but um yeah there's been a
+[18:49] like a crazy shift in platforms over the
+[18:51] past two years and Linkedin isn't fully
+[18:53] there but my guess is that they'll end
+[18:54] up but if you look at a Tik Tok or
+[18:56] Instagram reals the distribution of the
+[18:58] reach of the post is now much more
+[19:00] correlated with the quality of the
+[19:01] content and the engagement and your
+[19:04] follow you're following um and so what
+[19:07] that means is that when you get an
+[19:09] organic post that works well you've had
+[19:11] it fully validated by the audience that
+[19:13] people like it um and so before a lot of
+[19:16] people would build a bunch of content
+[19:18] and then run paid against it without
+[19:20] testing and now a much better approach
+[19:23] is to create the content run an organic
+[19:25] let the metrics tell you for themselves
+[19:27] and then either take that post and
+[19:29] directly boost it or edit it to make it
+[19:31] more of a paid or performance ad and
+[19:34] then put that and then use that as paid
+[19:36] content but you're you you're getting
+[19:38] validation that it works before most
+[19:39] people guess when they put out a
+[19:41] commercial they make the commercial and
+[19:43] then they hope that it works um and in
+[19:46] this way you can make the content and
+[19:48] then prove that it works and then make
+[19:49] it in like transform that into a
+[19:51] commercial which we think is a a better
+[19:54] way to like run media now there's
+[19:56] something yeah you know what's funny I
+[19:57] was listening to this interview with the
+[19:58] the liquid death uh founder Mike uh who
+[20:02] I'm I'm obsessed with liquid death think
+[20:04] they're just they're I mean what they've
+[20:06] done is like it's they've taken the
+[20:07] world's number one commodity and like
+[20:10] created a media company to sell it like
+[20:13] it's it's pretty phenomenal right they
+[20:14] they did the Red Bull move with what was
+[20:16] water right um and this podcast with the
+[20:20] founder I was listening and he said
+[20:22] they're like how do you come up with
+[20:23] your ideas right and he said look we
+[20:27] used to do a bunch of quantity right and
+[20:31] he's like we actually completely exed
+[20:33] that and now we do quality and he's like
+[20:34] well what do you know what quality is
+[20:36] and he like he goes well we actually
+[20:38] look through all the comments of stuff
+[20:39] that we've posted in the past or stuff
+[20:41] we post and people will leave comments
+[20:43] like oh my gosh my kid is even drinking
+[20:46] this and thought it was beer or or
+[20:49] people leave funny comments like you
+[20:51] know stuff like that and then they'll
+[20:52] actually take that that market data or
+[20:55] what people are saying would be funny
+[20:57] that are commenting and they're taking
+[20:59] that and they're making videos out of
+[21:01] that right so when they focus on quality
+[21:04] going back to your point they're
+[21:05] actually looking at the market data like
+[21:07] let's call it signals breakout data
+[21:08] points right and they're saying like hey
+[21:11] holy crap like let's just make that
+[21:13] would actually be a funny commercialist
+[21:14] doing something around that it the
+[21:16] comment on that already got thousands of
+[21:18] likes people already said that would be
+[21:20] hilarious and so they're actually using
+[21:22] their like let's call it ugc comments
+[21:25] right user generated ideas let's call it
+[21:28] gii right and just making commercials
+[21:30] and their their next big you know
+[21:32] gimmicky post out of that which is it's
+[21:35] genius you know because they're not
+[21:37] guessing they're like holy [ __ ] like
+[21:39] let's take what works and like do it
+[21:41] because the like the genius is having
+[21:44] the feedback loop from the audience back
+[21:47] into the content and look at where B2B
+[21:49] companies produce and distribute content
+[21:52] they produ they distribute it in media
+[21:54] that gets almost no comments on blogs
+[21:56] that get almost no comments in ebooks
+[21:58] that get almost no comments and so what
+[22:01] happens is they never get any feedback
+[22:03] about whether people are actually liking
+[22:04] this or not and they go and put this on
+[22:06] social and they don't get any feedback
+[22:07] either because act in actuality the
+[22:09] content isn't good um I've been using
+[22:11] this flow from the beginning I still use
+[22:13] it today like uh somebody will write
+[22:15] something on a LinkedIn post I'll make a
+[22:17] comment about that to share my
+[22:19] perspective with my entire followers
+[22:21] about hey like this person has this
+[22:23] perspective but just be aware of this
+[22:25] this and this that I like that you
+[22:26] should consider here and that that
+[22:29] comment gets a hundred likes and a bunch
+[22:31] of different comments than that and then
+[22:32] that becomes a new post or I post and it
+[22:36] like I get a hundred comments in there
+[22:37] and someone has an objection or someone
+[22:39] has something about they hey I don't
+[22:40] understand this could you explain this
+[22:41] more but and then you can take that and
+[22:43] you can use that as an input to a post
+[22:45] or I do live events uh and I do live
+[22:48] events and I talk about things then
+[22:49] people ask questions and then I answer
+[22:51] those questions and that becomes post
+[22:53] but I'm not guessing either because I
+[22:55] have the Insight loop from the market
+[22:57] back yeah um and so I think that's uh
+[22:59] the key place here and just point blank
+[23:02] B2B companies and B2B marketers do not
+[23:04] look at this [ __ ] no they don't dude
+[23:07] they don't they never look at it or they
+[23:09] never they don't have they don't never
+[23:11] create the machine to actually get the
+[23:13] the feedback back um and so you're
+[23:16] you're Flying Blind when you go and do
+[23:18] keyword research about how like what
+[23:20] blog you should write about next um and
+[23:23] you you're missing the real tangible
+[23:25] insights from the market right now yeah
+[23:27] so yeah becomes a foundational part of
+[23:29] how to build a Content strategy is build
+[23:32] content around what your audience wants
+[23:35] and needs help it's it's a product in
+[23:37] itself right and I think people forget
+[23:39] that like that you're just like when you
+[23:41] build a product you know listen to
+[23:42] customers listen to that like every I
+[23:44] think every piece of content that you
+[23:46] put out is a product in itself right
+[23:48] that that you should look at and say
+[23:49] okay how do I iterate this how do I do
+[23:51] you know how do we change this and this
+[23:53] goes back to I think the role my my
+[23:57] opinion is is that content is the best
+[23:59] new way to create demand today right
+[24:01] like it I think having like a Founder
+[24:03] brand or an audience is arbitrage now
+[24:06] getting to that point is obviously very
+[24:08] difficult but if you have a person that
+[24:10] has a brand like yourself Chris right
+[24:12] like that in itself is arbitrage in my
+[24:14] opinion right now and you kind of see it
+[24:17] with these Forward Thinking Founders
+[24:19] right which are like holy [ __ ] let me
+[24:20] invest in building this founder brand
+[24:22] getting my team right uh building the
+[24:24] audience per se whatever whether it's on
+[24:26] LinkedIn or or elsewhere
+[24:28] but with that I think what's becoming
+[24:32] more important there is what you said is
+[24:34] having that I don't know what you would
+[24:36] call it like a social media coordinator
+[24:38] or or social media marketer but the
+[24:41] person that's listening to those signals
+[24:43] and those trying to find those breakout
+[24:44] data points right because you and I can
+[24:48] do that like we'll do it on a you know
+[24:50] on a day you know day-by-day basis and
+[24:52] we're we're trying to manage it right
+[24:54] but like at a at a different level if
+[24:57] you're getting hundreds of comments how
+[24:58] do you make sure you create a system
+[24:59] around that I see these social media
+[25:01] marketers as becoming very undervalued
+[25:04] in that in that way right and then
+[25:06] seeing the role change as well from
+[25:08] being more of like hey let me get out
+[25:10] and schedule all this stuff to more of
+[25:12] like this scientific approach to what's
+[25:14] working what's not um and so yeah just a
+[25:18] quick thought I had on that but you know
+[25:20] what do you think there right like as
+[25:22] you mentioned no one's looking at this
+[25:23] [ __ ] probably because no one is tasked
+[25:26] of focusing on it I mean
+[25:28] uh the first thing that I want to go to
+[25:30] is like you you mentioned like oh we
+[25:32] have these Founders that are building
+[25:33] personal Brands and they're quote
+[25:34] unquote Forward Thinking yeah um it's
+[25:37] interesting to it's interesting to
+[25:38] debate whether they're actually Forward
+[25:39] Thinking or they're building a business
+[25:41] based on how the world works today
+[25:42] versus the people that started building
+[25:44] their business in 2013 that haven't T
+[25:46] haven't moved that step like the reason
+[25:49] that people do the stuff on LinkedIn
+[25:51] today is because it's the best
+[25:52] opportunity to build today it's like
+[25:53] cold calling in 2007 and Amazon search
+[25:55] ads in 2000 like right now that is the
+[25:58] move um and so like it's I don't want to
+[26:02] discredit anyone I did the same thing so
+[26:04] I'm not like talking but like I I'm uh
+[26:06] it's interesting to think as people
+[26:08] observe are these people really Forward
+[26:09] Thinking or are they just smart based on
+[26:12] how the world works
+[26:14] today and then we think when we think
+[26:16] about like a social media manager this
+[26:18] is a this is a tough one because if you
+[26:20] like especially in B2B if you look at
+[26:22] almost every B2B social media strategy
+[26:26] against Real outcomes there is probably
+[26:29] less than a tenth of a percent that are
+[26:31] getting positive Roi on these
+[26:32] Investments yeah almost every B2B social
+[26:35] media strategy is checking the Box let's
+[26:37] post something about our company cookout
+[26:39] last week oh it's Flag Day we'll post a
+[26:42] thing happy Flag Day and they're just
+[26:44] mailing it in doing like the basic
+[26:46] social media strategy you got the social
+[26:48] media manager over there saying like hey
+[26:50] I should be making I should be making
+[26:52] more money but there's really absolutely
+[26:54] no Roi in the program um and then
+[26:57] convers you look at the companies that
+[26:58] are have either have invested in it
+[27:00] fully and maybe don't do don't do as
+[27:02] much anymore or are in the current of
+[27:04] investing in it getting an incredible
+[27:06] and massive Roi we calculate our Roi on
+[27:10] LinkedIn ads to be uh somewhere around
+[27:12] $28 million over the past two or
+[27:14] LinkedIn not LinkedIn ads we don't
+[27:16] actually separate paid in organic um $28
+[27:19] million in closed one business over the
+[27:21] past two years um and we have a four
+[27:24] person team that does it so people you
+[27:26] can you can determine what you think the
+[27:28] ROI of those activities are so there but
+[27:30] it's a small it's a very small subset of
+[27:32] the people that are actually getting Roi
+[27:34] um and so and I think the drivers to
+[27:36] whether you have a like a social
+[27:38] strategy or a Content a dark social
+[27:40] content strategy really work today is
+[27:43] that you need Executives to be doing it
+[27:45] you need Executives in the company to be
+[27:47] showing the rest of the company that
+[27:48] this is a priority it's a priority for
+[27:50] me I'm not Outsourcing it to a ghost
+[27:52] writer I'm not having our my assistant
+[27:55] you know answer my comments it's a
+[27:57] priority for me because I know how the
+[27:59] world works today even though I have a
+[28:00] 500 person company I'm committed to
+[28:03] doing this because it's how it's I'm
+[28:04] going to get my company to exit for a
+[28:06] billion dollars and then all of a sudden
+[28:08] it permeates and then other Executives
+[28:10] in the company either start doing it or
+[28:12] feel more comfortable to start
+[28:13] experimenting with it then all of a
+[28:15] sudden you set up self-reported
+[28:17] attribution and a couple of other basic
+[28:18] measurement strategies and you start to
+[28:20] see people that are coming inbound at
+[28:22] your target accounts to buy say oh I
+[28:24] listen to Kyle Coleman's LinkedIn posts
+[28:26] every like all the time that's why
+[28:27] that's why I'm interested in buying
+[28:28] Clary now or I see your CEO's posts
+[28:31] every every day they're so insightful
+[28:33] about how to run Revenue let's like I
+[28:34] want to talk to you then you push that
+[28:36] into slack and the whole [ __ ] company
+[28:38] is now seeing hey Target account tier
+[28:41] one account CMO or CEO coming in Bound
+[28:44] to work with us based on Andy Burns
+[28:46] content yeah and then all of a sudden
+[28:48] you start to get the waves of it going
+[28:50] but if you start at the bottom with your
+[28:52] social media manager and say okay we're
+[28:54] going to Outsource our LinkedIn thought
+[28:57] leaders ship strategy to a social media
+[28:59] person who's supposed to make content
+[29:01] for cro and CFOs why do you obviously
+[29:04] it's not going to work and that person
+[29:05] never gets traction there never gets
+[29:06] expansion you don't set up the right
+[29:08] measurement to to report on it and it
+[29:11] never works um so there's very simple
+[29:14] steps and you can watch it repeat over
+[29:16] and over at companies you can look at
+[29:17] drift you can look at gong you can look
+[29:19] at Clary you can look at refund Labs
+[29:21] over and you can look at retention.
+[29:23] comom it's proven you can look at hockey
+[29:25] stat over and over it's the same thing
+[29:27] the executives start it they believe in
+[29:30] it they measure it the right way team
+[29:32] feels they start to see the results team
+[29:34] feels more comfortable team scales yeah
+[29:36] yeah that's it has to start top down and
+[29:39] so many people have asked me like how do
+[29:41] you you know founders of like you know
+[29:43] let's say 10 to 100 employees you know
+[29:46] in that the little circle where like Hey
+[29:48] how do how do we get like the team
+[29:50] active on LinkedIn I'm like and my
+[29:51] answer is always you get active on Lin
+[29:54] like and is as cliche is it's like lead
+[29:58] by example and people will follow right
+[30:00] like I think if you look at gong like
+[30:04] all their reps I think they don't quote
+[30:06] me on this I think some people like some
+[30:09] somewhere out there someone said they
+[30:10] had a quota like people had to post at
+[30:11] least once a week or something I don't
+[30:13] know if that's true but it's not happen
+[30:16] yeah it's not anymore but people were
+[30:18] and if you look at these companies that
+[30:20] all have reps that are posting they
+[30:22] probably came from companies where the
+[30:25] leader at the top the CEO or one of the
+[30:27] execs was actually posting content right
+[30:30] and it as simple as that however you
+[30:34] know it blows my mind that even CMOS of
+[30:38] companies and no discredit to them
+[30:40] there's some out there and you know
+[30:41] they're busy whatever aren't doing this
+[30:44] right of like you know and that they're
+[30:46] not posting and they're a B2B company
+[30:48] it's a perfect way to do it why do you
+[30:50] think they're just not doing it like
+[30:52] even CMOS right they see it's working
+[30:54] for
+[30:56] you it really depends on your buyer
+[30:58] right so you need you need to decide as
+[31:00] a CMO am I the subject matter expert or
+[31:02] am I the architect true true right if
+[31:04] you're a CMO and you sell to uh cesos
+[31:07] like you trying to be the host podcast
+[31:09] talk about cyber it's not gonna work
+[31:10] it's not gonna work yeah but you being
+[31:12] clear in how to architect that and get
+[31:14] your executive or subject matter expert
+[31:16] here and know who the influencers and
+[31:18] key opinion leaders in your industry are
+[31:20] and how they get on your podcast how you
+[31:22] do Wrap events around them how you get
+[31:24] that onto a long form podcast YouTube in
+[31:27] LinkedIn how you boost it with media
+[31:29] that's a CMO role as the architect of
+[31:32] that and then at a bigger company it
+[31:34] would go down at a VPR director level
+[31:36] yes but and the at at the beginning if
+[31:39] you're the CMO of a thousand person
+[31:40] company you should get that to work not
+[31:43] Outsource it to your like director of
+[31:45] content you should prove that that works
+[31:47] at an executive level um and so it's
+[31:49] just about deciding are you the subject
+[31:51] matter expert are you the architect in
+[31:52] the CMO uh in the CMO seat why why do uh
+[31:56] companies CMOS not prioritize it because
+[31:58] it's not measured effectively in
+[32:00] companies if you if you really Trace
+[32:02] back everything every behavior in
+[32:04] marketing and in sales and everything
+[32:06] else is based on the goals and
+[32:07] incentives inside of those departments
+[32:09] and incentives always man yeah so if
+[32:12] you're a CMO and you need to get 50,000
+[32:13] mqls then there's no sense in posting on
+[32:16] LinkedIn or building a podcast or doing
+[32:18] anything like that because it's not
+[32:19] going to get you any trackable mqls um
+[32:21] and so that's why companies don't and if
+[32:23] you think you need mqls and you need
+[32:25] attribution or and you need influenced
+[32:27] Revenue you're not going to get an
+[32:28] influenced Revenue touch point on a
+[32:30] organic post on social media on a
+[32:32] podcast on a YouTube video or on a
+[32:34] million other things that people View
+[32:36] and so why would you do that yeah it
+[32:39] doesn't help you hit your goal yeah like
+[32:41] and so and so it's really questioning in
+[32:43] inside of B2B companies which I question
+[32:45] all the time is what are the right goals
+[32:49] and kpis that allow the team to do the
+[32:52] things that are most effective today
+[32:53] yeah the measurement systems that
+[32:55] companies use were best most appropriate
+[32:57] in 2013 marketing and people still are
+[32:59] stuck in the same like box and Bounds uh
+[33:03] about how we do marketing which is
+[33:05] pretty much look we still gating ebooks
+[33:07] is one of the main strategies yeah which
+[33:10] is crazy 2013 that was a popular
+[33:12] strategy
+[33:15] yeah H for people that listen to this go
+[33:19] watch it because Chris the way he shakes
+[33:21] his head when he says that is hilarious
+[33:23] he just he smiles and shakes his head
+[33:27] which is just phenomenal um okay so
+[33:32] let's boil this down top down is what
+[33:34] you need to freaking get this thing
+[33:35] going like that that is that is if you
+[33:37] want to start today how do you do it you
+[33:39] get the CEO to do it um I think Adam
+[33:43] Adam at retention and why we talk about
+[33:45] we're all in Austin we're all friends
+[33:46] you know and he he he did it the right
+[33:49] way he basically he said he first hired
+[33:51] a Ghost Rider and he's like that wasn't
+[33:53] me he's like that wasn't me he's like I
+[33:56] love the kid but that wasn't me and so
+[33:58] he said I'm going to figure this out
+[34:00] he's like and I'm going to do less
+[34:02] things and I'm going to get better at
+[34:03] him and that less thing for marketing
+[34:04] for me was getting good at LinkedIn and
+[34:07] and he brought you up he's like dude I
+[34:08] want to get on Chris's level you know so
+[34:10] uh which is funny so he's like I'm gonna
+[34:12] get good at this he's like I got a coach
+[34:14] right and he's like I got a coach and
+[34:16] now he has a coach Alec who's phenomenal
+[34:18] right and he's got a coach now he's
+[34:19] crushing it right so he has I think that
+[34:22] helps for two reasons so I think maybe
+[34:24] people that want to do this and you're
+[34:26] scared
+[34:27] right or or you have this impostor
+[34:29] syndrome or fear of perfectionism or you
+[34:31] know whatever it is I think that holds a
+[34:33] lot of people back from it even at the
+[34:34] top
+[34:36] is these execs they get coaches for like
+[34:39] how do I handle HR how do I handle this
+[34:40] how do I handle this but one of the most
+[34:42] impactful coaches you can do is is you
+[34:45] getting content out there that's seeing
+[34:46] by at least a thousand people so you're
+[34:48] on stage by in front of at least a
+[34:50] thousand people like you should
+[34:51] definitely get a coach for that if
+[34:53] you're a little bit scared or whatever I
+[34:54] think that's that's one way to start um
+[34:58] right and there's multiple out there
+[34:59] Chris you know you you didn't need a
+[35:01] coach and some people just don't need it
+[35:03] they kind of have a marketing sense or
+[35:05] whatever but I think that's one kind of
+[35:07] takeaway here that that some execs can
+[35:09] really have um I don't know what do you
+[35:12] think about the the only reason I didn't
+[35:14] need a coach on LinkedIn is because I've
+[35:16] been using social media to sell stuff
+[35:18] since 2013 when I was using Facebook uh
+[35:22] Facebook ads to sell speakers and then
+[35:24] Instagram organic to spell to sell BS of
+[35:27] blankets and then Facebook organic and
+[35:29] ads and Instagram organic and ads to
+[35:32] sell medical devices and then Facebook
+[35:34] ads to sell other medical devices and so
+[35:38] when I started on LinkedIn I was six
+[35:40] years into using social media to sell
+[35:41] stuff that's why I didn't need a coach
+[35:43] right um and so but a lot of people
+[35:46] don't want to wait six years and so in
+[35:47] that case maybe maybe you should get a
+[35:49] coach you can accelerate that when I did
+[35:51] it I didn't have any money so I couldn't
+[35:53] afford a coach for a couple thousand
+[35:54] bucks a month but most exact most
+[35:57] Executives or Founders can yeah so
+[36:00] that's that's a decision that you need
+[36:01] to make but it to to me it's uh once you
+[36:04] see it you can't unsee it yeah and so if
+[36:07] you are a person that is not bought into
+[36:08] this you need to figure out how to see
+[36:10] it that the people are there that they
+[36:12] engage that they log in five times a day
+[36:14] that there's huge scale that sometimes
+[36:16] when you post or someone that's posting
+[36:18] about the same stuff that you want to
+[36:19] talk about gets a million views that
+[36:21] that could be you you need to see it and
+[36:24] then you need to commit to an outcome
+[36:25] it's just like if you're 300 pounds and
+[36:27] you're trying to get to 180 you gotta
+[36:28] you got to commit to that outcome um and
+[36:31] right now if you're like if you're a
+[36:32] founder of a 10 person company and your
+[36:35] strategy is predictable Revenue cold
+[36:37] call with with h four bdrs and three a s
+[36:40] your 6K ACV product it doesn't have
+[36:42] product Market fit you're like you're
+[36:45] gonna lose most likely and so thinking
+[36:48] like thinking about how how to get
+[36:50] committed to see it and then get
+[36:51] committed to a new strategy for how the
+[36:53] world works yeah and and it's it's
+[36:56] interesting you say that like yes
+[36:59] getting started today if you think
+[37:01] you're going to rely on this old this is
+[37:02] coming from someone on an Outreach right
+[37:04] like that help build Outreach like if
+[37:06] you think you're just going to use
+[37:07] Outreach and do the cold call cold email
+[37:09] thing like no like it's that's going to
+[37:13] be part of it that and here's what I
+[37:16] think the magic formula is right I think
+[37:18] the magic formula is you have this this
+[37:21] person like you me Adam um some you know
+[37:25] some phenomenal women out there Sam
+[37:26] sales right that are also doing it and
+[37:29] you have them and they're building this
+[37:31] kind of content engine on LinkedIn right
+[37:34] and then what you do is when you're
+[37:36] actually reaching out to people whether
+[37:38] it's via LinkedIn DMS or it's on cold
+[37:41] email from Sam right then you're not as
+[37:45] cold on the cold meter one to 10 right
+[37:47] versus a rep that's never heard of the
+[37:49] company it's not it's warm it's not cold
+[37:51] right and so I think here that is also
+[37:54] the point is that like just like organ
+[37:56] organic helps fuel paid organic also
+[37:59] helps fuel your cold and who you are
+[38:01] right and like what you're about what
+[38:03] your company does and all that and I
+[38:04] think people forget that right and so
+[38:07] coming up with the systems to do that is
+[38:09] a little tricky right but Mo what most
+[38:11] people don't talk about is the most
+[38:13] important thing in a cold email is not
+[38:14] the what's in the email it's not what
+[38:17] the subject line is it's who it's from
+[38:20] that is the most important part of a
+[38:21] cold email and guess guess what if you
+[38:24] email me Chris I'm like
+[38:27] oh that's Chris I'm gonna open I don't
+[38:28] care what the subject line is I don't
+[38:30] care what the hell it says inside right
+[38:32] but that is what people forget dude is
+[38:35] that the name on that email is what is
+[38:37] most important right and if it's a
+[38:39] company name and whatever but if it's
+[38:41] from someone I've seen their name before
+[38:43] over and over and over again and this is
+[38:45] marketing 101 right what is marketing
+[38:47] 101 your your what you know what Gary ve
+[38:49] says is like jab jaab Punch or whatever
+[38:51] the name of that book is that's
+[38:53] literally it that's part of the process
+[38:55] so um anyways long story short going
+[38:57] back to it how you solve cold email is
+[39:00] also being in front of people outside of
+[39:01] cold email right and I think that is
+[39:04] what people forget and everyone's
+[39:05] arguing about like the cold email
+[39:07] subject lines and and you know all this
+[39:10] stuff it the name is what really matters
+[39:12] coming from it uh and I'm a True
+[39:14] Believer in that right so I'll give you
+[39:16] an example I have a cold email campaign
+[39:18] right now my reply rate is at 6% right
+[39:22] fully automated no personalization 6%
+[39:25] reply rate right I can show you now why
+[39:28] why do you think that is because it's my
+[39:29] name showing up to people that are my
+[39:31] first-degree connections that I'm
+[39:32] offering something to right like it's I
+[39:35] mean in a 6% fully automated reply rate
+[39:38] right now that's insane right like I
+[39:40] don't have to work as hard on the cold
+[39:42] email side you know I've got other
+[39:44] tricks in there to make sure it lands in
+[39:45] inboxes but that's that's a whole
+[39:47] technical thing but that's what freaking
+[39:49] matters man um so anyways uh
+[39:53] hopefully I'm we're we're definitely
+[39:55] preaching the choir here on the get on
+[39:58] LinkedIn for sure but coming from people
+[40:02] that have built great things off of it
+[40:04] right like um anyways okay I've got
+[40:07] another idea for us here's what another
+[40:09] Arbitrage I think right now is that that
+[40:13] um if and if everyone's doing it it's
+[40:16] probably not good marketing right is
+[40:17] kind of is kind of my take so I think
+[40:20] right now the a huge thing that people
+[40:23] kind of toy in but don't take seriously
+[40:25] and don't create the right systems and
+[40:27] processes around it is Affiliates and I
+[40:30] think Affiliates this is what I'm
+[40:32] actually doubling down on on distribute
+[40:34] so we're doing this appsumo launch soon
+[40:36] we're going to get a couple hundred
+[40:37] thousand you know hits and bunch of
+[40:38] users da but we're going to take that
+[40:40] we're going to turn those users into
+[40:41] Affiliates as well now with these
+[40:43] Affiliates what most people do is
+[40:46] they'll put an affiliate thing on their
+[40:47] website and they'll say Affiliates
+[40:49] here's our signup form like good luck
+[40:51] right but no there needs to be like
+[40:54] affiliate let's call it en a man right
+[40:57] and like some companies that are doing
+[40:59] this well that have actually grown their
+[41:00] whole business off of this again this is
+[41:02] more plg stuff right so it's a little
+[41:04] bit you if you're not plg yet this is a
+[41:06] benefit but it's these people if you
+[41:10] enable them to be your mini sailor
+[41:12] sellers right I think you could have
+[41:15] huge success and so what I'm betting on
+[41:17] is if you have good product that people
+[41:19] like right that's the first step that
+[41:21] you're going to need obviously but then
+[41:22] if you can build out an affiliate
+[41:23] program these creators all these people
+[41:25] because we know cont and is key how do I
+[41:27] double down on that and I think I'm
+[41:29] going to make that bet right especially
+[41:31] if a product with a good brand that
+[41:32] people like um and so I'm going to make
+[41:35] that bet because one these people that
+[41:38] you can get as Affiliates they're known
+[41:39] to be good creators right if you can
+[41:41] find the right ones now it's finding the
+[41:42] right ones and this is where we get into
+[41:44] the systems you can't just set it up and
+[41:46] put a link on your site I was talking to
+[41:48] someone I don't want to name them
+[41:50] because I don't know if they want me to
+[41:51] talk about them right now so I won't
+[41:52] name them but they're like we treat we
+[41:54] like recruit these Affiliates off of of
+[41:56] YouTube all day long they like they have
+[41:58] a four-person team just to recruit
+[42:01] affiliat right and they pay those they
+[42:04] pay their salaries over and over and
+[42:06] over and over again and who are these
+[42:07] Affiliates they're just content creators
+[42:08] that they make a deal with they have
+[42:10] different levels of Affiliates Etc but
+[42:12] this is something interesting where I'm
+[42:14] like holy [ __ ] this makes sense right
+[42:17] and you know I think that some people
+[42:21] will dabble in it but again just like I
+[42:23] had distribute now has a link it's like
+[42:26] Affiliates I've never sent one email to
+[42:27] these people and that's shame on me
+[42:29] because I haven't taken it seriously
+[42:31] right I'm like oh they'll just go do
+[42:32] their thing no they won't like you need
+[42:34] to handhold people and so that's where I
+[42:36] think the sales motion is changing too
+[42:39] right yeah I mean whether it's uh
+[42:41] Affiliates for transactional or partners
+[42:45] for Enterprise it's gener like generally
+[42:47] the same thing both of those both of
+[42:49] those things are like referral demand
+[42:50] capture mechanisms whether the part like
+[42:53] you're a partner maybe you have a sales
+[42:55] team that's going to co-sell a deal if
+[42:56] you're an affiliate you're just getting
+[42:57] a link and you're referring somebody in
+[42:59] for a free meum plan or a $7 a month
+[43:01] plan or something like that and taking a
+[43:03] a commission imp properity like either
+[43:05] one is generally the same thing it's
+[43:07] just a way to leverage external
+[43:10] resources as a means to capture demand
+[43:12] and then incentivize them financially um
+[43:14] so yeah I mean you think about people
+[43:16] that are talking about near bound I'll
+[43:18] uh I'll really get on that train when I
+[43:21] see like experience it really working
+[43:23] for myself haven't haven't seen that yet
+[43:25] but if I if and when I do then that's
+[43:27] when I would start like continue to pump
+[43:29] on that and we we have some experiments
+[43:31] running uh more in like the partner area
+[43:33] than Affiliates but uh yeah I see it as
+[43:36] well yeah I see that's it is something
+[43:39] interesting we'll see where this where
+[43:40] this goes like this is just again big
+[43:42] experiment right but I think and I think
+[43:45] just like we were talking about earlier
+[43:46] like you have to have your you know your
+[43:48] content Market fit right like the right
+[43:50] person or the right thing I think you
+[43:52] also have to have the right type of
+[43:53] product like is a full sales Le product
+[43:56] gonna work on this affiliate train no
+[43:59] it's that might be more partner Le
+[44:01] Channel Partners kind of the you know
+[44:03] that that motion but if you do have a
+[44:06] straight plg product I think that would
+[44:08] be work super well and anything
+[44:11] transactional e-commerce plg or some
+[44:14] type of selfs serve anything
+[44:15] transactional is the use of Affiliates
+[44:18] yeah yeah and so I'm thinking on that uh
+[44:21] The Last Mile yeah yeah how do you do
+[44:24] that and again this takes volume to
+[44:25] really work but then you have to recruit
+[44:27] and all this stuff so I'm looking for
+[44:29] someone that's like really has done this
+[44:31] before I'm really good at it right I'm
+[44:32] actually working with someone now um but
+[44:35] yeah I think that's another kind of
+[44:36] Arbitrage Channel that's going to come
+[44:39] but again you need to have the right
+[44:40] product the right Channel and all this
+[44:42] stuff um so you know I think this kind
+[44:47] of strategy wise this is where companies
+[44:51] that aren't currently product L growth
+[44:53] that want to become product L growth
+[44:55] this is is one benefit of it right
+[44:57] people are like why would you become
+[44:58] product the growth and I'm thinking well
+[44:59] you can proba of build something like
+[45:01] this but here's the thing some of these
+[45:03] products just are too technical to set
+[45:05] up to be product L growth you know and
+[45:09] like it's different Building Product L
+[45:11] growth when you have two employees
+[45:12] versus switching to a product L growth
+[45:14] motion when you have 400 employees yeah
+[45:17] yeah um yeah switching to product Le
+[45:19] growth motion with 400 employees uh can
+[45:22] you know significantly negatively impact
+[45:24] or even kill your company if not if not
+[45:26] played the right way it can delay
+[45:27] Pipeline and revenue for years um and so
+[45:31] uh yeah there people should take lot
+[45:33] lots of caution when they think about
+[45:35] adding plg to an existing business if
+[45:37] you're building a business from the
+[45:38] ground up and the product is simple to
+[45:39] use and it's horizontal or wide with a
+[45:42] very large Tam and a lower price and
+[45:43] needs to be like the go to market has to
+[45:45] be transactional at the beginning then
+[45:47] it makes perfect sense yeah um but
+[45:50] technical setups existing companies um
+[45:52] higher a uh dollar value sales and
+[45:55] products are all reasons to to uh not do
+[45:58] it so I think it's more about
+[46:00] understanding the situation for your own
+[46:02] business there's people that are like
+[46:03] Pro PG no matter what and there's people
+[46:05] that are not pro plg no matter what and
+[46:07] the the real answer somewhere in the
+[46:08] middle yeah and I actually was talking
+[46:10] to a Founder there have a well-known B2B
+[46:13] SAS company that a lot of people use and
+[46:15] they were talking to me about plg um and
+[46:19] their product is as it stands is
+[46:21] currently not anything plg like that you
+[46:24] can do it's it's it's a technical
+[46:26] backend setup that's required right
+[46:28] which now what I they said well how
+[46:31] would you think about this in a plg
+[46:32] motion I said honestly put that product
+[46:35] that you currently have in another
+[46:36] bucket and create an entirely new
+[46:38] product that's blg that is a stepping
+[46:40] stone in your current offering right
+[46:42] what's the problem that people have
+[46:44] before your current product offering
+[46:45] that needs solving maybe there's already
+[46:47] other products for it SE up build it
+[46:49] cheaper make it free right and then
+[46:52] basically create that engine to get that
+[46:53] product I would not screw with your
+[46:55] current product offering and do that
+[46:56] because I think it's a whole different
+[46:58] it is a like you said it's kind of like
+[47:00] Common Sense marketing it's a whole
+[47:01] different strategy don't screw up your
+[47:03] if it's if it ain't broke don't fix it
+[47:06] right we should create a new category
+[47:07] called Common Sense marketing but uh so
+[47:12] anyways I told them no build this other
+[47:14] product here's an idea I have for you
+[47:17] that's completely free right make that
+[47:20] product free it'll probably take you a
+[47:21] couple Engineers a few months to do
+[47:23] right like sure you're going to with
+[47:25] that you're going to you know the cost
+[47:26] of build 100K you're going to put in
+[47:28] thing but if that gets you to fuel
+[47:31] basically these people that are deal
+[47:32] clients using this free product offering
+[47:34] that's your way in the door you're
+[47:36] essentially building you're going from a
+[47:38] trust level of one now and I always look
+[47:40] at this like on the trust scale and I'm
+[47:42] kind of like selling it salesy now but
+[47:43] like if you look on the trust SC of 1 to
+[47:45] 10 and getting someone in a sales Le
+[47:47] motion to go from one to 10 that's why
+[47:49] these sales long like motions take so
+[47:51] long right you have to be like will this
+[47:53] work does it produce results is there
+[47:54] Roi that
+[47:56] but if you have that free product
+[47:57] offering before some product offering
+[47:59] you know your plg product offering you
+[48:01] can get them from a one to a three or
+[48:04] four or five on the trust level scale
+[48:06] and then you just need to make the jump
+[48:07] from five to 10 right now this is part
+[48:10] marketing part product strategy right
+[48:13] but I think this is overall go to market
+[48:15] strategy in in essence right and so I
+[48:18] think there is where we're going to
+[48:21] start to see people make this change and
+[48:23] I'll tell you this for Tapo how we got
+[48:25] to million in Revenue in nine months
+[48:27] right on a on a b Toc software product
+[48:29] which is very difficult to do we did
+[48:31] exactly that we said oh here's a we
+[48:33] didn't 10 10 different lead magnet tools
+[48:35] literally I think it was like 10 and got
+[48:37] people into the funnel and then we said
+[48:40] hey then what was the next step so a
+[48:42] free Carousel generator for example we
+[48:44] did a free Carousel generator hey you
+[48:46] want to make a LinkedIn uh Carousel put
+[48:48] Post in your make a Twitter thread post
+[48:50] the link and we'll do a free LinkedIn
+[48:52] Carousel for you after they generated it
+[48:54] what do you think we ask them to do
+[48:55] schedule with tap right so how do you do
+[48:58] that with your product right it gets in
+[49:00] the stepping stone U so I think we're
+[49:02] going to see a lot more of that one
+[49:04] thing I want to invest in as we go
+[49:06] through this and I kind of like that
+[49:07] we're talking here because it's like a
+[49:08] buildin public esque kind of thing which
+[49:11] is um I'm having a head of engineering
+[49:14] come on and what we're going to
+[49:15] literally do like part of what his role
+[49:17] is going to be is build like half his
+[49:19] time is not going to be building the
+[49:20] actual product it's going to be building
+[49:21] actual lead magnets that we get to fuel
+[49:23] people into the product and right he's
+[49:25] he's call in for it because he knows
+[49:26] distribution is keing
+[49:28] so what I would say for companies that
+[49:31] have enough resources I know this is
+[49:34] difficult I'm a boot I come from a
+[49:35] bootstrap we did did just raise money
+[49:38] but something interesting to think about
+[49:40] is how can you have an engineer and a
+[49:42] product person get together and build
+[49:43] these basically stepping stone products
+[49:46] that are highly valuable and free or
+[49:47] cheap and get them into into your thing
+[49:50] and I think that's going to be a whole
+[49:51] department I think it's going to be like
+[49:53] the before it used to be called what
+[49:56] like uh the what do you call those
+[49:57] departments that are straight
+[49:58] experimentation like your your Labs or
+[50:02] growth Market yeah something like that
+[50:03] but there's going to be an engineer in
+[50:05] there that's full-time let's call it
+[50:07] growth marketing growth hacking or
+[50:08] whatever that they're basically making a
+[50:11] bunch of bets on multiple products that
+[50:13] get people to see them into their bigger
+[50:15] platform offering um that's the way if I
+[50:18] was running a straight sales Le company
+[50:20] right now and I was like holy [ __ ] we
+[50:22] need to do plg or we need to figure out
+[50:24] pipeline I would double down on that
+[50:26] [ __ ] right now like I would I would just
+[50:29] say do that like that and do that super
+[50:31] well that is your freaking Arbitrage
+[50:33] make good products that already exist
+[50:35] make them free and give them away all
+[50:37] right um and I'm not all about like give
+[50:39] everything away for free but that in
+[50:41] order to get to your main offering yes
+[50:43] uh anyways I'll stop freaking pre I get
+[50:46] passionate about this [ __ ] so
+[50:48] [Laughter]
+[50:50] anyways uh what do you think Chris what
+[50:53] do you think man
+[50:56] uh I I don't even know how to comment on
+[51:00] that like yeah there's a bunch of
+[51:03] arbitres out
+[51:05] there anyways I'm getting nerdy I'm
+[51:07] getting nerdy man let's end this with
+[51:10] with asking you okay something that
+[51:13] people want to know we talked about your
+[51:14] LinkedIn kind of strategy overall I
+[51:15] think something that would be
+[51:18] interesting Chris is I see you on video
+[51:20] all the time and I'm wondering is he
+[51:22] actually like podcasting with people or
+[51:25] is it a webinar where you have a bunch
+[51:27] of people on or like this is a lot this
+[51:30] is an interesting question what's the
+[51:31] form do people just submit questions to
+[51:33] you and then you're answering them via
+[51:34] video like what the heck is going on and
+[51:36] let's end on this now uh yeah we have
+[51:40] the dark social content flywheel where
+[51:42] we have a weekly live event that a live
+[51:44] audience comes every single week um and
+[51:47] so we do that those people then ask live
+[51:50] questions and I answer those questions
+[51:52] and then that so that episode creates a
+[51:54] long form podcast and YouTube video then
+[51:56] we cut that up it creates short firm
+[51:58] video for Tik Tok LinkedIn YouTube
+[51:59] shorts any other ones that we decide
+[52:02] then we get the insights in the comments
+[52:04] from those posts and then the insights
+[52:05] in the comments that we get from the
+[52:07] live event and then we decide to do
+[52:08] another live event and then we do a
+[52:10] flywheel every week um and so it's a way
+[52:13] that I spend three to four hours a week
+[52:15] creating content and have content to
+[52:18] publish all the time all the time and
+[52:20] that's your main engine right now right
+[52:21] like that is the main engine that's the
+[52:23] main engine and having the live audience
+[52:26] on the event uh gives you confidence
+[52:29] that the th the topics you're talking
+[52:30] about are relevant and important and
+[52:33] that you get realtime feedback about
+[52:35] what if what you're saying resonates
+[52:36] with people and is valuable to them yeah
+[52:38] and so just sitting back with you and
+[52:41] someone else talking on a podcast about
+[52:43] the things that you think people want to
+[52:45] know or it's I I've just found it's a
+[52:46] lot more productive to have people live
+[52:48] on there for me yeah and see what's
+[52:50] going on I like that I might steal
+[52:52] something like that but we'll see um
+[52:55] we'll see how that's done but dude this
+[52:57] has been amazing man um we got two
+[53:00] minutes here so we'll wrap it up um yeah
+[53:03] what are let's wrap it up with there's
+[53:05] three different offerings that you have
+[53:07] right now that you're helping people
+[53:08] with marketing on what are what are
+[53:09] those three so people know what's
+[53:12] up uh so we have uh an offer that we
+[53:16] help companies of all sizes with uh
+[53:18] which is basically a B2B digital agency
+[53:20] that combines demand generation paid
+[53:22] media execution and creative and content
+[53:24] into offer that helps companies sort of
+[53:26] like create and capture demand um we
+[53:29] have a uh a re what we call Revenue
+[53:31] Sciences what some people would look at
+[53:33] as Revenue operations right now but it's
+[53:35] a much more strategic thing than I what
+[53:36] I see happening in practice where we get
+[53:38] CRM data we run it through a
+[53:40] standardized Pro uh processing data
+[53:42] model and then we give companies back
+[53:43] key insights that they would never get
+[53:45] on their own um and then we have uh a
+[53:47] research and advisory product where uh
+[53:50] CMOS and other Executives can get access
+[53:52] to this the information that we have
+[53:54] that we've collected over with more than
+[53:55] 250 companies to make smarter uh smarter
+[53:59] go to market decisions with confidence
+[54:01] and Clarity there we go so those are the
+[54:02] three things that uh we help companies
+[54:04] with and uh looking forward to keep
+[54:07] building yes my friend yes my friend
+[54:09] amazing well Chris been a pleasure my
+[54:11] [Music]
+[54:19] friend

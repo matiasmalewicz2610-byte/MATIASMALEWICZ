@@ -1,31 +1,47 @@
-# Transcript — How to get the CEO to post on LinkedIn
+# Transcript — alFHtDXq1zg
 Video ID: alFHtDXq1zg
 URL: https://youtube.com/watch?v=alFHtDXq1zg
-Channel: exitfive
-Published: 2024-05-07
-Collected: PENDING
-Expert: Dave Gerhardt
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~203
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+the nice thing about keeping the company page somewhat up to date is even if you run ads on it which a lot of people in B2B are going to do it's going to look up to date in past companies where that wasn't the case so from the perspective of like I'm a marketer who's trying to help the CEO post more on LinkedIn what I found really helped was to interview the CEO so at my past company I would interview the CEO once a week do a 30- minute interview and I would just pick their brain on you know hot industry topics I record the call and I'd write down everything they were talking about and I would turn that into like two three LinkedIn posts I would send it to them they would maybe clean it up a bit just for you know tone and then they would post it and you know it helped them grow pretty quickly so that's like an easy way if your CEO or founder wants to get on LinkedIn but doesn't think they have the time to sit down every week and write the post that's a a good happy [Music] medium
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:00] the nice thing about keeping the company
+[00:01] page somewhat up to date is even if you
+[00:03] run ads on it which a lot of people in
+[00:05] B2B are going to do it's going to look
+[00:07] up to date in past companies where that
+[00:09] wasn't the case so from the perspective
+[00:11] of like I'm a marketer who's trying to
+[00:13] help the CEO post more on LinkedIn what
+[00:16] I found really helped was to interview
+[00:19] the CEO so at my past company I would
+[00:21] interview the CEO once a week do a 30-
+[00:23] minute interview and I would just pick
+[00:24] their brain on you know hot industry
+[00:26] topics I record the call and I'd write
+[00:28] down everything they were talking about
+[00:29] and I would turn that into like two
+[00:31] three LinkedIn posts I would send it to
+[00:34] them they would maybe clean it up a bit
+[00:35] just for you know tone and then they
+[00:37] would post it and you know it helped
+[00:39] them grow pretty quickly so that's like
+[00:41] an easy way if your CEO or founder wants
+[00:44] to get on LinkedIn but doesn't think
+[00:46] they have the time to sit down every
+[00:47] week and write the post that's a a good
+[00:49] happy
+[00:53] [Music]
+[00:57] medium

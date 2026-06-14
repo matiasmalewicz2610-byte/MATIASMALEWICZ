@@ -1,31 +1,1736 @@
-# Transcript — How to Effectively Position Your B2B Brand
+# Transcript — tX_UHo59_g0
 Video ID: tX_UHo59_g0
 URL: https://youtube.com/watch?v=tX_UHo59_g0
-Channel: guest-appearance
-Published: 2025-05-05
-Collected: PENDING
-Expert: April Dunford
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~12315
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+As a B2B brand leader, you know that clear, compelling market positioning is everything. If you can land your product in the mind of your prospects with precision, then you stand a fighting chance in even the most crowded markets. But let's face it, getting your position right is hard. Because if you can't explain what makes you different, then you risk becoming just another option that gets ignored. Hi, I'm Park Howell and welcome to the business of story. Today you'll meet April Dunford, startup exec turned positioning powerhouse. She's helped over 200 B2B companies sharpen their message, launch winning products, and drive billions in acquisitions. April unpacks the proven frameworks behind her bestsellers, obviously awesome, and sales pitch to help you craft positioning that sells. So whether you're scaling a growth stage startup or leading a legacy tech brand, you'll leave this episode with the tools to own your space in the market and tell your brand story in a way only you can. So let's dive in. Good morning, April. Welcome to the show. It's great to be here. Thanks so much for having me. Well, my good friend Sean Schroeder, who I've been working with on our story cycle, Jeanie, said, "Boy, you've got to track down April and see if she would come in and talk about her expertise and brand positioning." So, I'm just delighted that you're here. That's awesome. Oh, good. And I love the fact I was looking through your bio work and whatever, and I love superlatives. I mean, I once had a client say, "Park, you're like the most industrious storyteller I know." So, I took that and I said, "Yeah, I'm going to run with that." And I liked yours when it's like the world's leading B-toB business positioning expert. Yeah, it's a biggie. But I'll tell you, the work I do is actually quite narrowly focused. Like I only work with tech companies. I only work with B2B tech companies specifically. So I don't do any consumer. I I don't even I don't even work with a B2B tech company that doesn't have a sales team. Like if you're selling a $100 thing off the website, but you happen to be selling it to businesses, that's outside of my wheelhouse, too. So, it's actually quite narrow. And I've been doing this for about 10 years. And in that 10 years, I've worked with 300 odd companies. So, so I do feel like I've done more of this in my tiny box. The box is tiny, but in my tiny box, I rule the tiny box. Well, well, but doesn't that make sense from a brand positioning expert that you've got to niche it down and and design a category, own a category with your particular niche? Well, that's it. I mean, you know, it'd be kind of funny if I didn't know how to position myself. So, so I would Yeah, then you probably shouldn't be hiring me. That was the truth. Well, I've been in the branding marketing world for, you know, 40 years. And April, I've worked for small agencies and I've done literally everything in the in the advertising world. And I really found my niche was about brand story creation. It's the thing of taking something complex and simplifying it so people get it. Of course, positioning is a big part of that. So, it's not a surprise that you have found yourself as this expert. Can you give us a little bit of a backstory? Because I imagine you didn't wake up as a young lady and say, "I'm going to be a positioning expert." Oh, heck, I sure didn't. I actually I actually in university, I studied systems design engineering. So, you know, I I decided I was going to go into tech, but I didn't think I'd even think I'd end up over in the marketing side of the house, but it's kind of how it worked out. So, when I graduated, I got a job at a startup, and this was a long time ago. Like, startups weren't cool. We didn't even call them startups back then. We called it a small tech company is what we called it. And the job that I had was product marketing which is you know te you know back then sometimes that would be a marketing job but generally not and the requirements for this job was you know we were selling a database so we're selling a kind of a techy thing to fairly technical people. So the requirements for this job is you needed to be uh unafraid of public speaking and I ticked that box and you also needed to be able to write an SQL query and I could do that. So I then my friend worked there and so she got me the job and then that company so the I got assigned to market a product or be the product marketer for a product. So a lot of what I was doing was supporting the sales team. Anyways, we had a product that was unsuccessful, let's call it that way. Like it was a bit of a dog. It never sold well when we launched it. And what we ended up doing was repositioning it. I didn't know that's what we were doing. Nobody called it that. I don't think anybody understood that's what we were doing. But we were going to end of life the product and we thought we would mess around with it a little bit and see, well, maybe, you know, maybe we could talk about it in a different way. Maybe we could aim it at a different kind of customer. maybe we could sell it in a different way. And so we repositioned it and that product took off became quite successful. We got acquired by a big big database company in California and then after the acquisition my boss was the rich guy then so he quit and and they made me the vice president of marketing which is hysterical because like I can't even spell marketing at this point. and and then they transferred every crummy product they had in the company over to me and said, "Can you fix these two?" I was like, "Oh man, I don't even know how we fixed the first one." And so I embarked on this kind of yearslong journey to figure this out. So, you know, I had coffee meetings with a lot of smart marketing people. I it was working for a big company, so they had a training budget. So I did a little postgrad marketing work uh took some courses, read a lot of books and um and and discovered this thing that I had done was called positioning. So that kind of started my interest in this stuff like and in particular I've always been really interested in how do we actually get it done in my context which is you know I'm selling a big ticket complicated technical product to very smart educated people in markets that are extraordinarily crowded and so how do we position something so that it actually wins in the market so yeah so that's how I ended up here it was a weird side detour, but here we are. On that first go at it where you needed to reframe, reposition that product. Do you feel like you got lucky or do you think it was in intuition? There's something that you innately understood and didn't realize it. It was definitely not intuition. Let me tell you that. Um there was there was obviously a bit of luck, but mainly how we did it was customer feedback. So we had a we had a product we had sold a hundred of them and uh and because what kind of product was it? It was a well so the original positioning on this product was we thought what it was was a was a spreadsheet on steroids. So this is a hopped up spreadsheet where you could do database things with it. So you could write a SQL query in the spreadsheet and do things like an inner and outer join on a table and all this cool database stuff. Nothing more sexy than a supercharged database spreadsheet. It was an awesome spreadsheet thing. And so we had we now we had another product that sold a lot that was a compiler. So we were selling we already had a product we were selling to techie people. So we had gone and talked to these people and said hey would you like a spreadsheet with SQL query stuff? And everyone said, "Yes, we would love that." And then we, you know, so we built it and and and we sold a hundred at $100 each. So this is nothing. This wouldn't even pay for one developer. We had five developers working on the thing. So this is an absolute failure. And so, you know, we expected to sell like 100,000 of them and, you know, we sold a hundred. So everybody was disappointed. And and so they gave me the job because I'm the new gal. They said, "Look, here's the customer list. Call everybody and find out how disappointed they're going to be when we turn the thing off." And I said, "Okay." So, first of all, I'm calling developers. Like, do you know how much developers like to talk on the phone? They don't answer. Not at all. They don't answer the phone. They don't want to talk to me. So, I'm calling. Nobody's calling me back. It was very depressing. I'm sending them emails where I have email addresses. I'm sending them emails, but they're not responding to my emails. And I finally got a bunch of them to talk to me. And I used a full-on damsel in distress line. Like I would leave them this the world's most pathetic email and say, "Look, I'm brand new here." And they're going to fire me if you don't call me and talk to me for five minutes. And that actually worked. And then I talked to I talked to uh almost a hundred of them. And so I said, "Hey, what what you doing with this product?" and they would and and so so we had this thing. I forget what we originally called it. We changed the name at some point when we repositioned it, but I said, "Hey, uh, you bought this thing. I just call in to see what you're doing with it." And they said, "No, I didn't buy that." And I'm like, "Well, yeah, you did actually. I I've got the record of it here, like, you know, on this date you bought this thing. You know, it's it's a spreadsheet. It does SQL." And they go, "Oh, that thing. Yeah, it sounded cool. We, you know, we bought it. We messed around with it a little bit, but you know, and then we then we stopped juicing it. And I'm like, okay, not going to be sad when we turn it off. I'll put you in that bucket. And so I did like 20 calls like this and and 20 pe 20 people that didn't even remember they bought it. So I'm like, okay, this product is terrible. We're going to shut it off. No one's going to cry. But then I did call 21. Call 21, very different. So I get on the call and I'm like, hey, uh, I'm calling you from WCom. you know, we sold you this thing and and the guy says, "Oh, I love you guys. You guys got me a promotion. Like, I this is the best product ever." And I was like, "Really?" And then he gave me this big story about what he was using it for. And it was interesting. So, this was, you know, 20 years ago, and it was in the early days of sales teams going out with a laptop. Before that, sales teams had they didn't have a laptop. And these folks were selling a thing and they had a catalog of products that they sold. And the way it worked was they had an order system in the office and it was running on an Oracle database and they could put in orders in the office but they started giving the the reps these laptops to go on the road but you couldn't do an order on the road because you know that the Oracle database didn't work on the laptop. So what they did was took the order they'd write it down in a word document or something. Then they get back to the office and they would re-enter it into the order system and they always forgot something or they got it wrong or they made a mistake or whatever. So what this guy did was he took our little little spreadsheet SQL spreadsheet thingy and he wrote a little app on top of that and what they could do was put in the order and then when they got to the office they plug the laptop in and it could sync with the big Oracle database because it had that SQL stuff going. So he tells me this big story and I'm like, "Wow, dad's great." You know, and I'm like, "Oh man, he's going to be sad when I tell him we're shutting it off." But anyways, I didn't tell him. And so I just put him down in the, you know, weird people that like our stuff box. And so far there was only one person in there. But so I did 20 more calls. 20 more people didn't know. And so in the end I did a hundred, but then I got another one. And and the guy says, "Oh, I love it. It's amazing. you guys made me a rockstar in the office. And I said, "What are you doing with it?" And he said, "Well, we got these field service people and they have these ruggedized tablets and they got to do field service stuff, but the big database is back in the office." So now they can actually do it on the ruggedized tablet because we wrote a little application and then you can come back and plug it in and it's so cool. You guys have that SQL thing and blah blah blah. And I was like, "Oh man, here's another one." So I put them in there. So I did 100 calls and I had like four or five of these folks. So then I had to have the meeting with the execs and I'm like good news bad news situation here people right the good news is 92% of the customer base is not going to care when you shut this thing off but let me tell you there's 5% out there that is going to ball their eyes out because they really love this thing because they're doing this thing. So then we had a big conversation about it and said, "All right, like what if we positioned it for that?" Now think about this. Think about it. This isn't just changing the pretty words in the marketing copy. So now I'm going to sell this thing as essentially an embeddible database for mobile devices. How would I sell an embedible database for mobile devices? Well, I come in and sell your whole sales team. I'm not selling you a onesie twoosie off the website. I'm going to come in and sell you a hundred of these or maybe a thousand of these all at once. And so I'm going to need a salesperson to do that. I'm going to need to change my pricing. I'm going to need the whole go to market on this thing has to change. And so the this company, the cool thing they did was they looked at that and said, "Well, let's try it out." And so we hired one sales rep, repositioned the thing, messed around with the pricing a little bit. Um, we added a couple little features to make it work better in that situation and then let the rep go do it. And at the end of the first month, he'd sold 3,000 of these things. Wow. And we're like, "Oh man, this is good. You're on to something here." Yeah. So then we hired a whole bunch of sales reps. Then next thing you know, revenue is going up to the right and then we get acquired by this big big database company. So we were not kind of, you know, trying to come up with the magical creative copy that was going to sell this thing. It wasn't like that at all. It was looking at this surprising way that customers were getting value out of this thing and then saying, well, can we position around that? Could we do that? And I'll tell you the rest when when so later they made me the vice president they give me all these products and a lot of these products you couldn't actually get that information from the customers you know like you talk to a lot of customers but it was hard to see the pattern so I got kind of obsessed with the idea like how could we have positioned it better in the first place like could we have figured this out without having to pain a failure first and that's when I started to get really upset as well. And that's what you you do now. And I think it's so interesting that you found that 5% of your customers, those initial 100 really got it, found it, gave you that positioning that you needed. But isn't that so true though? Quite often when you're rolling something out and you're beta testing it and you're you think it's going to do one thing that everybody wants and then you start asking your beta testers and it turns out no, it's actually this thing that they want. Yeah, I mean sometimes you do get that, but man, you really don't want to be relying on that because you're basically relying on your customers to tell you what you are. And and if we're in tech and we've invested, I don't know, $10 million in building this thing in the first place and then we find out it's something else and oh by the way, that something else isn't particularly business viable. Like that's not good. Yeah. So, so it is true that that you know, so after that experience, I was involved in a lot of product launches. Um, and you know, a better way to do it, I think, is to figure out what like to be very deliberate in your positioning thesis to sit down and say, well, okay, so who do we think we're going to get compared to and what do we have that's different from that? And so therefore, what's the business value we can deliver to a customer that no one else can? And then how do we put a box around these are the kind of customers that are really going to love that and therefore this is the market we're going to win. If we had done that for this first product, you know, we would have said, okay, well, who are we going to get compared to? Well, we're probably going to get compared to spreadsheets, other spreadsheets. And then we'd say, well, what have we got that the other spreadsheets don't have? Well, we have this SQL thing. And then we would have asked ourselves the question, well, so what? Like, what's so cool about the SQL thing? Well, the main cool thing about it is it's interoperable with other SQL databases. And if we'd really sat down and thought about that, we'd have said, "Well, hey, like that means there's a whole bunch of things that you could do with this and you could make it the little database that lives outside of the main database but syncs up with it." And we would have landed on this embeddible database for mobile devices. But because we never sat down and did that, we went and talked to customers and said, "Hey, do you want this?" And they said, "Yeah." And that was good enough for us. We didn't get too deep into, well, what would you do with it? They just thought it sounded cool. So, and and the first, you know, couple hundred folks that bought us, that's why they bought it. It sounded cool. Hey, that'd be cool. We could do like prototype applications on it or whatever. And they messed around with it and went, eh, nah, it really doesn't do any really. Well, I think even though you focus in the B2B world and positioning that all listeners, whether they're B2B or B TOC or whatever, can certainly learn from that, especially in the tech world because you were dealing with so much noise, so much competition out there. What are two or three of the biggest mistakes people make when they haven't positioned or they first start thinking about positioning? Yeah, there's a handful. Like in tech, the the biggest mistake that people make is they think that there's only one way this product could be positioned. So a lot of times what you'll get is um the founder of the company gets an idea for a new product and it comes from their own pain, right? So they're working, you know, they're a tech person working at a manufacturing plant and they say, "Man, the way our ERP system does this is terrible. I'm going to make better ERP or, you know, they're using their email and they're like, you know, it sucks. Email sucks. It's terrible. I'm going to make better email or whatever. And then they go and they make it, right? And then they, you know, they'll get a first version out and customers will say, "Well, I like this part and I don't like this part and whatever." And so they'll add a bunch of new features and then the customer will say, "I like this and I don't like this." And then if I fast forward a couple of years, I've got this thing and I still think of it as email because, you know, I that was my original idea. I make it better the world's best email. But customers are looking at it and they're like, "Yeah, but isn't it really more like chat this thing that you got now? Like what it what like doesn't that?" And so but you but we we're so close to it we can't see it. And so so that's the first one is this trap of thinking well there's only one way like we're email. What else could we be? Like you know like I worked at a company where you know it was founded by two guys who were you know database people. They had PhDs in database stuff and you know and we had launched this thing as a database but later we ended up repositioning it as a data warehouse for machine generated data and and that was it was hard for the people internally because they were like we are database people making a database like it was really wrapped up in their identity as people not even just a company but it was clear like the minute we did that shift in position customers were like oh that oh shoot that makes a whole lot more sense now we know what you are now we know who we should be comparing you to now we know what the value is so that's mistake number one is that it's thinking that there's no other way and and I suppose that is when you roll it out and you have to really listen to your users your customers and they go yeah you think it's this but it's actually really that well normally in tech I'll tell you your customers aren't going to tell you that because they're not experts in the market. The customers are experts in pain. They're experts in their own situation. They are not experts in solutions. So, they're not going to come to you and say, "Oh, that's not a robot. That's an autonomous vehicle for industrial uses." They don't know what that is. They're not sitting around thinking about this. But you as the vendor, you are. That's your job. It's your job to know what the adjacent market categories are. It's your job to know what this stuff is like. You sometimes get very very very lucky and a very well- educated customer might come and say, "Hey, you know what? That's actually a warehouse and not a database. Why are you calling it that?" But nine times out of 10, you just fail. You fail because you're a crappy database that can't win in the in the database market and that's it. And everyone votes with their feet and they buy something else. Like this idea that we're going to get lucky and the customer is going to come tell us what the best market category is. I I don't think we could bank on that. Now, we can get feedback from existing customers about how it's how it's working in terms of solving their problem. We can get that right because they're experts on problems. So, they can say, well, yeah, no, we don't use that. Or they might say, you know what, if like if you ask them, look, if we didn't exist, what would you do? Sometimes you get an interesting answer to that question, right? Like they might say, oh, well, if you didn't exist, I'd buy a warehouse. Oh, that's different. Or if you didn't exist, I'd probably just take my spreadsheet and plug it into this thing and do this other thing. Oh, so this this is actually the second biggest mistake that people make. Customer or tech companies often make the mistake of not really understanding who their actual competitors are. And so great positioning I think starts with that. So I will very often get call from little company and they'll say okay we got this thing it's amazing you know they'll tell me about it and I'll say well who do you compete with and they'll say oh there's a lot of competitors and they'll give me the big long list little bunch of little guys I never heard of you know and I'll be like okay never heard of any of those guys but okay and I say so how do you like you know when you when you're out there like do these guys beat you in deals all these little guys and they'll say no that we win every time against these guys. And I'm like, hm, how do you win? They said, oh, ease of use. If you look at all of them, it's clickity click, click, click. Takes 19 clicks to do a thing, but if you use ours, it only takes two clicks. So, all our positioning is around ease of use by us because it's more streamlined, easy to use, get it done fast. And I'm like, okay. And then I said, well, you ever lose to those guys? No, never. I'm like, well, you don't win every single deal. Like, you're a little we don't win every single deal. So when a customer when you lose, what happens? And they say, "Oh, we don't lose to those guys. We just lose to no decision." Ah, no decision. So, but the customer still has the problem. So, how are they solving it? They say, "Oh, they're just using a spreadsheet or they're hiring an intern to do it." Ah. Ah. So, your real competition is the intern. And you're positioned around ease of use. Do you know what's really easy to use? The intern is very easy to use. You say, "Hey, Joey, get me a coffee. Go out there, fill out the spreadsheet when you come back, you know, like like you're never going to win against the intern on ease of use." But the intern is bad at a whole bunch of stuff. Like the intern makes mistakes. The intern quits on you. The intern doesn't know the whole history of every interaction that you've ever had with this particular client. Like, there's all kinds of things that software can do that the intern can't do. So, but step number one is recognizing that you compete with the intern and not these 19 little things that frankly your customers have never heard heard about them. They're not putting them on the short list. All they're doing is saying, should we stop using the intern to use you? And so your positioning needs to answer that question. Why me versus the intern? Isn't that interesting? Because I could see exactly why that would work. We're so caught up in the business and our product and we're looking at the competitor, we don't take a deep breath, pump the brakes, and look around and say, "Well, wait a minute. What is the actual human dynamic going on here, right?" And you're competing with an intern. That's that's very interesting. Well, often in tech, this is often true. Like in tech, we often have two categories of competitors. So, we have whatever the status quo is, like customer, this isn't a new problem. Customers got the problem and they're solving it right now. They're just solving it with with, you know, band-aids and binder twine. They've got spreadsheets and junky old legacy stuff that was never meant to do that. And their IT guys are writing custom code to like, you know, bubblegum the whole thing together and it's terrible, but it does the job, right? And so, so you got to, but change into something else is effort. And so, you got to beat that. You got to beat the status quo. You got to say, why is this worth the effort to actually change and do something different? But when the customer does decide they're going to change, I mean, anybody good is going to say, well, I'm not just going to go with you because you're the first guy that called me. I'm going to look at it, make a short list, and I'm going to go through an actual purchase process. So, not only do you have to be you have to beat status quo, but you got to beat whoever lands on the short list. But, you know, if there's a competitor out there that you Googled them and you looked at their homepage, they look like they're just like you and they sound just like you, but they never end up on a customer short list. Guess what? They're not your competition. They're a ghost. You don't have to compete against a ghost. I don't have to position against that. I don't know why they're not showing up in deals. It doesn't matter. And if at some point in the future they do show up in deals, well then I can adjust my positioning to compensate for that later. But if they're not showing up on a on a short list, I don't have to worry about it. So if we're the starting point on this on a good positioning exercise when we're in tech is do we really understand what the status quo is that we're replacing and do we really understand who lands on a short list and a typical customer against us? That's our stake in the ground. That's the answer to the question. What do I have to position against? Or put another way, what do I have to beat in order to get a deal? That's fascinating. Do you have a third one? We were talking about the top three. Do I have a third one? Well, okay, here's the third one. This may be controversial and and this is probably not true in a lot of different industries, but it is absolutely true in tech is we cannot do positioning as a little project in the marketing department. If we do that, it will fail. And and I learned this the hard way from trying to do it as a little project in the marketing department. And here's what happens when you do that. You'll have your genius positioning and then you will walk over to the sales team and say, "This is how we're positioning it now. Here's the story I would like you to tell." Blah, blah, blah. And sales looks at that and says, "Yeah, no, don't get it. Don't believe in it. Don't like it. I'm just going to keep pitching it the way I pitch it now." And you'll get the same thing over in product management. You'll go over to product management and they'll be like, "No, disagree. Disagree. This is not why we win. This is not how we win. Disagree." And worst, the worst one is you have your founder and your founder is that not just talking to customers, your founder is talking to investors. Your founder is talking to all kinds of people and they got a completely different point of view on this. And you show up with your little marketing exercise. Here it is. And the founder's like, "No way. Don't agree." No. And then and then where you at? No place. That's where you're at. So trying to do this in marketing without getting buy in from the founder and product management and sales is a waste of your time. So if we're going to go fix this in a tech company, it needs to be a crossf functional exercise. I need to bring sales into the process and particularly sales, but I need to have if I've got a founder or a business unit leaner that cares a lot about the way this thing is positioned, they got to be part of the process, too. Because if they're not the positioning, you know, you might come up with gorgeous positioning, it's never going to stick. Well, this is very timely for us. And I sent you the output of our story cycle genie on your brand. Oh boy. So, you know, we are that that somewhat of that of that tech founder, too. Taking my branding process that I've worked over the last 20 years and, you know, put it through an AI and we've got our own proprietary story cycle genie now. And did you get a chance to take a look at what I sent you? I did not see anything from you, so sorry. Oh, okay. Well, I'll send it back over to you and take a look at it. But what I did, April, how did it go? Where did what tell me something I don't know about my own stuff. Let's hear it. Well, and what it did is we went and just simply uploaded your website, gave it to Oh, it's just a website. Most people don't find me from the website. No, but URL and then I did went to some of your book pages and so forth. Just did some intel on who you are. Gave it those URLs. And here's the first it first looks at it and here's the brand assessment and it's a a very short paragraph. Let me read it to you and see how it lands for you. April Dunford positions herself as the world's leading expert on product positioning for B2B tech companies. With 25 plus years of experience as a marketing executive at successful startups and having worked with 200 plus companies, she helps businesses clarify how they're different and better than alternatives. Her approach focuses on practical structured methodologies that align teams around positioning that makes products intuitively understood by customers. Through workshops, consulting, speaking, and books, she transforms complex positioning challenges into clear, compelling narratives that accelerate sales. All right. Did that capture you? Yeah. Yeah. Okay. For sure. Then it went on and by the way it ran it and it took about two minutes. And so then the next step is once it grabs your positioning it says okay who are April's top three audiences in order of priority and what does each audience what are their challenges frustrations fears and aspirations. So we won't go through all three of them but the first one it says is B2B tech executives CEOs CMOs CRO's. your number one audience. Yep. Their challenges. Articulating a clear, compelling story about why their product matters, aligning leadership teams around a consistent positioning strategy, translating technical features into meaningful uh customer value, and standing out in increasingly increasingly crowded competitive markets. Sound like the challenges that you help them overcome. I mean, all this stuff is is in actual copy on my website. So, yeah. So, it's pulling it and it's bringing it together. And what the Genie does is gives you a reflection of how you're showing up in the world. And then, um, what I've heard, I've taken about 70 brands through it now during our beta. It get does three major things for you. It helps validate, you know, the communication and how you're telling your story. It shows you the gaps in how you're telling your story. in that if it's not coming up with something that you know should be there means it's probably not prominent or maybe doesn't exist at all in your marketing materials. And then the final thing is it gives you fresh um inspiring ways to talk about your brand that maybe you hadn't considered before. So these first these challenges, fears, frustrations, aspirations, these are going to be the story leverage points that you would use to speak with your customers. So their fears, losing market share to competitors with inferior products but better positioning, missing growth targets and disappointing investors, making the wrong strategic bets on positioning and messaging. being perceived as just another commodity in their category. Their frustrations, marketing messages that don't resonate with target customers, sales teams telling inconsistent stories about the product, wasting resources on ineffective marketing in initiatives, and lengthy sales cycles due to poor market understanding. And then finally, April, their aspirations. What is it they want? So, we've talked about their pain points, but what do they ultimately want? Building a category defining company that customers instantly understand. Creating a clear, compelling story that the entire organization rallies behind. Accelerating sales cycles through intuitive positioning and commanding premium pricing based on differentiated value. Did it capture that fairly accurately? This is this is the big sales pitch for your product we're getting here. Sure it is. Of course it is. I didn't I didn't realize that's what I signed up for here. All right. No, he signed up for your brilliance. But what better person to to bounce this off of than someone who knows this stuff inside and out. You think that that I that I'm a I'm a you know, like my you know, I'm a positioning person, so it would be a bit surprising if what you got out of that didn't look like, you know, what the way I thought I was positioning. But you were you were the unicorn. Right. I would I'm a weird one for this. Right. But I would point that at anybody else's like a typical company's website. There's going to be a lot of stuff there that they're surprised about. Yes, there actually absolutely is. And it wrote this unique value prop for you. And that is practical positioning that makes your unique value obvious. Is that something that you say on your website or is that something it just like the name of my book is called obviously awesome. Okay. So it's placing. So it's coming and giving you then that's coming from Yeah, that's coming from my copy on my website. Yeah, I tell you it's interesting like most folks it's a thing that you get into sometimes with tech companies like what is the job of the website? And sometimes in in big ticket B2B stuff, the job of the website is to clearly communicate the value, right? why I pick us over the other folks. Um sometimes the job of the website's not quite that like so so for example sometimes what we have is product like growth motion. So there's a free product available on the website and so the job of the website is to get people into that free product as quickly as possible. So, you might have, let's say, two big value propositions that you really lean into that are really important that would convert a trial customer to a paid customer, but you may not need to go deep into those two things to get a customer into the product. And then the goal is once they're in the product, then I'm going to hit them with all my other stuff or I'm going to allow them to to discover this stuff in my product that that then converts them. Or similarly sometimes what I have is I'm trying to get end users into the product but the sales motion is actually nothing to do with end users. So there's a company that I work with called Postman. They have an extremely popular free tool uh to do API testing. Their paid thing that they make millions of dollars on uh has nothing to do with API testing alone. It's actually a platform for developing, testing, deploying for everything, the full life cycle of everything you want to do in an API. So if you were to analyze their website, you might be like, "Oh, I don't know if this is good positioning or not." Because the website is partially tuned to get you into this free thing. And then what they do is they look at who's what companies are using a lot of the free thing. And then their sales teams are coming in way over top of the end users at a sea level and saying you guys have APIs. You're doing a reasonable investment in testing those APIs. There's a lot of things that impact the quality of an API upstream and downstream from the API testing. What you actually need is a platform that manages the full thing and that's going to help you deliver higher quality APIs and do it faster. Now you don't necessarily get that story on the website because that is not their go to market motion. Mhm. So we have to be really careful on things like this that we understand what's the job of the website and is the website doing its job because sometimes people come to me and say you know if we don't have a perfect representation of the positioning on the homepage then we've done something wrong but I can think of a lot of examples where that's not the job of the homepage actually the job of the homepage is something slightly different but anyways this is this is like the positioning 501 conversation better versus positioning one-on-one conversation. But in tech, we have all these weird examples where, you know, the job isn't exactly that. Even if I think of my own website, and I've done some thinking about this, the majority of the folks that hit my website are all come to my website because they've read my book. They find out at the book about the book, not on my website. They find out about the book either word of mouth from other people that have read the book or other companies I've worked with or whatever. Or they've seen me at a conference, but they don't see me at a conference and go to my website. I don't think that ever happens. I think they see me at a conference and they go, "That sounds interesting. I should buy that book." And then they read the book. And then they don't come to my website until they're in a jam. So they they read the book and then they're like, "Oh, we're in a jam. We should call that lady." And they don't call just me, they call lots of other people, too. But I get on the list, right? Because they read the book or whatever. And then they get to the website and then they talk. And so is my job doing a good job of that? I don't know. I don't know. You know, I don't spend a lot of time worrying about it, but but maybe I should spend more time worrying about it or not worrying about it, but just paying, you know, maybe attention to it. And my question for you, April, is you work with hundreds and hundreds and hundreds of companies. How often when you get a new engagement, you go and you look at their website to learn more about them and it's unclear, it's not concise, it speaks from the brand's perspective, not the customer's problem perspective. And you see that there are because you're a storyteller as well, you know, with your second book with sales pitch that they're just not sharing a good, clear, compelling story. Well, so one thing I've learned from working with B2B tech companies in particular is this isn't like selling toothpaste. Like generally the companies I work with are, you know, selling hundreds of millions of dollars of a very specialized thing to a very specialized audience. And that audience isn't me. Like I'm not a typical buyer. And so generally I'm not in a great position to look at the website. So one I need to understand the whole go to market motion to understand what the job of the website is and then two I need to understand like well who are the competitors and how are they trying to differentiate from the competitors and then who are the buyers and what do those buyers consider to be valuable or not valuable? What do those buyers understand or don't understand? So, for example, if I'm selling to a very technical CIO at a bank, I can use a bunch of technical terminology that I wouldn't use if I was selling to the director of sales at, you know, a retail company. And so just looking at the website because I I see this a lot with like inexperienced folks that are in marketing. They'll say, "Oh my god, look at that website. It's so terrible. It's got all this jargon in it. You know, it you should be writing so that your grandmother understands it." And I'm like, "I don't know. If I'm not selling a grandmother's, do I really have to be writing it so my grandmother understands it?" So when companies call me a lot of times they'll ask me they'll say what do you think of the website and I'll say I don't know enough yet to evaluate your website because in order to really evaluate it what I need to understand is you know one's the job of the website and then two who do you compete with how do you you know what do you got that's different what is your differentiated value who's the the buyer the champion in a deal to make one of these deals happen and what do those people care about And once you have all of that, then you can back up and look at the website and say, "Okay, no, this is working or yeah, you know, this is actually kind of getting at it, but we could probably improve it." In the workshops I do, what we do is we assemble a cross functional team and we work through this process. And I generally come in with a little bit of an inkling of where I think the positioning is is weak and where I think it's strong. But I am very often surprised. I'm very often surprised that when we get to the value step of this, very often there's information that comes out from folks on the team that you wouldn't know unless you were in the trenches with this product, selling it every day to the kinds of customers they're selling to. And so I try to keep a kind of, you know, open mind about it as we're working through the workshop because I don't think I'm qualified to go in and say your positioning needs to look like this. I need to suck the deep expertise out of the team that has been working on it. And you know, if you have a sales team, I've got salespeople that have been in lock step with a customer everywhere along a purchase process. So, they know a lot. They know what status quo is that they're coming off. They know how they made the short list, why they made the short list. If they get chosen, they know why they get chosen. If they don't, they know why they didn't get chosen. Product management, on the other hand, knows a lot about differentiation. They know who the other customer, who the other products are in the market and what the differentiators are and you know we do it this way but those guys do it this way or we have this feature and those guys don't have that feature. Marketing understands a lot about how to get a prospect's attention in the research phase of a purchase process when a customer is just trying to figure out what do they need to know, what do they not need to know, what's going on. And then you've got the founder CEO which you know usually has this kind of depth of understanding of you know the whole reason we built this thing in the first place man was because of this and they've worked with a ton of customers maybe not recently but you know they have a real point of view on this too. And so I got to get all those people in the room, suck all that information out of them, and then I got to have a process that allows us to build this positioning that kind of keeps everybody's sort of opinions out of it, and we're sticking to the facts of the situation. So that's kind of how I work with this stuff. No, I love it. And and that works with big and small enterprises alike, right? So sometimes you're in there working with big vast sales teams and marketing teams. And I imagine other times you're with a fivep person quote unquote startup trying to help them get there. Yeah. Most of the companies I work with now are bigger. Like when I started I did a lot of small small companies, but one of the things we have in in in tech products is that you know it we start with the we build the product with a positioning thesis whether we're conscious of it or not. Right? So we built this product to be you know this thing in the market against these other products and this is how we thought it was going to win and then we launch it. The first wave of customers in a B2B tech product is really all about validating your thesis. Like were you right? Like you know we thought little quicks serve restaurants were going to love our stuff but then when we launched it it turned out you know family style sitdown restaurants like our stuff more and so we felt more market pull there. So we're going to go explore that. Well, do we have the right product for that? And how would it work? And can we can we reach those people? Can we do it at scale? How big is that market? Can we actually make our sales target if we just focused on that? All this stuff has got to happen. And so in the early days of a tech company, again, it's not like toothpaste, right? Where you just launch it and it either wins in the market or it doesn't. And if it's a failure, it's a big old flop, right? In tech, we often adjust the positioning a lot in the early days of a product because we're like, "Oh, well, you know, we were basically right, but you know, but it turned out this little thing we didn't consider and so now we got to we got to change for that." So, I don't think it it companies like that have a brand new thing in the market and haven't been through that first wave of customers where you can really learn who loves our stuff and why. I think it's too early to bring in a consultant and pay money to try to tighten up a thing that is probably going to change in two weeks when you close two more deals and you learn something else. So most of the So I generally disqualify little guys now. Like if I don't think they have enough traction in the market like I'm like look like you don't want to pay someone to build a thesis. Like what you want is you you you just want to go close 10 more deals and then the positioning will either be obvious or it won't. But you'll at least be starting to see the patterns and if you can't figure it out, come back to me. So most of the companies that I work with are in market. They've got a little bit of traction like and and generally, you know, if they're coming to me, it's it's at a minimum it's a few million revenue. And then I would say right now I'm working more with companies that are like 100 million, 200 million, 300 million revenue. Sometimes really really big, you know, a division inside a really really big company like an IBM or a Google. and and the pro the the positioning problems are slightly different. They're now trying to figure out the initial positioning at that point. They've got positioning that worked up to a point, but now we have new competitors in the market. Maybe we've come out with something that's really new and different and we're going to have to adjust the positioning to account for that. Maybe we've done an acquisition. Maybe we're thinking about doing an IPO and we want to tell this maybe kind of bigger story like so you know a lot of times what I've got is a really big company they've acquired three or four little things and smooshed them together into a business unit and said okay sales people go sell this and the sales people are like I don't know how these three things come together man like you tell me what that story should be they all look different to me um so we're usually working on problems like that can a startup in during their beta testing uh providing they have a large enough cohort in that beta test get a good sense of their positioning for their product and they think it's one thing going into the beta but then their customers are saying no actually it does that that's good but I really like it for this well you got to be a little bit careful um that you don't start building a custom product for one customer you know that's called you know custom development and we don't want to do that so we're trying to build a product that's you know that we can sell to a whole market. So you're right, we need to get enough signal and we might get some feedback the customer will say well I would have bought that if if it had had XYZ but then you find out well they're weird you know and they want XYZ because they're weird but there's this whole other part of the market that doesn't care about XYZ and we could sell to them all day. So that's what you're trying to do. Like you're looking to validate this thesis. So if the thesis says, well the the value is this, therefore these kind of customers should be really easy to close because and then you get out there and you find like they're actually hard to close like you know they're like well I don't know I don't really get it and I don't know why wouldn't I just do it this other way or whatever and you're just not feeling the pull. Then you're gonna have to go fish in other ponds and see, well, okay, you know, maybe that maybe that value wasn't as valuable as we thought it was, or maybe that customer was type of customer wasn't as easy as we thought it was. It's not usually in the early stages of a product, we'll get a lot of nos, right? And we often don't get truthful answers about the no. So, so I think it's a mistake to take the nose too the feedback you get on the nose too seriously, right? Because a customer will say, "Well, I didn't pick you because you were too small and it was too risky." But what you know, but it turned out they were never really considered you, you know, they just put you on the list because, you know, purchasing told them they had to look at three products and you were easy to them, right? So, they had already made up their mind or they'll say, "Oh, the thing was too expensive. We didn't have the budget." or you know or you know they'll give you all kinds of reasons but the no the reason is not always the truth you know because they didn't buy from you. They got no skin in this game. You come and say well why didn't you buy they'll just tell you whatever to get you off the phone. Flip side of this if you're looking at the yeses like if we have a brand new product in a brand new market the yes is like a miracle. And yes, it's like, oh my gosh, somebody wants to buy our thing. This is a precious, precious miracle and we should understand everything about that. Like, how did we make it on the short list versus all these other established competitors? Why on earth did they put us on the short list? And then they evaluated us and they picked us. What the heck happened there? And we should understand all about that. And is there something about that customer that made them a really good fit for our product? and can we go out and find other customers like that? So, in the early days, I think we're really looking for what we call win analysis as opposed to loss analysis, which, you know, we're going to lose 90%. Just it's a brand new product. It's amazing anyone buys it. So, so I think we find out a lot more from the ones that where we're winning that we come in and we say, "Okay, what you know, we'll work. Why why' you like it? Why? like take me back like what were you doing before and what made you wake up in the morning and decided you had to do something different and then how the heck did we make it on the short list and who else made it on the short list? Why'd you pick us? And here's a good question to ask. Why not the other guys? Because sometimes the other guys stepped in it and that's why you won. It's not so much that you won, the other guys lost it because they couldn't do something or they did something wrong. And all of this stuff is really is really important to understand when you're thinking about in the early days of a product like where are we going to focus? What's the best target market for us? What should we be building in the product to strengthen that to strengthen our position in that beach head market? That's what we're trying to figure out. Yeah. At the top of the show, you had mentioned that very first uh product that was failing and you had a hundred users and you were reaching out to talk to them. What in your experience, what number of users early on, how many do you have to get before you can really get good intel of what's working and what's not? Yeah, this is a great question. In my opinion, so first of all, it's often not users that we want to talk to. What we want to talk to is a buyer. But in B2B tech, you know, a typical B2B tech purchase doesn't get made by a single person. It's a it's like a group. And if we look at the research on this, a typical B2B enterprise software deal, that group is anywhere from from five to a dozen people big. So we've got this, you know, 12 people who impact this deal. And so let's say, for example, I'm selling something to the sales team, you know, to make the sales team more effective. Well, I've got the champion of the deal is usually the person that got assigned to go figure this out. So, you you know, maybe you have the vice president of sales that wakes up and says, "You know what I hate? I hate this CRM. Let's get rid of this stupid thing. John, you go figure it out." And John's like, "Ah, crap." Okay. And and so John is now the champion of this deal. He has been tasked with doing the research, making a short list, figuring it out. his boss, the VP sales, that's what we call the economic buyer. That person's going to write the check and ultimately, you know, this this champion has got to go to the economic buyer and convince them. But, you know, but that it's the champion of the deal is going to decide whether or not you get on the short list. The champion of the deal is then once they've made a short list and figured out who they want to look at, they got to run around and convince everybody else. So probably because they're not IT, but this thing is IT, they they probably have to go over to it and say, "Hey, I'm thinking about buying this CRM." And it is going to go, "Well, does it meet our security things? And does it integrate with our ERP and does it do whatever? And if it doesn't do these things, I'm going to say no." Right? And then they got to go talk they then maybe they got to go talk to users and the sales team is like, "We don't like it. It's too hard to use." No. Right? And maybe they got to go to purchasing and purchasing says, "Well, did you do your homework and does it meet the whatever and did you negotiate whatever?" Because otherwise we're going to say no. So think about it this way. I got this champion person and my positioning really really has to resonate for them because if it doesn't resonate for them, I don't even get to talk to anybody else. And so I got to so when I'm doing this workshop and I'm thinking about this positioning, it's got to really resonate for this champion person. And then our job in marketing and sales is to arm that person to handle the objections of everybody else. Now coming back to your so this is my little preamble coming back to your question like how okay so how many how many deals you got to do before you know like you know how many customers you got to talk to before you know you've talked to enough. Well, sometimes we are selling a thing that's like a thousand bucks and and this deal isn't very complicated. You know, there's a there's an economic buyer, there's a champion, maybe they talk to one other person. It we get this deal done in a month and with maybe two sales calls. Well, if that's true, there's probably a lot of variability in the customers and so I'm going to have to talk to more customers because they're all kind of different. Whereas, if I'm selling a thing that costs $5 million and it takes me a year and a half to close, I'm not going to have that many customers. But that's okay because I'm making $5 million on every single one. And those customers tend to all sort of look the same because that's just the way that stuff works out. So, companies will often come to me and they'll say, "Well, I don't know, April. Do you think we've done enough deals for you to actually tighten up the positioning and let's go? And and they'll say, "How many deals should we do?" And I'm usually asked them, "How big's the deal? How long does it take? Do the customers seem uniform?" Like, if they're all the same and you can see that repeatability, then I probably don't need that many because they all kind of look the same and they all behave the same way and they all have the same sense of value. Um, but if I'm doing a whole bunch of little deals and they all sort of look this different, like, you know, they're in different industries and it's different buyers and different personas and everything looks different and I can't see the patterns, then I think that's going to be very hard to position and the company maybe needs to do more until they start seeing these patterns pop up. So, I've done I've had companies call me and they've got 500 600 customers and I don't think they have it because the customers all look wildly different. Yeah. But I've had other company I worked with a company once that called me and they said, "Well, we only have three customers and so maybe we don't have enough." And and I said, "Well, h how how long does it take you to close a deal?" And they said, "18 months." And I was like, "Wow, that's a long time." And they said, "Yeah, they're pretty big deals, though." And I said, "Well, what's your revenue?" And they only had three customers and their revenue was 35 million. Not bad. So it also meant that they had about a dozen deals in the pipeline because you know takes you 18 months to do a deal and those deals were far enough along that we know a lot about those companies. So it wasn't really three it was really three plus a dozen and in that case it was like and they all look exactly the same. They were all big call centers all big call centers kind of using it for the exact same use case. All the thing I was like yeah okay that sounds like enough we could go do that. Yeah, because in our beta we've put about 70 brands through it and they are across different industries. It could be agencies, it can be soloreneurs, it can be, you know, nonprofits are going through it, whatever. And we are getting, you know, a lot of great feedback, but we're definitely seeing trending in what they value even though they're in a lot of different industries, right? Well, what and what you might find is that and we think about this a lot in tech, right? What we might find is, oh, these folks over here love me this way and these folks over here love me this way. There's some commonality in that. So sometimes you're selling something that's horizontal, like I spend a lot of time selling databases. This is a fundamentally horizontal technology. It doesn't matter if you're in banking or retail or in whatever you know you're using a database and kind of fundamentally the same way. But that said, we generally worry a lot about segmenting the market out. so that we can focus on in the short term on the folks that are the easiest to sell to, right? So, you know, for example, I you know, I worked on this database and this database was particularly good at a particular kind of query with a particular kind of data. And our original assumption was anybody that had a lot of data would want this thing because it did these queries on this giant amount of data really, really fast. But what we found was if it was machine generated data and you needed the answer to that query to do customer service because a customer was calling in and wanted the answer to it, those folks that was a hair on fire problem and it was really easy to sell to them. If it was like a bank and there's some weird query that they only run once a month and yeah, it takes a long time to run it. We have to run it over the weekend but who cares? We only do it once, you know, and so they had the problem. it just wasn't a hair on fire problem and so they were harder to sell to. We sold a couple of them. Um, but we spent our marketing and sales efforts on these ones that were like, "Oh my gosh, if you could, you know, if you could solve this problem, we'd serve our customers way better. It would save us a lot of hassle. We'd make a lot more money. We'd have way happy customers." You know, there was its immediate benefit. So sometimes when you have this thing, it's worthwhile to lean back and say, you know, is there a segment of this market? We know lots of people love us in lots of different ways, but is there a segment of this market that goes, "Whoa, that that's awesome." And can we peel them off and just focus on them? And we'll get to the rest of the market later. Um, but we'll focus on these folks first because they're I spend less marketing dollars getting them in the door. I spend less sales effort getting them closed. They're they really get the value so they don't ask for a discount. Like they close really fast. They renew. They tell their friends about us. like this is what you want your pipeline to look like in the early days. Well, isn't that it? I mean, repeat business and word of-- mouth marketing. They love you and they love what the problems you're solving for them. They're going to share that with their world. Yeah. Yeah. Well, April, this has been absolutely a master class on positioning. Thank you. Thank you so much. And if you like, I will send you back again the uh Genie report on your brand. And I wasn't surprised that it nailed it because your copy is very, very good, but it's an outlier. It's, you know, you position yourself very well. Be an outlier on that one. Absolutely. Where can people learn more about you? It's aprdunford.com, man. Come in and look at my uh glorious positioning. Absolutely. Well, April, thank you so much. I really appreciate it. All right. Well, thanks so much for having me. [Music] Thanks for listening to this episode with April and it just underscores that B2B doesn't have to stand or should it stand for boring to bored. So excite your audiences with a clear brand positioning. And if you know of anyone else that would benefit from April's advice and please share this show with her. If you do me a favor and jump over to iTunes and give us a rating and review, I'd hugely appreciate it because it helps us get found in the noisy world out there, of course. And if you are ready to define and refine your brand story with our story cycle genie, then register for the launch today at businessofstory.com/story cycle- genie. There are a ton of bonuses in there, including free access to our ABTs of storytelling micro training course. You'll get a free digital copy of the narrative gym for business and a free digital copy of my brand bewitchery book plus an amazing discount on the launch. So, just head over to businessofstory.com/story cycle- genie. And I hope you'll join us next Monday when the author of Neuro Branding, the new book by Rand Vic of LA's Vic Agency, shows you how to not just get attention for your brand, but become immensely memorable by tapping into the deep reaches of your prospects and customers brains. That's all next week right here in the business of story. And until then, remember that the most potent story you will ever tell is the story you tell yourself. So make that one epic. Thanks so much for listening. [Music]
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:03] As a B2B brand leader, you know that
+[00:06] clear, compelling market positioning is
+[00:09] everything. If you can land your product
+[00:11] in the mind of your prospects with
+[00:13] precision, then you stand a fighting
+[00:15] chance in even the most crowded markets.
+[00:18] But let's face it, getting your position
+[00:20] right is hard. Because if you can't
+[00:23] explain what makes you different, then
+[00:25] you risk becoming just another option
+[00:27] that gets ignored. Hi, I'm Park Howell
+[00:30] and welcome to the business of story.
+[00:33] Today you'll meet April Dunford, startup
+[00:36] exec turned positioning powerhouse.
+[00:38] She's helped over 200 B2B companies
+[00:42] sharpen their message, launch winning
+[00:44] products, and drive billions in
+[00:47] acquisitions. April unpacks the proven
+[00:50] frameworks behind her bestsellers,
+[00:52] obviously awesome, and sales pitch to
+[00:55] help you craft positioning that sells.
+[00:58] So whether you're scaling a growth stage
+[01:00] startup or leading a legacy tech brand,
+[01:03] you'll leave this episode with the tools
+[01:05] to own your space in the market and tell
+[01:09] your brand story in a way only you can.
+[01:12] So let's dive
+[01:17] in. Good morning, April. Welcome to the
+[01:20] show. It's great to be here. Thanks so
+[01:22] much for having me. Well, my good friend
+[01:24] Sean Schroeder, who I've been working
+[01:26] with on our story cycle, Jeanie, said,
+[01:28] "Boy, you've got to track down April and
+[01:30] see if she would come in and talk about
+[01:32] her expertise and brand positioning."
+[01:34] So, I'm just delighted that you're here.
+[01:37] That's awesome. Oh, good. And I love the
+[01:40] fact I was looking through your bio work
+[01:42] and whatever, and I love superlatives. I
+[01:44] mean, I once had a client say, "Park,
+[01:45] you're like the most industrious
+[01:47] storyteller I know." So, I took that and
+[01:49] I said, "Yeah, I'm going to run with
+[01:51] that." And I liked yours when it's like
+[01:53] the world's leading B-toB business
+[01:57] positioning expert.
+[02:02] Yeah, it's a biggie. But I'll tell you,
+[02:05] the work I do is actually quite narrowly
+[02:07] focused. Like I only work with tech
+[02:09] companies. I only work with B2B tech
+[02:12] companies specifically. So I don't do
+[02:13] any consumer. I I don't even I don't
+[02:16] even work with a B2B tech company that
+[02:17] doesn't have a sales team. Like if
+[02:19] you're selling a $100 thing off the
+[02:21] website, but you happen to be selling it
+[02:22] to businesses, that's outside of my
+[02:24] wheelhouse, too. So, it's actually quite
+[02:26] narrow. And I've been doing this for
+[02:27] about 10 years. And in that 10 years,
+[02:30] I've worked with 300 odd companies. So,
+[02:34] so I do feel like I've done more of this
+[02:36] in my tiny box. The box is tiny, but in
+[02:39] my tiny box, I rule the tiny box. Well,
+[02:43] well, but doesn't that make sense from a
+[02:45] brand positioning expert that you've got
+[02:47] to niche it down and and design a
+[02:49] category, own a category with your
+[02:51] particular niche? Well, that's it. I
+[02:54] mean, you know, it'd be kind of funny if
+[02:55] I didn't know how to position myself.
+[03:00] So, so I would Yeah, then you probably
+[03:03] shouldn't be hiring me.
+[03:05] That was the truth.
+[03:08] Well, I've been in the branding
+[03:10] marketing world for, you know, 40 years.
+[03:12] And April, I've worked for small
+[03:13] agencies and I've done literally
+[03:16] everything in the in the advertising
+[03:18] world. And I really found my niche was
+[03:20] about brand story creation. It's the
+[03:23] thing of taking something complex and
+[03:25] simplifying it so people get it. Of
+[03:26] course, positioning is a big part of
+[03:28] that. So, it's not a surprise that you
+[03:30] have found yourself as this expert. Can
+[03:33] you give us a little bit of a backstory?
+[03:35] Because I imagine you didn't wake up as
+[03:37] a young lady and say, "I'm going to be a
+[03:39] positioning expert." Oh, heck, I sure
+[03:41] didn't. I actually I actually in
+[03:43] university, I studied systems design
+[03:45] engineering. So, you know, I I decided I
+[03:48] was going to go into tech, but I didn't
+[03:49] think I'd even think I'd end up over in
+[03:52] the marketing side of the house, but
+[03:53] it's kind of how it worked out. So, when
+[03:55] I graduated, I got a job at a startup,
+[03:58] and this was a long time ago. Like,
+[04:00] startups weren't cool. We didn't even
+[04:01] call them startups back then. We called
+[04:03] it a small tech company is what we
+[04:06] called it. And the job that I
+[04:08] had was product marketing which is you
+[04:12] know te you know back then sometimes
+[04:14] that would be a marketing job but
+[04:16] generally not and the requirements for
+[04:18] this job was you know we were selling a
+[04:20] database so we're selling a kind of a
+[04:22] techy thing to fairly technical people.
+[04:24] So the requirements for this job is you
+[04:26] needed to be uh unafraid of public
+[04:29] speaking and I ticked that box and you
+[04:32] also needed to be able to write an SQL
+[04:34] query and I could do that. So I then my
+[04:38] friend worked there and so she got me
+[04:40] the job and then that company so the I
+[04:44] got assigned to market a product or be
+[04:47] the product marketer for a product. So a
+[04:49] lot of what I was doing was supporting
+[04:50] the sales team. Anyways, we had a
+[04:53] product that was unsuccessful, let's
+[04:56] call it that way. Like it was a bit of a
+[04:58] dog. It never sold well when we launched
+[05:00] it. And what we ended up doing was
+[05:02] repositioning it. I didn't know that's
+[05:04] what we were doing. Nobody called it
+[05:06] that. I don't think anybody understood
+[05:08] that's what we were doing. But we were
+[05:10] going to end of life the product and we
+[05:12] thought we would mess around with it a
+[05:14] little bit and see, well, maybe, you
+[05:15] know, maybe we could talk about it in a
+[05:17] different way. Maybe we could aim it at
+[05:18] a different kind of customer. maybe we
+[05:21] could sell it in a different way. And so
+[05:23] we repositioned it and that product took
+[05:25] off became quite successful. We got
+[05:28] acquired by a big big database company
+[05:30] in California and then after the
+[05:33] acquisition my boss was the rich guy
+[05:36] then so he quit and and they made me the
+[05:40] vice president of marketing which is
+[05:41] hysterical because like I can't even
+[05:43] spell marketing at this point. and and
+[05:46] then they transferred every crummy
+[05:48] product they had in the company over to
+[05:50] me and said, "Can you fix these
+[05:54] two?" I was like, "Oh man, I don't even
+[05:57] know how we fixed the first one." And so
+[06:00] I embarked on this kind of yearslong
+[06:03] journey to figure this out. So, you
+[06:06] know, I had coffee meetings with a lot
+[06:09] of smart marketing people. I it was
+[06:12] working for a big company, so they had a
+[06:14] training budget. So I did a little
+[06:15] postgrad marketing work uh took some
+[06:19] courses, read a lot of books and um and
+[06:22] and discovered this thing that I had
+[06:24] done was called positioning. So that
+[06:26] kind of started my interest in this
+[06:28] stuff like and in particular I've always
+[06:31] been really interested in how do we
+[06:33] actually get it done in my context which
+[06:36] is you know I'm selling a big ticket
+[06:39] complicated technical product to very
+[06:43] smart educated people in markets that
+[06:46] are extraordinarily crowded and so how
+[06:49] do we position something so that it
+[06:51] actually wins in the market so yeah so
+[06:53] that's how I ended up here it was a
+[06:55] weird
+[06:56] side detour, but here we are. On that
+[06:59] first go at it where you needed to
+[07:01] reframe, reposition that product. Do you
+[07:04] feel like you got lucky or do you think
+[07:06] it was in intuition? There's something
+[07:09] that you innately understood and didn't
+[07:11] realize it. It was definitely not
+[07:13] intuition. Let me tell you that. Um
+[07:16] there was there was obviously a bit of
+[07:18] luck, but mainly how we did it was
+[07:20] customer feedback. So we had a we had a
+[07:23] product we had sold a hundred of them
+[07:26] and uh and because what kind of product
+[07:30] was it? It was a well so the original
+[07:33] positioning on this product was we
+[07:36] thought what it was was a was a
+[07:39] spreadsheet on steroids. So this is a
+[07:43] hopped up spreadsheet where you could do
+[07:45] database things with it. So you could
+[07:48] write a SQL query in the spreadsheet and
+[07:50] do things like an inner and outer join
+[07:52] on a table and all this cool database
+[07:55] stuff. Nothing more sexy than a
+[07:57] supercharged database spreadsheet. It
+[07:59] was an awesome spreadsheet thing. And so
+[08:01] we had we now we had another product
+[08:04] that sold a lot that was a compiler. So
+[08:06] we were selling we already had a product
+[08:08] we were selling to techie people. So we
+[08:10] had gone and talked to these people and
+[08:11] said hey would you like a spreadsheet
+[08:14] with SQL query stuff? And everyone said,
+[08:17] "Yes, we would love that." And then we,
+[08:20] you know, so we built it and and and we
+[08:22] sold a hundred at $100
+[08:27] each. So this is nothing. This wouldn't
+[08:29] even pay for one developer. We had five
+[08:31] developers working on the thing. So this
+[08:33] is an absolute failure. And so, you
+[08:36] know, we expected to sell like 100,000
+[08:38] of them and, you know, we sold a
+[08:39] hundred. So everybody was disappointed.
+[08:42] And and so they gave me the job because
+[08:44] I'm the new gal. They said, "Look,
+[08:47] here's the customer list. Call everybody
+[08:50] and find out how disappointed they're
+[08:52] going to be when we turn the thing
+[08:55] off." And I said, "Okay." So, first of
+[08:58] all, I'm calling developers. Like, do
+[09:00] you know how much developers like to
+[09:01] talk on the phone? They don't answer.
+[09:04] Not at all. They don't answer the phone.
+[09:05] They don't want to talk to me. So, I'm
+[09:07] calling. Nobody's calling me back. It
+[09:08] was very depressing. I'm sending them
+[09:10] emails where I have email addresses. I'm
+[09:12] sending them emails, but they're not
+[09:13] responding to my emails. And I finally
+[09:15] got a bunch of them to talk to me. And I
+[09:17] used a full-on damsel in distress line.
+[09:21] Like I would leave them this the world's
+[09:23] most pathetic email and say, "Look, I'm
+[09:26] brand new here." And they're going to
+[09:28] fire me if you don't call me and talk to
+[09:30] me for five minutes. And that actually
+[09:33] worked. And then I talked to I talked to
+[09:37] uh almost a hundred of them. And so I
+[09:39] said, "Hey, what what you doing with
+[09:41] this product?" and they would and and so
+[09:44] so we had this thing. I forget what we
+[09:46] originally called it. We changed the
+[09:47] name at some point when we repositioned
+[09:49] it, but I said, "Hey, uh, you bought
+[09:51] this thing. I just call in to see what
+[09:53] you're doing with it." And they said,
+[09:54] "No, I didn't buy
+[09:56] that." And I'm like, "Well, yeah, you
+[09:58] did actually. I I've got the record of
+[10:00] it here, like, you know, on this date
+[10:02] you bought this thing. You know, it's
+[10:04] it's a spreadsheet. It does SQL." And
+[10:06] they go, "Oh, that thing. Yeah, it
+[10:08] sounded cool. We, you know, we bought
+[10:10] it. We messed around with it a little
+[10:12] bit, but you know, and then we then we
+[10:14] stopped juicing it. And I'm like, okay,
+[10:16] not going to be sad when we turn it off.
+[10:18] I'll put you in that bucket. And so I
+[10:21] did like 20 calls like this and and 20
+[10:23] pe 20 people that didn't even remember
+[10:25] they bought it. So I'm like, okay, this
+[10:26] product is terrible. We're going to shut
+[10:28] it off. No one's going to cry. But then
+[10:30] I did call
+[10:31] 21. Call 21, very different. So I get on
+[10:34] the call and I'm like, hey, uh, I'm
+[10:37] calling you from WCom. you know, we sold
+[10:39] you this thing and and the guy says,
+[10:41] "Oh, I love you guys. You guys got me a
+[10:44] promotion. Like, I this is the best
+[10:47] product ever." And I was like,
+[10:49] "Really?" And then he gave me this big
+[10:52] story about what he was using it for.
+[10:54] And it was interesting. So, this was,
+[10:57] you know, 20 years ago, and it was in
+[10:59] the early days of sales teams going out
+[11:02] with a
+[11:02] laptop. Before that, sales teams had
+[11:05] they didn't have a laptop. And these
+[11:07] folks were selling a thing and they had
+[11:09] a catalog of products that they sold.
+[11:11] And the way it worked was they had an
+[11:13] order system in the office and it was
+[11:16] running on an Oracle database and they
+[11:18] could put in orders in the office but
+[11:20] they started giving the the reps these
+[11:22] laptops to go on the road but you
+[11:24] couldn't do an order on the road because
+[11:26] you know that the Oracle database didn't
+[11:28] work on the laptop. So what they did was
+[11:30] took the order they'd write it down in a
+[11:32] word document or something. Then they
+[11:34] get back to the office and they would
+[11:36] re-enter it into the order system and
+[11:38] they always forgot something or they got
+[11:40] it wrong or they made a mistake or
+[11:41] whatever. So what this guy did was he
+[11:43] took our little little spreadsheet SQL
+[11:46] spreadsheet thingy and he wrote a little
+[11:48] app on top of that and what they could
+[11:50] do was put in the order and then when
+[11:53] they got to the office they plug the
+[11:55] laptop in and it could sync with the big
+[11:58] Oracle database because it had that SQL
+[12:01] stuff going. So he tells me this big
+[12:03] story and I'm like, "Wow, dad's great."
+[12:06] You know, and I'm like, "Oh man, he's
+[12:08] going to be sad when I tell him we're
+[12:11] shutting it off." But anyways, I didn't
+[12:13] tell him. And so I just put him down in
+[12:15] the, you know, weird people that like
+[12:17] our stuff box. And so far there was only
+[12:19] one person in there. But so I did 20
+[12:21] more calls. 20 more people didn't know.
+[12:24] And so in the end I did a hundred, but
+[12:26] then I got another one. And and the guy
+[12:29] says, "Oh, I love it. It's amazing. you
+[12:31] guys made me a rockstar in the office.
+[12:32] And I said, "What are you doing with
+[12:34] it?" And he said, "Well, we got these
+[12:36] field service people and they have these
+[12:38] ruggedized tablets and they got to do
+[12:41] field service stuff, but the big
+[12:43] database is back in the office." So now
+[12:45] they can actually do it on the
+[12:46] ruggedized tablet because we wrote a
+[12:48] little application and then you can come
+[12:49] back and plug it in and it's so cool.
+[12:51] You guys have that SQL thing and blah
+[12:54] blah blah. And I was like, "Oh man,
+[12:55] here's another one." So I put them in
+[12:56] there. So I did 100 calls and I had like
+[13:00] four or five of these folks. So then I
+[13:02] had to have the meeting with the execs
+[13:03] and I'm like good news bad news
+[13:04] situation here people right the good
+[13:06] news is
+[13:09] 92% of the customer base is not going to
+[13:12] care when you shut this thing off but
+[13:14] let me tell you there's 5% out there
+[13:17] that is going to ball their eyes out
+[13:19] because they really love this thing
+[13:20] because they're doing this thing. So
+[13:22] then we had a big conversation about it
+[13:24] and said, "All right, like what if we
+[13:28] positioned it for that?" Now think about
+[13:31] this. Think about it. This isn't just
+[13:34] changing the pretty words in the
+[13:36] marketing copy. So now I'm going to sell
+[13:40] this thing as essentially an embeddible
+[13:43] database for mobile
+[13:45] devices. How would I sell an embedible
+[13:48] database for mobile devices? Well, I
+[13:49] come in and sell your whole sales team.
+[13:51] I'm not selling you a onesie twoosie off
+[13:53] the website. I'm going to come in and
+[13:54] sell you a hundred of these or maybe a
+[13:56] thousand of these all at once. And so
+[13:59] I'm going to need a salesperson to do
+[14:01] that. I'm going to need to change my
+[14:02] pricing. I'm going to need the whole go
+[14:04] to market on this thing has to change.
+[14:07] And so the this company, the cool thing
+[14:10] they did was they looked at that and
+[14:11] said, "Well, let's try it out." And so
+[14:14] we hired one sales rep, repositioned the
+[14:17] thing, messed around with the pricing a
+[14:19] little bit. Um, we added a couple little
+[14:22] features to make it work better in that
+[14:24] situation and then let the rep go do it.
+[14:27] And at the end of the first month, he'd
+[14:28] sold 3,000 of these things. Wow. And
+[14:31] we're like, "Oh man, this is good.
+[14:34] You're on to something here." Yeah. So
+[14:36] then we hired a whole bunch of sales
+[14:37] reps. Then next thing you know, revenue
+[14:40] is going up to the right and then we get
+[14:42] acquired by this big big database
+[14:44] company. So we were not kind of, you
+[14:48] know, trying to come up with the magical
+[14:50] creative copy that was going to sell
+[14:52] this thing. It wasn't like that at all.
+[14:54] It was looking at this surprising way
+[14:57] that customers were getting value out of
+[14:59] this thing and then saying, well, can we
+[15:01] position around that? Could we do that?
+[15:05] And I'll tell you the rest when when so
+[15:08] later they made me the vice president
+[15:10] they give me all these products and a
+[15:12] lot of these products you couldn't
+[15:14] actually get that information from the
+[15:16] customers you know like you talk to a
+[15:18] lot of customers but it was hard to see
+[15:19] the pattern so I got kind of obsessed
+[15:21] with the idea like how could we have
+[15:24] positioned it better in the first place
+[15:26] like could we have figured this out
+[15:28] without having to pain a failure
+[15:31] first and that's when I started to get
+[15:34] really upset as well. And that's what
+[15:36] you you do now. And I think it's so
+[15:38] interesting that you found that 5% of
+[15:41] your customers, those initial 100 really
+[15:45] got it, found it, gave you that
+[15:47] positioning that you needed. But isn't
+[15:50] that so true though? Quite often when
+[15:51] you're rolling something out and you're
+[15:53] beta testing it and you're you think
+[15:55] it's going to do one thing that
+[15:56] everybody wants and then you start
+[15:58] asking your beta testers and it turns
+[16:01] out no, it's actually this thing that
+[16:03] they want. Yeah, I mean sometimes you do
+[16:05] get that, but man, you really don't want
+[16:08] to be relying on that because you're
+[16:10] basically relying on your customers to
+[16:11] tell you what you are. And and if we're
+[16:14] in tech and we've invested, I don't
+[16:17] know, $10 million in building this thing
+[16:19] in the first place and then we find out
+[16:21] it's something else and oh by the way,
+[16:23] that something else isn't particularly
+[16:25] business viable.
+[16:27] Like that's not good. Yeah. So, so it is
+[16:30] true that that you know, so after that
+[16:34] experience, I was involved in a lot of
+[16:36] product launches. Um, and you know, a
+[16:40] better way to do it, I think, is to
+[16:42] figure out what like to be very
+[16:44] deliberate in your positioning thesis to
+[16:47] sit down and say, well, okay, so who do
+[16:49] we think we're going to get compared to
+[16:51] and what do we have that's different
+[16:53] from that? And so therefore, what's the
+[16:56] business value we can deliver to a
+[16:58] customer that no one else can? And then
+[17:01] how do we put a box around these are the
+[17:03] kind of customers that are really going
+[17:05] to love that and therefore this is the
+[17:07] market we're going to win. If we had
+[17:09] done that for this first
+[17:12] product, you know, we would have said,
+[17:14] okay, well, who are we going to get
+[17:16] compared to? Well, we're probably going
+[17:17] to get compared to spreadsheets, other
+[17:19] spreadsheets. And then we'd say, well,
+[17:22] what have we got that the other
+[17:23] spreadsheets don't have? Well, we have
+[17:25] this SQL thing. And then we would have
+[17:28] asked ourselves the question, well, so
+[17:29] what? Like, what's so cool about the SQL
+[17:32] thing? Well, the main cool thing about
+[17:34] it is it's interoperable with other SQL
+[17:36] databases. And if we'd really sat down
+[17:38] and thought about that, we'd have said,
+[17:40] "Well, hey, like that means there's a
+[17:43] whole bunch of things that you could do
+[17:44] with this and you could make it the
+[17:47] little database that lives outside of
+[17:49] the main database but syncs up with it."
+[17:51] And we would have landed on this
+[17:53] embeddible database for mobile devices.
+[17:55] But because we never sat down and did
+[17:58] that, we went and talked to customers
+[17:59] and said, "Hey, do you want this?" And
+[18:01] they said, "Yeah." And that was good
+[18:02] enough for us.
+[18:04] We didn't get too deep into, well, what
+[18:06] would you do with it? They just thought
+[18:08] it sounded cool. So, and and the first,
+[18:11] you know, couple hundred folks that
+[18:12] bought us, that's why they bought it. It
+[18:14] sounded cool. Hey, that'd be cool. We
+[18:16] could do like prototype applications on
+[18:18] it or whatever. And they messed around
+[18:19] with it and went, eh, nah, it really
+[18:21] doesn't do any really. Well, I think
+[18:23] even though you focus in the B2B world
+[18:26] and positioning that all listeners,
+[18:28] whether they're B2B or B TOC or
+[18:30] whatever, can certainly learn from that,
+[18:32] especially in the tech world because you
+[18:35] were dealing with so much noise, so much
+[18:38] competition out there. What are two or
+[18:40] three of the biggest mistakes people
+[18:43] make when they haven't positioned or
+[18:45] they first start thinking about
+[18:47] positioning? Yeah, there's a handful.
+[18:50] Like in tech, the the biggest mistake
+[18:53] that people make is they think that
+[18:56] there's only one way this product could
+[18:59] be positioned. So a lot of times what
+[19:01] you'll get is um the founder of the
+[19:05] company gets an idea for a new product
+[19:08] and it comes from their own pain, right?
+[19:11] So they're working, you know, they're a
+[19:12] tech person working at a manufacturing
+[19:14] plant and they say, "Man, the way our
+[19:16] ERP system does this is terrible. I'm
+[19:19] going to make better ERP or, you know,
+[19:21] they're using their email and they're
+[19:22] like, you know, it sucks. Email sucks.
+[19:24] It's terrible. I'm going to make better
+[19:25] email or whatever. And then they go and
+[19:28] they make it, right? And then they, you
+[19:30] know, they'll get a first version out
+[19:32] and customers will say, "Well, I like
+[19:34] this part and I don't like this part and
+[19:36] whatever." And so they'll add a bunch of
+[19:37] new features and then the customer will
+[19:39] say, "I like this and I don't like
+[19:40] this." And then if I fast forward a
+[19:42] couple of years, I've got this thing and
+[19:45] I still think of it as email because,
+[19:47] you know, I that was my original idea. I
+[19:49] make it better the world's best email.
+[19:51] But customers are looking at it and
+[19:53] they're like, "Yeah, but isn't it really
+[19:56] more like chat this thing that you got
+[19:58] now? Like what it what like doesn't
+[20:00] that?" And so but you but we we're so
+[20:02] close to it we can't see it. And so so
+[20:05] that's the first one is this trap of
+[20:07] thinking well there's only one way like
+[20:09] we're email. What else could we be? Like
+[20:11] you know like I worked at a company
+[20:12] where you know it was founded by two
+[20:15] guys who were you know database people.
+[20:16] They had PhDs in database stuff and you
+[20:19] know and we had launched this thing as a
+[20:21] database but later we ended up
+[20:23] repositioning it as a data warehouse for
+[20:26] machine generated data and and that was
+[20:28] it was hard for the people internally
+[20:30] because they were like we are database
+[20:33] people making a database like it was
+[20:36] really wrapped up in their identity as
+[20:39] people not even just a company but it
+[20:42] was clear like the minute we did that
+[20:44] shift in position customers were like oh
+[20:46] that oh shoot that makes a whole lot
+[20:48] more sense now we know what you are now
+[20:50] we know who we should be comparing you
+[20:51] to now we know what the value is so
+[20:54] that's mistake number one is that it's
+[20:56] thinking that there's no other way and
+[20:59] and I suppose that is when you roll it
+[21:02] out and you have to really listen to
+[21:03] your users your customers and they go
+[21:06] yeah you think it's this but it's
+[21:07] actually really that well normally in
+[21:11] tech I'll tell you your customers aren't
+[21:14] going to tell you that because they're
+[21:16] not experts in the market. The customers
+[21:19] are experts in pain. They're experts in
+[21:22] their own situation. They are not
+[21:23] experts in solutions. So, they're not
+[21:26] going to come to you and say, "Oh,
+[21:28] that's not a robot. That's an autonomous
+[21:31] vehicle for industrial uses." They don't
+[21:33] know what that is. They're not sitting
+[21:35] around thinking about this. But you as
+[21:36] the vendor, you are. That's your job.
+[21:38] It's your job to know what the adjacent
+[21:40] market categories are. It's your job to
+[21:42] know what this stuff is like. You
+[21:43] sometimes get very very very lucky and a
+[21:47] very well- educated customer might come
+[21:48] and say, "Hey, you know what? That's
+[21:51] actually a warehouse and not a database.
+[21:53] Why are you calling it that?" But nine
+[21:55] times out of 10, you just fail. You fail
+[21:58] because you're a crappy database that
+[22:00] can't win in the in the database market
+[22:02] and that's it. And everyone votes with
+[22:04] their feet and they buy something else.
+[22:06] Like this idea that we're going to get
+[22:08] lucky and the customer is going to come
+[22:09] tell us what the best market category
+[22:11] is. I I don't think we could bank on
+[22:13] that. Now, we can get feedback from
+[22:18] existing customers about how it's how
+[22:21] it's working in terms of solving their
+[22:22] problem. We can get that right because
+[22:24] they're experts on problems. So, they
+[22:26] can say, well, yeah, no, we don't use
+[22:28] that. Or they might say, you know what,
+[22:31] if like if you ask them, look, if we
+[22:33] didn't exist, what would you do?
+[22:35] Sometimes you get an interesting answer
+[22:36] to that question, right? Like they might
+[22:38] say, oh, well, if you didn't exist, I'd
+[22:40] buy a warehouse. Oh, that's different.
+[22:43] Or if you didn't exist, I'd probably
+[22:45] just take my spreadsheet and plug it
+[22:46] into this thing and do this other thing.
+[22:48] Oh, so this this is actually the second
+[22:51] biggest mistake that people make.
+[22:53] Customer or tech companies often make
+[22:57] the mistake of not really understanding
+[23:01] who their actual competitors
+[23:03] are. And so great positioning I think
+[23:06] starts with that. So I will very often
+[23:09] get call from little company and they'll
+[23:11] say okay we got this thing it's amazing
+[23:14] you know they'll tell me about it and
+[23:16] I'll say well who do you compete with
+[23:17] and they'll say oh there's a lot of
+[23:18] competitors and they'll give me the big
+[23:20] long list little bunch of little guys I
+[23:22] never heard of you know and I'll be like
+[23:24] okay never heard of any of those guys
+[23:25] but okay and I say so how do you like
+[23:29] you know when you when you're out there
+[23:30] like do these guys beat you in deals all
+[23:33] these little guys and they'll say no
+[23:36] that we win every time against these
+[23:38] guys. And I'm like, hm, how do you win?
+[23:41] They said, oh, ease of use. If you look
+[23:43] at all of them, it's clickity click,
+[23:45] click, click. Takes 19 clicks to do a
+[23:47] thing, but if you use ours, it only
+[23:48] takes two clicks. So, all our
+[23:49] positioning is around ease of use by us
+[23:51] because it's more streamlined, easy to
+[23:53] use, get it done fast. And I'm like,
+[23:55] okay. And then I said, well, you ever
+[23:58] lose to those guys? No, never. I'm like,
+[24:01] well, you don't win every single deal.
+[24:03] Like, you're a little we don't win every
+[24:05] single deal. So when a customer when you
+[24:07] lose, what happens? And they say, "Oh,
+[24:09] we don't lose to those guys. We just
+[24:10] lose to no decision." Ah, no decision.
+[24:15] So, but the customer still has the
+[24:16] problem. So, how are they solving it?
+[24:18] They say, "Oh, they're just using a
+[24:20] spreadsheet or they're hiring an intern
+[24:22] to do it." Ah. Ah. So, your real
+[24:26] competition is the intern. And you're
+[24:29] positioned around ease of use. Do you
+[24:31] know what's really easy to use? The
+[24:33] intern is very easy to use. You say,
+[24:36] "Hey, Joey, get me a coffee. Go out
+[24:39] there, fill out the spreadsheet when you
+[24:40] come back, you know, like like you're
+[24:42] never going to win against the intern on
+[24:44] ease of use." But the intern is bad at a
+[24:47] whole bunch of stuff. Like the intern
+[24:48] makes mistakes. The intern quits on you.
+[24:51] The intern doesn't know the whole
+[24:53] history of every interaction that you've
+[24:55] ever had with this particular client.
+[24:57] Like, there's all kinds of things that
+[24:58] software can do that the intern can't
+[25:00] do. So, but step number one is
+[25:02] recognizing that you compete with the
+[25:04] intern and not these 19 little things
+[25:07] that frankly your customers have never
+[25:09] heard heard about them. They're not
+[25:10] putting them on the short list. All
+[25:11] they're doing is saying, should we stop
+[25:13] using the intern to use you? And so your
+[25:16] positioning needs to answer that
+[25:18] question. Why me versus the intern?
+[25:20] Isn't that interesting? Because I could
+[25:22] see exactly why that would work. We're
+[25:24] so caught up in the business and our
+[25:25] product and we're looking at the
+[25:27] competitor, we don't take a deep breath,
+[25:29] pump the brakes, and look around and
+[25:31] say, "Well, wait a minute. What is the
+[25:32] actual human dynamic going on here,
+[25:36] right?" And you're competing with an
+[25:37] intern. That's that's very interesting.
+[25:39] Well, often in tech, this is often true.
+[25:41] Like in tech, we often have two
+[25:43] categories of competitors. So, we have
+[25:45] whatever the status quo is, like
+[25:47] customer, this isn't a new problem.
+[25:49] Customers got the problem and they're
+[25:51] solving it right now. They're just
+[25:52] solving it with with, you know,
+[25:55] band-aids and binder twine. They've got
+[25:58] spreadsheets and junky old legacy stuff
+[26:01] that was never meant to do that. And
+[26:02] their IT guys are writing custom code to
+[26:04] like, you know, bubblegum the whole
+[26:06] thing together and it's terrible, but it
+[26:09] does the job, right? And so, so you got
+[26:12] to, but change into something else is
+[26:14] effort. And so, you got to beat that.
+[26:17] You got to beat the status quo. You got
+[26:18] to say, why is this worth the effort to
+[26:20] actually change and do something
+[26:21] different? But when the customer does
+[26:24] decide they're going to change, I mean,
+[26:26] anybody good is going to say, well, I'm
+[26:28] not just going to go with you because
+[26:29] you're the first guy that called me. I'm
+[26:31] going to look at it, make a short list,
+[26:32] and I'm going to go through an actual
+[26:34] purchase process. So, not only do you
+[26:36] have to be you have to beat status quo,
+[26:38] but you got to beat whoever lands on the
+[26:40] short list. But, you know, if there's a
+[26:43] competitor out there that you Googled
+[26:45] them and you looked at their homepage,
+[26:47] they look like they're just like you and
+[26:49] they sound just like you, but they never
+[26:52] end up on a customer short list. Guess
+[26:54] what? They're not your competition.
+[26:56] They're a ghost. You don't have to
+[26:58] compete against a ghost. I don't have to
+[27:01] position against that. I don't know why
+[27:02] they're not showing up in deals. It
+[27:04] doesn't matter. And if at some point in
+[27:06] the future they do show up in deals,
+[27:08] well then I can adjust my positioning to
+[27:10] compensate for that later. But if
+[27:12] they're not showing up on a on a short
+[27:14] list, I don't have to worry about it. So
+[27:16] if we're the starting point on this on a
+[27:20] good positioning exercise when we're in
+[27:22] tech is do we really understand what the
+[27:24] status quo is that we're replacing and
+[27:26] do we really understand who lands on a
+[27:28] short list and a typical customer
+[27:30] against us? That's our stake in the
+[27:32] ground. That's the answer to the
+[27:33] question. What do I have to position
+[27:36] against? Or put another way, what do I
+[27:39] have to beat in order to get a deal?
+[27:42] That's fascinating. Do you have a third
+[27:44] one? We were talking about the top
+[27:46] three. Do I have a third one? Well,
+[27:49] okay, here's the third one. This may be
+[27:51] controversial and and this is probably
+[27:53] not true in a lot of different
+[27:55] industries, but it is absolutely true in
+[27:57] tech
+[27:59] is we cannot do positioning as a little
+[28:04] project in the marketing department. If
+[28:06] we do that, it will fail. And and I
+[28:10] learned this the hard way from trying to
+[28:13] do it as a little project in the
+[28:14] marketing department. And here's what
+[28:16] happens when you do that. You'll have
+[28:18] your genius positioning and then you
+[28:20] will walk over to the sales team and
+[28:22] say, "This is how we're positioning it
+[28:24] now. Here's the story I would like you
+[28:27] to tell." Blah, blah, blah. And sales
+[28:29] looks at that and says, "Yeah, no, don't
+[28:32] get it. Don't believe in it. Don't like
+[28:33] it. I'm just going to keep pitching it
+[28:35] the way I pitch it now." And you'll get
+[28:37] the same thing over in product
+[28:38] management. You'll go over to product
+[28:40] management and they'll be like, "No,
+[28:42] disagree. Disagree. This is not why we
+[28:44] win. This is not how we win. Disagree."
+[28:47] And worst, the worst one is you have
+[28:49] your founder and your founder is that
+[28:52] not just talking to customers, your
+[28:55] founder is talking to investors. Your
+[28:56] founder is talking to all kinds of
+[28:57] people and they got a completely
+[28:59] different point of view on this. And you
+[29:01] show up with your little marketing
+[29:02] exercise. Here it is. And the founder's
+[29:04] like, "No way. Don't agree." No. And
+[29:08] then and then where you at? No place.
+[29:10] That's where you're at. So trying to do
+[29:12] this in marketing without getting buy in
+[29:15] from the founder and product management
+[29:17] and sales is a waste of your time. So if
+[29:21] we're going to go fix this in a tech
+[29:23] company, it needs to be a crossf
+[29:25] functional exercise. I need to bring
+[29:27] sales into the process and particularly
+[29:30] sales, but I need to have if I've got a
+[29:33] founder or a business unit leaner that
+[29:35] cares a lot about the way this thing is
+[29:36] positioned, they got to be part of the
+[29:38] process, too. Because if they're not the
+[29:40] positioning, you know, you might come up
+[29:41] with gorgeous positioning, it's never
+[29:43] going to stick.
+[29:45] Well, this is very timely for us. And I
+[29:47] sent you the output of our story cycle
+[29:50] genie on your brand. Oh boy. So, you
+[29:53] know, we are that that somewhat of that
+[29:55] of that tech founder, too. Taking my
+[29:57] branding process that I've worked over
+[29:59] the last 20 years and, you know, put it
+[30:01] through an AI and we've got our own
+[30:03] proprietary story cycle genie now. And
+[30:05] did you get a chance to take a look at
+[30:07] what I sent you? I did not see anything
+[30:09] from you, so sorry. Oh, okay. Well, I'll
+[30:12] send it back over to you and take a look
+[30:14] at it. But what I did, April, how did it
+[30:16] go? Where did what tell me something I
+[30:17] don't know about my own stuff. Let's
+[30:19] hear it. Well, and what it did is we
+[30:21] went and just simply uploaded your
+[30:25] website, gave it to Oh, it's just a
+[30:26] website. Most people don't find me from
+[30:28] the website. No, but URL and then I did
+[30:31] went to some of your book pages and so
+[30:33] forth. Just did some intel on who you
+[30:36] are. Gave it those URLs. And here's the
+[30:39] first it first looks at it and here's
+[30:41] the brand assessment and it's a a very
+[30:43] short paragraph. Let me read it to you
+[30:44] and see how it lands for you. April
+[30:47] Dunford positions herself as the world's
+[30:50] leading expert on product positioning
+[30:52] for B2B tech companies. With 25 plus
+[30:55] years of experience as a marketing
+[30:57] executive at successful startups and
+[31:00] having worked with 200 plus companies,
+[31:03] she helps businesses clarify how they're
+[31:05] different and better than alternatives.
+[31:08] Her approach focuses on practical
+[31:10] structured methodologies that align
+[31:12] teams around positioning that makes
+[31:14] products intuitively understood by
+[31:17] customers. Through workshops,
+[31:19] consulting, speaking, and books, she
+[31:21] transforms complex positioning
+[31:23] challenges into clear, compelling
+[31:26] narratives that accelerate sales.
+[31:29] All right. Did that capture you? Yeah.
+[31:32] Yeah. Okay. For sure. Then it went on
+[31:34] and by the way it ran it and it took
+[31:36] about two minutes. And so then the next
+[31:39] step is once it grabs your positioning
+[31:42] it says okay who are April's top three
+[31:45] audiences in order of priority and what
+[31:49] does each audience what are their
+[31:51] challenges frustrations fears and
+[31:53] aspirations. So we won't go through all
+[31:55] three of them but the first one it says
+[31:57] is B2B tech executives CEOs CMOs CRO's.
+[32:03] your number one audience. Yep. Their
+[32:05] challenges. Articulating a clear,
+[32:07] compelling story about why their product
+[32:09] matters, aligning leadership teams
+[32:11] around a consistent positioning
+[32:13] strategy, translating technical features
+[32:16] into meaningful uh customer value, and
+[32:19] standing out in increasingly
+[32:21] increasingly crowded competitive
+[32:23] markets. Sound like the challenges that
+[32:26] you help them overcome. I mean, all this
+[32:27] stuff is is in actual copy on my
+[32:30] website. So, yeah. So, it's pulling it
+[32:32] and it's bringing it together. And what
+[32:33] the Genie does is gives you a reflection
+[32:35] of how you're showing up in the world.
+[32:37] And then, um, what I've heard, I've
+[32:39] taken about 70 brands through it now
+[32:41] during our beta. It get does three major
+[32:43] things for you. It helps validate, you
+[32:46] know, the communication and how you're
+[32:48] telling your story. It shows you the
+[32:50] gaps in how you're telling your story.
+[32:52] in that if it's not coming up with
+[32:54] something that you know should be there
+[32:57] means it's probably not prominent or
+[32:59] maybe doesn't exist at all in your
+[33:01] marketing materials. And then the final
+[33:03] thing is it gives you fresh um inspiring
+[33:06] ways to talk about your brand that maybe
+[33:08] you hadn't considered before. So these
+[33:11] first these challenges, fears,
+[33:13] frustrations, aspirations, these are
+[33:15] going to be the story leverage points
+[33:18] that you would use to speak with your
+[33:20] customers. So their fears, losing market
+[33:23] share to competitors with inferior
+[33:25] products but better positioning, missing
+[33:27] growth targets and disappointing
+[33:28] investors, making the wrong strategic
+[33:31] bets on positioning and messaging. being
+[33:33] perceived as just another commodity in
+[33:36] their
+[33:37] category. Their frustrations, marketing
+[33:40] messages that don't resonate with target
+[33:42] customers, sales teams telling
+[33:44] inconsistent stories about the product,
+[33:47] wasting resources on ineffective
+[33:49] marketing in initiatives, and lengthy
+[33:51] sales cycles due to poor market
+[33:54] understanding. And then finally, April,
+[33:57] their aspirations. What is it they want?
+[33:59] So, we've talked about their pain
+[34:00] points, but what do they ultimately
+[34:02] want? Building a category defining
+[34:04] company that customers instantly
+[34:06] understand. Creating a clear, compelling
+[34:09] story that the entire organization
+[34:11] rallies behind. Accelerating sales
+[34:14] cycles through intuitive positioning and
+[34:16] commanding premium pricing based on
+[34:19] differentiated
+[34:22] value. Did it capture that fairly
+[34:24] accurately? This is this is the big
+[34:26] sales pitch for your product we're
+[34:28] getting here. Sure it is. Of course it
+[34:29] is. I didn't I didn't realize that's
+[34:31] what I signed up for here. All right.
+[34:33] No, he signed up for your brilliance.
+[34:35] But what better person to to bounce this
+[34:39] off of than someone who knows this stuff
+[34:42] inside and out. You think that that I
+[34:44] that I'm a I'm a you know, like my you
+[34:47] know, I'm a positioning person, so it
+[34:50] would be a bit surprising if what you
+[34:52] got out of that didn't look like, you
+[34:54] know, what the way I thought I was
+[34:56] positioning. But you were you were the
+[34:58] unicorn. Right. I would I'm a weird one
+[35:01] for this. Right. But I would point that
+[35:04] at anybody else's like a typical
+[35:06] company's website. There's going to be a
+[35:08] lot of stuff there that they're
+[35:09] surprised about. Yes, there actually
+[35:12] absolutely is. And it wrote this unique
+[35:14] value prop for you. And that is
+[35:16] practical positioning that makes your
+[35:18] unique value obvious.
+[35:21] Is that something that you say on your
+[35:23] website or is that something it just
+[35:24] like the name of my book is called
+[35:26] obviously awesome. Okay. So it's
+[35:31] placing. So it's coming and giving you
+[35:34] then that's coming from Yeah, that's
+[35:36] coming from my copy on my website. Yeah,
+[35:38] I tell you it's interesting like most
+[35:41] folks it's a thing that you get into
+[35:43] sometimes with tech companies like what
+[35:45] is the job of the website? And sometimes
+[35:49] in in big ticket B2B stuff, the job of
+[35:53] the website is to clearly communicate
+[35:55] the value, right? why I pick us over the
+[35:57] other folks. Um sometimes the job of the
+[35:59] website's not quite that like so so for
+[36:01] example sometimes what we have is
+[36:05] product like growth motion. So there's a
+[36:07] free product available on the website
+[36:10] and so the job of the website is to get
+[36:12] people into that free product as quickly
+[36:14] as possible. So, you might have, let's
+[36:17] say, two big value propositions that you
+[36:19] really lean into that are really
+[36:22] important that would convert a trial
+[36:25] customer to a paid customer, but you may
+[36:27] not need to go deep into those two
+[36:30] things to get a customer into the
+[36:32] product. And then the goal is once
+[36:34] they're in the product, then I'm going
+[36:35] to hit them with all my other stuff or
+[36:36] I'm going to allow them to to discover
+[36:39] this stuff in my product that that then
+[36:40] converts them. Or similarly sometimes
+[36:44] what I have is I'm trying to get end
+[36:46] users into the product but the sales
+[36:50] motion is actually nothing to do with
+[36:52] end users. So there's a company that I
+[36:55] work with called Postman. They have an
+[36:57] extremely popular free tool uh to do API
+[37:03] testing. Their paid thing that they make
+[37:06] millions of dollars on uh has nothing to
+[37:09] do with API testing alone. It's actually
+[37:12] a platform for developing, testing,
+[37:14] deploying for everything, the full life
+[37:17] cycle of everything you want to do in an
+[37:18] API. So if you were to analyze their
+[37:21] website, you might be like, "Oh, I don't
+[37:23] know if this is good positioning or
+[37:25] not." Because the website is partially
+[37:27] tuned to get you into this free thing.
+[37:31] And then what they do is they look at
+[37:34] who's what companies are using a lot of
+[37:37] the free thing. And then their sales
+[37:39] teams are coming in way over top of the
+[37:41] end users at a sea level and saying you
+[37:46] guys have APIs. You're doing a
+[37:47] reasonable investment in testing those
+[37:50] APIs. There's a lot of things that
+[37:52] impact the quality of an API upstream
+[37:55] and downstream from the API testing.
+[37:57] What you actually need is a platform
+[37:59] that manages the full thing and that's
+[38:02] going to help you deliver higher quality
+[38:04] APIs and do it faster. Now you don't
+[38:06] necessarily get that story on the
+[38:08] website because that is not their go to
+[38:12] market motion. Mhm. So we have to be
+[38:15] really careful on things like this that
+[38:17] we understand what's the job of the
+[38:19] website and is the website doing its job
+[38:23] because sometimes people come to me and
+[38:24] say you know if we don't have a perfect
+[38:27] representation of the positioning on the
+[38:29] homepage then we've done something wrong
+[38:31] but I can think of a lot of examples
+[38:32] where that's not the job of the homepage
+[38:34] actually the job of the homepage is
+[38:36] something slightly different but anyways
+[38:37] this is this is like the positioning 501
+[38:40] conversation better versus positioning
+[38:42] one-on-one conversation. But in tech, we
+[38:45] have all these weird examples where, you
+[38:48] know, the job isn't exactly that. Even
+[38:51] if I think of my own website, and I've
+[38:55] done some thinking about this, the
+[38:57] majority of the folks that hit my
+[39:00] website are all come to my website
+[39:03] because they've read my book. They find
+[39:06] out at the book about the book, not on
+[39:07] my website. They find out about the book
+[39:10] either word of mouth from other people
+[39:12] that have read the book or other
+[39:13] companies I've worked with or whatever.
+[39:15] Or they've seen me at a conference, but
+[39:18] they don't see me at a conference and go
+[39:19] to my website. I don't think that ever
+[39:21] happens. I think they see me at a
+[39:22] conference and they go, "That sounds
+[39:24] interesting. I should buy that book."
+[39:25] And then they read the book. And then
+[39:27] they don't come to my website until
+[39:29] they're in a jam.
+[39:31] So they they read the book and then
+[39:33] they're like, "Oh, we're in a jam. We
+[39:35] should call that lady." And they don't
+[39:37] call just me, they call lots of other
+[39:39] people, too. But I get on the list,
+[39:41] right? Because they read the book or
+[39:42] whatever. And then they get to the
+[39:44] website and then they talk. And so is my
+[39:46] job doing a good job of that? I don't
+[39:48] know. I don't know. You know, I don't
+[39:49] spend a lot of time worrying about it,
+[39:50] but but maybe I should spend more time
+[39:53] worrying about it or not worrying about
+[39:55] it, but just paying, you know, maybe
+[39:57] attention to it. And my question for
+[39:58] you, April, is you work with hundreds
+[40:00] and hundreds and hundreds of companies.
+[40:02] How often when you get a new engagement,
+[40:05] you go and you look at their website to
+[40:07] learn more about them and it's unclear,
+[40:09] it's not concise, it speaks from the
+[40:12] brand's perspective, not the customer's
+[40:14] problem perspective. And you see that
+[40:17] there are because you're a storyteller
+[40:18] as well, you know, with your second book
+[40:20] with sales pitch that they're just not
+[40:22] sharing a good, clear, compelling story.
+[40:26] Well, so one thing I've learned from
+[40:29] working with B2B tech companies in
+[40:33] particular
+[40:34] is this isn't like selling
+[40:37] toothpaste. Like generally the companies
+[40:40] I work with are, you know, selling
+[40:44] hundreds of millions of dollars of a
+[40:46] very specialized thing to a very
+[40:49] specialized audience. And that audience
+[40:51] isn't me. Like I'm not a typical buyer.
+[40:54] And so generally I'm not in a great
+[40:57] position to look at the website. So one
+[41:01] I need to understand the whole go to
+[41:03] market motion to understand what the job
+[41:05] of the website is and then
+[41:07] two I need to understand like well who
+[41:10] are the competitors and how are they
+[41:12] trying to differentiate from the
+[41:13] competitors and then who are the buyers
+[41:15] and what do those buyers consider to be
+[41:17] valuable or not valuable? What do those
+[41:20] buyers understand or don't understand?
+[41:22] So, for example, if I'm selling to a
+[41:26] very technical CIO at a bank, I can use
+[41:30] a bunch of technical terminology that I
+[41:33] wouldn't use if I was selling to the
+[41:36] director of sales at, you know, a retail
+[41:40] company. And
+[41:43] so just looking at the website because I
+[41:46] I see this a lot with like
+[41:49] inexperienced folks that are in
+[41:51] marketing. They'll say, "Oh my god, look
+[41:53] at that website. It's so terrible. It's
+[41:55] got all this jargon in it. You know, it
+[41:57] you should be writing so that your
+[41:58] grandmother understands it." And I'm
+[42:01] like, "I don't know. If I'm not selling
+[42:02] a grandmother's, do I really have to be
+[42:05] writing it so my grandmother understands
+[42:06] it?" So when companies call me a lot of
+[42:09] times they'll ask me they'll say what do
+[42:11] you think of the website and I'll say I
+[42:12] don't know enough yet to evaluate your
+[42:15] website because in order to really
+[42:17] evaluate it what I need to understand is
+[42:20] you know one's the job of the website
+[42:21] and then two who do you compete with how
+[42:24] do you you know what do you got that's
+[42:25] different what is your differentiated
+[42:27] value who's the the buyer the champion
+[42:30] in a deal to make one of these deals
+[42:33] happen and what do those people care
+[42:35] about And once you have all of that,
+[42:38] then you can back up and look at the
+[42:39] website and say, "Okay, no, this is
+[42:41] working or yeah, you know, this is
+[42:43] actually kind of getting at it, but we
+[42:44] could probably improve it." In the
+[42:46] workshops I do, what we do is we
+[42:48] assemble a cross functional team and we
+[42:50] work through this process. And I
+[42:53] generally come in with a little bit of
+[42:55] an inkling of where I think the
+[42:57] positioning is is weak and where I think
+[42:59] it's strong. But I am very often
+[43:01] surprised. I'm very often surprised that
+[43:04] when we get to the value step of this,
+[43:06] very often there's information that
+[43:08] comes out from folks on the team that
+[43:12] you wouldn't know unless you were in the
+[43:14] trenches with this product, selling it
+[43:16] every day to the kinds of customers
+[43:17] they're selling to. And so I try to keep
+[43:20] a kind of, you know, open mind about it
+[43:23] as we're working through the workshop
+[43:26] because I don't think I'm qualified to
+[43:28] go in and say your positioning needs to
+[43:30] look like this. I need to suck the deep
+[43:33] expertise out of the team that has been
+[43:36] working on it. And you know, if you have
+[43:38] a sales team, I've got salespeople that
+[43:40] have been in lock step with a customer
+[43:42] everywhere along a purchase process. So,
+[43:45] they know a lot. They know what status
+[43:47] quo is that they're coming off. They
+[43:48] know how they made the short list, why
+[43:50] they made the short list. If they get
+[43:51] chosen, they know why they get chosen.
+[43:53] If they don't, they know why they didn't
+[43:54] get chosen. Product management, on the
+[43:57] other hand, knows a lot about
+[43:58] differentiation. They know who the other
+[44:00] customer, who the other products are in
+[44:02] the market and what the differentiators
+[44:05] are and you know we do it this way but
+[44:06] those guys do it this way or we have
+[44:08] this feature and those guys don't have
+[44:09] that feature. Marketing understands a
+[44:12] lot about how to get a prospect's
+[44:15] attention in the research phase of a
+[44:19] purchase process when a customer is just
+[44:21] trying to figure out what do they need
+[44:22] to know, what do they not need to know,
+[44:23] what's going on. And then you've got the
+[44:25] founder CEO which you know usually has
+[44:29] this kind of depth of understanding of
+[44:32] you know the whole reason we built this
+[44:34] thing in the first place man was because
+[44:37] of
+[44:38] this and they've worked with a ton of
+[44:40] customers maybe not recently but you
+[44:42] know they have a real point of view on
+[44:43] this too. And so I got to get all those
+[44:46] people in the room, suck all that
+[44:48] information out of them, and then I got
+[44:50] to have a process that allows us to
+[44:52] build this positioning that kind of
+[44:54] keeps everybody's sort of opinions out
+[44:56] of it, and we're sticking to the facts
+[44:59] of the situation.
+[45:01] So that's kind of how I work with this
+[45:02] stuff. No, I love it. And and that works
+[45:04] with big and small enterprises alike,
+[45:07] right? So sometimes you're in there
+[45:08] working with big vast sales teams and
+[45:11] marketing teams. And I imagine other
+[45:12] times you're with a fivep person quote
+[45:14] unquote startup trying to help them get
+[45:16] there. Yeah. Most of the companies I
+[45:19] work with now are bigger. Like when I
+[45:21] started I did a lot of small small
+[45:24] companies,
+[45:25] but one of the things we have in in in
+[45:28] tech products is that you know it we
+[45:32] start with the we build the product with
+[45:33] a positioning thesis whether we're
+[45:35] conscious of it or not. Right? So we
+[45:36] built this product to be you know this
+[45:39] thing in the market against these other
+[45:41] products and this is how we thought it
+[45:42] was going to win and then we launch it.
+[45:44] The first wave of customers in a B2B
+[45:47] tech product is really all about
+[45:49] validating your thesis. Like were you
+[45:51] right? Like you know we thought little
+[45:55] quicks serve restaurants were going to
+[45:56] love our stuff but then when we launched
+[45:57] it it turned out you know family style
+[46:00] sitdown restaurants like our stuff more
+[46:01] and so we felt more market pull there.
+[46:03] So we're going to go explore that. Well,
+[46:05] do we have the right product for that?
+[46:06] And how would it work? And can we can we
+[46:08] reach those people? Can we do it at
+[46:09] scale? How big is that market? Can we
+[46:11] actually make our sales target if we
+[46:12] just focused on that? All this stuff has
+[46:13] got to happen. And so in the early days
+[46:17] of a tech company, again, it's not like
+[46:19] toothpaste, right? Where you just launch
+[46:21] it and it either wins in the market or
+[46:22] it doesn't. And if it's a failure, it's
+[46:24] a big old flop, right? In tech, we often
+[46:27] adjust the positioning a lot in the
+[46:29] early days of a product because we're
+[46:31] like, "Oh, well, you know, we were
+[46:32] basically right, but you know, but it
+[46:35] turned out this little thing we didn't
+[46:37] consider and so now we got to we got to
+[46:39] change for that." So, I don't think it
+[46:42] it companies like that have a brand new
+[46:45] thing in the market and haven't been
+[46:48] through that first wave of customers
+[46:50] where you can really learn who loves our
+[46:52] stuff and why. I think it's too early to
+[46:55] bring in a consultant and pay money to
+[46:58] try to tighten up a thing that is
+[46:59] probably going to change in two weeks
+[47:00] when you close two more deals and you
+[47:02] learn something else.
+[47:04] So most of the So I generally disqualify
+[47:07] little guys now. Like if I don't think
+[47:09] they have enough traction in the market
+[47:11] like I'm like look like you don't want
+[47:13] to pay someone to build a thesis. Like
+[47:15] what you want is you you you just want
+[47:17] to go close 10 more deals and then the
+[47:20] positioning will either be obvious or it
+[47:22] won't. But you'll at least be starting
+[47:23] to see the patterns and if you can't
+[47:25] figure it out, come back to me. So most
+[47:27] of the companies that I work with are in
+[47:29] market. They've got a little bit of
+[47:31] traction like and and generally, you
+[47:33] know, if they're coming to me, it's it's
+[47:34] at a minimum it's a few million revenue.
+[47:38] And then I would say right now I'm
+[47:39] working more with companies that are
+[47:41] like 100 million, 200 million, 300
+[47:43] million revenue. Sometimes really really
+[47:45] big, you know, a division inside a
+[47:47] really really big company like an IBM or
+[47:49] a Google. and and the pro the the
+[47:53] positioning problems are slightly
+[47:55] different. They're now trying to figure
+[47:57] out the initial positioning at that
+[47:58] point. They've got positioning that
+[48:01] worked up to a point, but now we have
+[48:03] new competitors in the market. Maybe
+[48:05] we've come out with something that's
+[48:06] really new and different and we're going
+[48:08] to have to adjust the positioning to
+[48:09] account for that. Maybe we've done an
+[48:11] acquisition. Maybe we're thinking about
+[48:13] doing an IPO and we want to tell this
+[48:15] maybe kind of bigger story like so you
+[48:19] know a lot of times what I've got is a
+[48:21] really big company they've acquired
+[48:23] three or four little things and smooshed
+[48:25] them together into a business unit and
+[48:27] said okay sales people go sell this and
+[48:29] the sales people are like I don't know
+[48:30] how these three things come together man
+[48:32] like you tell me what that story should
+[48:34] be they all look different to me um so
+[48:36] we're usually working on problems like
+[48:38] that can a startup in during their beta
+[48:42] testing uh providing they have a large
+[48:44] enough cohort in that beta test get a
+[48:47] good sense of their positioning for
+[48:49] their product and they think it's one
+[48:51] thing going into the beta but then their
+[48:53] customers are saying no actually it does
+[48:55] that that's good but I really like it
+[48:57] for this well you got to be a little bit
+[48:59] careful um that you don't start building
+[49:02] a custom product for one customer you
+[49:05] know that's called you know custom
+[49:08] development and we don't want to do that
+[49:11] so we're trying to build a product
+[49:12] that's you know that we can sell to a
+[49:13] whole market. So you're right, we need
+[49:15] to get enough signal and we might get
+[49:18] some feedback the customer will say well
+[49:20] I would have bought that if if it had
+[49:22] had XYZ but then you find out well
+[49:24] they're weird you know and they want XYZ
+[49:26] because they're weird but there's this
+[49:28] whole other part of the market that
+[49:29] doesn't care about XYZ and we could sell
+[49:31] to them all day. So that's what you're
+[49:33] trying to do. Like you're looking to
+[49:35] validate this thesis. So if the thesis
+[49:38] says, well the the value is this,
+[49:41] therefore these kind of customers should
+[49:42] be really easy to close because and then
+[49:45] you get out there and you find like
+[49:47] they're actually hard to close like you
+[49:49] know they're like well I don't know I
+[49:50] don't really get it and I don't know why
+[49:52] wouldn't I just do it this other way or
+[49:54] whatever and you're just not feeling the
+[49:56] pull. Then you're gonna have to go fish
+[49:57] in other ponds and see, well, okay, you
+[50:00] know, maybe that maybe that value wasn't
+[50:03] as valuable as we thought it was, or
+[50:05] maybe that customer was type of customer
+[50:07] wasn't as easy as we thought it was.
+[50:10] It's not usually in the early stages of
+[50:12] a product, we'll get a lot of nos,
+[50:15] right? And we often don't get truthful
+[50:18] answers about the no. So, so I think
+[50:23] it's a mistake to take the nose too the
+[50:25] feedback you get on the nose too
+[50:26] seriously, right? Because a customer
+[50:28] will say, "Well, I didn't pick you
+[50:30] because you were too small and it was
+[50:32] too risky." But what you know, but it
+[50:34] turned out they were never really
+[50:35] considered you, you know, they just put
+[50:37] you on the list because, you know,
+[50:39] purchasing told them they had to look at
+[50:40] three products and you were easy to
+[50:42] them, right? So, they had already made
+[50:44] up their mind or they'll say, "Oh, the
+[50:46] thing was too expensive. We didn't have
+[50:47] the budget." or you know or you know
+[50:50] they'll give you all kinds of reasons
+[50:52] but the no the reason is not always the
+[50:55] truth you know because they didn't buy
+[50:57] from you. They got no skin in this game.
+[50:59] You come and say well why didn't you buy
+[51:00] they'll just tell you whatever to get
+[51:01] you off the phone. Flip side of this if
+[51:05] you're looking at the yeses like if we
+[51:08] have a brand new product in a brand new
+[51:10] market the yes is like a
+[51:13] miracle. And yes, it's like, oh my gosh,
+[51:17] somebody wants to buy our thing. This is
+[51:19] a precious, precious miracle and we
+[51:22] should understand everything about that.
+[51:25] Like, how did we make it on the short
+[51:26] list versus all these other established
+[51:28] competitors? Why on earth did they put
+[51:30] us on the short list? And then they
+[51:32] evaluated us and they picked us. What
+[51:34] the heck happened there? And we should
+[51:37] understand all about that. And is there
+[51:39] something about that customer that made
+[51:41] them a really good fit for our product?
+[51:44] and can we go out and find other
+[51:45] customers like that? So, in the early
+[51:48] days, I think we're really looking for
+[51:50] what we call win analysis as opposed to
+[51:52] loss analysis, which, you know, we're
+[51:55] going to lose
+[51:56] 90%. Just it's a brand new product. It's
+[51:59] amazing anyone buys it. So, so I think
+[52:02] we find out a lot more from the ones
+[52:03] that where we're winning that we come in
+[52:05] and we say, "Okay, what you know, we'll
+[52:08] work. Why why' you like it? Why? like
+[52:11] take me back like what were you doing
+[52:13] before and what made you wake up in the
+[52:14] morning and decided you had to do
+[52:15] something different and then how the
+[52:17] heck did we make it on the short list
+[52:18] and who else made it on the short list?
+[52:20] Why'd you pick us? And here's a good
+[52:21] question to ask. Why not the other guys?
+[52:24] Because sometimes the other guys stepped
+[52:26] in it and that's why you won. It's not
+[52:29] so much that you won, the other guys
+[52:30] lost it
+[52:32] because they couldn't do something or
+[52:33] they did something wrong. And all of
+[52:35] this stuff is really is really important
+[52:37] to understand when you're thinking about
+[52:40] in the early days of a product like
+[52:42] where are we going to focus? What's the
+[52:44] best target market for us? What should
+[52:46] we be building in the product to
+[52:48] strengthen that to strengthen our
+[52:50] position in that beach head market?
+[52:53] That's what we're trying to figure out.
+[52:54] Yeah. At the top of the show, you had
+[52:56] mentioned that very first uh product
+[52:58] that was failing and you had a hundred
+[53:00] users and you were reaching out to talk
+[53:01] to them. What in your experience, what
+[53:05] number of users early on, how many do
+[53:08] you have to get before you can really
+[53:10] get good intel of what's working and
+[53:12] what's not? Yeah, this is a great
+[53:14] question. In my opinion, so first of
+[53:16] all, it's often not users that we want
+[53:19] to talk to. What we want to talk to is a
+[53:21] buyer. But in B2B tech, you know, a
+[53:25] typical B2B tech purchase doesn't get
+[53:28] made by a single person. It's a it's
+[53:30] like a group. And if we look at the
+[53:32] research on this, a typical B2B
+[53:35] enterprise software deal, that group is
+[53:38] anywhere from from five to a dozen
+[53:40] people big. So we've got this, you know,
+[53:43] 12 people who impact this deal. And so
+[53:47] let's say, for example, I'm selling
+[53:48] something to the sales team, you know,
+[53:50] to make the sales team more effective.
+[53:53] Well, I've got the champion of the deal
+[53:57] is usually the person that got assigned
+[54:00] to go figure this out. So, you you know,
+[54:03] maybe you have the vice president of
+[54:04] sales that wakes up and says, "You know
+[54:05] what I hate? I hate this CRM. Let's get
+[54:07] rid of this stupid thing. John, you go
+[54:09] figure it out." And John's like, "Ah,
+[54:11] crap."
+[54:13] Okay. And and so John is now the
+[54:16] champion of this deal. He has been
+[54:18] tasked with doing the research, making a
+[54:20] short list, figuring it out. his boss,
+[54:23] the VP sales, that's what we call the
+[54:25] economic buyer. That person's going to
+[54:26] write the check and ultimately, you
+[54:28] know, this this champion has got to go
+[54:30] to the economic buyer and convince them.
+[54:32] But, you know, but that it's the
+[54:34] champion of the deal is going to decide
+[54:37] whether or not you get on the short
+[54:38] list. The champion of the deal is then
+[54:41] once they've made a short list and
+[54:43] figured out who they want to look at,
+[54:45] they got to run around and convince
+[54:46] everybody else. So probably because
+[54:49] they're not IT, but this thing is IT,
+[54:52] they they probably have to go over to it
+[54:54] and say, "Hey, I'm thinking about buying
+[54:56] this CRM." And it is going to go, "Well,
+[54:58] does it meet our security things? And
+[55:01] does it integrate with our ERP and does
+[55:03] it do whatever? And if it doesn't do
+[55:05] these things, I'm going to say no."
+[55:07] Right? And then they got to go talk they
+[55:09] then maybe they got to go talk to users
+[55:11] and the sales team is like, "We don't
+[55:13] like it. It's too hard to use." No.
+[55:16] Right? And maybe they got to go to
+[55:17] purchasing and purchasing says, "Well,
+[55:19] did you do your homework and does it
+[55:21] meet the whatever and did you negotiate
+[55:23] whatever?" Because otherwise we're going
+[55:24] to say no. So think about it this way. I
+[55:27] got this champion person and my
+[55:30] positioning really really has to
+[55:31] resonate for them because if it doesn't
+[55:33] resonate for them, I don't even get to
+[55:34] talk to anybody else. And so I got to so
+[55:38] when I'm doing this workshop and I'm
+[55:40] thinking about this positioning, it's
+[55:41] got to really resonate for this champion
+[55:43] person. And then our job in marketing
+[55:45] and sales is to arm that person to
+[55:49] handle the
+[55:50] objections of everybody
+[55:53] else. Now coming back to your so this is
+[55:56] my little preamble coming back to your
+[55:57] question like how okay so how many how
+[56:00] many deals you got to do before you know
+[56:03] like you know how many customers you got
+[56:06] to talk to before you know you've talked
+[56:08] to enough. Well, sometimes we are
+[56:11] selling a thing that's like a thousand
+[56:13] bucks and and this deal isn't very
+[56:16] complicated. You know, there's a there's
+[56:18] an economic buyer, there's a champion,
+[56:20] maybe they talk to one other person. It
+[56:23] we get this deal done in a month and
+[56:25] with maybe two sales calls. Well, if
+[56:28] that's true, there's probably a lot of
+[56:30] variability in the customers and so I'm
+[56:33] going to have to talk to more customers
+[56:34] because they're all kind of different.
+[56:37] Whereas, if I'm selling a thing that
+[56:40] costs $5
+[56:42] million and it takes me a year and a
+[56:44] half to
+[56:45] close, I'm not going to have that many
+[56:47] customers. But that's okay because I'm
+[56:49] making $5 million on every single one.
+[56:52] And those customers tend to all sort of
+[56:55] look the same because that's just the
+[56:57] way that stuff works out. So, companies
+[57:00] will often come to me and they'll say,
+[57:01] "Well, I don't know, April. Do you think
+[57:03] we've done enough deals for you to
+[57:04] actually tighten up the positioning and
+[57:06] let's go? And and they'll say, "How many
+[57:08] deals should we do?" And I'm usually
+[57:10] asked them, "How big's the deal? How
+[57:11] long does it take? Do the customers seem
+[57:14] uniform?" Like, if they're all the same
+[57:16] and you can see that
+[57:17] repeatability, then I probably don't
+[57:19] need that many because they all kind of
+[57:21] look the same and they all behave the
+[57:23] same way and they all have the same
+[57:24] sense of value. Um, but if I'm doing a
+[57:28] whole bunch of little deals and they all
+[57:29] sort of look this different, like, you
+[57:31] know, they're in different industries
+[57:33] and it's different buyers and different
+[57:35] personas and everything looks different
+[57:37] and I can't see the patterns, then I
+[57:39] think that's going to be very hard to
+[57:40] position and the company maybe needs to
+[57:42] do more until they start seeing these
+[57:44] patterns pop up. So, I've done I've had
+[57:46] companies call me and they've got 500
+[57:48] 600 customers and I don't think they
+[57:50] have it because the customers all look
+[57:52] wildly different. Yeah. But I've had
+[57:54] other company I worked with a company
+[57:55] once that called me and they said,
+[57:56] "Well, we only have three customers and
+[57:59] so maybe we don't have enough." And and
+[58:03] I said, "Well, h how how long does it
+[58:05] take you to close a deal?" And they
+[58:07] said, "18 months." And I was like, "Wow,
+[58:09] that's a long time." And they said,
+[58:11] "Yeah, they're pretty big deals,
+[58:12] though." And I said, "Well, what's your
+[58:14] revenue?" And they only had three
+[58:15] customers and their revenue was 35
+[58:17] million. Not bad.
+[58:19] So it also meant that they had about a
+[58:22] dozen deals in the pipeline because you
+[58:25] know takes you 18 months to do a deal
+[58:27] and those deals were far enough along
+[58:28] that we know a lot about those
+[58:30] companies. So it wasn't really three it
+[58:31] was really three plus a dozen and in
+[58:33] that case it was like and they all look
+[58:35] exactly the same. They were all big call
+[58:37] centers all big call centers kind of
+[58:39] using it for the exact same use case.
+[58:41] All the thing I was like yeah okay that
+[58:43] sounds like enough we could go do that.
+[58:45] Yeah, because in our beta we've put
+[58:47] about 70 brands through it and they are
+[58:49] across different industries. It could be
+[58:51] agencies, it can be soloreneurs, it can
+[58:53] be, you know, nonprofits are going
+[58:55] through it, whatever. And we are
+[58:57] getting, you know, a lot of great
+[58:58] feedback, but we're definitely seeing
+[59:01] trending in what they value even though
+[59:04] they're in a lot of different
+[59:05] industries, right? Well, what and what
+[59:07] you might find is that and we think
+[59:10] about this a lot in tech, right? What we
+[59:13] might find is, oh, these folks over here
+[59:15] love me this way and these folks over
+[59:17] here love me this way. There's some
+[59:18] commonality in that. So sometimes you're
+[59:20] selling something that's horizontal,
+[59:22] like I spend a lot of time selling
+[59:24] databases. This is a fundamentally
+[59:25] horizontal technology. It doesn't matter
+[59:27] if you're in banking or retail or in
+[59:30] whatever you know you're using a
+[59:32] database and kind of fundamentally the
+[59:34] same way. But that said, we generally
+[59:39] worry a lot about segmenting the market
+[59:41] out. so that we can focus on in the
+[59:44] short term on the folks that are the
+[59:45] easiest to sell to, right? So, you know,
+[59:48] for example, I you know, I worked on
+[59:50] this database and this database was
+[59:51] particularly good at a particular kind
+[59:53] of query with a particular kind of data.
+[59:56] And our original assumption was anybody
+[59:59] that had a lot of data would want this
+[60:01] thing because it did these queries on
+[60:02] this giant amount of data really, really
+[60:04] fast. But what we found was if it was
+[60:07] machine generated data and you needed
+[60:09] the answer to that query to do customer
+[60:12] service because a customer was calling
+[60:13] in and wanted the answer to it, those
+[60:15] folks that was a hair on fire problem
+[60:18] and it was really easy to sell to them.
+[60:20] If it was like a bank and there's some
+[60:22] weird query that they only run once a
+[60:24] month and yeah, it takes a long time to
+[60:26] run it. We have to run it over the
+[60:27] weekend but who cares? We only do it
+[60:29] once, you know, and so they had the
+[60:32] problem. it just wasn't a hair on fire
+[60:34] problem and so they were harder to sell
+[60:35] to. We sold a couple of them. Um, but we
+[60:39] spent our marketing and sales efforts on
+[60:40] these ones that were like, "Oh my gosh,
+[60:42] if you could, you know, if you could
+[60:44] solve this problem, we'd serve our
+[60:45] customers way better. It would save us a
+[60:46] lot of hassle. We'd make a lot more
+[60:48] money. We'd have way happy customers."
+[60:49] You know, there was its immediate
+[60:50] benefit. So sometimes when you have this
+[60:53] thing, it's worthwhile to lean back and
+[60:54] say, you know, is there a segment of
+[60:56] this market? We know lots of people love
+[60:58] us in lots of different ways, but is
+[61:00] there a segment of this market that
+[61:02] goes, "Whoa, that that's awesome." And
+[61:05] can we peel them off and just focus on
+[61:07] them? And we'll get to the rest of the
+[61:09] market later. Um, but we'll focus on
+[61:11] these folks first because they're I
+[61:12] spend less marketing dollars getting
+[61:14] them in the door. I spend less sales
+[61:16] effort getting them closed. They're they
+[61:18] really get the value so they don't ask
+[61:19] for a discount. Like they close really
+[61:22] fast. They renew. They tell their
+[61:23] friends about us. like this is what you
+[61:25] want your pipeline to look like in the
+[61:26] early days. Well, isn't that it? I mean,
+[61:28] repeat business and word of-- mouth
+[61:30] marketing. They love you and they love
+[61:32] what the problems you're solving for
+[61:33] them. They're going to share that with
+[61:34] their world. Yeah. Yeah. Well, April,
+[61:37] this has been absolutely a master class
+[61:39] on positioning. Thank you. Thank you so
+[61:42] much. And if you like, I will send you
+[61:44] back again the uh Genie report on your
+[61:47] brand. And I wasn't surprised that it
+[61:49] nailed it because your copy is very,
+[61:51] very good, but it's an outlier. It's,
+[61:54] you know, you position yourself very
+[61:56] well. Be an outlier on that one.
+[62:00] Absolutely. Where can people learn more
+[62:02] about you? It's aprdunford.com, man.
+[62:04] Come in and look at my uh glorious
+[62:07] positioning.
+[62:09] Absolutely. Well, April, thank you so
+[62:11] much. I really appreciate it. All right.
+[62:13] Well, thanks so much for having me.
+[62:17] [Music]
+[62:21] Thanks for listening to this episode
+[62:23] with April and it just underscores that
+[62:26] B2B doesn't have to stand or should it
+[62:28] stand for boring to bored. So excite
+[62:32] your audiences with a clear brand
+[62:35] positioning. And if you know of anyone
+[62:36] else that would benefit from April's
+[62:38] advice and please share this show with
+[62:40] her. If you do me a favor and jump over
+[62:42] to iTunes and give us a rating and
+[62:44] review, I'd hugely appreciate it because
+[62:46] it helps us get found in the noisy world
+[62:49] out there, of course. And if you are
+[62:52] ready to define and refine your brand
+[62:55] story with our story cycle genie, then
+[62:58] register for the launch today at
+[63:03] businessofstory.com/story
+[63:04] cycle- genie. There are a ton of bonuses
+[63:07] in there, including free access to our
+[63:09] ABTs of storytelling micro training
+[63:12] course. You'll get a free digital copy
+[63:14] of the narrative gym for business and a
+[63:17] free digital copy of my brand bewitchery
+[63:19] book plus an amazing discount on the
+[63:23] launch. So, just head over to
+[63:26] businessofstory.com/story cycle- genie.
+[63:30] And I hope you'll join us next Monday
+[63:31] when the author of Neuro Branding, the
+[63:34] new book by Rand Vic of LA's Vic Agency,
+[63:38] shows you how to not just get attention
+[63:40] for your brand, but become immensely
+[63:43] memorable by tapping into the deep
+[63:46] reaches of your prospects and customers
+[63:48] brains. That's all next week right here
+[63:51] in the business of story. And until
+[63:52] then, remember that the most potent
+[63:55] story you will ever tell is the story
+[63:57] you tell yourself. So make that one
+[63:59] epic. Thanks so much for listening.
+[64:02] [Music]

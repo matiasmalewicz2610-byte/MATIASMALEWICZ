@@ -1,31 +1,1392 @@
-# Transcript — How Dave Gerhardt Built a B2B Audience of 200,000+
+# Transcript — Pm8VAqFG4jA
 Video ID: Pm8VAqFG4jA
 URL: https://youtube.com/watch?v=Pm8VAqFG4jA
-Channel: exitfive
-Published: 2025-01-15
-Collected: PENDING
-Expert: Dave Gerhardt
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~10153
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+[Music] Dave excited to have you on the program uh many people listening to this I'm sure know you but for those that don't maybe some SEO people yeah the founder of exit 5 a very well-respected high growth top uh B2B marketing Community I'm a part of it I'm pumped I'm excited to be in there it's been valuable so far so that's what maybe think to invite you and yeah you got a great background as a CMO some big startups so um excited to be here chop it up with you yeah thank you sir we got the I figured I if I was going to come on your podcast I was going to dress like you and oh yeah we're branded but yeah no I'm ha happy to happy to come on any opportunity to talk about exif five with somebody who gets the space of you know content and marketing and social media today which is you know you've you've built a great business over the years and uh I've I've been familiar with you so when you guys reached out I'm like yeah hang out for a little bit happy to chop it up with you guys nice I appreciate it Dave yeah I mean we're traditionally in as you know like we're SEO at the core you I don't know you describe yourself you probably wouldn't describe yourself as SEO is that fair to say maybe you would I don't want to my only experience with SEO people I'm going to get killed right off the bat is that they just usually give me a spreadsheet of ideas and don't do anything so I'm no I'm not an SEO well that's actual marketer I'm just kidding I'm kidding I'm kidding they're coming together a good SEO I think maybe it wasn't the case five years ago I mean yeah I think SEO is one of the most important things in in marketing just because I believe so much in that I think there used to be like content marketing as a Channel of marketing and like now I think the smart people know that content is the whole game in marketing yeah and like there isn't it's it's not an other channel you know and it's not like it was 10 years ago where like the Innovative companies today have blogs and they rank for keywords like no it's it's content is the game in marketing and search is a huge part of that um and I think that great seos play a important role because they're not just they're not just looking at what you know specific it's not just about key wordss it is about understanding the whole content strategy and what I think is super exciting about content today is like content has multiple formats it is podcast short form long form events transcripts articles like there's so much that's converged that a smart SEO can use to drive traffic for the company and um I think it's it's also amazing time to be in the game because so much is changing with AI and search and um just it's a it's a good time to be here yeah it's it depends on who you ask in our industry but I appreciate the optimism um but yeah it's fun wait why what what is the what is the overall like a from an industry Insider standpoint what is the tone I mean it's it's balance I'd suggest and we could link I was just referencing a Kevin indig article specific to B2B that there's some anticipation that AI search engines will be around 30 to 35% of the overall search pie eventually but the like apocalypse is if that's not apocalypse the more negative sentiment is if that's not 35% and search just goes down that that's our pie shrinking as a channel still a quite significant Channel but that's the nervousness it's just will it be negative 2030 yeah wasn't it wasn't it big news though like um like Google's latest update it seems like there and this is not my wheelhouse I'm feel like I'm talking in a different language to some somebody but um I watched a video from a guy who was excited about Google's latest you know Gemini update like flash or whatever it was called because their their Gemini you know AI is starting to like basically fold in what used to be Google search like is there something there that is promising or is that also a threat I I think so it's that I and that's Kevin's take and if chaep t as in open AI has mentioned they would do advertisements that potentially I think to do that well we need to drive clicks potentially so that's optimistic that normally You' probably need organic in there to get people to click ads that's how Google has done it of course right so I think that's what Gemini that Gemini update likely is okay um but I not not here to have you kind of Riff on SEO I appreciate appreciate it I mean why I I thought of having you here is you're a great content creator I mean you're set and I just saw you do a post on LinkedIn that mentioned you're about to do articles in your own website I don't know if you're thinking about SEO for your own website but you SE position as someone who's great at content marketing no matter how much you think about SEO to actually very strongly do good SEO because you have you're building a brand that's clearly well known and respected and all those things so I think the community in s World should hear about how you think about content creation I mean you have a successful podcast you're posting what seems like pretty daily uh um on LinkedIn and other networks would' love to hear about your personal workflow like what does that look like in process yeah yeah so well this is like cool part about exit 5 being in business now is that it's essentially like the things I've been doing for probably you know seven to 10 years but um that content is now the Standalone business and so I came up as a PR intern marketing manager product marketer eventually grew grew my career into VP marketing and CMO at a couple of smaller SAS companies and at the two companies that I was at like the both companies had Brands and both companies had this strong like organic presence and we did launches uh we drove a lot of attention through Linkedin through social media through articles blogs podcasts newsletters and we've always kind of been good at that and over that time that I was doing marketing I started writing on LinkedIn this was at a time when like nobody was really writing on LinkedIn like I would write a post and people would be like you know relax bro this isn't Facebook uh but LinkedIn has obviously changed a lot it's not necessarily like a Rolodex anymore it used to be like oh um I met Ross at a meeting for real and I'm going to send him a LinkedIn connection after the meeting and then we're connected but now LinkedIn has just become a social network and the main focus of the social network is like business content and so I started to love my job I started to love marketing I started to love the craft of marketing I'm sure like many people who listen to your show love the craft of SEO they take that seriously and that that becomes their passion I started writing about it on LinkedIn I got you know 10,000 followers 20,000 followers all of a sudden like I've been on Twitter for a decade and I still don't know what works there and then I'm on LinkedIn and I got 70,000 100,000 followers and it's like whoa this is crazy and at the time I was at a I was also at a company that was doing really well and the company became known for their marketing I was the person leading the marketing and so I got a lot of like you know brand Halo from that so I had a podcast people started listening to the podcast I decided that I was going to try something new this was in 2019 where I was going to launch paid content for marketers I was like I think this is valuable I'm a capitalist I'm going to charge money for my content like a subscription business and in addition to my job as CMO I was like I'm going to launch this thing on patreon where I share my lessons learnings and thoughts on marketing and I'm going to charge dollars for it and I got this idea because my wife was listening to this comedian and the comedian had a patreon and so she had her like public podcast which is open to the world but then like twice a week she would share episodes that were for subscribers only and I just kind of felt like I could do that based on the response I was getting to my content and so I said I'm going to launch this thing I changed jobs and it was kind of a big deal for like some people that knew the companies and stuff and I released the first episode talking about why I left the company and it was for member it was for subscribers only he was like the only fans of marketing B basically right and it was just me talking into my phone and me sharing like you know I love marketing it's kind of like what my brain is doing all the time and so very easy for me to create content it's like oh I saw this article today or here's an interesting ad screenshot my comments you know that that was really valuable for for people I thought I was gonna have like 20 members it'd be $10 a month I would have you know 200 I would have been happy with $500 a month like for side income and like contribute to my rent but like really quickly within the first 30 days I think I had a thousand members and so I went from0 to $10,000 a month in recurring like subscription Revenue almost overnight and that was the thing that just like broke my brain forever because I've been in SAS and Tech and I'm like man how many Founders have been like you know pound their head against the wall for like years to try to get to like M you know 10 20 30 40 50,000 recurring Revenue I was getting this now through content a couple months into that we got 2,000 members and one of the members messaged me and he's like hey man uh it's cool listening to you rant about marketing all the time like there's 2,000 of us here like you should let us talk to each other there you go and like this is how this stuff happens like I you know I you're absolutely right and so um my wife and I were new parents at the time and we were I I went from thinking nobody use Facebook to now like I'm on Facebook 24 hours a day to figure out like what's wrong with my kid at every moment of the day and so we're in Facebook groups I launched a Facebook group and I just included it as a benefit of joining on patreon so when you join you get a link to to a private Facebook group you go there and that was again that next thing that like kind of ruined my brain forever because now I'm not posting I don't have to post all the time and so I'm I'm like doing my thing during the day and I come in and I see in the community there's like five new discussions or like one thread is just like exploded and then that was the kind of thing that led me to realize like there's something bigger here there is a like a community of marketers and I've obviously been in online marketing for a while I'm not the first to have a community but it was started through me through my brand obviously people thought that was you know they wanted to taste the me the recipe that I was making they were willing to come in that turned into a real business and I decided to Pivot it from like initially I called a Dave Gart Marketing Group my wife tells me I'm terrible at naming things which I am and once I realized it could be a real business I wanted to kind of like unbundle myself from it and so I came up with a new name called exit 5 uh about two and a half years ago and I launched that and I did it for I did it by myself for about uh two years and then this year I decided to really go all in on it and we have a team of five full-time employees they're all remote we have 5,000 members in our community so that's the main part of it but we also now do in-person events we have a popular podcast we have a newsletter we're starting to do content and so that's I wanted to give you that background because that is like the long-winded way of saying like that Playbook is what I've done at companies where we do you know strong organic content and it's this amazing flywheel that you can create because I wrote a post on LinkedIn today about like everybody talks about sales and marketing alignment not enough people talk about product and marketing alignment and here's why that post went nuts ton of engagement on that post that's a signal for me that now this is a topic people are interested in and so now that LinkedIn post can become a newsletter that we write to our audience right that newsletter is popular that that that could be a webinar that we do in two in you know in two months when we have one of our events I know that that topic now is popular and we could have a talk track on that we did our event this year our first event in Vermont we had 200 people I sourced the nine speakers for that event because I've done the podcast for two years and I just literally went and I said who are the most popular podcast guests who could I reasonably get would they come to Vermont and I emailed them all and I said hey you're you were one of the most popular podcast guests this year we're thinking about doing an event like would you want to come speak and they said yes and so I've just been able to create this like this flywheel through organic content where you use social media to get real time inside and feedback and signals on what people want and then you create various forms of content from there and it becomes this flywheel that's what I've done for marketing at companies and now it's become the whole business with exit 5 and the niche that we're focused on is B2B marketers but I think you could take this model and you could do it for seos you could do it for plumbers you could do it for HR you could do it for accounting I just have trust and credibility in the space of bdb marketing because I worked there for like 10 to 12 years and that's the business that I'm I'm building this on top of today nice so from an ideation standpoint the kind of typical place you would go would be sales Calls Form submits all that good stuff I think about exit 5 I wonder I don't want to speak for for you but yeah where is that I know some of it's just your experience and connecting those threads but uh where's that origin coming from what do you mean from an ideation standpoint yeah so like I'm writing a post today about product product plus marketing so like what is that com from um consistently obviously not yeah so so I mean a lot of it is a bunch of it is driven off of my personal experience and so I W I went from PR like I worked in this industry for 10 years over that time of 10 years I was went from PR intern to CMO so my career acceleration was really fast and I saw a bunch of lessons and so a lot of it is like reflecting back on lessons that I've learned like anything in life there's a 8020 Rule and it's like yeah the things that were relevant to me in 2011 were are still relevant to someone in their career today so that stuff is timeless right but then also a thing that keeps me in the game is um I've invested in and visis in a bunch of startups and so I'm still like in the game with knowing what's relevant to marketers we have 5,000 members in our community I'm in there every single day I know what questions are popular I know what people are asking about and so I have my finger on the pulse of like what's relevant to them I also have hosted a podcast like yours I've done it for 200 episodes once a week I talk to a CMO or like a subject matter expert in marketing and so I'm doing usually one to two episodes a week that's two and a half hours of like one-on-one conversations where I'm not the expert I treat I say I'm not in the game anymore I'm not the expert anymore I'm taking this from like I'm a student again where I'm interviewing these amazing people this person's a CMO at this $100 million company um I had Kip who's Kip's my friend the CMO at HubSpot we had him in our like CMO Community to do a deep dive session I was like taking notes the whole time it's just this there's not one source it's multiple of them it's like you know my career the community podcast guests social media all those things kind of make for what we're seeing with content and then now we have a team of five people and so we have somebody who manages the community we have somebody who writes a newsletter we're getting replies to our emails we're seeing what's popping off the community we have an editorial calendar and we're kind of just always like you know riffing on which topics are most important and relevant to people right now nice yeah what I like about your community and it kind of you made me think of just this thread of obviously talking to your customers an important part but maybe not always you have the customers but something's valuable for your community in particular for Content creators is you're going to that in the moment place where questions are getting asked like I've already created social media posts around stuff I've seen on exit 5 and that was valuable for me I've just seen people asking buyers and people I would just respect even if they're not buyers asking questions about SEO content that's like such an easy thread to pull on and I'm guessing you do as well but that I don't know if you'd agree with that idea of like yeah seeing where people abolutely I mean like I think it's uh this is like SEO like smart SEO folks have been doing this forever right where it's like hey we need to create content about a particular topic let's go find out what people are saying about that topic online and it might mean you know I used to like mine like quora posts back in the day right or like subreddits or you're you're an inperson you're at an in-person thing and you you know you're going to a local networking event I think this is just the digital version and it's at scale but it's like the core about what makes great marketing it's like do you have a deep understanding of your audience do you know what people want and then can you go and create that and give it to them and that's what the business has basically become I don't think we'd be as good at it if it was like the cyber security Community it happens to be based off of an area where I've worked for a long time and have a lot of connections and that's been in in Advantage but that is how we create content it's no different than finding out what people want seeing the popular topics it's usually 80% of the stuff is going to be if someone's asking it multiple people in the other Comm in the community have the same question and it just the cycle repeats makes sense so I mean that's the forest kind of view how about the trees I don't know if there's anything interesting there does like Dave sit down every day 9:00 a.m for an hour block you have someone on your team edit single every single post like what does that look like somebody on the team that edits my LinkedIn yeah maybe no that's absolutely not absolutely not no way nope just that's me uh I think you got to be careful with Outsourcing that I mean it can maybe if that's not your strength but I've done it for so long but yeah I so so the tree part of it is for LinkedIn specifically I have found that I like to write there every day um sometimes I don't write on Saturdays and Sundays however I haven't seen a drop an engagement I think you can people still check LinkedIn on Saturday and Sunday and so the engagement still works I found that posting once a day is The Sweet Spot typically between 7 and you know 6:00 and 9:00 a.m. in the morning for me and then I try to write one post a day because that has become like my blog now if I had a different business I probably wouldn't write there as much but we see a direct correlation between like you know LinkedIn is the number one traffic driver for exit 5 I have a lot of followers on LinkedIn and so that makes a huge difference but it's the we look at self-reported attribution for all of our members sponsors whatever it's LinkedIn LinkedIn LinkedIn LinkedIn and so the more that I write on LinkedIn we see a correlation between traffic and email subscribers for exit 5 and so exit 5 is the thing that I care about growing right now and so the more Impressions that I can get on LinkedIn the more goodness that that leads back to the exit 5 funnel and so I try to write about marketing once a day on LinkedIn um so that's kind of like step number one is like all right I'm going to write I go back and forth between scheduling content recently so scheduling is awesome because like we're humans and it's just nice to have stuff it's nice to be like I have a block of hours right now and I'm just going to use them to commit to writing and I'm in the zone and I'm just going to riff off a bunch of posts but I have found that scheduled posts don't perform as good I don't know if that's a placebo I don't know if that's like a madeup thing a belief of mine I I don't know if it's because when I don't schedule posts like I'm often active on LinkedIn then I write and Linkedin knows that like oh he's really here right now and so you know and I'm curious to hear your perspective as somebody who's obviously thought a lot about like you know search algorithms and stuff in in the past but that's one hypothesis so I've lately what I do is every single day I have a calendar at like nine o'clock and I have just a LinkedIn spot and I just use that as my schedule and so tomorrow so today we're recording this on a Wednesday I have an idea of the thing I'm going to write to tomorrow and it's just on my calendar in a task on my calendar at 9:00 and I have a video clip that I want to post and some copy and I'm going to sit down tomorrow like between 9 and 10 o'clock just like when I go through my inbox and I'm going to write a LinkedIn post um I also think LinkedIn values like engagement and so even if you did schedule something you need to be there you need to like reply to comments you need to send stuff back to people and you get so many content ideas from commenting on other people's posts and so so often like it's like a prompt I'll see somebody else El's Post in the feed about this and you know this hey hey like here's why AI sucks and you know AI is going to ruin us all and I'm like actually I think AI is awesome here's why and I write a comment on that person's post and that and then you basically R they call the kids call it like ratioing on on X or whatever right where now all of a sudden someone's post had 66 likes my comment has 103 likes great signal I'm going to copy and paste my comment and I'm going to take that I'm going to save it and that's going to be a future post of mine and what I do is I just keep a backlog I just have app like Apple notes I've used everything notion Google Docs right now I got Apple notes I'm looking at it right now where I just have a LinkedIn backlog and so if I don't have a new post idea or if I get to LinkedIn tomorrow and I don't have a fresh idea to write I'll dig through my backlog and see if anything like strikes me if anything is good A lot of times I don't even reference the backlog I just have an idea and I just go or I'll write something in exit 5 and I'm like yeah I want to adapt that for LinkedIn um and so I've just tried to make it a daily habit I enjoy doing it 80% of what I write about is marketing 20% is about like some random thing about my family or or working out but I found that the true way to grow on LinkedIn is to focus on is to become known for something um I've become known as like the B2B marketing guy when I was posting about everything working out food Fitness startups VC this and that you don't grow you got to pick one one particular topic and so what's the topic that valuable for you to be known about write about that topic do it every day that's the best way to figure out what's going to work on LinkedIn so you feel like a good ratio I've always been a little too much I I sometimes feel like I'm almost to 100% but you'll go you'll add that you are you very deliberate about that like I've done four posts and now my fifth one is going to be personal probably not I'm guessing but no uh I'm not no but I also think like the way to you can it depends on what it is right and so like I've seen like PR people like ghost right for Founders and CEOs and they try to do this and it becomes like too much where you're like every article everything from Dave is like it's either original thought about marketing or it's like some link to an article that's like did you know that 72% of CMOS think that like you you need to just talk about what you're doing and so like it's basically like marketing is the thing that I'm doing and so I write about what I'm doing but it's never like this force-fed like here's my hot takea marketing for today Thursday you know Thursday December 19th it's just like talk about the stuff you're working on for me the thing that I'm working on happens to be marketing if you're a Founder in in if you're if you're a founder and you're start you have a company in the like AI space for customer service you're probably going to write about that all the time you want to become known for AI and customer service and there's like the kind of force-fed like takes the corny like PR style like writing on LinkedIn that's not what works what works is being authentic writing about what's happening inside of your company lessons from meetings you're in injecting your personality into those posts and then occasionally there's a random post you know that makes sense it is here I post all these podcast clips from our podcast they're like highly edited we pay someone money to do them then I post like a 7c video of me like on a hike with my wife and that video gets 50,000 Impressions and just blow blows every other piece of content away but that is that would only happen if you didn't do if you yeah couldn't do it all in a row right it's because you do the other stuff yeah but but I think you just gotta you just kind of got got to look at it and and and roll with what the audience wants I also noticed that when I write about marketing it performs better when I wrote that post today about sale you know marketing and product performance the engagement rate was great yeah makes sense that's what people have come to know you know that I write about so yeah on your scheduling point I I don't I don't know if you find this but I it's probably correlation Rec causation and sometimes I'm just like I probably could schedule things I think you're right about that part of my personal feeling sometimes is like I'm so passionate about this exact thought I like need to get it out in the world and maybe that's somehow because that passion is wrapped up and I need to publish this now it's probably also better concept therefore it performs better so so this is so I had this conversation with a Founder friend of mine recently because he just like goes Rogue and just like posts on LinkedIn in the middle of the day I'm like if you're passionate about that topic though you need like the the real way is to be patient waitting you already posted today so you're going to get ding from LinkedIn number two if you're already P if you're really passionate about just wait wait the next day schedule it make it your your morning post the next day and more people are going to see it and so I have the same feeling too like you just want to open your phone and like rant on something but if you can just pause and like wait and get it in the next que that get it in the queue for like when everything is fresh because LinkedIn also doesn't want you to post I found that it's like about once a day you can or you got to wait six to eight hours whereas like Twitter you can just go bam bam bam bam bam bam bam yeah so it is better to wait makes sense and that's that that's the whole thing about why my schedule why I have this the way that it is it's like once a day in the morning like you're taking an ad you know what you're taking athletic greens or whatever that that works perfectly and then and then if you if you're really passionate about something I would tell you like write it like Ross you should write it but then just schedule it for the next morning when then we'll go out when everything is fresh right and then on the scheduling thing even if even if I am right that it does limit reach it's not like Monumental it's maybe 10% or 20% right and so I'm a big believer in like life and systems and everything and so like is it sometimes worth like the 20% reach tradeoff because it's easier mentally to like write your post and schedule it yes and so let's just schedule it and deal with with it right makes sense agreed yeah you I feel like that's a as a metaphor for being a good CEO like you shouldn't just jump in and then break everything in your company oh yeah I do that all the time just just just you know just dive bomb into slack for no reason like why should just wait why why did I not wait and just like discuss it at our team meeting tomorrow why did I have to drop this bomb in this way right now team loves me uh you so you had the anchor point of your kind of brand and posting you you added the podcast for exit 5 like we probably can't create an analogy for every high growth SAS company but you added podcasting you added in-person events you have the community you're now doing articles on websites is there a specific I'm guessing you think those are appropriate size like how how much leverage there is for your company but I don't know if you think about that from your content stack you speci specifically I mean it's okay to say you're adding like content on-site content last deliberately and that's normally what you would do I I yeah for all my criticism about SEO in the beginning like I suck at SEO so that's part of it is like okay that makes sense it's just not it's it's not my thing it's not as so so I've had a so so here's a good example like I had a podcast starting in 2014 and it was just like my true first like real side project passion project I was working at a startup I was a customer success manager I started to get into podcasts on my own I had this idea of like hey I'm in Boston the startup scene is really awesome here nobody has a podcast about like startups in Boston it'd be really cool to start a podcast and so my CEO was like you should just do it and I did it and it was amazing and I started a podcast and so I've had a podcast now for 11 years running in some form and that has just kind of been my my thing like you know I had a we had a podcast at drift I had a podcast at privy I had the exit 5 podcast like we've just kind of always had one and I've used it as like the Trojan Horse for creating lots of other content and so because I've had a large following on LinkedIn it fuels it because we do a podcast interview I do this podcast interview with Ross he's an expert on SEO we get clips from this episode those clips Drive listeners they also Drive awareness and drive traffic back to our site we don't have a ton of articles on the site but I can get a transcript and the video and the recording from every podcast and I can make a short little article on the site even if it's not perfect for SEO it's a way to meet other people in the industry it's a way to like basically use other people's voices to help grow your brand as opposed to like Dave's Hot takes and so I've just kind I started podcast was a natural start for me right and makes sense that that just kind of became like unintentionally the whole flywheel because it's like we do a podcast with someone that becomes the newsletter that becomes a social media like just doing one hour podcast interview could get us all the content we need to like fuel V1 of the exit5 content machine now we're at now last we're starting to write articles on the site um which is funny because you know we have 5,000 members in this like private community and we have 10 maybe get we get we get about 10,000 website visitors a month and 99.9% of them come to the website through direct search or like like you know searching for exit 5 so we have no key we don't rank for any keywords in in B2B marketing and so now this is a real business and we're thinking about channels to scale we are doing things in the backwards order which is like wait a second I actually want if we have 5,000 people in a paid Community there should be 50,000 people that come to our website every month for our free content and so like I want to make a I want our website to basically be like if there was a free version of exit 5 it's our content on our website and that's the vision for like what we should what want to go do and execute now we just haven't haven't done it so we've we've done it last but I think any look at any company any person any startup you need just one or two core marketing channels to get going and to get initial traction and oftentimes it is something that you have a uh a personal bias towards like this guy uh there's a guy called Vin matano and he's um making a lot of really great videos about like he was a sales rep at demand BAS Bas and now he's like full-blown like influencer Marketing in B2B he's probably in his early 20s but he's been making videos since he was like eight and 10 years old and so he didn't he didn't decide like I'm going to start a video no this is he's fluent and like and he he has no learning curve of like having to make videos he's he's grown up doing that right and so that makes sense as his channel to start so he doesn't have a website with article you know with long form like written content and so just happen to be that way for us I don't think there's a right or wrong way to do it just the ingredients you know match if you did something again you came up you know your background as SEO and and website that's probably going to be where you're going to start to to build your Moe you're not going to be like yeah the fir hey I'm Ross I'm starting a new company the first channel we're going to launch is Tik Tok like that's just not what you're gonna do it doesn't make sense for you right yes that's fair I'm not on Tik Tok so you nailed me you nailed me so I mean the community as we mentioned is great uh hopefully you get some signups from this podcast but I think intuitively from a Content standpoint as a lesson for some people who may consider it as a channel uh you have a unique UI I instinctively was thinking every Community is on slack now and you have a differentiated kind of experience that I haven't seen before would be curious if you're comfortable sharing what tool is it roughly what does it cost yeah sure so well so first um every this was the whole Community was on Facebook for a while and it was great it was going great and there's just a loop with humans where you're in you're on your phone everybody tells you they don't use Facebook anymore at least my generation I'm 37 and so we kind of came up right around High School College Facebook became huge then nobody nobody says they use Facebook anymore everybody still uses it because they're all checking it at some point and so the face Facebook was great because we had this Loop of like you're waiting in line at Starbucks to get a coffee you pull out your phone you check exit 5 because it's one of the Facebook groups that you're in but uh I didn't have any of the data I didn't have anybody's email addresses really uh communication was hard the the feed was very like ephemeral in that like there'd be one or two trending posts and that would kind of suck up all the oxygen I wanted to build more of a Content Library so Facebook wasn't right for a lot of different reasons and uh I made the decision to like I started shopping around trying to find I want to move this off of Facebook so slack everybody's Community everybody does community on slack well there's a couple things people don't understand about Slack number one uh the free plan of slack is not sustainable for a community um because the search goes away after like the archive goes away after like some set time period And so one of the huge value props of having two years of exit5 is you can go search for SEO in exit 5 and you can see you know 54 posts dating back to last year you couldn't do that in slack the other thing is slack you have to pay per user so adds up obviously like it's a great business we have high margins I still I don't want to pay $825 per month per user to to have to power the community and so um we found this company called Circle and there's a couple other ones and a lot of people ask me like why Circle vers this other thing and I don't know the answer because I didn't evaluate other companies I wanted to move this thing off of circle I wanted to move this thing off of Facebook the head of customer success at Circle is this gu called Tim thine and he's been in my network for a while and he's been hitting me up for years move off of Facebook move to Circle move to Circle we'll make it easy for you so I finally one day just just like all right can you do that can you make it easy for me and he said yes and they like did like this white glove onboarding you know we moved over all the content they hooked me up with this other guy Jordan Godby who runs who runs a company called growth Community where they help people build communities so that's why I went with circle was like I'm a solo I was a solopreneur at the time this seemed like an overwhelming project like you know migrating websites essentially they made it real easy and the product worked for me and they you know what I got was a wh labeled product and so it's like you go to exit 5.com jooin or login you get the web app there and it's a custom designed private Community we also have a private like a dedicated U mobile app and so like that that's a big piece of like replacing Facebook you know we have the exit 5 app um and so that's the product I think we pay I don't know 2030 Grand a year for it um it's not it's not cheap but like that is what you know you also pay for like HubSpot or something and it's like it's become a full marketing automation platform for our community and we have a dedicated we have we have a full-time person on the team Matt you know making a good salary and his full job is running the community like treating it like a product manager and so for a year it kind of stagnated while it was just me like posting and ghosting Matt's in there every single day we have so many things set up from workflows to zaps to automation to data it's a full product it's like a software product but there's no you know we're not writing code we're creating content and so um yeah we use Circle for that I'm sure other things work but it just happens to be where we are the hardest thing was we lost like 2,000 members when we moved off of Facebook like 2,000 paying members like I turned 25k of Mr um and that was an intentional decision I knew knew that this was going to be a long-term business I wanted to like and I'm sure you've you know you've built a great company sometimes you just have to make a decision that's like damn it's going to suck in the short term but like I got to rip this band-aid and like we're finally here a year and a half later we have a team we've made all the revenue back things are going awesome the hardest part was for six months you know me getting hundreds of messages from people who were so mad that we moved the community off of Facebook because they love Facebook Facebook was better there used to you could go look at you're in the community you go look all the time people would post like is it dead in here the engagement is way down compared to Facebook and so there was some element of like we had to retrain we had to think about things differently it's not going to be the same as Facebook because Facebook is much more of like a social media feed I wanted to build more of like a membership like a library and so yes there is the community where you can talk to each other and you can post but we have hundreds of videos and we do vid you know live streams and amas and it needs to be like re repitched to doing that and so that was more than what you asked me to answer but man there's so many so many lessons in there learned from from moving off a platforms but I could also get on my Soap Box about slack there's large communities that have been built on slack and you're paying member of on of someone's community on slack and you just spend half your day getting blasted with like at here at Channel like none of that happens inside exit 5 you can still message members you can still message each other but there's no way to like Mass like ping everybody and ultimately the hard part about Community is just becomes a place to spam people you know yeah inbound. org growth growth hackers all those all those communities from back in the day just end up going to zero uh because they just become a sales channel for the members yeah it's been been good signal I haven't I don't think I've gotten a pitch yet from anybody I no you you will like we've had we've had some scenarios where um we've had to kick people out because they you know Auto DM a bunch of people like upon joining and um that stuff happens uh we're just we're working hard to like H we have a sta we have a team and we have a we have to work hard to do it I do think that's one of the benefits that I didn't understand like I I it's a paid Community because I wanted to generate revenue from it but I I do think a big a big value prop is that because it's paid there are no spam like there's no free low-end people coming in to just like blast you with Spam it's like a gym membership in some in some in some level where like because you're paying for it you're a little bit more committed you have a higher expectation about what you're going to get get out of it and you're going to put in more to get to get that thing out of it so it's a it's a win-win so that's a uh that brings me to another question of like if we're bringing this to a B2B I mean obviously you're a B2B company but the typical SAS company have you seen them run I mean I've seen free communities run by SAS products but I can't think of one that's besid yeah yeah do you have any top can't they can't they they can't because the the mechanics and the incentives don't work right and so if you're a SAS company you're usually probably you're probably a venture back SAS company most of the companies in the space are and you wouldn't have a paid Community because how would you account for that revenue and then like rounding error as well probably right it would be a rounding error and why would we char charge for this we don't really need the revenue from the community ultimately what we want is more subscription sales of our products and so it doesn't make sense to charge for it so we make it free but then because it's free it just becomes like another like it's essentially just gated content and it just becomes a way to feed the you know ultimately even if things go really well after a year you're in a you're in a board meeting or you're in an exec meeting and the VPS sales is like wait a second this community is going really good why don't we use it to nurture and like sell our product in there it's like well kind of what makes Community great is that you're not like pushing a product and it's about genuine the people and so there's just like the vent diagram of like how do we extract the value from this is really is really hard to understand um and then the other mistake is like a lot of times inside of a company it's not treated like this is our business at Exit 5 and so we have a you know six-figure well-paid person running the community I've been at companies where it's like oh Community that's the intern's job and the intern like checks in in the community every Tuesday morning and asks people like you know how's it going and it takes you know you have to think about it like a true product and be a product manager and and manage it at that level so I just I don't think a lot of the incentives line up inside of a company to structure it right I don't think it's impossible I think there are smart companies out there like Kip like Kip at HubSpot as an example of like I think they get it I think they could figure it out I think you'd have to work with a company who believed in like look the best marketing playbook in B2B is to be the number one resource for your customer for whatever the thing you're selling is not because of your product but because of like you know you you sell HR software the best marketing strategy is to become a brand that is like the number one source of knowledge and information for HR pros and you happen to sell HR software so if you can build a community for them with that in mind I think it can absolutely work um but if you start like trying to do lead scoring and nurturing members to try to like get them into your product then you know it's burn out makes sense well uh we're almost at time here Dave I mean before we go I think especially for our our audience you asked me but I would kind of bounce it back off you you talk to a lot of CMOS on your podcasts people are talking about content marketing and SEO in the world of AI um generally like what it what perception do you feel people have currently towards that like what's what's the thought process if there's an encaps it's crazy um well I think there's a like there there's a couple things right and so I think it's not just AI like separate from AI my perception as a market former marketing leader I'm just a thought leader now Community manager is like intern SEO I'm an intern uh SEO has become harder because of how much like the proliferation of content right and so like 15 years ago if you had the only B2B marketing blog you could Rank and you could just Dominate and Crush all the traffic there but in any industry in any Niche there's so much content right and so it is much harder to to drive traffic consumers this is again separate from AI consumers The Searchers search now means different things like so many people now are getting their information that they used to only get from the Google machine we now get it from maybe you and me are not on it but most people are Tik tock YouTube Instagram X LinkedIn those have all also eaten away at search right because like I don't need necessarily need to go to Google and type in like what you know new world news I don't need to go to that because I'm going to see it somewhere else so those those are the those are the bigger the the big trends and then you have ai coming in the picture AI makes generating content even easier so now there's even more competition so like hey we want to rank for this term we don't even need humans to create content we can just do it with AI then there's the other side of the conversation which is AI is actually a becoming a search engine so there's like five different things in there that I said which I understand while your world is crazy crazy right now because it's not just that AI is a search engine but now I'm thinking my personal life I would say that maybe 50% of my search is now done like I am almost defaulting to chat GPT for search related questions now um and so I just think about that as a consumer like the I'm I'm not a great cook I'm trying to get better I'm making steaks the other night and I'm going back and forth with chat GPT about cooking this ribey on a cast iron pant it's amazing it's such a better experience than like if you've ever gone to Google and you typ ter time and temperature for cooking salmon you got to scroll down like 1500 words to see the little call out box of like oh it's 375 for 18 minutes like why couldn't you know Chad gbt can tell me that directly so there's a lot that I think is going to there's a lot that I think is changing I do think though I don't know if its current form is going to win but I think that like the broader thing about SEO at least in how I I would think about it is like earned media and doing creating content to bring people back to your company and product that's never going to go away now how you do that is going to change but I think it's always going to be a game of like we have a point of view we're creating content we want people to come back to our website whether it's through Google through chat gbt through Instagram through Tik Tok through YouTube shorts like I don't think that that core thing is going to change you're always going to need to like find ways to get people to care about content it used to be by creating articles and getting them to rank by Google rank in Google that seems to be changing that's the that's the bigger that's the bigger strategy that's like why why does a c CMO invest in SEO because we want inbound organic highquality traffic coming to our website period how you know if there's a middle layer there whether it's Google Chat gbt whatever we don't we don't necessarily care like in the exit 5 example we're playing on LinkedIn because it works and that's where our audience is and we have an advantage there yeah makes sense I think that's a great summary and way of thinking about it like we the SEO listening to this evolved to thinking more is like we're often saying organic growth now of similar concept synonym to earn media and if we kind of take our mindset there I think it's definitely defensible as you mentioned it's just going to evolve with that change or just like you know there there could be a future where like my job like let's just use uh let's just use exit 5 as as an example right you search for bdb marketing Community I want exit5 to show up first in that whether that is someone searching on YouTube Someone searching on Tik Tok someone asking chat gbt someone asking Google yeah that's the job yeah is do you is that where you see things going is that like the future job like that still is the job like the SEO role is like that person owns that help help me make sure all of those things are true yeah agreed I mean we're that's the new kind of day one Noah TOA is a tool I recommend commend um that's up and coming I think HFS and others will show of like how you show up on these tools how to influence what what's that tool called Noah TOA um the name maybe needs some re know like you know something aa.com we could put in the show notes but uh good tool for kind of identifying how you show up oh AI brand monitoring yes this is kind of the new thing and influencing the results is still kind of a little bit of a black box but um yeah I agree on the overall thesis well thanks yeah go it's wild though I mean is it a stressful time or is it a fun time uh I mean depends on who you ask we're lucky to be we're position up Market we have a lot of big customers we're up in 2024 2025 is looking quite good too um so you never know but a lot of I think you hit it on the head that a lot of the smaller players are getting washed out it's very hard to win and that can it's quite painful for both agencies and smaller businesses for search as a channel so I think that's an accurate kind of depiction that the bigger players just keep are going to keep winning yeah well thank you for coming on Dave uh this this has been great I appreciate your taking your brand lens to search hopefully our audience founds it valuable I'm sure they will uh definitely please if I didn't lose them in the first minute I hope they're still here no they're here yeah highly recommend exit 5 of course go check Dave out on LinkedIn follow uh connect with you and yeah I think this been a great Dave thanks for coming on yeah thanks man I appreciate you having me good good thoughtful discussion thanks for being a good host of course [Music]
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:00] [Music]
+[00:07] Dave excited to have you on the program
+[00:09] uh many people listening to this I'm
+[00:10] sure know you but for those that don't
+[00:12] maybe some SEO people yeah the founder
+[00:15] of exit 5 a very well-respected high
+[00:17] growth top uh B2B marketing Community
+[00:19] I'm a part of it I'm pumped I'm excited
+[00:22] to be in there it's been valuable so far
+[00:24] so that's what maybe think to invite you
+[00:26] and yeah you got a great background as a
+[00:27] CMO some big startups so um excited to
+[00:30] be here chop it up with you yeah thank
+[00:32] you sir we got the I figured I if I was
+[00:35] going to come on your podcast I was
+[00:36] going to dress like you and oh yeah
+[00:38] we're
+[00:40] branded but yeah no I'm ha happy to
+[00:42] happy to come on any opportunity to talk
+[00:44] about exif five with somebody who gets
+[00:48] the space of you know content and
+[00:49] marketing and social media today which
+[00:51] is you know you've you've built a great
+[00:53] business over the years and uh I've I've
+[00:56] been familiar with you so when you guys
+[00:58] reached out I'm like yeah hang out for a
+[01:00] little bit happy to chop it up with you
+[01:02] guys nice I appreciate it Dave yeah I
+[01:04] mean we're traditionally in as you know
+[01:06] like we're SEO at the core you I don't
+[01:09] know you describe yourself you probably
+[01:11] wouldn't describe yourself as SEO is
+[01:12] that fair to
+[01:14] say maybe you would I don't want to my
+[01:17] only experience with SEO people I'm
+[01:19] going to get killed right off the bat is
+[01:20] that they just usually give me a
+[01:21] spreadsheet of ideas and don't do
+[01:23] anything so I'm no I'm not an
+[01:26] SEO well that's actual marketer I'm just
+[01:29] kidding I'm kidding I'm kidding they're
+[01:31] coming together a good SEO I think maybe
+[01:34] it wasn't the case five years ago I mean
+[01:37] yeah I think SEO is one of the most
+[01:40] important things in in marketing just
+[01:42] because I believe so much in that I
+[01:45] think there used to be like content
+[01:47] marketing as a Channel of marketing and
+[01:50] like now I think the smart people know
+[01:52] that content is the whole game in
+[01:56] marketing yeah and like there isn't it's
+[01:58] it's not an other channel you know and
+[02:00] it's not like it was 10 years ago where
+[02:02] like the Innovative companies today have
+[02:04] blogs and they rank for keywords like no
+[02:06] it's it's content is the game in
+[02:08] marketing and search is a huge part of
+[02:12] that um and I think that great seos play
+[02:16] a important role because they're not
+[02:18] just they're not just looking at what
+[02:21] you know specific it's not just about
+[02:23] key wordss it is about understanding the
+[02:25] whole content strategy and what I think
+[02:27] is super exciting about content today is
+[02:28] like content has multiple formats it is
+[02:31] podcast short form long form events
+[02:34] transcripts articles like there's so
+[02:36] much that's converged that a smart SEO
+[02:39] can use to drive traffic for the company
+[02:42] and um I think it's it's also amazing
+[02:46] time to be in the game because so much
+[02:47] is changing with AI and search and um
+[02:51] just it's a it's a good time to be here
+[02:53] yeah it's it depends on who you ask in
+[02:55] our industry but I appreciate the
+[02:58] optimism um but yeah it's fun wait why
+[03:01] what what is the what is the overall
+[03:03] like a from an industry Insider
+[03:04] standpoint what is the tone I mean it's
+[03:07] it's balance I'd suggest and we could
+[03:10] link I was just referencing a Kevin
+[03:11] indig article specific to B2B that
+[03:14] there's some anticipation that AI search
+[03:16] engines will be around 30 to 35% of the
+[03:19] overall search pie eventually but the
+[03:23] like apocalypse is if that's not
+[03:25] apocalypse the more negative sentiment
+[03:27] is if that's not 35% and search just
+[03:29] goes down that that's our pie shrinking
+[03:32] as a channel still a quite significant
+[03:35] Channel but that's the nervousness it's
+[03:37] just will it be negative 2030 yeah
+[03:40] wasn't it wasn't it big news though like
+[03:42] um like Google's latest update it seems
+[03:45] like
+[03:46] there and this is not my wheelhouse I'm
+[03:49] feel like I'm talking in a different
+[03:50] language to some somebody but um I
+[03:53] watched a video from a guy who was
+[03:55] excited about Google's latest you know
+[03:57] Gemini update like flash or whatever it
+[04:00] was called because their their Gemini
+[04:03] you know AI is starting to like
+[04:05] basically fold in what used to be Google
+[04:07] search like is there something there
+[04:09] that is promising or is that also a
+[04:11] threat I I think so it's that I and
+[04:14] that's Kevin's take and if chaep t as in
+[04:18] open AI has mentioned they would do
+[04:20] advertisements that
+[04:22] potentially I think to do that well we
+[04:24] need to drive clicks potentially so
+[04:27] that's optimistic that normally You'
+[04:29] probably need organic in there to get
+[04:31] people to click ads that's how Google
+[04:33] has done it of course right so I think
+[04:35] that's what Gemini that Gemini update
+[04:37] likely is okay um but I not not here to
+[04:42] have you kind of Riff on SEO I
+[04:44] appreciate appreciate it I mean why I I
+[04:47] thought of having you here is you're a
+[04:49] great content creator I mean you're set
+[04:51] and I just saw you do a post on LinkedIn
+[04:54] that mentioned you're about to do
+[04:55] articles in your own website I don't
+[04:56] know if you're thinking about SEO for
+[04:58] your own website but you SE position as
+[05:00] someone who's great at content marketing
+[05:02] no matter how much you think about SEO
+[05:03] to actually very strongly do good SEO
+[05:07] because you have you're building a brand
+[05:08] that's clearly well known and respected
+[05:10] and all those things so I think the
+[05:11] community in s World should hear about
+[05:14] how you think about content creation I
+[05:16] mean you have a successful podcast
+[05:18] you're posting what seems like pretty
+[05:20] daily uh um on LinkedIn and other
+[05:23] networks would' love to hear about your
+[05:24] personal workflow like what does that
+[05:26] look like in process yeah yeah so well
+[05:29] this is like cool part about exit 5
+[05:31] being in business now is that it's
+[05:32] essentially like the things I've been
+[05:35] doing for probably you know seven to 10
+[05:38] years but um that content is now the
+[05:41] Standalone business and so I came up as
+[05:44] a PR intern marketing manager product
+[05:47] marketer eventually grew grew my career
+[05:49] into VP marketing and CMO at a couple of
+[05:51] smaller SAS
+[05:53] companies and at the two companies that
+[05:55] I was at like the both companies had
+[05:58] Brands and both companies had this
+[06:00] strong like organic presence and we did
+[06:04] launches uh we drove a lot of attention
+[06:07] through Linkedin through social media
+[06:09] through articles blogs podcasts
+[06:12] newsletters and we've always kind of
+[06:14] been good at that and over that time
+[06:17] that I was doing marketing I started
+[06:19] writing on LinkedIn this was at a time
+[06:21] when like nobody was really writing on
+[06:23] LinkedIn like I would write a post and
+[06:25] people would be like you know relax bro
+[06:26] this isn't
+[06:28] Facebook uh but LinkedIn has obviously
+[06:30] changed a lot it's not necessarily like
+[06:32] a Rolodex anymore it used to be like oh
+[06:35] um I met Ross at a meeting for real and
+[06:37] I'm going to send him a LinkedIn
+[06:38] connection after the meeting and then
+[06:39] we're connected but now LinkedIn has
+[06:41] just become a social network and the
+[06:43] main focus of the social network is like
+[06:45] business content and so I started to
+[06:47] love my job I started to love marketing
+[06:49] I started to love the craft of marketing
+[06:50] I'm sure like many people who listen to
+[06:51] your show love the craft of SEO they
+[06:53] take that seriously and that that
+[06:55] becomes their passion I started writing
+[06:57] about it on LinkedIn I got you know
+[06:59] 10,000 followers 20,000 followers all of
+[07:01] a sudden like I've been on Twitter for a
+[07:03] decade and I still don't know what works
+[07:05] there and then I'm on LinkedIn and I got
+[07:07] 70,000 100,000 followers and it's like
+[07:10] whoa this is crazy and at the time I was
+[07:13] at a I was also at a company that was
+[07:14] doing really well and the company became
+[07:16] known for their marketing I was the
+[07:17] person leading the marketing and so I
+[07:19] got a lot of like you know brand Halo
+[07:21] from that so I had a podcast people
+[07:23] started listening to the podcast I
+[07:25] decided that I was going to try
+[07:26] something new this was in 2019 where I
+[07:29] was going to launch paid content for
+[07:31] marketers I was like I think this is
+[07:32] valuable I'm a capitalist I'm going to
+[07:34] charge money for my content like a
+[07:36] subscription business and in addition to
+[07:38] my job as CMO I was like I'm going to
+[07:40] launch this thing on patreon where I
+[07:42] share my lessons learnings and thoughts
+[07:45] on marketing and I'm going to charge
+[07:46] dollars for it and I got this idea
+[07:49] because my wife was listening to this
+[07:50] comedian and the comedian had a patreon
+[07:53] and so she had her like public podcast
+[07:55] which is open to the world but then like
+[07:57] twice a week she would share episodes
+[08:00] that were for subscribers only and I
+[08:01] just kind of felt like I could do that
+[08:04] based on the response I was getting to
+[08:06] my content and so I said I'm going to
+[08:07] launch this thing I changed jobs and it
+[08:09] was kind of a big deal for like some
+[08:11] people that knew the companies and stuff
+[08:13] and I released the first episode talking
+[08:15] about why I left the company and it was
+[08:17] for member it was for subscribers only
+[08:19] he was like the only fans of marketing B
+[08:21] basically right and it was just me
+[08:24] talking into my phone and me sharing
+[08:25] like you know I love marketing it's kind
+[08:27] of like what my brain is doing all the
+[08:28] time and so very easy for me to create
+[08:30] content it's like oh I saw this article
+[08:32] today or here's an interesting ad
+[08:34] screenshot my comments you know that
+[08:36] that was really valuable for for people
+[08:39] I thought I was gonna have like 20
+[08:40] members it'd be $10 a month I would have
+[08:44] you know 200 I would have been happy
+[08:46] with $500 a month like for side income
+[08:48] and like contribute to my rent but like
+[08:51] really quickly within the first 30 days
+[08:53] I think I had a thousand members and so
+[08:56] I went from0
+[08:59] to $10,000 a month in recurring like
+[09:01] subscription Revenue almost overnight
+[09:04] and that was the thing that just like
+[09:06] broke my brain forever because I've been
+[09:09] in SAS and Tech and I'm like man how
+[09:11] many Founders have been like you know
+[09:12] pound their head against the wall for
+[09:13] like years to try to get to like M you
+[09:15] know 10 20 30 40 50,000 recurring
+[09:18] Revenue I was getting this now through
+[09:20] content a couple months into that we got
+[09:23] 2,000 members and one of the members
+[09:25] messaged me and he's like hey man uh
+[09:26] it's cool listening to you rant about
+[09:28] marketing all the time like there's
+[09:29] 2,000 of us here like you should let us
+[09:31] talk to each
+[09:33] other there you go and like this is how
+[09:35] this stuff happens like I you know I
+[09:38] you're absolutely right and so um my
+[09:41] wife and I were new parents at the time
+[09:43] and we were I I went from thinking
+[09:45] nobody use Facebook to now like I'm on
+[09:46] Facebook 24 hours a day to figure out
+[09:48] like what's wrong with my kid at every
+[09:49] moment of the day and so we're in
+[09:51] Facebook groups I launched a Facebook
+[09:53] group and I just included it as a
+[09:55] benefit of joining on patreon so when
+[09:56] you join you get a link to to a private
+[09:58] Facebook group you go there and that was
+[10:01] again that next thing that like kind of
+[10:02] ruined my brain forever because now I'm
+[10:05] not posting I don't have to post all the
+[10:07] time and so I'm I'm like doing my thing
+[10:09] during the day and I come in and I see
+[10:11] in the community there's like five new
+[10:12] discussions or like one thread is just
+[10:14] like exploded and then that was the kind
+[10:17] of thing that led me to realize like
+[10:18] there's something bigger here there is a
+[10:21] like a community of marketers and I've
+[10:23] obviously been in online marketing for a
+[10:25] while I'm not the first to have a
+[10:26] community but it was started through me
+[10:29] through my brand obviously people
+[10:30] thought that was you know they wanted to
+[10:33] taste the me the recipe that I was
+[10:35] making they were willing to come in that
+[10:37] turned into a real business and I
+[10:39] decided to Pivot it from like initially
+[10:40] I called a Dave Gart Marketing Group my
+[10:42] wife tells me I'm terrible at naming
+[10:44] things which I am and once I realized it
+[10:46] could be a real business I wanted to
+[10:47] kind of like unbundle myself from it and
+[10:50] so I came up with a new name called exit
+[10:52] 5 uh about two and a half years ago and
+[10:54] I launched that and I did it for I did
+[10:57] it by myself for about uh two years
+[10:59] and then this year I decided to really
+[11:01] go all in on it and we have a team of
+[11:03] five full-time employees they're all
+[11:04] remote we have 5,000 members in our
+[11:07] community so that's the main part of it
+[11:09] but we also now do in-person events we
+[11:11] have a popular podcast we have a
+[11:13] newsletter we're starting to do content
+[11:15] and so that's I wanted to give you that
+[11:16] background because that is like the
+[11:18] long-winded way of saying like that
+[11:21] Playbook is what I've done at companies
+[11:23] where we do you know strong organic
+[11:25] content and it's this amazing flywheel
+[11:27] that you can create because I wrote a
+[11:30] post on LinkedIn today about like
+[11:31] everybody talks about sales and
+[11:33] marketing alignment not enough people
+[11:34] talk about product and marketing
+[11:36] alignment and here's why that post went
+[11:38] nuts ton of engagement on that post
+[11:40] that's a signal for me that now this is
+[11:42] a topic people are interested in and so
+[11:44] now that LinkedIn post can become a
+[11:46] newsletter that we write to our audience
+[11:48] right that newsletter is popular that
+[11:51] that that could be a webinar that we do
+[11:53] in two in you know in two months when we
+[11:55] have one of our events I know that that
+[11:57] topic now is popular and we could have a
+[11:58] talk track on that we did our event this
+[12:01] year our first event in Vermont we had
+[12:02] 200 people I sourced the nine speakers
+[12:05] for that event because I've done the
+[12:07] podcast for two years and I just
+[12:09] literally went and I said who are the
+[12:11] most popular podcast guests who could I
+[12:13] reasonably get would they come to
+[12:14] Vermont and I emailed them all and I
+[12:15] said hey you're you were one of the most
+[12:17] popular podcast guests this year we're
+[12:18] thinking about doing an event like would
+[12:19] you want to come speak and they said yes
+[12:22] and so I've just been able to create
+[12:24] this like this flywheel through organic
+[12:26] content where you use social media to
+[12:28] get real time inside and feedback and
+[12:30] signals on what people want and then you
+[12:32] create various forms of content from
+[12:34] there and it becomes this flywheel
+[12:36] that's what I've done for marketing at
+[12:38] companies and now it's become the whole
+[12:40] business with exit 5 and the niche that
+[12:42] we're focused on is B2B marketers but I
+[12:44] think you could take this model and you
+[12:46] could do it for seos you could do it for
+[12:48] plumbers you could do it for HR you
+[12:49] could do it for accounting I just have
+[12:51] trust and credibility in the space of
+[12:53] bdb marketing because I worked there for
+[12:55] like 10 to 12 years and that's the
+[12:57] business that I'm I'm building this on
+[12:59] top of today nice so from an ideation
+[13:02] standpoint the kind of typical place you
+[13:04] would go would be sales Calls Form
+[13:06] submits all that good stuff I think
+[13:08] about exit 5 I wonder I don't want to
+[13:11] speak for for you but yeah where is that
+[13:13] I know some of it's just your experience
+[13:15] and connecting those threads but uh
+[13:18] where's that origin coming from what do
+[13:20] you mean from an ideation standpoint
+[13:21] yeah so like I'm writing a post today
+[13:23] about product product plus marketing so
+[13:26] like what is that com from um
+[13:30] consistently obviously not yeah so so I
+[13:32] mean a lot of it is a bunch of it is
+[13:35] driven off of my personal experience and
+[13:36] so I W I went from PR like I worked in
+[13:39] this industry for 10 years over that
+[13:41] time of 10 years I was went from PR
+[13:43] intern to CMO so my career acceleration
+[13:46] was really fast and I saw a bunch of
+[13:48] lessons and so a lot of it is like
+[13:50] reflecting back on lessons that I've
+[13:52] learned like anything in
+[13:54] life there's a 8020 Rule and it's like
+[13:58] yeah the things that were relevant to me
+[14:00] in
+[14:02] 2011 were are still relevant to someone
+[14:04] in their career
+[14:06] today so that stuff is timeless right
+[14:09] but then also a thing that keeps me in
+[14:10] the game
+[14:11] is um I've invested in and visis in a
+[14:15] bunch of startups and so I'm still like
+[14:17] in the game with knowing what's relevant
+[14:19] to marketers we have 5,000 members in
+[14:22] our community I'm in there every single
+[14:24] day I know what questions are popular I
+[14:26] know what people are asking about and so
+[14:28] I have my finger on the pulse of like
+[14:30] what's relevant to them I also have
+[14:33] hosted a podcast like yours I've done it
+[14:35] for 200 episodes once a week I talk to a
+[14:38] CMO or like a subject matter expert in
+[14:40] marketing and so I'm doing usually one
+[14:43] to two episodes a week that's two and a
+[14:44] half hours of like one-on-one
+[14:46] conversations where I'm not the expert I
+[14:49] treat I say I'm not in the game anymore
+[14:51] I'm not the expert anymore I'm taking
+[14:53] this from like I'm a student again where
+[14:55] I'm interviewing these amazing people
+[14:57] this person's a CMO at this $100 million
+[14:59] company um I had Kip who's Kip's my
+[15:02] friend the CMO at HubSpot we had him in
+[15:04] our like CMO Community to do a deep dive
+[15:06] session I was like taking notes the
+[15:08] whole time it's just this there's not
+[15:10] one source it's multiple of them it's
+[15:12] like you know my career the community
+[15:15] podcast guests social media all those
+[15:18] things kind of make for what we're
+[15:20] seeing with content and then now we have
+[15:21] a team of five people and so we have
+[15:23] somebody who manages the community we
+[15:24] have somebody who writes a newsletter
+[15:26] we're getting replies to our emails
+[15:27] we're seeing what's popping off the
+[15:29] community we have an editorial calendar
+[15:31] and we're kind of just always like you
+[15:32] know riffing on which topics are most
+[15:34] important and relevant to people right
+[15:36] now nice yeah what I like about your
+[15:38] community and it kind of you made me
+[15:41] think of just this thread of obviously
+[15:43] talking to your customers an important
+[15:45] part but maybe not always you have the
+[15:46] customers but something's valuable for
+[15:48] your community in particular for Content
+[15:50] creators is you're going to that in the
+[15:53] moment place where questions are getting
+[15:56] asked like I've already created social
+[15:58] media posts around stuff I've seen on
+[16:00] exit 5 and that was valuable for me I've
+[16:03] just seen people asking
+[16:05] buyers and people I would just respect
+[16:08] even if they're not buyers asking
+[16:09] questions about SEO content that's like
+[16:11] such an easy thread to pull on and I'm
+[16:14] guessing you do as well but that I don't
+[16:15] know if you'd agree with that idea of
+[16:17] like yeah seeing where people abolutely
+[16:19] I mean like I think it's uh this is like
+[16:22] SEO like smart SEO folks have been doing
+[16:25] this
+[16:26] forever right where it's like hey we
+[16:28] need to create content about a
+[16:29] particular topic let's go find out what
+[16:32] people are saying about that topic
+[16:34] online and it might mean you know I used
+[16:37] to like mine like quora posts back in
+[16:39] the day right or like subreddits or
+[16:43] you're you're an inperson you're at an
+[16:45] in-person thing and you you know you're
+[16:47] going to a local networking event I
+[16:49] think this is just the digital version
+[16:51] and it's at scale but it's like the core
+[16:53] about what makes great marketing it's
+[16:55] like do you have a deep understanding of
+[16:57] your audience do you know what people
+[16:59] want and then can you go and create that
+[17:01] and give it to them and that's what the
+[17:03] business has basically become I don't
+[17:06] think we'd be as good at it if it was
+[17:08] like the cyber security Community it
+[17:12] happens to be based off of an area where
+[17:13] I've worked for a long time and have a
+[17:15] lot of connections and that's been in in
+[17:17] Advantage but that is how we create
+[17:19] content it's no different than finding
+[17:21] out what people want seeing the popular
+[17:24] topics it's usually 80% of the stuff is
+[17:27] going to be if someone's asking it
+[17:29] multiple people in the other Comm in the
+[17:30] community have the same question and it
+[17:34] just the cycle repeats makes sense so I
+[17:37] mean that's the forest kind of view how
+[17:39] about the trees I don't know if there's
+[17:41] anything interesting there does like
+[17:42] Dave sit down every day 9:00 a.m for an
+[17:45] hour block you have someone on your team
+[17:48] edit single every single post like what
+[17:50] does that look like somebody on the team
+[17:52] that edits my LinkedIn yeah maybe no
+[17:55] that's absolutely not absolutely not no
+[17:59] way nope just that's
+[18:02] me uh I think you got to be careful with
+[18:05] Outsourcing that I mean it can maybe if
+[18:08] that's not your strength but I've done
+[18:09] it for so long but yeah I so so the tree
+[18:12] part of it is for LinkedIn
+[18:15] specifically I have found that I like to
+[18:17] write there every day um sometimes I
+[18:20] don't write on Saturdays and Sundays
+[18:21] however I haven't seen a drop an
+[18:23] engagement I think you can people still
+[18:25] check LinkedIn on Saturday and Sunday
+[18:27] and so the engagement still works
+[18:29] I found that posting once a day is The
+[18:31] Sweet Spot typically between 7 and you
+[18:34] know 6:00 and 9:00 a.m. in the morning
+[18:37] for me and then I try to write one post
+[18:40] a day because that has become like my
+[18:43] blog now if I had a different business I
+[18:46] probably wouldn't write there as much
+[18:47] but we see a direct correlation between
+[18:49] like you know LinkedIn is the number one
+[18:51] traffic driver for exit 5 I have a lot
+[18:53] of followers on LinkedIn and so that
+[18:55] makes a huge difference but it's the we
+[18:57] look at self-reported attribution for
+[18:58] all of our members sponsors whatever
+[19:00] it's LinkedIn LinkedIn LinkedIn LinkedIn
+[19:03] and so the more that I write on LinkedIn
+[19:05] we see a correlation between traffic and
+[19:07] email subscribers for exit 5 and so exit
+[19:10] 5 is the thing that I care about growing
+[19:12] right now and so the more Impressions
+[19:14] that I can get on LinkedIn the more
+[19:16] goodness that that leads back to the
+[19:18] exit 5 funnel and so I try to write
+[19:19] about marketing once a day on
+[19:22] LinkedIn um so that's kind of like step
+[19:25] number one is like all right I'm going
+[19:26] to
+[19:27] write I go back and forth between
+[19:29] scheduling content recently so
+[19:32] scheduling is awesome because like we're
+[19:34] humans and it's just nice to have stuff
+[19:36] it's nice to be like I have a block of
+[19:39] hours right now and I'm just going to
+[19:40] use them to commit to writing and I'm in
+[19:42] the zone and I'm just going to riff off
+[19:43] a bunch of posts but I have found that
+[19:46] scheduled posts don't perform as good I
+[19:49] don't know if that's a placebo I don't
+[19:50] know if that's like a madeup thing a
+[19:52] belief of mine I I don't know if it's
+[19:54] because when I don't schedule posts like
+[19:56] I'm often active on LinkedIn then I
+[19:59] write and Linkedin knows that like oh
+[20:00] he's really here right now and
+[20:03] so you know and I'm curious to hear your
+[20:06] perspective as somebody who's obviously
+[20:07] thought a lot about like you know search
+[20:08] algorithms and stuff in in the past but
+[20:10] that's one hypothesis so I've lately
+[20:13] what I do is every single day I have a
+[20:16] calendar at like nine o'clock and I have
+[20:19] just a LinkedIn spot and I just use that
+[20:22] as my schedule and so tomorrow so today
+[20:24] we're recording this on a Wednesday I
+[20:26] have an idea of the thing I'm going to
+[20:28] write to tomorrow and it's just on my
+[20:29] calendar in a task on my calendar at
+[20:31] 9:00 and I have a video clip that I want
+[20:33] to post and some copy and I'm going to
+[20:35] sit down tomorrow like between 9 and 10
+[20:36] o'clock just like when I go through my
+[20:38] inbox and I'm going to write a LinkedIn
+[20:40] post um I also think LinkedIn values
+[20:43] like engagement and so even if you did
+[20:45] schedule something you need to be there
+[20:46] you need to like reply to comments you
+[20:48] need to send stuff back to people
+[20:51] and you get so many content ideas from
+[20:54] commenting on other people's posts and
+[20:56] so so often like it's like a prompt I'll
+[20:58] see somebody else El's Post in the feed
+[20:59] about this and you know this hey hey
+[21:01] like here's why AI sucks and you know AI
+[21:04] is going to ruin us all and I'm like
+[21:05] actually I think AI is awesome here's
+[21:07] why and I write a comment on that
+[21:10] person's post and that and then you
+[21:11] basically R they call the kids call it
+[21:12] like ratioing on on X or whatever right
+[21:15] where now all of a sudden someone's post
+[21:18] had 66 likes my comment has 103 likes
+[21:21] great signal I'm going to copy and paste
+[21:23] my comment and I'm going to take that
+[21:24] I'm going to save it and that's going to
+[21:25] be a future post of mine and what I do
+[21:28] is I just keep a backlog I just have app
+[21:30] like Apple notes I've used everything
+[21:32] notion Google Docs right now I got Apple
+[21:34] notes I'm looking at it right now where
+[21:36] I just have a LinkedIn backlog and so if
+[21:39] I don't have a new post idea or if I get
+[21:40] to LinkedIn tomorrow and I don't have a
+[21:42] fresh idea to write I'll dig through my
+[21:44] backlog and see if anything like strikes
+[21:46] me if anything is good A lot of times I
+[21:48] don't even reference the backlog I just
+[21:50] have an idea and I just go or I'll write
+[21:53] something in exit 5 and I'm like yeah I
+[21:55] want to adapt that for LinkedIn um and
+[21:58] so I've just tried to make it a daily
+[21:59] habit I enjoy doing it 80% of what I
+[22:02] write about is marketing 20% is about
+[22:04] like some random thing about my family
+[22:06] or or working out but I found that the
+[22:09] true way to grow on LinkedIn is to focus
+[22:11] on is to become known for something um
+[22:14] I've become known as like the B2B
+[22:15] marketing guy when I was posting about
+[22:17] everything working out food Fitness
+[22:20] startups VC this and that you don't grow
+[22:23] you got to pick one one particular topic
+[22:25] and so what's the topic that valuable
+[22:27] for you to be known about write about
+[22:29] that topic do it every day that's the
+[22:32] best way to figure out what's going to
+[22:33] work on LinkedIn so you feel like a good
+[22:35] ratio I've always been a little too much
+[22:38] I I sometimes feel like I'm almost to
+[22:40] 100% but you'll go you'll add that you
+[22:43] are you very deliberate about that like
+[22:45] I've done four posts and now my fifth
+[22:47] one is going to be personal probably not
+[22:50] I'm guessing but no uh I'm not no but I
+[22:53] also think like the way to you can it
+[22:55] depends on what it is right and so like
+[23:00] I've seen like PR people like ghost
+[23:02] right for Founders and CEOs and they try
+[23:04] to do this and it becomes like too much
+[23:06] where you're
+[23:07] like every article everything from Dave
+[23:10] is like it's either original thought
+[23:12] about marketing or it's like some link
+[23:14] to an article that's like did you know
+[23:15] that 72% of CMOS think that like you you
+[23:19] need to just talk about what you're
+[23:20] doing and so like it's basically like
+[23:23] marketing is the thing that I'm doing
+[23:24] and so I write about what I'm doing but
+[23:26] it's never like this force-fed like
+[23:28] here's my hot takea marketing for today
+[23:30] Thursday you know Thursday December 19th
+[23:33] it's just like talk about the stuff
+[23:35] you're working on for me the thing that
+[23:37] I'm working on happens to be marketing
+[23:39] if you're a Founder in in if you're if
+[23:41] you're a founder and you're start you
+[23:43] have a company in the like AI space for
+[23:45] customer service you're probably going
+[23:47] to write about that all the time you
+[23:48] want to become known for AI and customer
+[23:50] service and there's like the kind of
+[23:52] force-fed like takes the corny like PR
+[23:55] style like writing on LinkedIn that's
+[23:57] not what works what works is being
+[23:58] authentic writing about what's happening
+[24:00] inside of your company lessons from
+[24:02] meetings you're in injecting your
+[24:04] personality into those posts and then
+[24:06] occasionally there's a random post you
+[24:09] know that makes sense it is here I post
+[24:12] all these podcast clips from our podcast
+[24:13] they're like highly edited we pay
+[24:15] someone money to do them then I post
+[24:17] like a 7c video of me like on a hike
+[24:20] with my wife and that video gets 50,000
+[24:22] Impressions and just blow blows every
+[24:24] other piece of content away but that is
+[24:26] that would only happen if you didn't do
+[24:28] if you yeah couldn't do it all in a row
+[24:31] right it's because you do the other
+[24:33] stuff yeah but but I think you just
+[24:35] gotta you just kind of got got to look
+[24:36] at it and and and roll with what the
+[24:38] audience wants I also noticed that when
+[24:40] I write about marketing it performs
+[24:42] better when I wrote that post today
+[24:43] about sale you know marketing and
+[24:44] product performance the engagement rate
+[24:46] was
+[24:47] great yeah makes sense that's what
+[24:49] people have come to know you know that I
+[24:50] write about so yeah on your scheduling
+[24:52] point I I don't I don't know if you find
+[24:55] this but I it's probably correlation Rec
+[24:56] causation and sometimes I'm just like I
+[24:58] probably could schedule things I think
+[25:00] you're right about that part of my
+[25:03] personal feeling sometimes is like I'm
+[25:06] so passionate about this exact thought I
+[25:08] like need to get it out in the world and
+[25:10] maybe that's somehow because that
+[25:11] passion is wrapped up and I need to
+[25:13] publish this now it's probably also
+[25:15] better concept therefore it performs
+[25:17] better so so this is so I had this
+[25:19] conversation with a Founder friend of
+[25:20] mine recently because he just like goes
+[25:22] Rogue and just like posts on LinkedIn in
+[25:24] the middle of the day I'm
+[25:26] like if you're passionate about that
+[25:29] topic though you need like the the real
+[25:31] way is to be patient waitting you
+[25:34] already posted today so you're going to
+[25:35] get ding from LinkedIn number two if
+[25:38] you're already P if you're really
+[25:39] passionate about just wait wait the next
+[25:41] day schedule it make it your your
+[25:43] morning post the next day and more
+[25:45] people are going to see it and so I have
+[25:47] the same feeling too like you just want
+[25:48] to open your phone and like rant on
+[25:49] something but if you can just pause and
+[25:51] like wait and get it in the next que
+[25:53] that get it in the queue for like when
+[25:54] everything is fresh because LinkedIn
+[25:57] also doesn't want you to post
+[25:59] I found that it's like about once a day
+[26:01] you can or you got to wait six to eight
+[26:03] hours whereas like Twitter you can just
+[26:05] go bam bam bam bam bam bam bam yeah so
+[26:07] it is better to wait makes sense and
+[26:10] that's that that's the whole thing about
+[26:11] why my schedule why I have this the way
+[26:12] that it is it's like once a day in the
+[26:15] morning like you're taking an ad you
+[26:17] know what you're taking athletic greens
+[26:19] or
+[26:20] whatever that that works perfectly and
+[26:23] then and then if you if you're really
+[26:25] passionate about something I would tell
+[26:26] you like write it like Ross you should
+[26:28] write it but then just schedule it for
+[26:29] the next morning when then we'll go out
+[26:31] when everything is fresh right and then
+[26:33] on the scheduling thing even if even if
+[26:36] I am right that it does limit reach it's
+[26:40] not
+[26:41] like Monumental it's maybe 10% or 20%
+[26:45] right and so I'm a big believer in like
+[26:47] life and systems and everything and so
+[26:49] like is it sometimes worth like the 20%
+[26:51] reach tradeoff because it's easier
+[26:53] mentally to like write your post and
+[26:55] schedule it yes and so let's just
+[26:56] schedule it and deal with with it right
+[26:59] makes sense agreed yeah you I feel like
+[27:01] that's a as a metaphor for being a good
+[27:04] CEO like you shouldn't just jump in and
+[27:06] then break everything in your
+[27:08] company oh yeah I do that all the time
+[27:11] just just just you know just dive bomb
+[27:14] into slack for no reason like why should
+[27:18] just wait why why did I not wait and
+[27:20] just like discuss it at our team meeting
+[27:21] tomorrow why did I have to drop this
+[27:23] bomb in this way right now team loves me
+[27:26] uh you so you had the anchor point of
+[27:28] your kind of brand and posting you you
+[27:31] added the podcast for exit 5 like we
+[27:34] probably can't create an analogy for
+[27:37] every high growth SAS company but you
+[27:40] added podcasting you added in-person
+[27:43] events you have the community you're now
+[27:45] doing articles on websites is there a
+[27:47] specific I'm guessing you think those
+[27:49] are appropriate size like how how much
+[27:52] leverage there is for your company but I
+[27:54] don't know if you think about that from
+[27:56] your content stack you speci
+[27:58] specifically I mean it's okay to say
+[28:00] you're adding like content on-site
+[28:02] content last deliberately and that's
+[28:04] normally what you would do I I yeah for
+[28:07] all my criticism about SEO in the
+[28:08] beginning like I suck at
+[28:11] SEO so that's part of it is like okay
+[28:14] that makes sense it's just not it's it's
+[28:15] not my thing it's not as so so I've had
+[28:18] a so so here's a good example like I had
+[28:22] a podcast starting in 2014 and it was
+[28:25] just like my true first like real side
+[28:27] project passion project I was working at
+[28:29] a startup I was a customer success
+[28:31] manager I started to get into podcasts
+[28:33] on my own I had this idea of like hey
+[28:36] I'm in Boston the startup scene is
+[28:37] really awesome here nobody has a podcast
+[28:39] about like startups in Boston it'd be
+[28:41] really cool to start a podcast and so my
+[28:43] CEO was like you should just do it and I
+[28:45] did it and it was amazing and I started
+[28:47] a podcast and so I've had a podcast now
+[28:50] for 11 years running in some form and
+[28:54] that has just kind of been my my thing
+[28:56] like you know I had a we had a podcast
+[28:59] at drift I had a podcast at privy I had
+[29:01] the exit 5 podcast like we've just kind
+[29:03] of always had one and I've used it as
+[29:06] like the Trojan Horse for creating lots
+[29:08] of other content and so because I've had
+[29:10] a large following on LinkedIn it fuels
+[29:13] it because we do a podcast interview I
+[29:15] do this podcast interview with Ross he's
+[29:17] an expert on SEO we get clips from this
+[29:20] episode those clips Drive listeners they
+[29:22] also Drive awareness and drive traffic
+[29:23] back to our site we don't have a ton of
+[29:25] articles on the site but I can get a
+[29:28] transcript and the video and the
+[29:29] recording from every podcast and I can
+[29:31] make a short little article on the site
+[29:32] even if it's not perfect for SEO it's a
+[29:35] way to meet other people in the industry
+[29:38] it's a way to like basically use other
+[29:40] people's voices to help grow your brand
+[29:41] as opposed to like Dave's Hot takes and
+[29:43] so I've just kind I started podcast was
+[29:45] a natural start for me right and makes
+[29:50] sense that that just kind of became like
+[29:52] unintentionally the whole flywheel
+[29:54] because it's like we do a podcast with
+[29:56] someone that becomes the newsletter that
+[29:58] becomes a social media like just doing
+[29:59] one hour podcast interview could get us
+[30:02] all the content we need to like fuel V1
+[30:04] of the exit5 content
+[30:06] machine now we're at now last we're
+[30:10] starting to write articles on the site
+[30:12] um which is funny because you know we
+[30:14] have 5,000 members in this like private
+[30:17] community and we have 10 maybe get we
+[30:21] get we get about 10,000 website visitors
+[30:22] a month and
+[30:24] 99.9% of them come to the website
+[30:26] through direct search or like like you
+[30:28] know searching for exit 5 so we have no
+[30:32] key we don't rank for any keywords in in
+[30:34] B2B marketing and so now this is a real
+[30:36] business and we're thinking about
+[30:37] channels to scale we are doing things in
+[30:39] the backwards order which is like wait a
+[30:40] second I actually want if we have 5,000
+[30:43] people in a paid Community there should
+[30:45] be 50,000 people that come to our
+[30:47] website every month for our free content
+[30:49] and so like I want to make a I want our
+[30:50] website to basically be like if there
+[30:52] was a free version of exit 5 it's our
+[30:54] content on our website and that's the
+[30:56] vision for like what we should what want
+[30:58] to go do and execute now we just haven't
+[31:00] haven't done it so we've we've done it
+[31:02] last but I think any look at any company
+[31:04] any person any startup you need just one
+[31:08] or two core marketing channels to get
+[31:10] going and to get initial traction and
+[31:13] oftentimes it is something that you have
+[31:15] a uh a personal bias towards like this
+[31:20] guy uh there's a guy called Vin matano
+[31:22] and he's um making a lot of really great
+[31:25] videos about like he was a sales rep at
+[31:27] demand BAS Bas and now he's like
+[31:29] full-blown like influencer Marketing in
+[31:31] B2B he's probably in his early 20s but
+[31:34] he's been making videos since he was
+[31:36] like eight and 10 years old and so he
+[31:38] didn't he didn't decide like I'm going
+[31:40] to start a video no this is he's fluent
+[31:42] and like and he he has no learning curve
+[31:44] of like having to make videos he's he's
+[31:46] grown up doing that right and so that
+[31:49] makes sense as his channel to start so
+[31:50] he doesn't have a website with article
+[31:52] you know with long form like written
+[31:53] content and so just happen to be that
+[31:56] way for us I don't think there's a right
+[31:57] or wrong way to do it just the
+[31:58] ingredients you know match if you did
+[32:01] something again you came up you know
+[32:02] your background as SEO and and website
+[32:05] that's probably going to be where you're
+[32:06] going to start to to build your Moe
+[32:08] you're not going to be like yeah the fir
+[32:09] hey I'm Ross I'm starting a new company
+[32:11] the first channel we're going to launch
+[32:13] is Tik Tok like that's just not what
+[32:14] you're gonna do it doesn't make sense
+[32:15] for you right yes that's fair I'm not on
+[32:17] Tik Tok so you nailed me you nailed me
+[32:20] so I mean the community as we mentioned
+[32:23] is great uh hopefully you get some
+[32:25] signups from this podcast but I think
+[32:27] intuitively from a Content
+[32:29] standpoint as a lesson for some people
+[32:31] who may consider it as a channel uh you
+[32:34] have a unique UI I instinctively was
+[32:36] thinking every Community is on slack now
+[32:40] and you have a differentiated kind of
+[32:42] experience that I haven't seen before
+[32:44] would be curious if you're comfortable
+[32:45] sharing what tool is it roughly what
+[32:47] does it cost yeah sure so well so first
+[32:50] um every this was the whole Community
+[32:52] was on Facebook for a while and it was
+[32:55] great it was going great and there's
+[32:58] just a loop with humans where you're in
+[33:00] you're on your phone everybody tells you
+[33:02] they don't use Facebook anymore at least
+[33:04] my generation I'm 37 and so we kind of
+[33:06] came up right around High School College
+[33:08] Facebook became huge then nobody nobody
+[33:10] says they use Facebook anymore everybody
+[33:11] still uses it because they're all
+[33:13] checking it at some point and so the
+[33:15] face Facebook was great because we had
+[33:16] this Loop of like you're waiting in line
+[33:17] at Starbucks to get a coffee you pull
+[33:20] out your phone you check exit 5 because
+[33:22] it's one of the Facebook groups that
+[33:23] you're in but uh I didn't have any of
+[33:27] the data I didn't have anybody's email
+[33:29] addresses really uh communication was
+[33:32] hard the the feed was very like
+[33:36] ephemeral in that like there'd be one or
+[33:37] two trending posts and that would kind
+[33:39] of suck up all the oxygen I wanted to
+[33:41] build more of a Content Library so
+[33:42] Facebook wasn't right for a lot of
+[33:44] different reasons and uh I made the
+[33:46] decision to like I started shopping
+[33:48] around trying to find I want to move
+[33:49] this off of Facebook so slack
+[33:53] everybody's Community everybody does
+[33:54] community on slack well there's a couple
+[33:56] things people don't understand about
+[33:57] Slack number
+[33:59] one uh the free plan of slack is not
+[34:02] sustainable for a
+[34:04] community um because the search goes
+[34:06] away after like the archive goes away
+[34:08] after like some set time period And so
+[34:11] one of the huge value props of having
+[34:12] two years of exit5 is you can go search
+[34:14] for SEO in exit 5 and you can see you
+[34:17] know 54 posts dating back to last year
+[34:20] you couldn't do that in slack the other
+[34:22] thing is slack you have to pay per
+[34:26] user so adds up obviously like it's a
+[34:30] great business we have high margins I
+[34:32] still I don't want to pay
+[34:34] $825 per month per user to to have to
+[34:37] power the community and so um we found
+[34:40] this company called Circle and there's a
+[34:42] couple other ones and a lot of people
+[34:43] ask me like why Circle vers this other
+[34:45] thing and I don't know the answer
+[34:47] because I didn't evaluate other
+[34:48] companies I wanted to move this thing
+[34:50] off of
+[34:51] circle I wanted to move this thing off
+[34:53] of Facebook the head of customer success
+[34:56] at Circle is this gu called Tim thine
+[34:58] and he's been in my network for a while
+[35:00] and he's been hitting me up for years
+[35:02] move off of Facebook move to Circle move
+[35:04] to Circle we'll make it easy for you so
+[35:05] I finally one day just just like all
+[35:08] right can you do that can you make it
+[35:09] easy for me and he said yes and they
+[35:11] like did like this white glove
+[35:13] onboarding you know we moved over all
+[35:14] the content they hooked me up with this
+[35:16] other guy Jordan Godby who runs who runs
+[35:18] a company called growth Community where
+[35:20] they help people build communities so
+[35:22] that's why I went with circle was like
+[35:24] I'm a solo I was a solopreneur at the
+[35:26] time this seemed like an overwhelming
+[35:28] project like you know migrating websites
+[35:31] essentially they made it real easy and
+[35:33] the product worked for me and they you
+[35:35] know what I got was a wh labeled product
+[35:37] and so it's like you go to exit 5.com
+[35:40] jooin or login you get the web app there
+[35:42] and it's a custom designed private
+[35:44] Community we also have a private like a
+[35:47] dedicated U mobile app and so like that
+[35:50] that's a big piece of like replacing
+[35:52] Facebook you know we have the exit 5 app
+[35:56] um and so that's the product I think we
+[35:58] pay I don't know 2030 Grand a year for
+[36:01] it um it's not it's not cheap but like
+[36:04] that is what you know you also pay for
+[36:06] like HubSpot or something and it's like
+[36:07] it's become a full marketing automation
+[36:09] platform for our community and we have a
+[36:12] dedicated we have we have a full-time
+[36:14] person on the team Matt you know making
+[36:17] a good salary and his full job is
+[36:19] running the community like treating it
+[36:21] like a product manager and so for a year
+[36:22] it kind of stagnated while it was just
+[36:24] me like posting and ghosting Matt's in
+[36:26] there every single day we have so many
+[36:29] things set up from workflows to zaps to
+[36:31] automation to data it's a full product
+[36:34] it's like a software product but there's
+[36:36] no you know we're not writing code we're
+[36:37] creating content and so um yeah we use
+[36:40] Circle for that I'm sure other things
+[36:42] work but it just happens to be where we
+[36:44] are the hardest thing was we lost like
+[36:47] 2,000 members when we moved off of
+[36:49] Facebook like 2,000 paying members like
+[36:51] I turned 25k of
+[36:53] Mr um and that was an intentional
+[36:56] decision I knew knew that this was going
+[36:58] to be a long-term business I wanted to
+[36:59] like and I'm sure you've you know you've
+[37:00] built a great company sometimes you just
+[37:03] have to make a decision that's like damn
+[37:05] it's going to suck in the short term but
+[37:07] like I got to rip this band-aid and like
+[37:09] we're finally here a year and a half
+[37:11] later we have a team we've made all the
+[37:13] revenue back things are going
+[37:15] awesome the hardest part was for six
+[37:18] months you know me getting hundreds of
+[37:20] messages from people who were so mad
+[37:21] that we moved the community off of
+[37:24] Facebook because they love Facebook
+[37:25] Facebook was better
+[37:28] there used to you could go look at
+[37:29] you're in the community you go look all
+[37:30] the time people would post like is it
+[37:31] dead in here the engagement is way down
+[37:33] compared to Facebook and so there was
+[37:36] some element of like we had to retrain
+[37:38] we had to think about things differently
+[37:39] it's not going to be the same as
+[37:40] Facebook because Facebook is much more
+[37:42] of like a social media feed I wanted to
+[37:44] build more of like a membership like a
+[37:45] library and so yes there is the
+[37:47] community where you can talk to each
+[37:48] other and you can post but we have
+[37:50] hundreds of videos and we do vid you
+[37:52] know live streams and amas and it needs
+[37:54] to be like re repitched to doing that
+[37:57] and so
+[37:58] that was more than what you asked me to
+[37:59] answer but man there's so many so many
+[38:02] lessons in there learned from from
+[38:04] moving off a platforms but I could also
+[38:06] get on my Soap Box about slack there's
+[38:09] large communities that have been built
+[38:11] on slack and you're paying member of on
+[38:14] of someone's community on slack and you
+[38:16] just spend half your day getting blasted
+[38:17] with like at here at Channel like none
+[38:21] of that happens inside exit 5 you can
+[38:23] still message members you can still
+[38:24] message each other but there's no way to
+[38:26] like Mass like ping everybody and
+[38:28] ultimately the hard part about Community
+[38:30] is just becomes a place to spam people
+[38:33] you know yeah inbound. org growth growth
+[38:36] hackers all those all those communities
+[38:38] from back in the day just end up going
+[38:40] to zero uh because they just become a
+[38:42] sales channel for the members yeah it's
+[38:45] been been good signal I haven't I don't
+[38:46] think I've gotten a pitch yet from
+[38:48] anybody I no you you will like we've had
+[38:51] we've had some scenarios where um we've
+[38:54] had to kick people out because they you
+[38:56] know Auto DM a bunch of people like upon
+[38:58] joining and um that stuff happens uh
+[39:01] we're just we're working hard to like H
+[39:05] we have a sta we have a team and we have
+[39:07] a we have to work hard to do it I do
+[39:08] think that's one of the benefits that I
+[39:10] didn't understand like I I it's a paid
+[39:12] Community because I wanted to generate
+[39:14] revenue from it but I I do think a big a
+[39:17] big value prop is that because it's paid
+[39:19] there are no spam like there's no free
+[39:22] low-end people coming in to just like
+[39:24] blast you with Spam it's like a gym
+[39:26] membership in some in some in some level
+[39:29] where like because you're paying for it
+[39:31] you're a little bit more committed you
+[39:32] have a higher expectation about what
+[39:34] you're going to get get out of it and
+[39:35] you're going to put in more to get to
+[39:37] get that thing out of it so it's a it's
+[39:40] a win-win so that's a uh that brings me
+[39:43] to another question of like if we're
+[39:45] bringing this to a B2B I mean obviously
+[39:46] you're a B2B company but the typical SAS
+[39:49] company have you seen them run I mean
+[39:52] I've seen free communities run by SAS
+[39:56] products but I can't think of one that's
+[39:58] besid yeah yeah do you have any top
+[40:01] can't they can't they they can't because
+[40:03] the the mechanics and the incentives
+[40:05] don't work right and so if you're a SAS
+[40:08] company you're usually probably you're
+[40:11] probably a venture back SAS company most
+[40:13] of the companies in the space are and
+[40:15] you wouldn't have a paid Community
+[40:17] because how would you account for that
+[40:19] revenue and then like rounding error as
+[40:22] well probably right it would be a
+[40:23] rounding error
+[40:25] and why would we char charge for this we
+[40:28] don't really need the revenue from the
+[40:29] community ultimately what we want is
+[40:31] more subscription sales of our products
+[40:33] and so it doesn't make sense to charge
+[40:35] for it so we make it free but then
+[40:38] because it's free it just becomes like
+[40:39] another like it's essentially just gated
+[40:41] content and it just becomes a way to
+[40:43] feed the you know ultimately even if
+[40:46] things go really well after a year
+[40:48] you're in a you're in a board meeting or
+[40:50] you're in an exec meeting and the VPS
+[40:51] sales is like wait a second this
+[40:53] community is going really good why don't
+[40:54] we use it to nurture and like sell our
+[40:58] product in there it's like well kind of
+[41:00] what makes Community great is that
+[41:01] you're not like pushing a product and
+[41:03] it's about genuine the people and so
+[41:05] there's just like the vent diagram of
+[41:06] like how do we extract the value from
+[41:08] this is really is really hard to
+[41:10] understand um and then the other mistake
+[41:13] is like a lot of times inside of a
+[41:15] company it's not treated like this is
+[41:17] our business at Exit 5 and so we have a
+[41:20] you know six-figure well-paid
+[41:23] person running the community I've been
+[41:26] at companies where it's like oh
+[41:27] Community that's the intern's job and
+[41:29] the intern like checks in in the
+[41:30] community every Tuesday morning and asks
+[41:32] people like you know how's it going and
+[41:35] it takes you know you have to think
+[41:37] about it like a true product and be a
+[41:38] product manager and and manage it at
+[41:40] that level so I just I don't think a lot
+[41:42] of the incentives line up inside of a
+[41:44] company to structure it right I don't
+[41:47] think it's impossible I think there are
+[41:48] smart companies out there like Kip like
+[41:50] Kip at HubSpot as an example of like I
+[41:52] think they get it I think they could
+[41:54] figure it out I think you'd have to work
+[41:55] with a company who believed in like look
+[41:58] the best marketing playbook in B2B is to
+[42:01] be the number one resource for your
+[42:02] customer for whatever the thing you're
+[42:03] selling is not because of your product
+[42:05] but because of
+[42:07] like you know you you sell HR software
+[42:10] the best marketing strategy is to become
+[42:11] a brand that is like the number one
+[42:13] source of knowledge and information for
+[42:15] HR pros and you happen to sell HR
+[42:17] software so if you can build a community
+[42:19] for them with that in mind I think it
+[42:21] can absolutely work um but if you start
+[42:24] like trying to do lead scoring and
+[42:26] nurturing members to try to like get
+[42:28] them into your product then you know
+[42:30] it's burn out makes sense well uh we're
+[42:34] almost at time here Dave I mean before
+[42:35] we go I think especially for our our
+[42:38] audience you asked me but I would kind
+[42:41] of bounce it back off you you talk to a
+[42:43] lot of CMOS on your podcasts people are
+[42:45] talking about content marketing and SEO
+[42:47] in the world of AI um generally like
+[42:50] what it what perception do you feel
+[42:53] people have currently towards that like
+[42:55] what's what's the thought process if
+[42:57] there's an encaps it's crazy um well I
+[43:01] think there's a like there there's a
+[43:02] couple things right and so I think it's
+[43:04] not just AI like separate from
+[43:06] AI my perception as a market former
+[43:10] marketing leader I'm just a thought
+[43:11] leader now Community
+[43:14] manager is like intern SEO I'm an intern
+[43:18] uh SEO has become harder because of how
+[43:20] much like the proliferation of content
+[43:23] right and so like 15 years ago if you
+[43:26] had the only B2B marketing blog you
+[43:28] could Rank and you could just Dominate
+[43:29] and Crush all the traffic there but in
+[43:31] any industry in any Niche there's so
+[43:33] much content right and so it is much
+[43:36] harder to to drive traffic consumers
+[43:41] this is again separate from AI consumers
+[43:43] The Searchers search now means different
+[43:46] things like so many people now are
+[43:48] getting their information that they used
+[43:49] to only get from the Google machine we
+[43:52] now get it from maybe you and me are not
+[43:54] on it but most people are Tik tock
+[43:57] YouTube Instagram X LinkedIn those have
+[44:01] all also eaten away at search right
+[44:03] because like I don't need necessarily
+[44:05] need to go to Google and type in like
+[44:07] what you know new world news I don't
+[44:09] need to go to that because I'm going to
+[44:10] see it somewhere else so those those are
+[44:12] the those are the bigger the the big
+[44:14] trends and then you have ai coming in
+[44:16] the picture
+[44:18] AI makes generating content even easier
+[44:22] so now there's even more competition so
+[44:24] like hey we want to rank for this term
+[44:25] we don't even need humans to create
+[44:27] content we can just do it with AI then
+[44:29] there's the other side of the
+[44:30] conversation which is AI is actually a
+[44:34] becoming a search engine so there's like
+[44:35] five different things in there that I
+[44:37] said which I understand while your world
+[44:38] is crazy crazy right now because it's
+[44:41] not just that AI is a search engine but
+[44:43] now I'm thinking my personal life I
+[44:45] would say that maybe 50% of my search is
+[44:49] now done like I am almost defaulting to
+[44:52] chat GPT for search related questions
+[44:55] now um
+[44:57] and so I just think about that as a
+[44:59] consumer like the I'm I'm not a great
+[45:02] cook I'm trying to get better I'm making
+[45:04] steaks the other night and I'm going
+[45:06] back and forth with chat GPT about
+[45:08] cooking this ribey on a cast iron pant
+[45:11] it's amazing it's such a better
+[45:13] experience than like if you've ever gone
+[45:14] to Google and you typ ter time and
+[45:17] temperature for cooking salmon you got
+[45:19] to scroll down like 1500 words to see
+[45:22] the little call out box of like oh it's
+[45:24] 375 for 18 minutes like why couldn't you
+[45:26] know Chad gbt can tell me that directly
+[45:29] so there's a lot that I think is going
+[45:32] to there's a lot that I think is
+[45:34] changing I do think though I don't know
+[45:37] if its current form is going to win but
+[45:39] I think that like the broader thing
+[45:41] about SEO at least in how I I would
+[45:43] think about it is
+[45:46] like earned
+[45:49] media and doing creating content to
+[45:52] bring people back to your company and
+[45:55] product that's never going to go
+[45:58] away now how you do that is going to
+[46:01] change but I think it's always going to
+[46:03] be a game of like we have a point of
+[46:06] view we're creating content we want
+[46:07] people to come back to our website
+[46:08] whether it's through Google through chat
+[46:10] gbt through Instagram through Tik Tok
+[46:12] through YouTube shorts like I don't
+[46:13] think that that core thing is going to
+[46:15] change you're always going to need to
+[46:16] like find ways to get people to care
+[46:18] about content it used to be by creating
+[46:21] articles and getting them to rank by
+[46:22] Google rank in Google that seems to be
+[46:25] changing that's the that's the bigger
+[46:28] that's the bigger strategy that's like
+[46:29] why why does a c CMO invest in SEO
+[46:32] because we want inbound organic
+[46:37] highquality traffic coming to our
+[46:39] website period how you know if there's a
+[46:42] middle layer there whether it's Google
+[46:44] Chat gbt whatever we don't we don't
+[46:45] necessarily care like in the exit 5
+[46:47] example we're playing on LinkedIn
+[46:49] because it works and that's where our
+[46:51] audience is and we have an advantage
+[46:52] there yeah makes sense I think that's a
+[46:55] great summary and way of thinking about
+[46:56] it like we the SEO listening to this
+[46:59] evolved to thinking more is like we're
+[47:02] often saying organic growth now of
+[47:05] similar concept synonym to earn media
+[47:08] and if we kind of take our mindset there
+[47:10] I think it's definitely defensible as
+[47:12] you mentioned it's just going to evolve
+[47:14] with that change or just like you know
+[47:16] there there could be a future where
+[47:18] like my job like let's just use uh let's
+[47:22] just use exit 5 as as an example right
+[47:25] you search for bdb marketing Community I
+[47:28] want exit5 to show up first in that
+[47:30] whether that is someone searching on
+[47:32] YouTube Someone searching on Tik Tok
+[47:34] someone asking chat gbt someone asking
+[47:37] Google yeah that's the job yeah is do
+[47:40] you is that where you see things going
+[47:41] is that like the future job like that
+[47:43] still is the job like the SEO role is
+[47:45] like that person owns that help help me
+[47:48] make sure all of those things are true
+[47:50] yeah agreed I mean we're that's the new
+[47:53] kind of day one Noah TOA is a tool I
+[47:56] recommend commend um that's up and
+[47:58] coming I think HFS and others will show
+[48:00] of like how you show up on these tools
+[48:02] how to influence what what's that tool
+[48:03] called Noah TOA um the name maybe needs
+[48:07] some re know like you know something
+[48:12] aa.com we could put in the show notes
+[48:14] but uh good tool for kind of identifying
+[48:16] how you show up oh AI brand monitoring
+[48:20] yes this is kind of the new thing and
+[48:23] influencing the results is still kind of
+[48:24] a little bit of a black box but um yeah
+[48:27] I agree on the overall thesis well
+[48:30] thanks yeah go it's wild though I
+[48:34] mean is it a stressful time or is it a
+[48:36] fun
+[48:37] time uh I mean depends on who you ask
+[48:40] we're lucky to be we're position up
+[48:42] Market we have a lot of big customers
+[48:44] we're up in 2024 2025 is looking quite
+[48:47] good too um so you never know but a lot
+[48:50] of I think you hit it on the head that a
+[48:52] lot of the smaller players are getting
+[48:55] washed out it's very hard to win
+[48:57] and that can it's quite painful for both
+[48:59] agencies and smaller businesses for
+[49:01] search as a
+[49:02] channel so I think that's an accurate
+[49:05] kind of depiction that the bigger
+[49:07] players just keep are going to keep
+[49:08] winning yeah well thank you for coming
+[49:11] on Dave uh this this has been great I
+[49:12] appreciate your taking your brand lens
+[49:14] to search hopefully our audience founds
+[49:16] it valuable I'm sure they will uh
+[49:18] definitely please if I didn't lose them
+[49:20] in the first minute I hope they're still
+[49:22] here no they're here yeah highly
+[49:24] recommend exit 5 of course go check Dave
+[49:26] out on LinkedIn follow uh connect with
+[49:29] you and yeah I think this been a great
+[49:31] Dave thanks for coming on yeah thanks
+[49:33] man I appreciate you having me good good
+[49:34] thoughtful discussion thanks for being a
+[49:36] good host of course
+[49:39] [Music]

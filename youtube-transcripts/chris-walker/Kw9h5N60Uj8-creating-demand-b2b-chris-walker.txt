@@ -1,31 +1,1329 @@
-# Transcript — Creating demand in B2B with Chris Walker
+# Transcript — Kw9h5N60Uj8
 Video ID: Kw9h5N60Uj8
 URL: https://youtube.com/watch?v=Kw9h5N60Uj8
-Channel: guest-appearance
-Published: 2023-11-13
-Collected: PENDING
-Expert: Chris Walker
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~9210
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+you don't understand your customers you don't and you take a hard look at that because the people that I interact with a majority of marketing people do not understand their customer especially people that are working in demand and not product marketing hey everyone today we're talking with Chris Walker CEO and founder of refin labs we're taking a deep dive into B2B marketing and how to actually generate demand Chris is really known for challenging the status quo on what breed to be marketing really means and that's exactly what we'll do today so buckle up and let's talk branding hey Chris how are you Steph great to be here things are going awesome got this new studio we're trying out here in Austin Texas things are going good it's looking super sexy almost the Star Wars levels but um Chris I got to know you uh through Linkedin and I discovered your content and I must say I was like immediately triggered like oh my God why did I not know this person before but for the people that haven't heard anything about you could you quickly introduce yourself sure hey everyone my name is Chris Walker I view myself now I identify as a entrepreneur and a CEO and a business owner and an athlete and uh and like to spend a lot of my time um whether it's working on my business I started a company in 2019 called F Labs who has fundamentally changed the game of how B2B companies think about uh demand and overall Revenue operations whether that's the media or the distribution and the content and the analytics um which has been an amazing journey and something I'm super proud of um and I continue to explore other interests as well um outside Consulting with Cosmos and um working into a whole new level like starting to work at companies that are you know 2,000 5,000 50,000 employees and uh get to get to build that muscle there um I spend a ton of time in data and thinking about uh how we can use data as B2B Revenue professionals to make better more confident strategic decisions and so I'm deeply passionate about that and working on a couple side projects with that involved as well um and so that gives you a little bit of background about me and looking forward to uh anything else we're going to talk through yeah love that I mean maybe before we we dive into the nitty-gritty stuff like how did you end up in this place where it sounds like you have a lot of like knowledge on on this whole space but also experience like maybe it take us back five or 10 years to Chris Walker's first steps in this market and like what what changed for you it was a little over 10 years ago was at my first job at a company called Bea Inc I was actually like I uh technically worked for the the Holdings company parent company called halma that was based in the UK they would drop us into these different subsidiaries Bea $100,000 Hardware manufacturer complex distribution Channel with oems and Distributors and direct sales um uh selling big accounts Walmart was a big customer and people companies like that um and I'm 22 years old and I'm in a lab like coding some microprocessor for some new technology that they're building and within 3 months I was like this sucks like it's not I don't uh I don't want to be sitting here like coding microprocessors I want to be figuring out why we're even building this in the first place I want to be talking to customers and figure out how to innovate I want to be out there selling this [ __ ] um and so uh I was lucky at that company they provided me a different opportunity and I moved from engineering to product management and that was the beginning of my career um and I did product management and it's several of those different subsidiaries whether it's launching products or evaluating making business cases of whether to build a new product um or even specking out like doing customer research specking out the product actually building and developing it and launching it full cycle product management um that was basically the beginning of uh of my career and then um five a little less than five years ago I started my company refine Labs I'd worked as a B2B professional product management engineering manufacturing and operations Supply chain demand generation product marketing i' done a lot of different jobs inside of B2B companies um and at probably like five or six and then I started my company over the past four years I've now been exposed to and work with more than 250 companies personally um I speak to you know dozens of CMOS every single month um I see you know probably 30 or 40 instances of Salesforce data every single month um I understand the budgets of how budgets are allocated with companies that are $100 million in revenue and spend $25 million on marketing I see how those budgets are being allocated across a broad set of companies and so my uh skills and experiences the foundation that I had was amazing and then the skills and experiences over the past five years have given me this compounding impact because of the amount of different situations that I've seen um where I can recognize patterns where I have like I can see the data across a lot of companies and recognize these Trends and be able to call them out where I'm able to work with companies over a period of time and solve those challenges or come up with new and innovative solutions to those challenges which then allows me to start to communicate that across the board and let other companies be able to draft off of that knowledge and experience that I have um and so that sort of explains how I got here it's truly it like and people that work at my company people that have done a job you know gone through a path like mine will say that when when you start working with a lot of companies the learnings rapidly accelerate and so I think it's been a massive accelerate to my career and knowledge and my ability to help people yeah love that journey and it's really interesting that you really started in in like the product and then gradually made your way over to to really going into marketing like I saw this video uh on YouTube the five tenets that every marketer should know and I I thought it was like a really there were some really interesting takes in there I I think it could be like a a good foundation for for our conversation I have them listed here so like if if you could maybe elaborate a bit on the first one like marketing is not sales I think that's one of your strongest points to just like blast in so what do you mean by that yeah and that's the uh it's good that you called it out because that's the only one that I remember when you mentioned the five tenants I was like uh I think I remember number one but I don't remember two through five I have them written down so don't worry um uh marketing is not sales but I think better framed as uh demand creation is different than demand capture even as I've written that post was a little while back I think I can better clarify um because there are parts of marketing that are more like sales than than marketing marketing spans across a lot of different areas right you host an event for you know five accounts that are in stage four pipeline whether you identify as a market or not you're doing sales at that point um you're at least assisting sales action and so I think that the the thing that B2B companies Miss is the sort of distinction between demand creation and demand capture and back then I sort of viewed it as you know marketing and sales but it's a better way to look at it as demand creation versus demand capture um and just because of the way that they have historic how historically operated and how they think about you know marketing and the revenue generating process overall that they just lean heavily into demand capture and then the things that they see other companies do or they see me do or they hear me talking about or they hear other people talking about or things like that starting a podcast thinking about running your thousand $100,000 a month in LinkedIn ads differently than just the lead you know gated ebook lead gen strategy that every company does um how do you go out um and do virtual events and webinars and not be measuring it on how many leads or attendees were there um how do you really like get involved in communities and you know put out content on the internet that you can't directly measure with your little like multi-touch attribution software but makes dramatic impact on overall business results there was a new study that came out I'm going to write more about it because I I love the data that they collected but one data point was that um 100% of links that click out of slack get tracked as direct traffic with no referral URLs so for instance I'm on LinkedIn and I see a LinkedIn ad and it catches my eye but I'm not the actual decision maker but I'm like maybe we could use that I'm going to click copy the link it's going to have all the UTS in it I'm going to drop it into slack and say tag at this person hey go take a look at this they're going to click on that link they're going to go to the place it's going to show up his direct traffic and they're going to have no idea that it came from a LinkedIn ad um and so there are like examples of that uh where B2B companies don't do those things because they they don't get measured in the constraints of how they measure things today um and so that's sort of like a basic understanding about how marketing is not sales I that as a as a marketer or even as a revenue professional me now I've sold probably $50 million in deals in the lifetime of my company like I I can sell stuff I'm I would consider myself a salesperson in some way that being able to switch your brain and be able to move based on where either your audience or that individual person that you're talking to is and be distinctly and I'm in marketing mode or I'm in demand creation mode or I'm in that mode or I'm in sales mode I think that sales people have a hard time turning that off and I think that marketers most marketers are foreign to the idea of selling anything and being able to sort of resp deeply respect the differences between how you act in those two different situations and be able to play on both sides I think is a is a massive skill set that a lot of future Revenue professionals will develop absolutely and and I think like one of those things where I've noticed myself like coming from b2c into B2B in like four or five years I've really noticed that like there is a heavy emphasis on sales kind of makes sense but it's very hard in those organizations to like shift that mindset into demand generation or you know brand building there's a couple of these these terms that get thrown around and I wonder like if you have some ideas on on actually how to make that shift in an organization that is really heavily focused on on sales and and you know conversion oriented uh that sort of organization like what are some things that you as a marketer can do to start making that pivot um oftentimes the answer is you don't I it really is there's a a majority of B2B companies are sales companies um and that has been a historical and in like 2002 or even in 2010 and probably borderline 2015 as a B2B company you should have been a sales company that's how you that's how that was the best way to go to market um you should have been banging the phones you should have been get like trying to figure out how to get mql so that your sdrs had people to call you're trying to get your field sales team into that meeting when you go in fly in person to have that meeting to close a $100,000 deal because inside sales doesn't really exist yet like that was the way to do it um and then but recognizing when there are major shifts in in the market and in how your customers buy and then being able to adapt to those situations becomes a foundational critical element to long-term business success if you don't do these things tomorrow are you going to go out of business probably not but is your customer acquisition cost going to go up over time 100% is your marketing Roi going to continue to degrade over time 100% um are you going to start to lose market share most likely are you going to be vulnerable to other competitors that start to take on these strategies and then start to take your market share over time and be viewed more as a category leader 100% um so this is really an issue in the long term for executives and business owners and shareholders um to think about what is if are we planning to be in business in 10 years what's the world going to look like in 10 years how do we how do we start at least taking baby steps toward where that's going instead of holding on to the way the world worked in 2010 um and so that's sort of the uh like a decent way to explain it but it's all it truly is all rooted and the only reason that I'm here and talking about the things that I'm talking about is because I just listen to customers flat out um and if you listen to customers and the way that they prefer to buy and how they want to engage sales and even look at the data of how little they engage with sales during the sales process you recognize that a majority of the buying process happens without a sales rep so if you are one-dimensional sales and the customer spends 90% of their buying process not talking to your rep and looking on the internet and consuming content and talking to key opinion leaders and getting this information all those other ways and you don't have content there and you don't have relationships with those people and you're not showing up when they go to the review site um that you are at a significant disadvantage another like big tension that well I often encounter is is this this whole idea of building a brand I know whatever that means but you know looking into the future connecting with your your audience in an emotional way versus sales activation and what I've seen is that it often it's very much linked to digital uh advertising digital marketing where we basically are very much obsessed with trying to convert traffic based on intense signals and all that stuff but the the brand building stuff that is harder to measure is often targeted at broader audiences is something that is often deprioritized or just not like something for us at that certain point so I'm I'm wondering like your take on the the whole role of brand building in this story so I think there is a distinct difference between brand awareness and demand creation brand awareness is somebody knows who you are and I can ideally connect what your company name is to what you do or the category of what you do where demand creation is I want to [ __ ] buy your stuff now um and so and I think that a lot of co uh Executives and companies put a lot of things into the brand building bucket that they can't measure that are most likely ineffective but they don't want to have scrutinized against like actual results they just put them in this little bucket and say okay those are brand activities even though it looks like the data shows that it's not working we're going to keep doing them because they're for brand um and I think if we looked at it a little bit differently and had that expenditure be driven toward demand creation which means getting your target accounts to want to buy your stuff um that the activities that go into that bucket and how we measure that bucket would change fundamentally um and so I think that just shifting is brand awareness important sure sure especially when you're you know a billion in Revenue company is brand awareness going to get you very far if a lot of people know you but don't want to buy your product and don't think it's useful and don't understand other people that are using it and all these things it's not going to help you at a million ARR it actually like it takes a long time for it to matter so we need to be focused on for most of us in this room and listening to this podcast is we need to be focused on how do we get people to want to buy our stuff um which I found the most effective way is through pure objective education here are the facts here are the people that use it here are the results that they get here's are the differences between what you're doing right now and what you could be doing here's the cost every single day that you keep doing this like there are some examples I'm not uh obviously not going to share names but there are some examples where um there are companies that I interact with that I'm advising that spend $250,000 a month on advertising and $25,000 a month on another agency to run lead gen strategies We Run The analysis that basically like I think the last one we did was 50 six Monon CA payback on that $275,000 a month spend we're talking $3.5 million a year being put on this to get a 65 month CA payback on just the advertising and I'm looking at them saying like how like every single day that you do this you're wasting $35,000 how how can you and then they're like but our contracts on up for five more months so we're just going to let it ride it's like by that time you're going to waste another $2 million and not Mo and not move forward and so by the time you make that change you're not even impact revenue for 2024 um and I think uh it's really interesting how um the the general uh the lack of urgency and the amount of politics inside of companies that prevent the most obvious changes from happening in a swift way um super interesting but yeah what's uh shifting from Brand building to demand creation I think is the mindset change that needs to happen in companies to look at that as not a throwaway you know you know expense that we don't scrutinize really interesting like what are some good examples of generating demand like because this is something we say a lot but it it like obviously I know what you mean in terms of like it's people getting getting them to desire to buy your product but like how does it look like in the real world maybe your own example or some other examples just so people can wrap their heads around this you have a deep understanding of your Target customer you have a clear compelling sort of story around the business problem that you're solving and the cost of not solving that problem or the opportunity cost of not taking action on a new opportunity uh you're able to use detailed examples you you understand what their data looks like you understand the challenges that they're having inside of the company you're able to then talk about those things be able for them to see them inside of their own business then present a new different solution than what they've considered in the past asked about how to solve it and then Explain how other PE other companies like them or other you know Executives like them have then taken advantage of that and then the impact that they've had over a 3 6 9 12 whatever your timeline is to have a clear and compelling sort of story on Roi from switching from one to the other um and doing that at a high at a high frequency in a very effective way for as long as necessary until that company has a trigger in their business that then says we need to solve this which could be driven by you but often times it's driven by a lot of other stuff but whenever that trigger happens they immediately say we're going here um and I think uh a lot of B2B companies because of their lack of patience and their desire to have an immediate metric even if it's not anywhere close to revenue but have an immediate metric to say cause and effect we did something and then we measured this thing directly after it Performance Marketing which can be a part of your budget but shouldn't be how you scrutinize the whole marketing budget um and the desire to have that uh the lack of patience then drives them to do a lot of activities that are not customer Centric that are that are not what their customer wants um which is ultimately how do we get a meeting with someone that's basically what they're doing and they bribe them with gift cards or they harass them on like with phone calls over the time and you if like there's companies that do this that have their total addressable Market's 5,000 companies you got a farm of 25 sdrs trying call 5,000 companies you're going to annoy every single one of your Target customers within 3 to 5 months um and I think we just need to be a little bit more aware and a little bit more understanding of the actual process that companies take to buy and then be able to use those insights not to be complacent not to say forget it I guess because customers buy this way we're not going to close any business not to do that but to use those insights to drive more Revenue to do things that our customers do want um to lean in and be able to craft our go to market strategy and our business processes around what our customer wants which ultimately will lead to better outcomes for uh for us or our company um where generally right now most go to Mark most B2B companies go to market are in direct friction with how their customer wants to buy that's really interesting to me and and like I I think like when you mentioned like education my my thoughts often go to like these companies that are really still like educating mostly on what their product is about and you see that very often like while knowing that for example like LinkedIn B2B Institute they they say that like 95% or something of companies at a given moment is not in market so I'm wondering like in terms of educating like what are you sharing with your audience so you can build that relationship with them for when they get that trigger that they come to you like how do you make sure that is Broad and interesting and relevant enough so it's not just you talking about your product by understanding your customer well enough and having enough talent and expertise to actually help them and solve their problems in a way that other people can't like when we were when we were selling products to uh to Emergency Room Physicians if we just did product marketing they weren't going to give a [ __ ] like they were concern we sold a product that helped people that couldn't breathe breathe in the emergency room and they're over there worried about gunshot wounds and Drug overd Doses and all the stuff where people are really going to die um and so if we just talked about our product they wouldn't have cared and so what did we do we had PE the best people that treated gunshot wounds on a webinar that then became a podcast then became social media content we had people that treated certain types of drug overdoses and how they did it and these different techniques and we created the content strategy around how to be the best physician not how to help people breathe with our product um and the same thing that I've done with my podcast over time at first it was for demandin people and then it became for CMOS and now become it's really for Revenue leaders and then there's some tactical stuff mixed in so it can Evol the content strategy can evolve over time as you grow as a professional your business grows but it has to be around your Target customer being a bet a either a better business or a better professional ideally both um my content strategy I think is really focused on Accounts at this level like I don't we have a named account list I'm not like saying that the marketing I'm doing right now is focused on this specific account but I understand what's going on at that type of company and I'm communicating a message that should resonate with the CFO the CEO the cro the CMO the demand gen person because it makes sense for the business and then smart people in the business are then able to take that information and give it to whoever is making those decisions inside of their specific company um but when it comes to a content strategy overall and why people like a lot of people will lean on product marketing um where to typically to not a lot of success is is because the customer insights are fundamentally lacking either you don't have the insights or you don't have the the knowledge to actually help the customer based on those insights or some form of those two um another thing that ends up being sort of like the general mindset um of like oh if like we're on this podcast and I'm not talking about like refine Labs k study and all the great stuff that we do and how our ad process is so much better than anyone else they're considering or what they're if we're not doing that then the podcast must be a waste of time and people think that way as well um but it's not um because what the podcast is meant to do is to educate people and to help people so that that and to do it where when they look back even if there's something that they heard and this has happened before I've had CMOS come to me and say when I first heard your stuff in 2020 I thought you were full of [ __ ] and I deeply resisted that our ebook strategy wasn't working anymore and then it hit me almost a year later that what you were saying was right all along and so some people will resist what what I say um and but it's meant to educate people and then once that CMO saw that and experienced that for herself now she trusts me a ton now she listens to my stuff now she refers me business um when initially she didn't like what I was saying because it was a hard reality for her to to come to grips with at that point and so um yeah I think we just need to be uh to to have the right mindset about what we're trying to do which is basically help people be I take the mindset that I'm a free the best free consultant for any B2B company out there on this podcast every every time I do an episode that's what I try to do yeah that makes total sense I think one thing that is like also interesting to see or or challenging something I have experience and we talk about a lot with with customers is like the fact that there's a lot of people investing in content I think it's a it's a given especially in B2B SAS that you know you have to create some some content you have to be present you have to share something you have to share a perspective but I think what is like often lacking is uh a strong distribution tactics ways to to reach more people than than the echo chamber that you you created with like your little following on LinkedIn or whatever it is I think that's like a a huge challenge for a lot of companies when they go to next stage of growth is like reaching not just those like initial icps but really like a broader audience uh and I'm wondering like if you have some ideas on like how to improve that distribution how to reach more people well the right people of course but a lot more people than you did initially with some basic content yeah so fir first off to the statement of like uh as a company they say we need to invest in content or as a company they say we need to buy you know Google ads like but almost every company is saying we need to invest in content and we need to do advertising and we need to do sdrs and the recognition is it's not about doing the thing it's about doing it well it's about it's not about how much money you invest it's about the impact of the money that you spend on it um and so I see a lot of people just sort of say yeah we're investing in content we spend $20,000 a month in content and think that they're doing a good job and uh as you dive in it's okay so how what what do you act what what's the what's the strategy and then they make they spend $10,000 on one gated PDF every quarter and then they spend $6,000 for an agency to write like commodity blogs that their customer definitely doesn't care about like you're selling to cesos and you're Outsourcing your blog writing to a manager while marketing content manager how are they going to write content for a ceso um and then there's another element where they like have a graphic designer put together a couple of social Graphics so they can post it on their organic social Channel where nobody none of their Target customers see it this gets into your distribution none of their Target customers see it it gets 100 likes because 100 people at the company like the post um and that be then they spend $20,000 on content $240,000 a year and basically get zero impact um and so it's about how you spend it and so when you think about like where what are the key things that need to happen in this strategy and where are the key places that it breaks down um the first part is that you don't understand your customers so like and everyone can as I walk through this you can analyze for yourself where do you think it's breaking for you um Step you don't understand your customers you don't and you can take a hard look at that because the people that I interact with a majority of marketing people do not understand their customer especially people that are working in demand and not product marketing the that the next part the next Breaking part is that you aren't creating content that your customer actually wants to consume so before we even get into distribution there are a couple of key places where you could be off right just because you're able to put something in front of someone with an ad or it reaches them organically if what you're saying sucks or they scroll right by it and never consume it or that type of stuff then what's what was the point um and so the second part is creating stuff that people want and the third part is Distributing that effectively in places where it actually gets consumed the key is that it actually gets consumed not that there was an impression which is why I think very differently about six sense display ads versus a targeted LinkedIn Adin feed or using LinkedIn Audience Network compared to LinkedIn in feed um and so when you look at these things there are a couple like customer insights black or white like you got them or you don't on the content side there are things you can do to validate that what you're doing is stuff that your customers want before you go out and spend $5,000 to promote it or boost it or Syndicate it or whatever you want to do where you could create the content in a live event where 15 of your customers or your Target customers show up did they stay for all 60 minutes for the event were they engaged and they ask questions did they actually when you sent the recording they click through and they looked at it did they share it did if you had the event next week did they show up again because it was so good that they want to come back and if you did those types of things that when you went to the distribution you would already have clear indicators that people like the content and that it's working um most B2B companies don't make that don't take that layer in their content creation process they don't involve the customers in any way they don't get the feedback so then when they go to distribution they are often Distributing things that their customers don't care about and don't want to consume and then they blame it on the distribution instead of the content and they say LinkedIn ads don't work when in reality it's because your content sucks and what you're doing doesn't work LinkedIn ads work you want to go after a B2B executive and you want to get in front of them very clearly at these specific accounts at this seniority level at this job title even down to this exact person if you have your audience wide enough that you can get to those people the ad the ad unit works the question is what you put in front of that person um and so got you have to have both of those you have to have the content uh the content and the distribution connected in a way where the formulas working in both of those areas could break down um I used to and even back in like 2020 I I used to say almost the exact same thing that B2B company create great content and they suck at distribution um but as I've gotten smarter and wiser I've realized that a lot of B2B companies don't create good content and they suck at and they don't distribute or they suck at distribution um but you you it's recognizing that there are two parts of the equation when people run LinkedIn ads they are not thinking about the quality of the content they're not they're thinking about am I going to get a lead around out of this um and so we need to like when we think about social advertising and demand creation activities like that we need to be focused on is the content making an impact for our Target customer and not just in like the not just in like the the way where it's like oh we just want to like help our customers no it's we want to help our customers understand why they should buy our stuff um and so this is this is we're this is not like some fluffy thing that we're doing when you're running Media or you're doing your content you're here to make help people want to buy your stuff you're just doing it in a different way that isn't saying hey come buy my stuff so um yeah rant over no no super interesting stuff one of the things that you you mentioned I want to touch upon is like you you said like a live event uh like I think that's interesting and you also mentioned that in in that video about the tenants is like this idea of getting customer insights from from the communities and like talking to people in those places or even building those places for them I think that's like one of the things that I've seen that that's really interesting is like even physical events is a really interesting format to to learn about your customers it's like very hard to convince people to to invest in it because it costs a lot more money than let's say just like running some some digital ads but I think it's interesting and I was wondering like if you have also experienced like any of those like non digital channels being very interesting like events or other things to to learn more about customers but also to to build those communities yeah I'm like uh I'm looking at all available Avenues to be able to influence customers and grow businesses right so events are definitely a place and I was the B2B marketer in 2013 that went to nine shows a year and went to there and set up our you know for our big shows it was a 202 20 X20 booth and for our small shows it was a 10x10 table and to sit there and even in back in 2013 and you have 50 conversations and you talk to the people and you can feel it inside that this is a [ __ ] waste of time and money and like you could immediately recognize it these people like um it's interesting just to think about like why did companies buy booths at conferences and why did that start and when did it start I don't exactly know when it started but it was definitely before I became a professional before the internet was at maturity and scale and the reason was because it was the only place in the world that you would have access to all the people it was the only way that the people could learn because there was no internet and so they would show up at this place once or twice a year and they would listen to the people speak because there were no podcasts and they would peruse the booth because there was no internet or social media to understand what products people were building or what people were buying or things like that so you had to go there and literally get a demo and like give them your business card and hope that they called you because you didn't we didn't have their information or be able to contact them and like that was what we did in a B2B conference and it made a bunch of sense at that time in the world to invest a significant amount of your marketing or business you know go to market Budget on events for that reason it was one of the only ways that people researched discovered and evaluated products and we continue to have a huge level of investment in uh trade show booths and Conference sponsorships at the same level that we did in the early 2000s or the 1990s now the allocation for some companies is 60 to 80% of their total marketing budget going to physical events um and so it's not that we shouldn't do any it's not that we shouldn't be 100% digital that we should just forget anything in person it's that we should rethink now that we have all the things available today how are we going to use physical events to drive our go to market strategy and complement the other Investments and things that we're doing a lot being digital um and so think rethinking the actual in expenditure and what we're trying to accomplish and why we're doing it um and maybe you know start to question whether why we go to 25 shows a year where our boosts cost $200,000 for a big company and rethink how that money could be allocated I think is a smart uh a smart decision um and when we think about the value of conferences there's immense value people are still congregating there they spend way less time in the sessions because they can get the exact same information or better information and less biased information on their own on the internet so they spend way less time in the actual sessions um they barely go by the the booth unless they have particular Business Development meetings or other things like that but um you just see overall way less Booth traffic and way less Booth interest because they can literally go on the internet and research your product and get information that they trust more than talking to your rep inside of the booth um they there's dinners and satellite events and parties and networking which is the main reason that people go there today um and so if that's the main reason that people go there today why do we need to spend $150,000 on a 30 by2 booth that we're going to build for three days scan some lead Badges and then tear down and never look at again um it just feels like we should rethink that overall strategy and the data supports it the data supports it when we when we run analytics for a lot of companies is that there's just a dramatic overinvestment in that specific type of event um with uh little measurable Roi yeah and I think that's great maybe for like the last 10 minutes because I know you have a hard stop is like let's talk a bit more about oury and data I think it's a very important part of all of this like let's say we understander because customers we create amazing content we distribute it into the right places like what is if it's not if it's not uh the typical kpis that that come up because you mentioned dark social and all of these things that are hard to measure like how can we actually measure the impact of this education of this demand gen and then also how can we of course convince uh the CFO and the CEO that this is legitimately what we need to keep investing in billi in um I think that uh B2B Executives have generally been uh sold a lie of how we evaluate the effectiveness of marketing programs and perhaps it was the right way to look at it in 2009 or 2012 but it's definitely not applicable today which is single Channel lead gen direct source attribution um where we expect that we put $50 into Google or put $50 into LinkedIn and we get one lead and then we expect that out of those leads that 1% or0 1% or 3% or whatever they put in their model will become a customer and therefore we can deem Roi at the beginning actually back then they weren't even looking at uh Downstream conversion it was just what was the cost per the leite and when you optimize for cost per lead you end up getting way more lowquality leads because the cheaper typically the cheaper the lead the lower the quality the lower the conversion rates um it's the only way that you are able to reach scale and volume um and uh I would like to sort of shift the conversation about how we're looking at this where everyone is so in the micro of like what was the ROI of our like one single campaign on LinkedIn or what's the ROI of this one video that we made SE in the micro of that and to elevate it and say what was the ROI of our entire marketing budget and we're not at the channel level anymore and we're not trying to debate whether Google investment was better than LinkedIn we're looking at the whole budget we spent $7 million a year on marketing programs we spent $6 million a year on headcount that's $13 million in marketing investment what was the ROI of all of our marketing and instead of looking at it of like what was the ROI of all the marketing against only marketing Source Revenue let's look at the marketing Roi against entire business growth so that would include partners because marketing Investments accelerate partner revenue and marketing Investments improve outbound connect rates and so we look at it the entire go to market against the marketing budget and the goto market performance and have an objective conversation about is the investment that we're putting in marketing driving business growth and that's the number one conversation that we should be having and if those things are in line and those things are looking good then I think that the company should say yeah we're you know be able to have Benchmark and say Yeah in our performance we're at the Top 20th percentile of what we're doing so what's keep doing our podcast and that news show that we do and how we invest $500,000 in key opinion leaders in a modern influencer strategy and all that stuff that other people aren't doing because they don't think that they can measure it so micro let's keep doing that stuff and keep growing our business um and then the companies that you know don't have that many some that I interact with about the companies I analyze probably 25% are [ __ ] crushing it and 75% like really need someone to tell them that they're not doing things right um and when the people are doing that right have a hard reality that part of the reason that you're not being successful in marketing is because of the constraints that you put within marketing around your micro measurement um and so uh just to close out I think shifting from the micro like super micro analytics of marketing campaigns or content or channels or programs and elevating it to what is the performance of marketing on business growth as the primary thing that we look at um I think that it would spark a lot of great conversations and I think it would drive a lot of companies to continue to do things that quote unquote aren't measurable in their micro analytics but clearly are driving positive you know business growth and then from there you can rearchitecturing that the podcast works you could look at the data and be able to correlate positive business outcomes with the metrics of the podcast and start to make projections of what the leading metrics should be that are different than the ones that you use today the key is that the program has to work before you go back and set the leading metrics um but generally that's how I think about it I think that when we look at Roi we should be looking at it as business professionals not the SEO managers lens I think we need to really Elevate the conversation yeah I mean I'm in the middle of looking back at all of the like marketing stuff we did this year so it feels very relevant that it's going to be talking everybody's doing it right now for sure yeah well and and I think it's interesting on the one hand I mean I I think what you're saying makes total sense especially when it's about like convincing you know the all the stakeholders of the business to keep investing in marketing in the way that you're doing it on on the level of let's say like an individual contributor like trying to learn what worked and what didn't work and trying to like amplify that for like your road map for for next year it's like I'm I'm still looking for what are like the right signals and I know there's not a single answer for this because it depends on the format and what you're trying to do and stuff like that but I'm wondering like in in your like when you start something new let's say you've only been doing it for three months or six months you can't really evaluate that long-term thing yet like what signals are you looking at to indicate that yes let's keep moving this for let's scale this or is it just not possible and do you need to commit to something like say a podcast for at least a year to get something out of it um so first off when you're making evaluations for demand capture use uh attribution software and CRM data and you can easily understand what's working and what's not in demand capture and for demand creation listen to customers and a variety of different ways that you can get insights to understand what's working in demand creation and then view those as to different things where you use different signals to know what's working and what's not another huge misconception about demand creation or when they think about brand building is that it's a it's a long maybe when you think about brand building long term because it's not really driving demand um but when I started my LinkedIn content I was getting customers within 30 days when I started the podcast I was getting emails and DMS and invites onto new podcast within 30 days when I started my event the first event we did 19 people showed up but then for years hundreds of people showed up um there's a misconception that these types of things need to take a long time and they don't um what what needs to happen is that you need to be doing things that customers like and then you get the first thing you get is immediate qualitative signals people comment in your post sharing your DM saying hey I just shared this with my whole team sending you a DM inviting you onto their podcast asking you to speak at the industry event you get all these qualitative signals then you get a couple DMS that say hey what you said is interesting I want to explore working together or hey could you you know CEO content that's great could you have set me up with your best AE so I can look at the the product that you sell um and you start to get those types of signals um and so where if you're six months into some of these things and you're wondering like is things are things working or not you should be getting those qualitative signals much faster than in six months so the qualitative signals should already be coming in and they should be coming in from Target customers not just random people and then in 6 months you should definitely have some some tangible way to correlate the impact of what you're doing to business outcomes um and if you're not able to uh oftentimes it's because what you're the way that you're doing it isn't working not what like the it's not the podcast fault that you suck at doing a podcast just like I like I don't say this to people directly because it's sound of disrespectful but it's basically what I'm saying is like like it's not link it's not LinkedIn that doesn't work it's that what you what you are personally doing on LinkedIn does doesn't work um and so when people like people love to blame the channel instead of their own Talent um and when it comes down to it it's most often uh the talent the mindset the consistency the understanding of customers those are the reasons why people aren't being successful it's not the Channel's fault it's not usually not how you're running the ads or things like that sure there are tactical improvements to be made um but uh yeah generally when I think about like the results of some of these things and I perpetuated these ideas early on so it's generally could be looked at as my fault that people think this way but um it doesn't have to be long term um and when executed properly you actually should be feeling it in the in the pretty short term yeah I love that some some really good harsh truths to don't find excuses and and really just get down to the work I I really appreciate that well um we're going to wrap it up thank you so much Chris I would love to pick your brain for the rest of the day but we'll we'll talk about that maybe later in a in a more professional way amazing thanks thanks so much for having me appreciate you see you soon byebye all right that was it for this episode as always I really appreciate you listening or watching the show if you like it please um subscribe to the podcast on YouTube or wherever you're listening if you're interested in learning more about brand strategy visit brand do courses and you can use the code LTB podcast to get a 20% discount also if you want to see the transcript for this episode you can visit letar branding. substack docomo subscribe to the email list there to get updated on any new shows or other content thanks take care and see you in the next episode
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:00] you don't understand your customers you
+[00:02] don't and you take a hard look at that
+[00:04] because the people that I interact with
+[00:05] a majority of marketing people do not
+[00:07] understand their customer especially
+[00:08] people that are working in demand and
+[00:09] not product
+[00:10] marketing hey everyone today we're
+[00:13] talking with Chris Walker CEO and
+[00:16] founder of refin labs we're taking a
+[00:19] deep dive into B2B marketing and how to
+[00:22] actually generate demand Chris is really
+[00:26] known for challenging the status quo on
+[00:29] what breed to be marketing really means
+[00:31] and that's exactly what we'll do today
+[00:33] so buckle up and let's talk
+[00:36] branding hey Chris how are you Steph
+[00:38] great to be here things are going
+[00:40] awesome got this new studio we're trying
+[00:42] out here in Austin Texas things are
+[00:43] going good it's looking super sexy
+[00:47] almost the Star Wars levels but um Chris
+[00:52] I got to know you uh through Linkedin
+[00:55] and I discovered your content and I must
+[00:57] say I was like immediately triggered
+[00:59] like oh my God why did I not know this
+[01:02] person before but for the people that
+[01:05] haven't heard anything about you could
+[01:07] you quickly introduce
+[01:09] yourself sure hey everyone my name is
+[01:11] Chris Walker I view myself now I
+[01:13] identify as a entrepreneur and a CEO and
+[01:16] a business owner and an athlete and
+[01:22] uh and like to spend a lot of my time um
+[01:26] whether it's working on my business I
+[01:27] started a company in 2019 called F Labs
+[01:30] who has fundamentally changed the game
+[01:32] of how B2B companies think about uh
+[01:34] demand and overall Revenue operations
+[01:37] whether that's the media or the
+[01:38] distribution and the content and the
+[01:40] analytics um which has been an amazing
+[01:42] journey and something I'm super proud of
+[01:45] um and I continue to explore other
+[01:47] interests as well um outside Consulting
+[01:50] with Cosmos and um working into a whole
+[01:53] new level like starting to work at
+[01:55] companies that are you know 2,000 5,000
+[01:58] 50,000 employees and
+[02:00] uh get to get to build that muscle there
+[02:03] um I spend a ton of time in data and
+[02:06] thinking about uh how we can use data as
+[02:09] B2B Revenue professionals to make better
+[02:12] more confident strategic decisions and
+[02:14] so I'm deeply passionate about that and
+[02:16] working on a couple side projects with
+[02:18] that involved as well um and so that
+[02:20] gives you a little bit of background
+[02:22] about me and looking forward to uh
+[02:24] anything else we're going to talk
+[02:26] through yeah love that I mean maybe
+[02:28] before we we dive into the nitty-gritty
+[02:31] stuff like how did you end up in this
+[02:34] place where it sounds like you have a
+[02:36] lot of like knowledge on on this whole
+[02:39] space but also experience like maybe it
+[02:42] take us back five or 10 years to Chris
+[02:46] Walker's first steps in this market and
+[02:49] like what what changed for
+[02:51] you it was a little over 10 years ago
+[02:54] was at my first job at a company called
+[02:55] Bea Inc I was actually like I uh
+[02:58] technically worked for the the Holdings
+[03:00] company parent company called halma that
+[03:02] was based in the UK they would drop us
+[03:04] into these different subsidiaries Bea
+[03:06] $100,000 Hardware manufacturer complex
+[03:09] distribution Channel with oems and
+[03:11] Distributors and direct
+[03:13] sales um uh selling big accounts Walmart
+[03:18] was a big customer and people companies
+[03:20] like that um and I'm 22 years old and
+[03:23] I'm in a lab like coding some
+[03:25] microprocessor for some new technology
+[03:28] that they're building and within 3
+[03:29] months
+[03:30] I was like this sucks like it's not I
+[03:33] don't uh I don't want to be sitting here
+[03:36] like coding microprocessors I want to be
+[03:39] figuring out why we're even building
+[03:40] this in the first place I want to be
+[03:42] talking to customers and figure out how
+[03:43] to innovate I want to be out there
+[03:44] selling this [ __ ] um and so uh I was
+[03:49] lucky at that company they provided me a
+[03:50] different opportunity and I moved from
+[03:52] engineering to product management and
+[03:53] that was the beginning of my career um
+[03:56] and I did product management and it's
+[03:57] several of those different subsidiaries
+[03:58] whether it's launching products or
+[04:00] evaluating making business cases of
+[04:02] whether to build a new
+[04:04] product um or even specking out like
+[04:07] doing customer research specking out the
+[04:08] product actually building and developing
+[04:10] it and launching it full cycle product
+[04:12] management um that was basically the
+[04:15] beginning of uh of my career and then um
+[04:18] five a little less than five years ago I
+[04:21] started my company refine Labs I'd
+[04:23] worked as a B2B professional product
+[04:25] management engineering manufacturing and
+[04:28] operations Supply chain demand
+[04:31] generation product marketing i' done a
+[04:33] lot of different jobs inside of B2B
+[04:36] companies um and at probably like five
+[04:40] or six and then I started my company
+[04:41] over the past four years I've now been
+[04:43] exposed to and work with more than 250
+[04:45] companies personally um I speak to you
+[04:48] know dozens of CMOS every single month
+[04:52] um I see you know probably 30 or 40
+[04:56] instances of Salesforce data every
+[04:58] single month um I understand the budgets
+[05:02] of how budgets are allocated with
+[05:03] companies that are $100 million in
+[05:05] revenue and spend $25 million on
+[05:07] marketing I see how those budgets are
+[05:08] being allocated across a broad set of
+[05:10] companies and so my uh skills and
+[05:14] experiences the foundation that I had
+[05:16] was amazing and then the skills and
+[05:18] experiences over the past five years
+[05:19] have given me this compounding impact
+[05:22] because of the amount of different
+[05:23] situations that I've seen um where I can
+[05:26] recognize patterns where I have like I
+[05:28] can see the data across a lot of
+[05:30] companies and recognize these Trends and
+[05:31] be able to call them out where I'm able
+[05:33] to work with companies over a period of
+[05:37] time and solve those challenges or come
+[05:39] up with new and innovative solutions to
+[05:40] those challenges which then allows me to
+[05:42] start to communicate that across the
+[05:44] board and let other companies be able to
+[05:46] draft off of that knowledge and
+[05:47] experience that I have um and so that
+[05:50] sort of explains how I got here it's
+[05:52] truly it like and people that work at my
+[05:54] company people that have done a job you
+[05:57] know gone through a path like mine will
+[05:58] say that when when you start working
+[06:00] with a lot of companies the learnings
+[06:01] rapidly accelerate and so I think it's
+[06:03] been a massive accelerate to my career
+[06:05] and knowledge and my ability to help
+[06:07] people yeah love that journey and it's
+[06:10] really interesting that you really
+[06:12] started in in like the product and then
+[06:14] gradually made your way over to to
+[06:17] really going into marketing like I saw
+[06:20] this video uh on YouTube the five tenets
+[06:23] that every marketer should know and I I
+[06:25] thought it was like a really there were
+[06:27] some really interesting takes in there I
+[06:29] I think it could be like a a good
+[06:31] foundation for for our conversation I
+[06:33] have them listed here so like if if you
+[06:36] could maybe elaborate a bit on the first
+[06:38] one like marketing is not sales I think
+[06:41] that's one of your strongest points to
+[06:44] just like blast in so what do you mean
+[06:48] by that yeah and that's the uh it's good
+[06:50] that you called it out because that's
+[06:51] the only one that I remember when you
+[06:52] mentioned the five tenants I was like uh
+[06:53] I think I remember number one but I
+[06:54] don't remember two through five I have
+[06:56] them written down so don't worry um uh
+[06:59] marketing is not sales but I think
+[07:01] better framed as uh demand creation is
+[07:05] different than demand capture even as
+[07:06] I've written that post was a little
+[07:08] while back I think I can better
+[07:10] clarify um because there are parts of
+[07:12] marketing that are more like sales than
+[07:15] than marketing marketing spans across a
+[07:17] lot of different areas right you host an
+[07:19] event for you know five accounts that
+[07:22] are in stage four
+[07:23] pipeline whether you identify as a
+[07:26] market or not you're doing sales at that
+[07:28] point um you're at least assisting sales
+[07:31] action and so I think that the the thing
+[07:33] that B2B companies Miss is the sort of
+[07:35] distinction between demand creation and
+[07:38] demand capture and back then I sort of
+[07:40] viewed it as you know marketing and
+[07:42] sales but it's a better way to look at
+[07:43] it as demand creation versus demand
+[07:45] capture um and just because of the way
+[07:47] that they have historic how historically
+[07:50] operated and how they think about you
+[07:52] know marketing and the revenue
+[07:53] generating process overall that they
+[07:55] just lean heavily into demand capture
+[07:58] and then the things that they see other
+[08:00] companies do or they see me do or they
+[08:02] hear me talking about or they hear other
+[08:03] people talking about or things like that
+[08:05] starting a podcast thinking about
+[08:07] running your thousand $100,000 a month
+[08:10] in LinkedIn ads differently than just
+[08:11] the lead you know gated ebook lead gen
+[08:13] strategy that every company does um how
+[08:15] do you go out um and do virtual events
+[08:19] and webinars and not be measuring it on
+[08:21] how many leads or attendees were there
+[08:24] um how do you really like get involved
+[08:26] in communities and you know put out
+[08:28] content on the internet that you can't
+[08:29] directly measure with your little like
+[08:31] multi-touch attribution software but
+[08:33] makes dramatic impact on overall
+[08:35] business results there was a new study
+[08:37] that came out I'm going to write more
+[08:39] about it because I I love the data that
+[08:41] they collected but one data point was
+[08:42] that um 100% of links that click out of
+[08:47] slack get tracked as direct traffic with
+[08:50] no referral URLs so for instance I'm on
+[08:53] LinkedIn and I see a LinkedIn ad and it
+[08:56] catches my eye but I'm not the actual
+[08:57] decision maker but I'm like maybe we
+[08:58] could use that I'm going to click copy
+[09:00] the link it's going to have all the UTS
+[09:02] in it I'm going to drop it into slack
+[09:04] and say tag at this person hey go take a
+[09:06] look at this they're going to click on
+[09:07] that link they're going to go to the
+[09:09] place it's going to show up his direct
+[09:10] traffic and they're going to have no
+[09:11] idea that it came from a LinkedIn ad um
+[09:14] and so there are like examples of that
+[09:17] uh where B2B companies don't do those
+[09:19] things because they they don't get
+[09:21] measured in the constraints of how they
+[09:23] measure things today um and so that's
+[09:25] sort of like a basic understanding about
+[09:27] how marketing is not sales I that as a
+[09:30] as a marketer or even as a revenue
+[09:32] professional me now I've sold probably
+[09:33] $50 million in deals in the lifetime of
+[09:36] my company like I I can sell stuff I'm I
+[09:39] would consider myself a salesperson in
+[09:40] some way that being able to switch your
+[09:42] brain and be able to move based on where
+[09:46] either your audience or that individual
+[09:49] person that you're talking to is and be
+[09:52] distinctly and I'm in marketing mode or
+[09:54] I'm in demand creation mode or I'm in
+[09:56] that mode or I'm in sales mode I think
+[09:59] that sales people have a hard time
+[10:00] turning that off and I think that
+[10:01] marketers most marketers are foreign to
+[10:03] the idea of selling anything and being
+[10:06] able to sort of resp deeply respect the
+[10:09] differences between how you act in those
+[10:11] two different situations and be able to
+[10:12] play on both sides I think is a is a
+[10:14] massive skill set that a lot of future
+[10:16] Revenue professionals will
+[10:19] develop absolutely and and I think like
+[10:22] one of those things where I've noticed
+[10:24] myself like coming from b2c into B2B in
+[10:28] like four or five years I've really
+[10:31] noticed that like there is a heavy
+[10:33] emphasis on sales kind of makes sense
+[10:36] but it's very hard in those
+[10:38] organizations to like shift that mindset
+[10:41] into demand generation or you know brand
+[10:44] building there's a couple of these these
+[10:46] terms that get thrown around and I
+[10:48] wonder like if you have some ideas on on
+[10:51] actually how to make that shift in an
+[10:54] organization that is really heavily
+[10:56] focused on on sales and and you know
+[10:59] conversion oriented uh that sort of
+[11:01] organization like what are some things
+[11:04] that you as a marketer can do to start
+[11:06] making that
+[11:08] pivot um oftentimes the answer is you
+[11:12] don't I it really is there's a a
+[11:16] majority of B2B companies are sales
+[11:18] companies um and that has been a
+[11:21] historical and in like 2002 or even in
+[11:25] 2010 and probably borderline 2015
+[11:29] as a B2B company you should have been a
+[11:31] sales
+[11:32] company that's how you that's how that
+[11:34] was the best way to go to market um you
+[11:37] should have been banging the phones you
+[11:38] should have been get like trying to
+[11:39] figure out how to get mql so that your
+[11:41] sdrs had people to call you're trying to
+[11:43] get your field sales team into that
+[11:45] meeting when you go in fly in person to
+[11:47] have that meeting to close a $100,000
+[11:48] deal because inside sales doesn't really
+[11:50] exist yet like that was the way to do it
+[11:54] um and then but recognizing when there
+[11:57] are major shifts in in the market and in
+[12:00] how your customers buy and then being
+[12:02] able to adapt to those situations
+[12:04] becomes a foundational critical element
+[12:07] to long-term business success if you
+[12:09] don't do these things tomorrow are you
+[12:11] going to go out of business probably not
+[12:13] but is your customer acquisition cost
+[12:15] going to go up over time 100% is your
+[12:17] marketing Roi going to continue to
+[12:19] degrade over time 100% um are you going
+[12:22] to start to lose market share most
+[12:24] likely are you going to be vulnerable to
+[12:26] other competitors that start to take on
+[12:28] these strategies and then start to take
+[12:29] your market share over time and be
+[12:31] viewed more as a category leader
+[12:34] 100% um so this is really an issue in
+[12:37] the long term for executives and
+[12:39] business owners and
+[12:40] shareholders um to think about what is
+[12:43] if are we planning to be in business in
+[12:44] 10 years what's the world going to look
+[12:47] like in 10 years how do we how do we
+[12:50] start at least taking baby steps toward
+[12:52] where that's going instead of holding on
+[12:54] to the way the world worked in
+[12:56] 2010 um and so that's sort of the uh
+[12:59] like a decent way to explain it but it's
+[13:02] all it truly is all rooted and the only
+[13:05] reason that I'm here and talking about
+[13:07] the things that I'm talking about is
+[13:08] because I just listen to
+[13:10] customers flat out um and if you listen
+[13:14] to customers and the way that they
+[13:16] prefer to buy and how they want to
+[13:17] engage sales and even look at the data
+[13:19] of how little they engage with sales
+[13:20] during the sales process you recognize
+[13:23] that a majority of the buying process
+[13:24] happens without a sales rep so if you
+[13:27] are one-dimensional sales
+[13:29] and the customer spends 90% of their
+[13:31] buying process not talking to your rep
+[13:33] and looking on the internet and
+[13:34] consuming content and talking to key
+[13:36] opinion leaders and getting this
+[13:38] information all those other ways and you
+[13:40] don't have content there and you don't
+[13:43] have relationships with those people and
+[13:45] you're not showing up when they go to
+[13:46] the review site um that you are at a
+[13:49] significant
+[13:52] disadvantage another like big tension
+[13:55] that well I often encounter is is this
+[13:58] this whole idea of building a brand I
+[14:03] know whatever that means but you know
+[14:05] looking into the future connecting with
+[14:08] your your audience in an emotional way
+[14:11] versus sales activation and what I've
+[14:13] seen is that it often it's very much
+[14:15] linked to digital uh advertising digital
+[14:19] marketing where we basically are very
+[14:21] much obsessed with trying to convert
+[14:24] traffic based on intense signals and all
+[14:26] that stuff but the the brand building
+[14:28] stuff that is harder to measure is often
+[14:32] targeted at broader audiences is
+[14:34] something that is often deprioritized or
+[14:36] just not like something for us at that
+[14:39] certain point so I'm I'm wondering like
+[14:42] your take on the the whole role of brand
+[14:45] building in this
+[14:49] story so I think there is a distinct
+[14:53] difference between brand awareness and
+[14:56] demand creation brand awareness is
+[14:59] somebody knows who you are and I can
+[15:01] ideally connect what your company name
+[15:03] is to what you do or the category of
+[15:05] what you do where demand creation is I
+[15:08] want to [ __ ] buy your stuff now um
+[15:11] and so and I think that a lot of co uh
+[15:13] Executives and companies put a lot of
+[15:15] things into the brand building bucket
+[15:18] that they can't measure that are most
+[15:19] likely ineffective but they don't want
+[15:21] to have scrutinized against like actual
+[15:23] results they just put them in this
+[15:24] little bucket and say okay those are
+[15:26] brand activities even though it looks
+[15:28] like the data shows that it's not
+[15:29] working we're going to keep doing them
+[15:31] because they're for
+[15:32] brand um and I think if we looked at it
+[15:35] a little bit differently and had that
+[15:37] expenditure be driven toward demand
+[15:40] creation which means getting your target
+[15:42] accounts to want to buy your stuff um
+[15:45] that the activities that go into that
+[15:46] bucket and how we measure that bucket
+[15:48] would change
+[15:49] fundamentally um and so I think that
+[15:51] just shifting is brand awareness
+[15:54] important sure sure especially when
+[15:57] you're you know a billion in Revenue
+[15:59] company is brand awareness going to get
+[16:01] you very far if a lot of people know you
+[16:03] but don't want to buy your product and
+[16:04] don't think it's useful and don't
+[16:06] understand other people that are using
+[16:07] it and all these things it's not going
+[16:08] to help you at a million ARR it actually
+[16:10] like it takes a long time for it to
+[16:12] matter so we need to be focused on for
+[16:14] most of us in this room and listening to
+[16:15] this podcast is we need to be focused on
+[16:18] how do we get people to want to buy our
+[16:20] stuff um which I found the most
+[16:22] effective way is through pure objective
+[16:25] education here are the facts here are
+[16:27] the people that use it here are the
+[16:28] results that they get here's are the
+[16:30] differences between what you're doing
+[16:32] right now and what you could be doing
+[16:34] here's the cost every single day that
+[16:35] you keep doing this like there are some
+[16:39] examples I'm not uh obviously not going
+[16:40] to share names but there are some
+[16:42] examples where um there are companies
+[16:45] that I interact with that I'm advising
+[16:47] that spend $250,000 a month on
+[16:50] advertising and $25,000 a month on
+[16:52] another agency to run lead gen
+[16:53] strategies We Run The analysis that
+[16:56] basically like I think the last one we
+[16:57] did was 50 six Monon CA payback on that
+[17:00] $275,000 a month spend we're talking
+[17:02] $3.5 million a year being put on this to
+[17:05] get a 65 month CA payback on just the
+[17:08] advertising and I'm looking at them
+[17:11] saying like how like every single day
+[17:14] that you do this you're wasting $35,000
+[17:16] how how can you and then they're like
+[17:18] but our contracts on up for five more
+[17:20] months so we're just going to let it
+[17:21] ride it's like by that time you're going
+[17:22] to waste another $2 million and not Mo
+[17:25] and not move forward and so by the time
+[17:27] you make that change you're not even
+[17:28] impact revenue for
+[17:30] 2024 um and I think uh it's really
+[17:34] interesting how um the the general uh
+[17:38] the lack of urgency and the amount of
+[17:39] politics inside of companies that
+[17:41] prevent the most obvious changes from
+[17:43] happening in a swift way um super
+[17:47] interesting but yeah what's uh shifting
+[17:50] from Brand building to demand creation I
+[17:52] think is the mindset change that needs
+[17:54] to happen in companies to look at that
+[17:56] as not a throwaway you know you know
+[17:58] expense that we don't
+[18:00] scrutinize really interesting like what
+[18:04] are some good examples of generating
+[18:08] demand like because this is something we
+[18:10] say a lot but it it like obviously I
+[18:13] know what you mean in terms of like it's
+[18:15] people getting getting them to desire to
+[18:17] buy your product but like how does it
+[18:20] look like in the real world maybe your
+[18:21] own example or some other examples just
+[18:24] so people can wrap their heads around
+[18:26] this you have a deep understanding of
+[18:29] your Target customer you have a clear
+[18:31] compelling sort of story around the
+[18:34] business problem that you're solving and
+[18:35] the cost of not solving that problem or
+[18:37] the opportunity cost of not taking
+[18:39] action on a new
+[18:41] opportunity uh you're able to use
+[18:43] detailed examples you you understand
+[18:45] what their data looks like you
+[18:47] understand the challenges that they're
+[18:48] having inside of the company you're able
+[18:50] to then talk about those things be able
+[18:52] for them to see them inside of their own
+[18:53] business then present a new different
+[18:56] solution than what they've considered in
+[18:58] the past asked about how to solve it and
+[19:00] then Explain how other PE other
+[19:01] companies like them or other you know
+[19:04] Executives like them have then taken
+[19:05] advantage of that and then the impact
+[19:06] that they've had over a 3 6 9 12
+[19:09] whatever your timeline is to have a
+[19:10] clear and compelling sort of story on
+[19:12] Roi from switching from one to the other
+[19:15] um and doing that at a high at a high
+[19:19] frequency in a very effective way for as
+[19:22] long as necessary until that company has
+[19:24] a trigger in their business that then
+[19:27] says we need to solve this
+[19:29] which could be driven by you but often
+[19:30] times it's driven by a lot of other
+[19:32] stuff but whenever that trigger happens
+[19:34] they immediately say we're going
+[19:35] here um and I think uh a lot of B2B
+[19:39] companies because of their lack of
+[19:40] patience and their desire to have an
+[19:43] immediate metric even if it's not
+[19:45] anywhere close to revenue but have an
+[19:47] immediate metric to say cause and effect
+[19:49] we did something and then we measured
+[19:51] this thing directly after it Performance
+[19:53] Marketing which can be a part of your
+[19:55] budget but shouldn't be how you
+[19:56] scrutinize the whole marketing budget um
+[19:58] and the desire to have that uh the lack
+[20:01] of patience then drives them to do a lot
+[20:04] of activities that are not customer
+[20:06] Centric that are that are not what their
+[20:08] customer wants um which is ultimately
+[20:11] how do we get a meeting with someone
+[20:13] that's basically what they're doing and
+[20:14] they bribe them with gift cards or they
+[20:16] harass them on like with phone calls
+[20:18] over the time and you if like there's
+[20:20] companies that do this that have their
+[20:23] total addressable Market's 5,000
+[20:24] companies you got a farm of 25 sdrs
+[20:27] trying call 5,000 companies you're going
+[20:29] to annoy every single one of your Target
+[20:32] customers within 3 to 5 months um and I
+[20:35] think we just need to be a little bit
+[20:37] more aware and a little bit more
+[20:40] understanding of the actual process that
+[20:43] companies take to buy and then be able
+[20:45] to use those insights not to be
+[20:47] complacent not to say forget it I guess
+[20:49] because customers buy this way we're not
+[20:51] going to close any business not to do
+[20:53] that but to use those insights to drive
+[20:55] more Revenue to do things that our
+[20:57] customers do want
+[20:58] um to lean in and be able to craft our
+[21:01] go to market strategy and our business
+[21:03] processes around what our customer wants
+[21:05] which ultimately will lead to better
+[21:07] outcomes for uh for us or our company um
+[21:11] where generally right now most go to
+[21:13] Mark most B2B companies go to market are
+[21:15] in direct friction with how their
+[21:17] customer wants to
+[21:19] buy that's really interesting to me and
+[21:21] and like I I think like when you
+[21:24] mentioned like
+[21:26] education my my thoughts often go to
+[21:29] like these companies that are really
+[21:31] still like educating mostly on what
+[21:34] their product is about and you see that
+[21:36] very often like while knowing that for
+[21:39] example like LinkedIn B2B Institute they
+[21:42] they say that like 95% or something of
+[21:45] companies at a given moment is not in
+[21:47] market so I'm wondering like in terms of
+[21:51] educating like what are you sharing with
+[21:54] your audience so you can build that
+[21:57] relationship with them for when they get
+[21:59] that trigger that they come to you like
+[22:01] how do you make sure that is Broad and
+[22:04] interesting and relevant enough so it's
+[22:06] not just you talking about your
+[22:09] product by understanding your customer
+[22:11] well enough and having enough talent and
+[22:13] expertise to actually help them and
+[22:15] solve their problems in a way that other
+[22:16] people
+[22:18] can't like when we were when we were
+[22:20] selling products to uh to Emergency Room
+[22:23] Physicians if we just did product
+[22:25] marketing they weren't going to give a
+[22:27] [ __ ] like they were concern we sold a
+[22:29] product that helped people that couldn't
+[22:30] breathe breathe in the emergency room
+[22:33] and they're over there worried about
+[22:34] gunshot wounds and Drug overd Doses and
+[22:36] all the stuff where people are really
+[22:37] going to die um and so if we just talked
+[22:40] about our product they wouldn't have
+[22:41] cared and so what did we do we had PE
+[22:45] the best people that treated gunshot
+[22:46] wounds on a webinar that then became a
+[22:48] podcast then became social media content
+[22:50] we had people that treated certain types
+[22:52] of drug overdoses and how they did it
+[22:53] and these different techniques and we
+[22:55] created the content strategy around how
+[22:57] to be the best physician not how to help
+[22:59] people breathe with our
+[23:01] product um and the same thing that I've
+[23:03] done with my podcast over time at first
+[23:05] it was for demandin people and then it
+[23:07] became for CMOS and now become it's
+[23:08] really for Revenue leaders and then
+[23:10] there's some tactical stuff mixed in so
+[23:13] it can Evol the content strategy can
+[23:14] evolve over time as you grow as a
+[23:15] professional your business grows but it
+[23:18] has to be around your Target customer
+[23:20] being a bet a either a better business
+[23:23] or a better professional ideally both um
+[23:27] my content strategy I think is really
+[23:28] focused on Accounts at this level like I
+[23:31] don't we have a named account list I'm
+[23:32] not like saying that the marketing I'm
+[23:34] doing right now is focused on this
+[23:35] specific account but I understand what's
+[23:37] going on at that type of company and I'm
+[23:40] communicating a message that should
+[23:42] resonate with the CFO the CEO the cro
+[23:44] the CMO the demand gen person because it
+[23:47] makes sense for the business and then
+[23:49] smart people in the business are then
+[23:51] able to take that information and give
+[23:52] it to whoever is making those decisions
+[23:54] inside of their specific company um but
+[23:57] when it comes to a content strategy
+[23:58] overall and why people like a lot of
+[24:00] people will lean on product marketing um
+[24:03] where to typically to not a lot of
+[24:05] success is is because the customer
+[24:07] insights are fundamentally lacking
+[24:08] either you don't have the insights or
+[24:10] you don't have the the knowledge to
+[24:12] actually help the customer based on
+[24:14] those insights or some form of those two
+[24:17] um another thing that ends up being sort
+[24:19] of like the general mindset um of like
+[24:23] oh if like we're on this podcast and I'm
+[24:25] not talking about like refine Labs k
+[24:28] study and all the great stuff that we do
+[24:30] and how our ad process is so much better
+[24:32] than anyone else they're considering or
+[24:34] what they're if we're not doing that
+[24:35] then the podcast must be a waste of time
+[24:38] and people think that way as well um but
+[24:40] it's not um because what the podcast is
+[24:44] meant to do is to educate people and to
+[24:47] help people so that that and to do it
+[24:50] where when they look back even if
+[24:52] there's something that they heard and
+[24:53] this has happened before I've had CMOS
+[24:54] come to me and say when I first heard
+[24:56] your stuff in 2020 I thought you were
+[24:58] full of [ __ ] and I deeply resisted that
+[25:01] our ebook strategy wasn't working
+[25:03] anymore and then it hit me almost a year
+[25:05] later that what you were saying was
+[25:07] right all along and so some people will
+[25:09] resist what what I say um and but it's
+[25:12] meant to educate people and then once
+[25:14] that CMO saw that and experienced that
+[25:17] for herself now she trusts me a ton now
+[25:19] she listens to my stuff now she refers
+[25:20] me business um when initially she didn't
+[25:24] like what I was saying because it was a
+[25:26] hard reality for her to to come to grips
+[25:29] with at that point and so um yeah I
+[25:32] think we just need to be uh to to have
+[25:34] the right mindset about what we're
+[25:36] trying to do which is basically help
+[25:38] people be I take the mindset that I'm a
+[25:40] free the best free consultant for any
+[25:43] B2B company out there on this podcast
+[25:45] every every time I do an episode that's
+[25:46] what I try to
+[25:48] do yeah that makes total sense I think
+[25:52] one thing that is like also interesting
+[25:55] to see or or challenging something I
+[25:57] have experience and we talk about a lot
+[26:00] with with customers is like the fact
+[26:03] that there's a lot of people investing
+[26:06] in content I think it's a it's a given
+[26:09] especially in B2B SAS that you know you
+[26:12] have to create some some content you
+[26:13] have to be present you have to share
+[26:15] something you have to share a
+[26:17] perspective but I think what is like
+[26:19] often lacking is uh a strong
+[26:23] distribution tactics ways to to reach
+[26:27] more people than than the echo chamber
+[26:30] that you you created with like your
+[26:31] little following on LinkedIn or whatever
+[26:33] it is I think that's like a a huge
+[26:36] challenge for a lot of companies when
+[26:37] they go to next stage of growth is like
+[26:40] reaching not just those like initial
+[26:42] icps but really like a broader audience
+[26:46] uh and I'm wondering like if you have
+[26:47] some ideas on like how to improve that
+[26:50] distribution how to reach more people
+[26:53] well the right people of course but a
+[26:55] lot more people than you did initially
+[26:57] with some basic
+[27:00] content yeah so fir first off to the
+[27:02] statement of like uh as a company they
+[27:05] say we need to invest in content or as a
+[27:07] company they say we need to buy you know
+[27:10] Google ads like but almost every company
+[27:13] is saying we need to invest in content
+[27:14] and we need to do advertising and we
+[27:16] need to do sdrs and the recognition is
+[27:18] it's not about doing the thing it's
+[27:20] about doing it
+[27:22] well it's about it's not about how much
+[27:24] money you invest it's about the impact
+[27:26] of the money that you spend on it um and
+[27:30] so I see a lot of people just sort of
+[27:31] say yeah we're investing in content we
+[27:34] spend $20,000 a month in content and
+[27:37] think that they're doing a good job and
+[27:40] uh as you dive in it's okay so how what
+[27:42] what do you act what what's the what's
+[27:44] the strategy and then they make they
+[27:47] spend $10,000 on one gated PDF every
+[27:49] quarter and then they spend $6,000 for
+[27:53] an agency to write like commodity blogs
+[27:55] that their customer definitely doesn't
+[27:56] care about like you're selling to cesos
+[27:59] and you're Outsourcing your blog writing
+[28:01] to a manager while marketing content
+[28:03] manager how are they going to write
+[28:04] content for a
+[28:06] ceso um and then there's another element
+[28:09] where they like have a graphic designer
+[28:10] put together a couple of social Graphics
+[28:12] so they can post it on their organic
+[28:14] social Channel where nobody none of
+[28:15] their Target customers see it this gets
+[28:17] into your distribution none of their
+[28:18] Target customers see it it gets 100
+[28:20] likes because 100 people at the company
+[28:22] like the post um and that be then they
+[28:26] spend $20,000 on content $240,000 a year
+[28:29] and basically get zero
+[28:31] impact um and so it's about how you
+[28:34] spend it and so when you think about
+[28:36] like where what are the key things that
+[28:38] need to happen in this strategy and
+[28:40] where are the key places that it breaks
+[28:42] down um the first part is that you don't
+[28:45] understand your customers so like and
+[28:48] everyone can as I walk through this you
+[28:49] can analyze for yourself where do you
+[28:51] think it's breaking for you um Step you
+[28:55] don't understand your customers you
+[28:57] don't and you can take a hard look at
+[28:58] that because the people that I interact
+[28:59] with a majority of marketing people do
+[29:01] not understand their customer especially
+[29:03] people that are working in demand and
+[29:04] not product
+[29:05] marketing the that the next part the
+[29:08] next Breaking part is that you aren't
+[29:10] creating content that your customer
+[29:12] actually wants to consume so before we
+[29:15] even get into distribution there are a
+[29:17] couple of key places where you could be
+[29:19] off right just because you're able to
+[29:22] put something in front of someone with
+[29:25] an ad or it reaches them organically
+[29:28] if what you're saying sucks or they
+[29:30] scroll right by it and never consume it
+[29:32] or that type of stuff then what's what
+[29:35] was the point um and so the second part
+[29:38] is creating stuff that people want and
+[29:40] the third part is Distributing that
+[29:42] effectively in places where it actually
+[29:44] gets
+[29:46] consumed the key is that it actually
+[29:48] gets consumed not that there was an
+[29:50] impression which is why I think very
+[29:52] differently about six sense display ads
+[29:55] versus a targeted LinkedIn Adin feed or
+[29:58] using LinkedIn Audience Network compared
+[30:00] to LinkedIn in
+[30:02] feed um and so when you look at these
+[30:06] things there are a couple like customer
+[30:07] insights black or white like you got
+[30:09] them or you don't on the content side
+[30:11] there are things you can do to validate
+[30:14] that what you're doing is stuff that
+[30:16] your customers want before you go out
+[30:17] and spend $5,000 to promote it or boost
+[30:20] it or Syndicate it or whatever you want
+[30:21] to do where you could create the content
+[30:25] in a live event where
+[30:27] 15 of your customers or your Target
+[30:29] customers show up did they stay for all
+[30:32] 60 minutes for the event were they
+[30:34] engaged and they ask questions did they
+[30:36] actually when you sent the recording
+[30:37] they click through and they looked at it
+[30:39] did they share it did if you had the
+[30:41] event next week did they show up again
+[30:43] because it was so good that they want to
+[30:44] come back and if you did those types of
+[30:47] things that when you went to the
+[30:49] distribution you would already have
+[30:51] clear indicators that people like the
+[30:53] content and that it's
+[30:54] working um most B2B companies don't make
+[30:57] that don't take that layer in their
+[30:58] content creation process they don't
+[31:00] involve the customers in any way they
+[31:01] don't get the feedback so then when they
+[31:03] go to distribution they are often
+[31:06] Distributing things that their customers
+[31:07] don't care about and don't want to
+[31:09] consume and then they blame it on the
+[31:10] distribution instead of the
+[31:12] content and they say LinkedIn ads don't
+[31:15] work when in reality it's because your
+[31:17] content sucks and what you're doing
+[31:19] doesn't work LinkedIn ads work you want
+[31:22] to go after a B2B executive and you want
+[31:24] to get in front of them very clearly at
+[31:26] these specific accounts at this
+[31:27] seniority level at this job title even
+[31:29] down to this exact person if you have
+[31:30] your audience wide enough that you can
+[31:33] get to those people the ad the ad unit
+[31:35] works the question is what you put in
+[31:37] front of that person um and so got you
+[31:41] have to have both of those you have to
+[31:42] have the content uh the content and the
+[31:45] distribution connected in a way where
+[31:47] the formulas working in both of those
+[31:49] areas could break down um I used to and
+[31:52] even back in like 2020 I I used to say
+[31:55] almost the exact same thing that B2B
+[31:56] company create great content and they
+[31:59] suck at distribution um but as I've
+[32:01] gotten smarter and wiser I've realized
+[32:03] that a lot of B2B companies don't create
+[32:05] good content and they suck at and they
+[32:07] don't distribute or they suck at
+[32:08] distribution um but you you it's
+[32:11] recognizing that there are two parts of
+[32:12] the equation when people run LinkedIn
+[32:14] ads they are not thinking about the
+[32:16] quality of the content they're not
+[32:18] they're thinking about am I going to get
+[32:19] a lead around out of this um and so we
+[32:22] need to like when we think about social
+[32:25] advertising and demand creation
+[32:27] activities like that we need to be
+[32:28] focused on is the content making an
+[32:31] impact for our Target customer and not
+[32:33] just in like the not just in like the
+[32:37] the way where it's like oh we just want
+[32:38] to like help our customers no it's we
+[32:41] want to help our customers understand
+[32:42] why they should buy our stuff um and so
+[32:45] this is this is we're this is not like
+[32:47] some fluffy thing that we're doing when
+[32:49] you're running Media or you're doing
+[32:50] your content you're here to make help
+[32:52] people want to buy your stuff you're
+[32:54] just doing it in a different way that
+[32:55] isn't saying hey come buy my
+[32:57] stuff so um yeah rant over no no super
+[33:05] interesting stuff one of the things that
+[33:08] you you mentioned I want to touch upon
+[33:10] is like you you said like a live event
+[33:13] uh like I think that's interesting and
+[33:14] you also mentioned that in in that video
+[33:16] about the tenants is like this idea of
+[33:19] getting customer insights from from the
+[33:21] communities and like talking to people
+[33:24] in those places or even building those
+[33:26] places for them
+[33:27] I think that's like one of the things
+[33:28] that I've seen that that's really
+[33:30] interesting is like even physical events
+[33:33] is a really
+[33:35] interesting format to to learn about
+[33:38] your customers it's like very hard to
+[33:41] convince people to to invest in it
+[33:44] because it costs a lot more money than
+[33:46] let's say just like running some some
+[33:48] digital ads but I think it's interesting
+[33:50] and I was wondering like if you have
+[33:52] also experienced like any of those like
+[33:57] non digital channels being very
+[34:00] interesting like events or other things
+[34:03] to to learn more about customers but
+[34:05] also to to build those
+[34:08] communities yeah I'm like uh I'm looking
+[34:11] at all available Avenues to be able to
+[34:14] influence customers and grow businesses
+[34:16] right so events are definitely a place
+[34:18] and I was the B2B marketer in 2013 that
+[34:21] went to nine shows a year and went to
+[34:23] there and set up our you know for our
+[34:24] big shows it was a 202 20 X20 booth and
+[34:27] for our small shows it was a 10x10 table
+[34:30] and to sit there and even in back in
+[34:33] 2013 and you have 50 conversations and
+[34:37] you talk to the people and you can feel
+[34:38] it inside that this is a [ __ ] waste
+[34:40] of time and
+[34:42] money and like you could immediately
+[34:45] recognize it these people like um it's
+[34:47] interesting just to think about like why
+[34:50] did companies buy booths at conferences
+[34:53] and why did that start and when did it
+[34:55] start I don't exactly know when it
+[34:56] started but it was definitely before I
+[34:57] became a professional before the
+[34:59] internet was at maturity and scale and
+[35:01] the reason was because it was the only
+[35:03] place in the world that you would have
+[35:06] access to all the people it was the only
+[35:08] way that the people could learn because
+[35:09] there was no internet and so they would
+[35:11] show up at this place once or twice a
+[35:13] year and they would listen to the people
+[35:15] speak because there were no podcasts and
+[35:18] they would peruse the booth because
+[35:19] there was no internet or social media to
+[35:22] understand what products people were
+[35:23] building or what people were buying or
+[35:24] things like that so you had to go there
+[35:25] and literally get a demo
+[35:27] and like give them your business card
+[35:29] and hope that they called you because
+[35:30] you didn't we didn't have their
+[35:31] information or be able to contact them
+[35:33] and like that was what we did in a B2B
+[35:36] conference and it made a bunch of sense
+[35:38] at that time in the world to invest a
+[35:41] significant amount of your marketing or
+[35:42] business you know go to market Budget on
+[35:45] events for that reason it was one of the
+[35:47] only ways that people researched
+[35:48] discovered and evaluated
+[35:50] products and we continue to have a huge
+[35:54] level of investment in uh trade show
+[35:57] booths and Conference sponsorships at
+[36:00] the same level that we did in the early
+[36:03] 2000s or the
+[36:05] 1990s now the allocation for some
+[36:08] companies is 60 to 80% of their total
+[36:10] marketing budget going to physical
+[36:12] events um and so it's not that we
+[36:14] shouldn't do any it's not that we
+[36:16] shouldn't be 100% digital that we should
+[36:18] just forget anything in person it's that
+[36:20] we should
+[36:22] rethink now that we have all the things
+[36:24] available today how are we going to use
+[36:27] physical events to drive our go to
+[36:29] market strategy and complement the other
+[36:30] Investments and things that we're doing
+[36:32] a lot being digital um and so think
+[36:36] rethinking the actual in expenditure and
+[36:39] what we're trying to accomplish and why
+[36:40] we're doing it um and maybe you know
+[36:43] start to question whether why we go to
+[36:45] 25 shows a year where our boosts cost
+[36:47] $200,000 for a big company and rethink
+[36:50] how that money could be allocated I
+[36:52] think is a smart uh a smart
+[36:55] decision um and when we think about the
+[36:57] value of conferences there's immense
+[36:59] value people are still congregating
+[37:01] there they spend way less time in the
+[37:03] sessions because they can get the exact
+[37:05] same information or better information
+[37:06] and less biased information on their own
+[37:08] on the internet so they spend way less
+[37:10] time in the actual
+[37:11] sessions um they barely go by the the
+[37:14] booth unless they have particular
+[37:16] Business Development meetings or other
+[37:18] things like that but um you just see
+[37:21] overall way less Booth traffic and way
+[37:23] less Booth interest because they can
+[37:25] literally go on the internet and
+[37:26] research your product and get
+[37:28] information that they trust more than
+[37:30] talking to your rep inside of the
+[37:32] booth um they there's dinners and
+[37:35] satellite events and parties and
+[37:37] networking which is the main reason that
+[37:39] people go there today um and so if
+[37:41] that's the main reason that people go
+[37:42] there today why do we need to spend
+[37:44] $150,000 on a 30 by2 booth that we're
+[37:48] going to build for three days scan some
+[37:50] lead Badges and then tear down and never
+[37:52] look at again um it just feels like we
+[37:55] should rethink that overall strategy and
+[37:57] the data supports it the data supports
+[37:59] it when we when we run analytics for a
+[38:01] lot of companies is that there's just a
+[38:03] dramatic overinvestment in that specific
+[38:06] type of event um with uh little
+[38:09] measurable
+[38:10] Roi yeah and I think that's great maybe
+[38:13] for like the last 10 minutes because I
+[38:15] know you have a hard stop is like let's
+[38:19] talk a bit more about oury and data I
+[38:21] think it's a very important part of all
+[38:23] of this like let's say we understander
+[38:26] because customers we create amazing
+[38:29] content we distribute it into the right
+[38:32] places like what is if it's not if it's
+[38:36] not uh the typical kpis that that come
+[38:40] up because you mentioned dark social and
+[38:42] all of these things that are hard to
+[38:44] measure like how can we actually measure
+[38:47] the impact of this education of this
+[38:49] demand gen and then also how can we of
+[38:51] course
+[38:53] convince uh the CFO and the CEO that
+[38:56] this is legitimately what we need to
+[38:58] keep investing in billi
+[39:01] in um I think that uh B2B Executives
+[39:07] have generally been uh sold a lie of how
+[39:13] we evaluate the effectiveness of
+[39:16] marketing programs and perhaps it was
+[39:20] the right way to look at it in 2009 or
+[39:24] 2012 but it's definitely not applicable
+[39:26] today which is single Channel lead gen
+[39:30] direct source
+[39:32] attribution um where we expect that we
+[39:35] put $50 into Google or put $50 into
+[39:38] LinkedIn and we get one lead and then we
+[39:40] expect that out of those leads that 1%
+[39:42] or0 1% or 3% or whatever they put in
+[39:44] their model will become a customer and
+[39:47] therefore we can deem Roi at the
+[39:49] beginning actually back then they
+[39:50] weren't even looking at uh Downstream
+[39:52] conversion it was just what was the cost
+[39:53] per the leite and when you optimize for
+[39:56] cost per lead you end up getting way
+[39:58] more lowquality leads because the
+[40:01] cheaper typically the cheaper the lead
+[40:03] the lower the quality the lower the
+[40:04] conversion rates um it's the only way
+[40:07] that you are able to reach scale and
+[40:09] volume
+[40:11] um and uh I would like to sort of shift
+[40:14] the conversation about how we're looking
+[40:16] at this where everyone is so in the
+[40:18] micro of like what was the ROI of our
+[40:21] like one single campaign on LinkedIn or
+[40:24] what's the ROI of this one video that we
+[40:26] made SE in the micro of that and to
+[40:30] elevate it and say what was the ROI of
+[40:32] our entire marketing budget and we're
+[40:34] not at the channel level anymore and
+[40:36] we're not trying to debate whether
+[40:37] Google investment was better than
+[40:39] LinkedIn we're looking at the whole
+[40:40] budget we spent $7 million a year on
+[40:43] marketing programs we spent $6 million a
+[40:45] year on headcount that's $13 million in
+[40:47] marketing investment what was the ROI of
+[40:49] all of our marketing and instead of
+[40:51] looking at it of like what was the ROI
+[40:53] of all the marketing against only
+[40:54] marketing Source Revenue let's look at
+[40:56] the marketing Roi against entire
+[40:58] business growth so that would include
+[41:00] partners because marketing Investments
+[41:02] accelerate partner revenue and marketing
+[41:06] Investments improve outbound connect
+[41:08] rates and so we look at it the entire go
+[41:11] to market against the marketing budget
+[41:13] and the goto market performance and have
+[41:15] an objective conversation about is the
+[41:18] investment that we're putting in
+[41:19] marketing driving business growth and
+[41:22] that's the number one conversation that
+[41:24] we should be having and if those things
+[41:26] are in line and those things are looking
+[41:28] good then I think that the company
+[41:31] should say yeah we're you know be able
+[41:33] to have Benchmark and say Yeah in our
+[41:34] performance we're at the Top 20th
+[41:36] percentile of what we're doing so what's
+[41:39] keep doing our podcast and that news
+[41:40] show that we do and how we invest
+[41:43] $500,000 in key opinion leaders in a
+[41:45] modern influencer strategy and all that
+[41:48] stuff that other people aren't doing
+[41:49] because they don't think that they can
+[41:51] measure it so micro let's keep doing
+[41:53] that stuff and keep growing our
+[41:54] business um
+[41:56] and then the companies that you know
+[41:58] don't have that many some that I
+[42:00] interact with about the companies I
+[42:01] analyze probably 25% are [ __ ]
+[42:03] crushing it and 75% like really need
+[42:05] someone to tell them that they're not
+[42:06] doing things right um and when the
+[42:10] people are doing that right have a hard
+[42:11] reality that part of the reason that
+[42:14] you're not being successful in marketing
+[42:16] is because of the constraints that you
+[42:17] put within marketing around your micro
+[42:19] measurement um and so uh just to close
+[42:23] out I think shifting
+[42:27] from the
+[42:28] micro like super micro analytics of
+[42:31] marketing campaigns or content or
+[42:34] channels or programs and elevating it to
+[42:38] what is the performance of marketing on
+[42:40] business growth as the primary thing
+[42:41] that we look at um I think that it would
+[42:44] spark a lot of great conversations and I
+[42:46] think it would drive a lot of companies
+[42:47] to continue to do things that quote
+[42:50] unquote aren't measurable in their micro
+[42:53] analytics but clearly are driving
+[42:56] positive you know business growth and
+[42:58] then from there you can rearchitecturing
+[43:06] that the podcast works you could look at
+[43:09] the data and be able to correlate
+[43:11] positive business outcomes with the
+[43:12] metrics of the podcast and start to make
+[43:14] projections of what the leading metrics
+[43:16] should be that are different than the
+[43:18] ones that you use today the key is that
+[43:20] the program has to work before you go
+[43:23] back and set the leading metrics um but
+[43:26] generally that's how I think about it I
+[43:27] think that when we look at Roi we should
+[43:29] be looking at it as business
+[43:30] professionals not the SEO managers lens
+[43:34] I think we need to really Elevate the
+[43:37] conversation yeah I mean I'm in the
+[43:39] middle of looking back at all of the
+[43:42] like marketing stuff we did this year so
+[43:44] it feels very relevant that it's going
+[43:46] to be talking everybody's doing it right
+[43:48] now for sure yeah well and and I think
+[43:51] it's interesting on the one hand I mean
+[43:53] I I think what you're saying makes total
+[43:56] sense especially when it's about like
+[43:58] convincing you know the all the
+[44:01] stakeholders of the business to keep
+[44:03] investing in marketing in the way that
+[44:04] you're doing it on on the level of let's
+[44:07] say like an individual contributor like
+[44:10] trying to learn what worked and what
+[44:13] didn't work and trying to like amplify
+[44:16] that for like your road map for for next
+[44:19] year it's like I'm I'm still looking for
+[44:24] what are like the right signals and I
+[44:25] know there's not a single answer for
+[44:28] this because it depends on the format
+[44:29] and what you're trying to do and stuff
+[44:31] like that but I'm wondering like in in
+[44:33] your like when you start something new
+[44:36] let's say you've only been doing it for
+[44:38] three months or six months you can't
+[44:40] really evaluate that long-term thing yet
+[44:42] like what signals are you looking at to
+[44:44] indicate that yes let's keep moving this
+[44:47] for let's scale this or is it just not
+[44:49] possible and do you need to commit to
+[44:51] something like say a podcast for at
+[44:54] least a year to get something out of
+[44:57] it um so first off when you're making
+[45:00] evaluations for demand capture use uh
+[45:04] attribution software and CRM data and
+[45:06] you can easily understand what's working
+[45:07] and what's not in demand capture and for
+[45:09] demand creation listen to
+[45:11] customers and a variety of different
+[45:14] ways that you can get insights to
+[45:16] understand what's working in demand
+[45:17] creation and then view those as to
+[45:20] different things where you use different
+[45:21] signals to know what's working and
+[45:22] what's not another huge misconception
+[45:26] about demand creation or when they think
+[45:28] about brand building is that it's a it's
+[45:30] a long maybe when you think about brand
+[45:32] building long term because it's not
+[45:34] really driving
+[45:35] demand um but when I started my LinkedIn
+[45:38] content I was getting customers within
+[45:40] 30 days when I started the podcast I was
+[45:42] getting emails and DMS and invites onto
+[45:44] new podcast within 30 days when I
+[45:46] started my event the first event we did
+[45:48] 19 people showed up but then for years
+[45:51] hundreds of people showed
+[45:52] up um there's a misconception that these
+[45:56] types of things need to take a long time
+[45:58] and they don't um what what needs to
+[46:02] happen is that you need to be doing
+[46:04] things that customers like and then you
+[46:06] get the first thing you get is immediate
+[46:08] qualitative signals people comment in
+[46:11] your post sharing your DM saying hey I
+[46:13] just shared this with my whole team
+[46:14] sending you a DM inviting you onto their
+[46:16] podcast asking you to speak at the
+[46:18] industry event you get all these
+[46:20] qualitative signals then you get a
+[46:21] couple DMS that say hey what you said is
+[46:23] interesting I want to explore working
+[46:24] together or hey could you you know CEO
+[46:27] content that's great could you have set
+[46:28] me up with your best AE so I can look at
+[46:30] the the product that you
+[46:32] sell um and you start to get those types
+[46:35] of signals um and so where if you're six
+[46:38] months into some of these things and
+[46:41] you're wondering like is things are
+[46:43] things working or not you should be
+[46:45] getting those qualitative signals much
+[46:46] faster than in six months so the
+[46:48] qualitative signals should already be
+[46:50] coming in and they should be coming in
+[46:51] from Target customers not just random
+[46:53] people and then in 6 months you should
+[46:55] definitely have some some tangible way
+[46:56] to correlate the impact of what you're
+[46:58] doing to business
+[47:00] outcomes um and if you're not able to uh
+[47:04] oftentimes it's because what you're the
+[47:06] way that you're doing it isn't working
+[47:08] not what like the it's not the podcast
+[47:11] fault that you suck at doing a podcast
+[47:13] just like I like I don't say this to
+[47:15] people directly because it's sound of
+[47:16] disrespectful but it's basically what
+[47:18] I'm saying is like like it's not link
+[47:20] it's not LinkedIn that doesn't work it's
+[47:23] that what you what you are personally
+[47:24] doing on LinkedIn does doesn't work um
+[47:27] and so when people like people love to
+[47:30] blame the channel instead of their own
+[47:32] Talent um and when it comes down to it
+[47:35] it's most often uh the talent the
+[47:37] mindset the
+[47:39] consistency the understanding of
+[47:41] customers those are the reasons why
+[47:42] people aren't being successful it's not
+[47:44] the Channel's fault it's not usually not
+[47:46] how you're running the ads or things
+[47:48] like that sure there are tactical
+[47:50] improvements to be made um but uh yeah
+[47:54] generally when I think about like the
+[47:56] results of some of these things and I
+[47:58] perpetuated these ideas early on so it's
+[48:00] generally could be looked at as my fault
+[48:02] that people think this way but um it
+[48:04] doesn't have to be long term um and when
+[48:07] executed properly you actually should be
+[48:09] feeling it in the in the pretty short
+[48:11] term yeah I love that some some really
+[48:14] good harsh truths to don't find excuses
+[48:17] and and really just get down to the work
+[48:20] I I really appreciate that well um we're
+[48:22] going to wrap it up thank you so much
+[48:25] Chris I would love to pick your brain
+[48:26] for the rest of the day but we'll we'll
+[48:29] talk about that maybe later in a in a
+[48:31] more professional way amazing thanks
+[48:34] thanks so much for having me appreciate
+[48:36] you see you soon byebye all right that
+[48:38] was it for this episode as always I
+[48:41] really appreciate you listening or
+[48:43] watching the show if you like it please
+[48:46] um subscribe to the podcast on YouTube
+[48:49] or wherever you're listening if you're
+[48:51] interested in learning more about brand
+[48:54] strategy visit brand do courses and you
+[48:57] can use the code LTB podcast to get a
+[49:00] 20% discount also if you want to see the
+[49:04] transcript for this episode you can
+[49:07] visit letar branding. substack docomo
+[49:10] subscribe to the email list there to get
+[49:12] updated on any new shows or other
+[49:15] content thanks take care and see you in
+[49:17] the next
+[49:19] episode

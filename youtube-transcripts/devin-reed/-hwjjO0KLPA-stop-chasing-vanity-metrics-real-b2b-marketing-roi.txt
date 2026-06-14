@@ -1,31 +1,495 @@
-# Transcript — Stop Chasing Vanity Metrics: Real B2B Marketing ROI
+# Transcript — -hwjjO0KLPA
 Video ID: -hwjjO0KLPA
 URL: https://youtube.com/watch?v=-hwjjO0KLPA
-Channel: TheReederCo
-Published: 2025-06-24
-Collected: PENDING
-Expert: Devin Reed
-
----
-
-## STATUS: TRANSCRIPT NOT YET FETCHED
-
-To fetch this transcript, run:
-
-  node research/scripts/fetch-transcripts.js
-
-Make sure your Supadata API key is set in the script first.
-Free tier: 100 requests/month — no credit card required.
-Sign up at: https://supadata.ai
+Channel: unknown
+Published: unknown
+Duration: unknown
+Word count: ~3358
+Collected: 2026-06-14
 
 ---
 
 ## Full Transcript
 
-[Will be populated automatically by fetch-transcripts.js]
+[Music] Hi Devon, welcome to industry insights uh with G2. So this segment right here is for our marketing basically marketing and tech audience. So we bring industry leaders like you to our platform and we'll ask you some simple questions relating uh related to some of the trending topics that our audience will benefit from. And jumping straight to my first question today we are going to talk a lot about B2B marketing virality and content creation. So f my first question is around viral content. There's this obsession in B2B marketing uh especially today with viral content and massive reach. So what do you think is fundamentally wrong with this approach and what is like that companies need to maybe work upon? Yeah, what I think is fundamentally broken with that approach is you're going for popularity instead of resonance with the people that are actually going to buy or make influencing decisions or influences, excuse me, purchasing decisions on your product. So, a lot of times people say, "Hey, I want to go viral. I want to see I want as many people as possible, right, to see the content." And that fundamentally is a flaw because marketing, great marketing and effective marketing isn't about getting as many people as possible to see your message and to drive awareness, but it's for as many people as possible in your market, right? So, if you think of the world, if you're posting on LinkedIn, for example, there's hundreds of millions of users. So, if you're saying, "Hey, I want as many people as possible to see that," you're actually forgetting the main part, which is you want to get people who make and influence buying decisions to see your message. And so, and the reason I think that that happens a lot is because social media is literally gamified to show you views and engagement metrics and all these things to try to game it, right? So, you get more and more and more. And there isn't enough analytics in LinkedIn, for example, or even sometimes in across the Martekch landscape to see who are those people who are actually engaging. Are those the people on our target account list? Are these people that we can actually sell to versus kind of chasing popularity for popularity sake? And so if you're on social media for example, even sometimes YouTube and some other platforms, you know, it's easy to say, "Oh, this view, you know, this video got a million views, it must have been successful and it was successful in getting attention." But was that the real intent of that video, right? Or that post or that article. So if the intent is to, you know, get people to maybe choose you out of three different vendors or maybe it was just to bring awareness to a category or awareness to a new product or demand for a new feature and product, right? views are not necessarily the best endgame for that. It is an early indicator, right? We want to see how many people resonated with it, but I know many people who are getting 2 3,000 views on a videos or on a post and getting a lot of leads versus people who are getting 50,000 views and getting zero. Completely agreeing with you and that's also brings me to my next question. So, when you see a LinkedIn post with say 50,000 likes versus one with like 50 but meaningful comments, which one would you bet your marketing budget on and why? That's a great question. I would take the 50 comments, assuming those are again the the right people and that, you know, that inner circle that we're trying to sell to. And the reason being is it shows me two different things. One, 50,000 likes could be a picture of a of a super cute puppy and you might get 50,000 likes. That's not going to help your business grow, right? Or it can be some platitude of like hang in there, you can do it, right? And like a story. It's like cool, that makes you feel good. That's really, you know, has a lot of emotion. Uh you're going to get a lot of virality out of that. It's hard to build a reputation that way. And what I believe in is building a trust at scale and building a reputation where people know, like, and trust us. And so sharing pictures of puppies or anything that might get, you know, kind of surface level emotional stuff that's going to get you 50,000 or whatever you said, uh 50,000 was it likes, that's probably not going to help too much. But if you get 50 meaningful comments from CFOs and that's who you sell to, that not only has 50 meaningful interactions with those 50 folks, but you're also going to, you know, LinkedIn is going to share that content with more CFOs and more people in finance, for example, right? Because those 50 people engaged with it. So you're actually going to get more impressions that matter and more I would say more kind of credibility because other CFOs and people in senior finance positions are seeing someone you know seeing someone's content seeing all these people engage with it and that's going to make you seem more credible than necessarily a post that went viral for you know the aforementioned reasons. I kind of like that approach and I see that you are pretty active on LinkedIn. So my next question for you is what are some of the biggest mistakes that you see companies making uh when they chase trends that don't align basically with their brand or with their brand image and what's the long-term damage of this and if you have any like real life examples that you want to share. That's a good question. I don't see a ton of it. What I think ends up happening more is people don't really have a core like LinkedIn strategy. companies don't have a LinkedIn strategy and so instead of kind of making waves which is making making their own content or you know kind of taking their point of view and amplifying it in different methods what they kind of do is look for too many different trends and try to kind of ride that wave right so one week they're kind of uh their their feed looks one way the next it's another way and it kind of like sometimes it's memes sometimes it's graphics but it always just feels like they're kind of trying to kind of catch a trend and stay relevant um and what I think it what it does is you end up not really having any rec uh you're not very recognizable, right? So, you're not known for one thing. Like, I'm wearing an Adidas track jacket today. I'm wearing it cuz I like Adidas track jackets. I don't think they're very in style right now, per se. But if I wear an Adidas track jacket in videos, which I have done actually a few years back, then my brand kind of gets associated with that. But if I'm wearing whatever, you know, designer thing today because that's what went viral or, you know, something that every week I'm just changing outfits, changing attire to try to look relevant, then your brand becomes trying to look relevant, right? And trying to be trendy instead of being kind of known for one thing. So, I don't know if that example will make it to the final uh the final cut there, but I think it's it's better to kind of pick one or two formats, one or two styles, really hone those in and get and get engagement and be known for that, and then test other things versus the inverse, which is kind of always testing and not really having one core approach. That answer will definitely make it to the article. Okay, jumping on to my next question. What does evergreen B2B content look like for you, especially on like a fast-paced platform like LinkedIn today? And uh how do you create content that delivers consistent results maybe months or even years later? Is there like a strategy? Yeah, there there's a time and a place to be hyper relevant to what's going on today, right? So, for example, if I don't know there's a big acquisition uh you know in your industry, commenting on that, right? So commenting on current events, current trends, that's going to not be very evergreen, right? Cuz that's something that's happening right now in a specific moment. The opposite would be evergreen content, which is something that's probably still relevant 3 6 12 months later, maybe even more. And so when I'm creating LinkedIn content, I'm trying to balance both of those things. So I actually lean towards some of the more currently relevant stuff if possible because it's not always on, right? and there's not always something to comment on, but when there is a moment and people and it has that people's attention, it's highly relevant, I want to jump on that. Now, alternatively, when there isn't something like that to comment on, then I'm looking at some of the problems and some of the how-tos and stories that I know that are going to be relevant to my audience 2 years ago, today, and two years from now, right? Because there are some of these, you know, constants, if you will. So, I think just kind of breaking it down and saying, "Hey, look, is this a post that is going to be relevant in 6 months or is this something that's only going to be relevant for maybe 6 days?" And that's kind of a good way you can look through the lens of what should we be focusing on. I think if anything, it's safer to overindex on evergreen, but again, it's still helpful to have some of that more trending content from time to time. So, you're also building a reputation for being uh in the know and kind of having a pulse on what's going on with your audience and what they care about. Yeah. So I think basically a perfect like balance of both are important for LinkedIn growth. Mhm. Now ROI is like a big and a dreaded term especially for marketing leaders. So u they are under pressure to show their ROI quickly. How do you prove the value of a sustainable content strategy to executives who want immediate results? Yeah, that's that's the uh that's the big question and that's a tough one. And so I think the first thing is understand what ROI means to the individual you're talking to. A lot of time value or impact or ROI um it can kind of um it has a different meaning depending on who you're talking to both at the company. So your CFO and your CMO will probably have somewhat different perspective on what ROI is or what impact is. Your sales leader uh will also probably have a different perspective. Also CMOs across different companies are going to have different perspectives. So I think the first thing to do is to understand uncover what exactly ROI means in the context of who you're talking to at your organization. The second thing is to show early and lagging indicators because most of the time especially at the executive level ROI is going to mean company growth specifically revenue but not always. And so I think it's like look if you have different programs that you're running let's first understand with what is the number one goal which is what is the strategic initiative at the company and executive level that this program is going to help support and sometimes it is a demand gen you know campaign and we are looking at you know inbound demos and we're going to track those demos through close one and that's usually pretty straightforward but a lot of times for brand building activity social media channels you're not going to see that initially and sometimes it's really hard if at all to see it linearly. So, what I like to do is show just different early and lagging indicators, which is like, look, for for before we can even get any inbound demos and get people, you know, hitting contact sales on our website, we're going to have to get, for example, on LinkedIn some early indicators like views, engagement, and maybe like follower growth, for example. Once we start to see that, that's our early indicator. And then we'll start to track down a funnel, if you will, how it's impacting. because every time you kind of go from, you know, social media to website traffic to inbound demos, you're obviously going to see a big drop off in your conversion, you know, traffic and conversions. So, it's just starting to understand what does that look like. And then I think over time, uh, if you're running a program every week or a month, whatever makes sense for that cadence is show how those early indicators are growing and if and when it's starting to resonate, excuse me, um, uh, kind of cascade down to some of those more pipeline and company growth metrics. And I think the other one too is don't be afraid to use quantitative excuse me qualitative feedback. So sometimes screenshots of people in your ICP who are uh engaging with your content or email replies or comments in a webinar. Those things are also really powerful signals because a lot of times people will consume but not necessarily engage or you know reply. And so I think when you do get those signals, those are really important to kind of pair with the the hard metrics and show people, hey, we're not just here to get laser focused on inbound demos or pipeline gen, but we want to measure the resonance across our marketing and really start to pick up how much momentum are we building because that's also going to help you not only make the case of why you're doing this, but why you should continue and scale and help you inform new programs because you're starting to understand really what's working and what's not. That's I think is that is a great advice. Now talking about the reader. So you have built the reader from content into this community. Now what was the turning point where you realized you needed to shift from broadcasting to building with your audience? Yeah, I think uh you know it's always a little odd to think do people care what's going on kind of behind the scenes, right? So so I could be what am I building and how like you know people might see what you build when you launch something. What I learned is people want to see the content behind the content. So what was the process of getting there? Uh what did it look like to get approval? what was your thought process for spending $100,000 on a program or hey you went to an event what was that really like behind the scenes in a day in the life and I actually had to have a lot of people tell me uh hey we want this kind of content from you because it always feels a little uh maybe uncomfortable posting some of that stuff and sharing you know being a little more vulnerable and and sharing a little bit more because it feels like uh you know who cares who's who's really going to want to know you know the type of sneakers I pick and why when going to an event but people do and and I think too is people want diversity in their content content. They don't want to just be broadcasted to um because they have an eye for that, right? Broadcasted content is almost always very polished. It looks like it's been manufactured and ready for kind of the consumer and people are picking up on that and it kind of smells like sales or smells like marketing. And so sometimes when people see the more low polished, behind the scenes, less scripted content, they actually gravitate towards that because it feels more real. It feels more honest and it feels like you're kind of letting them in to your life. And people like that. People like to have uh what's been termed media friends, right? They may not know you personally, but they know they feel like they know you through your content. And so, you can build a much deeper relationship with folks by kind of building with them and sharing behind the scenes than just kind of uh polishing everything and and making everything very market friendly and feeling like that's the only way that you can build trust and and earn attention. That's great. And I think we are on time. That brings us towards our last question. For a B2B marketer who's been focused on traditional metrics, demand gen tactics, what's the first step they should take forward towards building their content to community pipeline? Yeah, it's a good one. So, I think the first thing you have to think of is how do you invite your audience to be part of your journey? So, first you have to know what your mission is. Your mission cannot be if you're a SAS company or a services company to grow your profit and your you know grow your revenue and your profit to grow your profit and your revenue. People aren't going to really care about that too much. what they care about is themselves and so you need to have some sort of mission right so what is the mission of your c of your company who you're trying to help and why and your content should be a reflection of that so next is you want to build you know invite them to build it with you and to be part of it I've I've seen folks say hey let's start to take the going back to the CFO example I have one of my clients as a CFO with a newsletter and she's changed it from broadcasting her thoughts to broadcasting but also inviting other CFOs to share their insights and their ideas and so now you're starting to show folks, hey, I'm plugged into the community. I'm inviting people on stage, air quotes, and now you're building relationships with the individuals, of course, that are taking part in that. The other things you can do is simple things like, hey, if you're publishing a book, share the four book covers, which one, you know, and ask your audience, which ones do you like more? Hey, we're thinking of uh we're in the middle of planning our next event. We're thinking between Atlanta and Denver. Which one should we pick? So, just inviting folks along the journey. And I've done this with my rebrand. you know, which logo do you like the best, even though I had already picked which one I was going to use. So, it's just, you know, kind of um then that's just one way you can do it. But the more that you get folks involved, maybe submitting their own content, taking questions and putting that into next content, even if you're broadcasting and not, you know, having them write it, there's a million ways that you can really start to, I guess, like go to market together in a way or go to content together. And so, yeah, I think it's just inviting your audience to be part of this journey with you, listening to their voice, and then putting their input into practice, however that kind of takes takes shape. Yeah. Um, I think that was great, and we got some good insights from today's article. Thank you so much for doing
 
 ---
 
 ## Timestamped Segments
 
-[Will be populated automatically by fetch-transcripts.js]
+[00:00] [Music]
+[00:02] Hi Devon, welcome to industry insights
+[00:05] uh with G2. So this segment right here
+[00:07] is for our marketing basically marketing
+[00:10] and tech audience. So we bring industry
+[00:12] leaders like you to our platform and
+[00:14] we'll ask you some simple questions
+[00:16] relating uh related to some of the
+[00:17] trending topics that our audience will
+[00:19] benefit from. And jumping straight to my
+[00:22] first question today we are going to
+[00:24] talk a lot about B2B marketing virality
+[00:27] and content creation. So f my first
+[00:29] question is around viral content.
+[00:32] There's this obsession in B2B marketing
+[00:34] uh especially today with viral content
+[00:37] and massive reach. So what do you think
+[00:39] is fundamentally wrong with this
+[00:40] approach and what is like that companies
+[00:43] need to maybe work upon? Yeah, what I
+[00:44] think is fundamentally broken with that
+[00:46] approach is you're going for popularity
+[00:49] instead of resonance with the people
+[00:51] that are actually going to buy or make
+[00:53] influencing decisions or influences,
+[00:55] excuse me, purchasing decisions on your
+[00:57] product. So, a lot of times people say,
+[00:59] "Hey, I want to go viral. I want to see
+[01:01] I want as many people as possible,
+[01:03] right, to see the content." And that
+[01:05] fundamentally is a flaw because
+[01:07] marketing, great marketing and effective
+[01:09] marketing isn't about getting as many
+[01:10] people as possible to see your message
+[01:13] and to drive awareness, but it's for as
+[01:15] many people as possible in your market,
+[01:17] right? So, if you think of the world, if
+[01:18] you're posting on LinkedIn, for example,
+[01:20] there's hundreds of millions of users.
+[01:22] So, if you're saying, "Hey, I want as
+[01:23] many people as possible to see that,"
+[01:25] you're actually forgetting the main
+[01:27] part, which is you want to get people
+[01:28] who make and influence buying decisions
+[01:30] to see your message. And so, and the
+[01:33] reason I think that that happens a lot
+[01:34] is because social media is literally
+[01:36] gamified to show you views and
+[01:38] engagement metrics and all these things
+[01:40] to try to game it, right? So, you get
+[01:41] more and more and more. And there isn't
+[01:43] enough analytics in LinkedIn, for
+[01:45] example, or even sometimes in across the
+[01:47] Martekch landscape to see who are those
+[01:49] people who are actually engaging. Are
+[01:51] those the people on our target account
+[01:53] list? Are these people that we can
+[01:54] actually sell to versus kind of chasing
+[01:56] popularity for popularity sake? And so
+[01:59] if you're on social media for example,
+[02:01] even sometimes YouTube and some other
+[02:03] platforms, you know, it's easy to say,
+[02:04] "Oh, this view, you know, this video got
+[02:06] a million views, it must have been
+[02:07] successful and it was successful in
+[02:09] getting attention." But was that the
+[02:11] real intent of that video, right? Or
+[02:13] that post or that article. So if the
+[02:15] intent is to, you know, get people to
+[02:18] maybe choose you out of three different
+[02:20] vendors or maybe it was just to bring
+[02:22] awareness to a category or awareness to
+[02:24] a new product or demand for a new
+[02:26] feature and product, right? views are
+[02:28] not necessarily the best endgame for
+[02:30] that. It is an early indicator, right?
+[02:32] We want to see how many people resonated
+[02:34] with it, but I know many people who are
+[02:36] getting 2 3,000 views on a videos or on
+[02:39] a post and getting a lot of leads versus
+[02:42] people who are getting 50,000 views and
+[02:44] getting zero. Completely agreeing with
+[02:46] you and that's also brings me to my next
+[02:48] question. So, when you see a LinkedIn
+[02:50] post with say 50,000 likes versus one
+[02:53] with like 50 but meaningful comments,
+[02:55] which one would you bet your marketing
+[02:57] budget on and why? That's a great
+[02:59] question. I would take the 50 comments,
+[03:02] assuming those are again the the right
+[03:04] people and that, you know, that inner
+[03:05] circle that we're trying to sell to. And
+[03:07] the reason being is it shows me two
+[03:08] different things. One, 50,000 likes
+[03:10] could be a picture of a of a super cute
+[03:13] puppy and you might get 50,000 likes.
+[03:15] That's not going to help your business
+[03:16] grow, right? Or it can be some platitude
+[03:19] of like hang in there, you can do it,
+[03:21] right? And like a story. It's like cool,
+[03:22] that makes you feel good. That's really,
+[03:24] you know, has a lot of emotion. Uh
+[03:25] you're going to get a lot of virality
+[03:27] out of that. It's hard to build a
+[03:28] reputation that way. And what I believe
+[03:30] in is building a trust at scale and
+[03:33] building a reputation where people know,
+[03:34] like, and trust us. And so sharing
+[03:37] pictures of puppies or anything that
+[03:38] might get, you know, kind of surface
+[03:39] level emotional stuff that's going to
+[03:41] get you 50,000 or whatever you said, uh
+[03:43] 50,000 was it likes, that's probably not
+[03:45] going to help too much. But if you get
+[03:47] 50 meaningful comments from CFOs and
+[03:49] that's who you sell to, that not only
+[03:51] has 50 meaningful interactions with
+[03:53] those 50 folks, but you're also going
+[03:56] to, you know, LinkedIn is going to share
+[03:58] that content with more CFOs and more
+[04:00] people in finance, for example, right?
+[04:02] Because those 50 people engaged with it.
+[04:04] So you're actually going to get more
+[04:06] impressions that matter and more I would
+[04:08] say more kind of credibility because
+[04:11] other CFOs and people in senior finance
+[04:13] positions are seeing someone you know
+[04:14] seeing someone's content seeing all
+[04:16] these people engage with it and that's
+[04:17] going to make you seem more credible
+[04:19] than necessarily a post that went viral
+[04:21] for you know the aforementioned reasons.
+[04:23] I kind of like that approach and I see
+[04:25] that you are pretty active on LinkedIn.
+[04:28] So my next question for you is what are
+[04:30] some of the biggest mistakes that you
+[04:32] see companies making uh when they chase
+[04:34] trends that don't align basically with
+[04:36] their brand or with their brand image
+[04:38] and what's the long-term damage of this
+[04:41] and if you have any like real life
+[04:43] examples that you want to share. That's
+[04:45] a good question. I don't see a ton of
+[04:47] it. What I think ends up happening more
+[04:49] is people don't really have a core like
+[04:52] LinkedIn strategy. companies don't have
+[04:54] a LinkedIn strategy and so instead of
+[04:56] kind of making waves which is making
+[04:58] making their own content or you know
+[04:59] kind of taking their point of view and
+[05:01] amplifying it in different methods what
+[05:03] they kind of do is look for too many
+[05:05] different trends and try to kind of ride
+[05:07] that wave right so one week they're kind
+[05:09] of uh their their feed looks one way the
+[05:11] next it's another way and it kind of
+[05:13] like sometimes it's memes sometimes it's
+[05:15] graphics but it always just feels like
+[05:16] they're kind of trying to kind of catch
+[05:18] a trend and stay relevant um and what I
+[05:20] think it what it does is you end up not
+[05:22] really having any rec uh you're not very
+[05:25] recognizable, right? So, you're not
+[05:26] known for one thing. Like, I'm wearing
+[05:28] an Adidas track jacket today. I'm
+[05:29] wearing it cuz I like Adidas track
+[05:31] jackets. I don't think they're very in
+[05:32] style right now, per se. But if I wear
+[05:34] an Adidas track jacket in videos, which
+[05:37] I have done actually a few years back,
+[05:39] then my brand kind of gets associated
+[05:41] with that. But if I'm wearing whatever,
+[05:43] you know, designer thing today because
+[05:45] that's what went viral or, you know,
+[05:47] something that every week I'm just
+[05:49] changing outfits, changing attire to try
+[05:50] to look relevant, then your brand
+[05:52] becomes trying to look relevant, right?
+[05:54] And trying to be trendy instead of being
+[05:56] kind of known for one thing. So, I don't
+[05:58] know if that example will make it to the
+[05:59] final uh the final cut there, but I
+[06:02] think it's it's better to kind of pick
+[06:03] one or two formats, one or two styles,
+[06:06] really hone those in and get and get
+[06:08] engagement and be known for that, and
+[06:10] then test other things versus the
+[06:12] inverse, which is kind of always testing
+[06:14] and not really having one core approach.
+[06:16] That answer will definitely make it to
+[06:18] the article. Okay, jumping on to my next
+[06:21] question. What does evergreen B2B
+[06:24] content look like for you, especially on
+[06:26] like a fast-paced platform like LinkedIn
+[06:28] today? And uh how do you create content
+[06:31] that delivers consistent results maybe
+[06:33] months or even years later? Is there
+[06:35] like a strategy?
+[06:38] Yeah, there there's a time and a place
+[06:39] to be hyper relevant to what's going on
+[06:42] today, right? So, for example, if I
+[06:45] don't know there's a big acquisition uh
+[06:47] you know in your industry, commenting on
+[06:49] that, right? So commenting on current
+[06:50] events, current trends, that's going to
+[06:52] not be very evergreen, right? Cuz that's
+[06:54] something that's happening right now in
+[06:55] a specific moment. The opposite would be
+[06:57] evergreen content, which is something
+[06:59] that's probably still relevant 3 6 12
+[07:01] months later, maybe even more. And so
+[07:03] when I'm creating LinkedIn content, I'm
+[07:05] trying to balance both of those things.
+[07:07] So I actually lean towards some of the
+[07:09] more currently relevant stuff if
+[07:10] possible because it's not always on,
+[07:12] right? and there's not always something
+[07:14] to comment on, but when there is a
+[07:15] moment and people and it has that
+[07:17] people's attention, it's highly
+[07:18] relevant, I want to jump on that. Now,
+[07:20] alternatively, when there isn't
+[07:21] something like that to comment on, then
+[07:23] I'm looking at some of the problems and
+[07:26] some of the how-tos and stories that I
+[07:28] know that are going to be relevant to my
+[07:30] audience 2 years ago, today, and two
+[07:33] years from now, right? Because there are
+[07:34] some of these, you know, constants, if
+[07:36] you will. So, I think just kind of
+[07:37] breaking it down and saying, "Hey, look,
+[07:38] is this a post that is going to be
+[07:41] relevant in 6 months or is this
+[07:43] something that's only going to be
+[07:43] relevant for maybe 6 days?" And that's
+[07:46] kind of a good way you can look through
+[07:47] the lens of what should we be focusing
+[07:49] on. I think if anything, it's safer to
+[07:50] overindex on evergreen, but again, it's
+[07:52] still helpful to have some of that more
+[07:54] trending content from time to time. So,
+[07:55] you're also building a reputation for
+[07:57] being uh in the know and kind of having
+[07:59] a pulse on what's going on with your
+[08:01] audience and what they care about. Yeah.
+[08:02] So I think basically a perfect like
+[08:04] balance of both are important for
+[08:07] LinkedIn growth. Mhm. Now ROI is like a
+[08:11] big and a dreaded term especially for
+[08:13] marketing leaders. So u they are under
+[08:15] pressure to show their ROI quickly. How
+[08:17] do you prove the value of a sustainable
+[08:20] content strategy to executives who want
+[08:22] immediate results? Yeah, that's that's
+[08:24] the uh that's the big question and
+[08:26] that's a tough one. And so I think the
+[08:28] first thing is understand what ROI means
+[08:30] to the individual you're talking to. A
+[08:32] lot of time value or impact or ROI um it
+[08:37] can kind of um it has a different
+[08:39] meaning depending on who you're talking
+[08:40] to both at the company. So your CFO and
+[08:43] your CMO will probably have somewhat
+[08:45] different perspective on what ROI is or
+[08:47] what impact is. Your sales leader uh
+[08:49] will also probably have a different
+[08:50] perspective. Also CMOs across different
+[08:53] companies are going to have different
+[08:54] perspectives. So I think the first thing
+[08:56] to do is to understand uncover what
+[08:59] exactly ROI means in the context of who
+[09:02] you're talking to at your organization.
+[09:04] The second thing is to show early and
+[09:06] lagging indicators because most of the
+[09:07] time especially at the executive level
+[09:09] ROI is going to mean company growth
+[09:12] specifically revenue but not always. And
+[09:14] so I think it's like look if you have
+[09:16] different programs that you're running
+[09:18] let's first understand with what is the
+[09:19] number one goal which is what is the
+[09:21] strategic initiative at the company and
+[09:23] executive level that this program is
+[09:25] going to help support and sometimes it
+[09:26] is a demand gen you know campaign and we
+[09:29] are looking at you know inbound demos
+[09:30] and we're going to track those demos
+[09:32] through close one and that's usually
+[09:33] pretty straightforward but a lot of
+[09:35] times for brand building activity social
+[09:37] media channels you're not going to see
+[09:39] that initially and sometimes it's really
+[09:41] hard if at all to see it linearly. So,
+[09:44] what I like to do is show just different
+[09:45] early and lagging indicators, which is
+[09:47] like, look, for for before we can even
+[09:49] get any inbound demos and get people,
+[09:51] you know, hitting contact sales on our
+[09:52] website, we're going to have to get, for
+[09:54] example, on LinkedIn some early
+[09:56] indicators like views, engagement, and
+[09:58] maybe like follower growth, for example.
+[10:00] Once we start to see that, that's our
+[10:02] early indicator. And then we'll start to
+[10:04] track down a funnel, if you will, how
+[10:06] it's impacting. because every time you
+[10:07] kind of go from, you know, social media
+[10:09] to website traffic to inbound demos,
+[10:12] you're obviously going to see a big drop
+[10:13] off in your conversion, you know,
+[10:14] traffic and conversions. So, it's just
+[10:16] starting to understand what does that
+[10:17] look like. And then I think over time,
+[10:19] uh, if you're running a program every
+[10:21] week or a month, whatever makes sense
+[10:22] for that cadence is show how those early
+[10:25] indicators are growing and if and when
+[10:27] it's starting to resonate, excuse me,
+[10:28] um, uh, kind of cascade down to some of
+[10:31] those more pipeline and company growth
+[10:33] metrics. And I think the other one too
+[10:35] is don't be afraid to use quantitative
+[10:38] excuse me qualitative feedback. So
+[10:40] sometimes screenshots of people in your
+[10:43] ICP who are uh engaging with your
+[10:45] content or email replies or comments in
+[10:47] a webinar. Those things are also really
+[10:49] powerful signals because a lot of times
+[10:51] people will consume but not necessarily
+[10:53] engage or you know reply. And so I think
+[10:55] when you do get those signals, those are
+[10:57] really important to kind of pair with
+[10:58] the the hard metrics and show people,
+[11:00] hey, we're not just here to get laser
+[11:02] focused on inbound demos or pipeline
+[11:05] gen, but we want to measure the
+[11:06] resonance across our marketing and
+[11:08] really start to pick up how much
+[11:09] momentum are we building because that's
+[11:12] also going to help you not only make the
+[11:13] case of why you're doing this, but why
+[11:14] you should continue and scale and help
+[11:16] you inform new programs because you're
+[11:18] starting to understand really what's
+[11:19] working and what's not. That's I think
+[11:21] is that is a great advice. Now talking
+[11:23] about the reader. So you have built the
+[11:25] reader from content into this community.
+[11:27] Now what was the turning point where you
+[11:29] realized you needed to shift from
+[11:31] broadcasting to building with your
+[11:33] audience? Yeah, I think uh you know it's
+[11:35] always a little odd to think do people
+[11:37] care what's going on kind of behind the
+[11:39] scenes, right? So so I could be what am
+[11:41] I building and how like you know people
+[11:42] might see what you build when you launch
+[11:44] something. What I learned is people want
+[11:46] to see the content behind the content.
+[11:48] So what was the process of getting
+[11:49] there? Uh what did it look like to get
+[11:51] approval? what was your thought process
+[11:53] for spending $100,000 on a program or
+[11:55] hey you went to an event what was that
+[11:57] really like behind the scenes in a day
+[11:58] in the life and I actually had to have a
+[12:00] lot of people tell me uh hey we want
+[12:02] this kind of content from you because it
+[12:04] always feels a little uh maybe
+[12:05] uncomfortable posting some of that stuff
+[12:07] and sharing you know being a little more
+[12:09] vulnerable and and sharing a little bit
+[12:10] more because it feels like uh you know
+[12:12] who cares who's who's really going to
+[12:13] want to know you know the type of
+[12:15] sneakers I pick and why when going to an
+[12:17] event but people do and and I think too
+[12:19] is people want diversity in their
+[12:21] content content. They don't want to just
+[12:22] be broadcasted to um because they have
+[12:24] an eye for that, right? Broadcasted
+[12:26] content is almost always very polished.
+[12:27] It looks like it's been manufactured and
+[12:29] ready for kind of the consumer and
+[12:32] people are picking up on that and it
+[12:33] kind of smells like sales or smells like
+[12:35] marketing. And so sometimes when people
+[12:37] see the more low polished, behind the
+[12:39] scenes, less scripted content, they
+[12:42] actually gravitate towards that because
+[12:43] it feels more real. It feels more honest
+[12:45] and it feels like you're kind of letting
+[12:47] them in to your life. And people like
+[12:49] that. People like to have uh what's been
+[12:51] termed media friends, right? They may
+[12:53] not know you personally, but they know
+[12:54] they feel like they know you through
+[12:55] your content. And so, you can build a
+[12:57] much deeper relationship with folks by
+[13:00] kind of building with them and sharing
+[13:02] behind the scenes than just kind of uh
+[13:05] polishing everything and and making
+[13:06] everything very market friendly and
+[13:08] feeling like that's the only way that
+[13:09] you can build trust and and earn
+[13:11] attention. That's great. And I think we
+[13:13] are on time. That brings us towards our
+[13:15] last question. For a B2B marketer who's
+[13:17] been focused on traditional metrics,
+[13:20] demand gen tactics, what's the first
+[13:22] step they should take forward towards
+[13:24] building their content to community
+[13:25] pipeline? Yeah, it's a good one. So, I
+[13:27] think the first thing you have to think
+[13:28] of is how do you invite your audience to
+[13:31] be part of your journey? So, first you
+[13:33] have to know what your mission is. Your
+[13:34] mission cannot be if you're a SAS
+[13:36] company or a services company to grow
+[13:38] your profit and your you know grow your
+[13:39] revenue and your profit to grow your
+[13:41] profit and your revenue. People aren't
+[13:42] going to really care about that too
+[13:44] much. what they care about is themselves
+[13:46] and so you need to have some sort of
+[13:47] mission right so what is the mission of
+[13:49] your c of your company who you're trying
+[13:51] to help and why and your content should
+[13:53] be a reflection of that so next is you
+[13:55] want to build you know invite them to
+[13:56] build it with you and to be part of it
+[13:58] I've I've seen folks say hey let's start
+[14:00] to take the going back to the CFO
+[14:02] example I have one of my clients as a
+[14:03] CFO with a newsletter and she's changed
+[14:06] it from broadcasting her thoughts to
+[14:08] broadcasting but also inviting other
+[14:10] CFOs to share their insights and their
+[14:12] ideas and so now you're starting to show
+[14:15] folks, hey, I'm plugged into the
+[14:16] community. I'm inviting people on stage,
+[14:19] air quotes, and now you're building
+[14:21] relationships with the individuals, of
+[14:22] course, that are taking part in that.
+[14:24] The other things you can do is simple
+[14:25] things like, hey, if you're publishing a
+[14:26] book, share the four book covers, which
+[14:28] one, you know, and ask your audience,
+[14:30] which ones do you like more? Hey, we're
+[14:32] thinking of uh we're in the middle of
+[14:34] planning our next event. We're thinking
+[14:35] between Atlanta and Denver. Which one
+[14:37] should we pick? So, just inviting folks
+[14:39] along the journey. And I've done this
+[14:40] with my rebrand. you know, which logo do
+[14:42] you like the best, even though I had
+[14:43] already picked which one I was going to
+[14:44] use. So, it's just, you know, kind of um
+[14:46] then that's just one way you can do it.
+[14:48] But the more that you get folks
+[14:49] involved, maybe submitting their own
+[14:51] content, taking questions and putting
+[14:52] that into next content, even if you're
+[14:54] broadcasting and not, you know, having
+[14:56] them write it, there's a million ways
+[14:58] that you can really start to, I guess,
+[14:59] like go to market together in a way or
+[15:01] go to content together. And so, yeah, I
+[15:03] think it's just inviting your audience
+[15:04] to be part of this journey with you,
+[15:06] listening to their voice, and then
+[15:07] putting their input into practice,
+[15:09] however that kind of takes takes shape.
+[15:11] Yeah. Um, I think that was great, and we
+[15:13] got some good insights from today's
+[15:15] article. Thank you so much for doing
